@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1990715205093818871",
+    "created_at": "2025-11-18T14:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T15:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990790217394254007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927346314972418048",
+          "start": 0,
+          "username": "yukisama2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990790217394254007",
+    "in_reply_to_user_id": "1927346314972418048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990715205093818871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukisama2025 你们生活都好丰富"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_1990715096889470976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bw1VcasAA-Ovp.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1990715205093818871",
+        "created_at": "2025-11-18T14:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T15:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990790217394254007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927346314972418048",
+              "start": 0,
+              "username": "yukisama2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990790217394254007",
+        "in_reply_to_user_id": "1927346314972418048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990715205093818871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukisama2025 你们生活都好丰富"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990715096889470976"
+          ]
+        },
+        "author_id": "1927346314972418048",
+        "conversation_id": "1990715205093818871",
+        "created_at": "2025-11-18T09:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990715205093818871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HvoXCTOQF",
+              "end": 37,
+              "expanded_url": "https://x.com/yukisama2025/status/1990715205093818871/photo/1",
+              "media_key": "3_1990715096889470976",
+              "start": 14,
+              "url": "https://t.co/9HvoXCTOQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990715205093818871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喔還算全。\n人生無憾了（跳 https://t.co/9HvoXCTOQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 926,
+          "like_count": 13569,
+          "listed_count": 4,
+          "media_count": 450,
+          "tweet_count": 4878
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T12:49:34.000Z",
+        "description": "胡言亂語的夏牧",
+        "id": "1927346314972418048",
+        "name": "❄️",
+        "pinned_tweet_id": "1978030002206568827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983408289368207360/micahwFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 17,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 254
+        },
+        "username": "yukisama2025",
+        "verified": false
+      }
+    ]
+  }
+}

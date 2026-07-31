@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987349481063358464",
+        "3_1987349481080168448"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1987349487107318180",
+    "created_at": "2025-11-09T02:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T03:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987349487107318180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jEBM5gu6IC",
+          "end": 32,
+          "expanded_url": "https://x.com/wwwsgry_/status/1987349487107318180/photo/1",
+          "media_key": "3_1987349481063358464",
+          "start": 9,
+          "url": "https://t.co/jEBM5gu6IC"
+        },
+        {
+          "display_url": "pic.x.com/jEBM5gu6IC",
+          "end": 32,
+          "expanded_url": "https://x.com/wwwsgry_/status/1987349487107318180/photo/1",
+          "media_key": "3_1987349481080168448",
+          "start": 9,
+          "url": "https://t.co/jEBM5gu6IC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987349487107318180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算是出门玩了一天 https://t.co/jEBM5gu6IC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987349481063358464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5R70tdWoAAVbrp.jpg",
+        "width": 1488
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987349481080168448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5R70thXIAAS_dr.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987349481063358464",
+            "3_1987349481080168448"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1987349487107318180",
+        "created_at": "2025-11-09T02:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T03:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987349487107318180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEBM5gu6IC",
+              "end": 32,
+              "expanded_url": "https://x.com/wwwsgry_/status/1987349487107318180/photo/1",
+              "media_key": "3_1987349481063358464",
+              "start": 9,
+              "url": "https://t.co/jEBM5gu6IC"
+            },
+            {
+              "display_url": "pic.x.com/jEBM5gu6IC",
+              "end": 32,
+              "expanded_url": "https://x.com/wwwsgry_/status/1987349487107318180/photo/1",
+              "media_key": "3_1987349481080168448",
+              "start": 9,
+              "url": "https://t.co/jEBM5gu6IC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987349487107318180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算是出门玩了一天 https://t.co/jEBM5gu6IC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 914,
+          "like_count": 13325,
+          "listed_count": 4,
+          "media_count": 444,
+          "tweet_count": 4799
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

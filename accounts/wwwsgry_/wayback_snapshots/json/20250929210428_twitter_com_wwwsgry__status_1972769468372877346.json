@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972769461292638208"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1972769468372877346",
+    "created_at": "2025-09-29T21:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T22:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972769468372877346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/APMSM5Je1T",
+          "end": 48,
+          "expanded_url": "https://x.com/wwwsgry_/status/1972769468372877346/photo/1",
+          "media_key": "3_1972769461292638208",
+          "start": 25,
+          "url": "https://t.co/APMSM5Je1T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972769468372877346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bro为什么给我留了几片饼干就走了 挺好吃的倒是 https://t.co/APMSM5Je1T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972769461292638208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2CvX3QWIAAHEHu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972769461292638208"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1972769468372877346",
+        "created_at": "2025-09-29T21:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T22:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972769468372877346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/APMSM5Je1T",
+              "end": 48,
+              "expanded_url": "https://x.com/wwwsgry_/status/1972769468372877346/photo/1",
+              "media_key": "3_1972769461292638208",
+              "start": 25,
+              "url": "https://t.co/APMSM5Je1T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972769468372877346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bro为什么给我留了几片饼干就走了 挺好吃的倒是 https://t.co/APMSM5Je1T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 879,
+          "like_count": 11478,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 4068
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

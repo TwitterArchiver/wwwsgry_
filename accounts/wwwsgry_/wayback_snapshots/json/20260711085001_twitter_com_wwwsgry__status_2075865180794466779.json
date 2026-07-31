@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075865168140242948",
+        "3_2075865168169644032",
+        "3_2075865168152776704",
+        "3_2075865168131846144"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075865180794466779",
+    "created_at": "2026-07-11T08:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075865180794466779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uedghvAZVj",
+          "end": 40,
+          "expanded_url": "https://x.com/wwwsgry_/status/2075865180794466779/photo/1",
+          "media_key": "3_2075865168140242948",
+          "start": 17,
+          "url": "https://t.co/uedghvAZVj"
+        },
+        {
+          "display_url": "pic.x.com/uedghvAZVj",
+          "end": 40,
+          "expanded_url": "https://x.com/wwwsgry_/status/2075865180794466779/photo/1",
+          "media_key": "3_2075865168169644032",
+          "start": 17,
+          "url": "https://t.co/uedghvAZVj"
+        },
+        {
+          "display_url": "pic.x.com/uedghvAZVj",
+          "end": 40,
+          "expanded_url": "https://x.com/wwwsgry_/status/2075865180794466779/photo/1",
+          "media_key": "3_2075865168152776704",
+          "start": 17,
+          "url": "https://t.co/uedghvAZVj"
+        },
+        {
+          "display_url": "pic.x.com/uedghvAZVj",
+          "end": 40,
+          "expanded_url": "https://x.com/wwwsgry_/status/2075865180794466779/photo/1",
+          "media_key": "3_2075865168131846144",
+          "start": 17,
+          "url": "https://t.co/uedghvAZVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075865180794466779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说bw是对的 明年我要再来😭😭 https://t.co/uedghvAZVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075865168140242948",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM70XzybEAQyeAS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075865168169644032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM70Xz5bsAAg3Zi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075865168152776704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM70Xz1aUAAxl9-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075865168131846144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM70Xzwa8AArSAu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075865168140242948",
+            "3_2075865168169644032",
+            "3_2075865168152776704",
+            "3_2075865168131846144"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075865180794466779",
+        "created_at": "2026-07-11T08:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075865180794466779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uedghvAZVj",
+              "end": 40,
+              "expanded_url": "https://x.com/wwwsgry_/status/2075865180794466779/photo/1",
+              "media_key": "3_2075865168140242948",
+              "start": 17,
+              "url": "https://t.co/uedghvAZVj"
+            },
+            {
+              "display_url": "pic.x.com/uedghvAZVj",
+              "end": 40,
+              "expanded_url": "https://x.com/wwwsgry_/status/2075865180794466779/photo/1",
+              "media_key": "3_2075865168169644032",
+              "start": 17,
+              "url": "https://t.co/uedghvAZVj"
+            },
+            {
+              "display_url": "pic.x.com/uedghvAZVj",
+              "end": 40,
+              "expanded_url": "https://x.com/wwwsgry_/status/2075865180794466779/photo/1",
+              "media_key": "3_2075865168152776704",
+              "start": 17,
+              "url": "https://t.co/uedghvAZVj"
+            },
+            {
+              "display_url": "pic.x.com/uedghvAZVj",
+              "end": 40,
+              "expanded_url": "https://x.com/wwwsgry_/status/2075865180794466779/photo/1",
+              "media_key": "3_2075865168131846144",
+              "start": 17,
+              "url": "https://t.co/uedghvAZVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075865180794466779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说bw是对的 明年我要再来😭😭 https://t.co/uedghvAZVj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 997,
+          "like_count": 17050,
+          "listed_count": 4,
+          "media_count": 601,
+          "tweet_count": 6776
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

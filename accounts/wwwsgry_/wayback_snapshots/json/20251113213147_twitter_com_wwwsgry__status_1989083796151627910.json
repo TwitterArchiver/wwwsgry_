@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1988995542223827174",
+    "created_at": "2025-11-13T21:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T22:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989083796151627910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1741421109365387264",
+          "start": 0,
+          "username": "linn00126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989083796151627910",
+    "in_reply_to_user_id": "1741421109365387264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989082978946085009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linn00126 这唐氏学校每周都发一两封广告 标题还专放apply invited这种词"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1988995542223827174",
+        "created_at": "2025-11-13T21:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T22:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989083796151627910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741421109365387264",
+              "start": 0,
+              "username": "linn00126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989083796151627910",
+        "in_reply_to_user_id": "1741421109365387264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989082978946085009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linn00126 这唐氏学校每周都发一两封广告 标题还专放apply invited这种词"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741421109365387264",
+        "conversation_id": "1988995542223827174",
+        "created_at": "2025-11-13T21:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T22:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989082978946085009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989082978946085009",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988995542223827174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 真的笑死我了这种很搞心态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 919,
+          "like_count": 13483,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 4845
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T11:30:00.000Z",
+        "description": "準技術者です| 願為貫徹自由意志而生，還有她",
+        "id": "1741421109365387264",
+        "location": "England, United Kingdom",
+        "name": "霖リン",
+        "pinned_tweet_id": "1936539542074302635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936895010235981824/o5YP0lIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 662,
+          "like_count": 2052,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 867
+        },
+        "username": "linn00126",
+        "verified": false
+      }
+    ]
+  }
+}

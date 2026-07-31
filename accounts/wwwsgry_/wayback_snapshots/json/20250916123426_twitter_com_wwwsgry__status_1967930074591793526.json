@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967622811004100609"
+      ],
+      "media_source_tweet_id": [
+        "1967622827072458850"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1967930074591793526",
+    "created_at": "2025-09-16T12:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T13:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967930074591793526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bcFWUnAoeu",
+          "end": 53,
+          "expanded_url": "https://x.com/Cldeop/status/1967622827072458850/photo/1",
+          "media_key": "3_1967622811004100609",
+          "start": 30,
+          "url": "https://t.co/bcFWUnAoeu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967930074591793526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967622827072458850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: ？我求你了\n我和他不是cp好吧（恼 https://t.co/bcFWUnAoeu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 311,
+        "media_key": "3_1967622811004100609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05mhY3a4AE4dww.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967622811004100609"
+          ],
+          "media_source_tweet_id": [
+            "1967622827072458850"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1967930074591793526",
+        "created_at": "2025-09-16T12:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T13:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967930074591793526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcFWUnAoeu",
+              "end": 53,
+              "expanded_url": "https://x.com/Cldeop/status/1967622827072458850/photo/1",
+              "media_key": "3_1967622811004100609",
+              "start": 30,
+              "url": "https://t.co/bcFWUnAoeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967930074591793526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967622827072458850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: ？我求你了\n我和他不是cp好吧（恼 https://t.co/bcFWUnAoeu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967622811004100609"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1967622827072458850",
+        "created_at": "2025-09-15T16:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T17:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967622827072458850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bcFWUnAoeu",
+              "end": 41,
+              "expanded_url": "https://x.com/Cldeop/status/1967622827072458850/photo/1",
+              "media_key": "3_1967622811004100609",
+              "start": 18,
+              "url": "https://t.co/bcFWUnAoeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967622827072458850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 51998,
+          "like_count": 682,
+          "quote_count": 7,
+          "reply_count": 49,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "？我求你了\n我和他不是cp好吧（恼 https://t.co/bcFWUnAoeu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 866,
+          "like_count": 10953,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 3944
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78911,
+          "following_count": 635,
+          "like_count": 30549,
+          "listed_count": 253,
+          "media_count": 12190,
+          "tweet_count": 17280
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1958526523033657507",
+    "created_at": "2025-08-21T13:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T14:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958528036833272221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943511886378733573",
+          "start": 0,
+          "username": "asaaoi12345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958528036833272221",
+    "in_reply_to_user_id": "1943511886378733573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 19,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958526523033657507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asaaoi12345 什么事大毛豆（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958526523033657507].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958526523033657507",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958526523033657507"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1958526523033657507",
+        "created_at": "2025-08-21T13:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T14:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958528036833272221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943511886378733573",
+              "start": 0,
+              "username": "asaaoi12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958528036833272221",
+        "in_reply_to_user_id": "1943511886378733573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958526523033657507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asaaoi12345 什么事大毛豆（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 771,
+          "like_count": 9694,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 3580
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T03:25:30.000Z",
+        "description": "もう終わりだ",
+        "id": "1943511886378733573",
+        "name": "東北ずんだもん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958180169866412032/35dqROMN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 64,
+          "like_count": 3006,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1169
+        },
+        "username": "asaaoi12345",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041107621143556096"
+      ],
+      "media_source_tweet_id": [
+        "2041108141266653325"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2041556145429442933",
+    "created_at": "2026-04-07T16:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041556145429442933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1404738934043602947",
+          "start": 3,
+          "username": "Jackywine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zoL9xhdzut",
+          "end": 85,
+          "expanded_url": "https://x.com/blended_jpeg/status/2041108141266653325/video/1",
+          "media_key": "13_2041107621143556096",
+          "start": 62,
+          "url": "https://t.co/zoL9xhdzut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041556145429442933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041305268362072514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jackywine: 今天最搞笑的是 有个人做了一个赛博皮鞭，当克劳德不好好做东西的时候，就用这个皮鞭加快它的速度\nhttps://t.co/zoL9xhdzut"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13633,
+        "height": 1080,
+        "media_key": "13_2041107621143556096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041107621143556096/img/6Nlh49D6TZxg1A3I.jpg",
+        "public_metrics": {
+          "view_count": 4870195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041107621143556096/vid/avc1/320x320/Jp4QU1EZbcbvROet.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041107621143556096/vid/avc1/540x540/qdPQH-h2oO1u2Lh0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041107621143556096/vid/avc1/720x720/RpEEM8PF8rm-P-4h.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041107621143556096/pl/t2gZomwUIHwjZ-fw.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041107621143556096"
+          ],
+          "media_source_tweet_id": [
+            "2041108141266653325"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2041556145429442933",
+        "created_at": "2026-04-07T16:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041556145429442933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1404738934043602947",
+              "start": 3,
+              "username": "Jackywine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoL9xhdzut",
+              "end": 85,
+              "expanded_url": "https://x.com/blended_jpeg/status/2041108141266653325/video/1",
+              "media_key": "13_2041107621143556096",
+              "start": 62,
+              "url": "https://t.co/zoL9xhdzut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041556145429442933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041305268362072514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jackywine: 今天最搞笑的是 有个人做了一个赛博皮鞭，当克劳德不好好做东西的时候，就用这个皮鞭加快它的速度\nhttps://t.co/zoL9xhdzut"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041107621143556096"
+          ],
+          "media_source_tweet_id": [
+            "2041108141266653325"
+          ]
+        },
+        "author_id": "1404738934043602947",
+        "conversation_id": "2041305268362072514",
+        "created_at": "2026-04-07T00:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041305268362072514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoL9xhdzut",
+              "end": 70,
+              "expanded_url": "https://x.com/blended_jpeg/status/2041108141266653325/video/1",
+              "media_key": "13_2041107621143556096",
+              "start": 47,
+              "url": "https://t.co/zoL9xhdzut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041305268362072514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 117947,
+          "like_count": 1157,
+          "quote_count": 34,
+          "reply_count": 50,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "今天最搞笑的是 有个人做了一个赛博皮鞭，当克劳德不好好做东西的时候，就用这个皮鞭加快它的速度\nhttps://t.co/zoL9xhdzut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646828041547776/E827cquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 955,
+          "like_count": 15577,
+          "listed_count": 4,
+          "media_count": 550,
+          "tweet_count": 6109
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-15T09:54:01.000Z",
+        "description": "Prompt Engineer | Open-Source AI Enthusiast | NVIDIA,OpenAI,DeepMind,xAI·用户\n不过是工作之余分享一些 AI、设计、产品、一人公司的普通网友罢了\n✈️Telegram channel：https://t.co/HRpOru3LUj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jackywineEarth",
+                "end": 151,
+                "expanded_url": "http://t.me/jackywineEarth",
+                "start": 128,
+                "url": "https://t.co/HRpOru3LUj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.feishu.cn/wiki/BX54wYGhJ…",
+                "end": 23,
+                "expanded_url": "https://my.feishu.cn/wiki/BX54wYGhJizwzhkKLbFcqaSKnPb",
+                "start": 0,
+                "url": "https://t.co/SIc6iP3BDY"
+              }
+            ]
+          }
+        },
+        "id": "1404738934043602947",
+        "location": "根据您的 X 用户等级，此信息需要点击查看更多才能显示",
+        "name": "Jackywine",
+        "pinned_tweet_id": "2039553625232703592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805875520430915586/x3t_sQdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38542,
+          "following_count": 3285,
+          "like_count": 91342,
+          "listed_count": 363,
+          "media_count": 4684,
+          "tweet_count": 30468
+        },
+        "url": "https://t.co/SIc6iP3BDY",
+        "username": "Jackywine",
+        "verified": true
+      }
+    ]
+  }
+}

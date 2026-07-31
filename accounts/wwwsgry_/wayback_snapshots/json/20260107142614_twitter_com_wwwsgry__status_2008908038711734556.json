@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2008884635649089760",
+    "created_at": "2026-01-07T14:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T15:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008908038711734556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1741421109365387264",
+          "start": 0,
+          "username": "czklin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008908038711734556",
+    "in_reply_to_user_id": "1741421109365387264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008906816516706428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@czklin_ ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-07T14:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008908038711734556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1741421109365387264",
+              "start": 0,
+              "username": "czklin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008908038711734556",
+        "in_reply_to_user_id": "1741421109365387264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008906816516706428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@czklin_ ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741421109365387264",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-07T14:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008906816516706428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008906816516706428",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008884635649089760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ Congratulations!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 922,
+          "like_count": 13700,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 5251
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T11:30:00.000Z",
+        "description": "準技術者です | 願為貫徹自由意志而生，還有她",
+        "id": "1741421109365387264",
+        "location": "United Kingdom",
+        "name": "霖",
+        "pinned_tweet_id": "1936539542074302635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993514008595365888/oM0H_xAv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 659,
+          "like_count": 2308,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 928
+        },
+        "username": "czklin_",
+        "verified": false
+      }
+    ]
+  }
+}

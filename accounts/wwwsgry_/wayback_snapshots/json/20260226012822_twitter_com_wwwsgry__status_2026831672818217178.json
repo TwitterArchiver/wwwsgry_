@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2026829835436175794",
+    "created_at": "2026-02-26T01:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026831672818217178"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "ragebait",
+          "probability": 0.3994,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1869031385425743872",
+          "start": 0,
+          "username": "AkaHenrry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026831672818217178",
+    "in_reply_to_user_id": "1869031385425743872",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026831526198206779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaHenrry 10/10 ragebait 🥀🥀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2026829835436175794",
+        "created_at": "2026-02-26T01:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026831672818217178"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "ragebait",
+              "probability": 0.3994,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1869031385425743872",
+              "start": 0,
+              "username": "AkaHenrry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026831672818217178",
+        "in_reply_to_user_id": "1869031385425743872",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026831526198206779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaHenrry 10/10 ragebait 🥀🥀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869031385425743872",
+        "conversation_id": "2026829835436175794",
+        "created_at": "2026-02-26T01:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026831526198206779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026831526198206779",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026829835436175794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ congratulations!（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 958,
+          "like_count": 14583,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 5634
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T14:47:13.000Z",
+        "description": "中文/日本語（勉強ing..）/EN ｜BI头指定二区卡局qeg | code｜同好互fo｜working together for better tomorrow!｜不要键政，这是日常推｜ 系二刺螈，很好说话。希望和大家好好相处(๑•ᴗ•๑)♡\n小账：@wi98114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "wi98114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiyz.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://tiyz.is-a.dev",
+                "start": 0,
+                "url": "https://t.co/8kNtlzRbds"
+              }
+            ]
+          }
+        },
+        "id": "1869031385425743872",
+        "location": "Koto-ku, Tokyo",
+        "name": "希文｜しうん（未完待续）",
+        "pinned_tweet_id": "2000229528241922498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882667906129141761/-7Ox4Oz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 274,
+          "like_count": 5363,
+          "listed_count": 3,
+          "media_count": 646,
+          "tweet_count": 2593
+        },
+        "url": "https://t.co/8kNtlzRbds",
+        "username": "AkaHenrry",
+        "verified": false
+      }
+    ]
+  }
+}

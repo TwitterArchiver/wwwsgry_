@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2066169700443394178",
+    "created_at": "2026-06-14T21:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T22:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066271294526476646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1585244555775205376",
+          "start": 0,
+          "username": "zhreeesy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066271294526476646",
+    "in_reply_to_user_id": "1585244555775205376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066169700443394178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhreeesy 兄弟你是学医的吗😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2066169700443394178",
+        "created_at": "2026-06-14T21:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066271294526476646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1585244555775205376",
+              "start": 0,
+              "username": "zhreeesy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066271294526476646",
+        "in_reply_to_user_id": "1585244555775205376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066169700443394178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhreeesy 兄弟你是学医的吗😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585244555775205376",
+        "conversation_id": "2066169700443394178",
+        "created_at": "2026-06-14T14:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066169700443394178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhreeesy/statu…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/zhreeesy/status/2066147685128962180",
+              "start": 95,
+              "url": "https://t.co/bGbJWNgsvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066169700443394178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066147685128962180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "說那麼多其實都在說屁眼那一圈\n除了少數例如cermaster m.提睪肌\n只有男性有\n其他其實大差不差\n話說女性相應的生理結構應該算是round lig.子宮圓韌帶？沒記錯他們好像是同源的 https://t.co/bGbJWNgsvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 988,
+          "like_count": 16609,
+          "listed_count": 4,
+          "media_count": 581,
+          "tweet_count": 6604
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T12:20:17.000Z",
+        "description": "",
+        "id": "1585244555775205376",
+        "location": "Malaysia",
+        "name": "澤西",
+        "pinned_tweet_id": "1797987225621418377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984647163901861889/niOJw8EW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 605,
+          "like_count": 101597,
+          "listed_count": 5,
+          "media_count": 1429,
+          "tweet_count": 26668
+        },
+        "username": "zhreeesy",
+        "verified": false
+      }
+    ]
+  }
+}

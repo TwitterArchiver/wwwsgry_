@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2016927522655502768",
+    "created_at": "2026-01-29T19:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T20:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016953247676629225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1718275785948286976",
+          "start": 0,
+          "username": "Tinkles_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016953247676629225",
+    "in_reply_to_user_id": "1718275785948286976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016929297278320933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tinkles_12 🫡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2016929297278320933].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2016929297278320933",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2016929297278320933"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2016927522655502768",
+        "created_at": "2026-01-29T19:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T20:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016953247676629225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1718275785948286976",
+              "start": 0,
+              "username": "Tinkles_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016953247676629225",
+        "in_reply_to_user_id": "1718275785948286976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016929297278320933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tinkles_12 🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 935,
+          "like_count": 13866,
+          "listed_count": 4,
+          "media_count": 498,
+          "tweet_count": 5366
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T14:37:47.000Z",
+        "description": "无趣且乏味，但这就是我。我喜欢变态，但我不是变态。 可爱的Yoyi @L98808Lju  小帮手 @kiriyama_lemon  我蝶→ @IXXA00   \n种族矛盾和立场分歧可以随时代化解，但是正邪永不两立。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "L98808Lju"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kiriyama_lemon"
+              },
+              {
+                "end": 78,
+                "start": 71,
+                "username": "IXXA00"
+              }
+            ]
+          }
+        },
+        "id": "1718275785948286976",
+        "location": "哥谭市阿卡姆学院",
+        "name": "丨鎮魂丨Tinkles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008732031925325824/0NrrOM5j_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 1626,
+          "like_count": 134635,
+          "listed_count": 15,
+          "media_count": 342,
+          "tweet_count": 18761
+        },
+        "username": "Tinkles_12",
+        "verified": false
+      }
+    ]
+  }
+}

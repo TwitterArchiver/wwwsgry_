@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1987692829938778413",
+    "created_at": "2025-11-10T22:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T23:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988014703084183699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1216826880193716226",
+          "start": 0,
+          "username": "_sei__la__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988014703084183699",
+    "in_reply_to_user_id": "1216826880193716226",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988010295508267222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_sei__la__ Best producer😻👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1987692829938778413",
+        "created_at": "2025-11-10T22:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T23:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988014703084183699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1216826880193716226",
+              "start": 0,
+              "username": "_sei__la__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988014703084183699",
+        "in_reply_to_user_id": "1216826880193716226",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988010295508267222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_sei__la__ Best producer😻👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1216826880193716226",
+        "conversation_id": "1987692829938778413",
+        "created_at": "2025-11-10T22:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T23:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988010295508267222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988010295508267222",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987692829938778413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ MikitoP !!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 915,
+          "like_count": 13385,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 4815
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-13T20:58:41.000Z",
+        "description": "(⁠◠⁠‿⁠・⁠)⁠—⁠☆ 東方 fan  ||  he/him  ||  EN/PT  ||                         \ni will follow back (normally)  ||  no dni  ||",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "seilaaa.straw.page",
+                "end": 23,
+                "expanded_url": "https://seilaaa.straw.page",
+                "start": 0,
+                "url": "https://t.co/yzsO2hEzNP"
+              }
+            ]
+          }
+        },
+        "id": "1216826880193716226",
+        "location": "Armed Detective Agency ",
+        "name": "sei_la 🇧🇷",
+        "pinned_tweet_id": "1441364609449926659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983367706280656896/ZYe2lifo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 1361,
+          "like_count": 3190,
+          "listed_count": 8,
+          "media_count": 7002,
+          "tweet_count": 63857
+        },
+        "url": "https://t.co/yzsO2hEzNP",
+        "username": "_sei__la__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999530689222291456"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1999526522609176837",
+    "created_at": "2025-12-12T17:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T18:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999530729651195981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938823083835396096",
+          "start": 0,
+          "username": "VaguelyHuman233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfRQ4TqgTw",
+          "end": 40,
+          "expanded_url": "https://x.com/wwwsgry_/status/1999530729651195981/photo/1",
+          "media_key": "3_1999530689222291456",
+          "start": 17,
+          "url": "https://t.co/MfRQ4TqgTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999530729651195981",
+    "in_reply_to_user_id": "1938823083835396096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999526522609176837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VaguelyHuman233 https://t.co/MfRQ4TqgTw"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999526522609176837].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999526522609176837",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999526522609176837"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "3_1999530689222291456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_CkWCWMAABZmz.png",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999530689222291456"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1999526522609176837",
+        "created_at": "2025-12-12T17:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T18:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999530729651195981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938823083835396096",
+              "start": 0,
+              "username": "VaguelyHuman233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfRQ4TqgTw",
+              "end": 40,
+              "expanded_url": "https://x.com/wwwsgry_/status/1999530729651195981/photo/1",
+              "media_key": "3_1999530689222291456",
+              "start": 17,
+              "url": "https://t.co/MfRQ4TqgTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999530729651195981",
+        "in_reply_to_user_id": "1938823083835396096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999526522609176837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VaguelyHuman233 https://t.co/MfRQ4TqgTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 919,
+          "like_count": 13926,
+          "listed_count": 4,
+          "media_count": 472,
+          "tweet_count": 5081
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T04:53:53.000Z",
+        "description": "",
+        "id": "1938823083835396096",
+        "location": "web",
+        "name": "Sora 2（Christmas Pro Ver.）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998045807287881729/umWX5c8p_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 79,
+          "like_count": 4460,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1879
+        },
+        "username": "VaguelyHuman233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1982622844250108109",
+    "created_at": "2025-10-27T01:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T02:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982623671035551760"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1982623671035551760",
+    "in_reply_to_user_id": "1687116360814637056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982622844250108109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有的检查加传材料花了七个小时 我真要晕厥了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1982622844250108109",
+        "created_at": "2025-10-27T01:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T02:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982623671035551760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982623671035551760",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982622844250108109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有的检查加传材料花了七个小时 我真要晕厥了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1982622844250108109",
+        "created_at": "2025-10-27T01:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T02:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982622844250108109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982622844250108109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于全部填完交完了 现在开始可以安心等邮件了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 912,
+          "like_count": 12761,
+          "listed_count": 5,
+          "media_count": 434,
+          "tweet_count": 4590
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

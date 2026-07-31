@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1975765202332196996",
+    "created_at": "2025-10-08T04:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T05:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975780498351006024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639203203890970624",
+          "start": 0,
+          "username": "SyntaxError_V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975780498351006024",
+    "in_reply_to_user_id": "1639203203890970624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975779341180260593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyntaxError_V 这算不算是一种占有欲 虽然态度跟普遍来讲的占有欲相比显得很卑微🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1975765202332196996",
+        "created_at": "2025-10-08T04:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975780498351006024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639203203890970624",
+              "start": 0,
+              "username": "SyntaxError_V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975780498351006024",
+        "in_reply_to_user_id": "1639203203890970624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975779341180260593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyntaxError_V 这算不算是一种占有欲 虽然态度跟普遍来讲的占有欲相比显得很卑微🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639203203890970624",
+        "conversation_id": "1975765202332196996",
+        "created_at": "2025-10-08T04:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975779341180260593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975779341180260593",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975765202332196996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 我们敏敏人的通病💀\n但我觉得可以给特定的人讲特定的事情 看到他们有别的朋友和别人在一起我也会心痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 892,
+          "like_count": 11856,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 4234
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T09:52:07.000Z",
+        "description": "How was I supposed to know anything?",
+        "id": "1639203203890970624",
+        "location": "memoria de una espada ",
+        "name": "Cielo⚜️",
+        "pinned_tweet_id": "1974098904707969134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974092254383091712/J6gpgXMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 449,
+          "like_count": 16019,
+          "listed_count": 3,
+          "media_count": 357,
+          "tweet_count": 3943
+        },
+        "username": "SyntaxError_V",
+        "verified": false
+      }
+    ]
+  }
+}

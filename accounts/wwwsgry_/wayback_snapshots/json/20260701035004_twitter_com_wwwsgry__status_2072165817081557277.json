@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072023655681572864"
+      ],
+      "media_source_tweet_id": [
+        "2072152964870107383"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2072165817081557277",
+    "created_at": "2026-07-01T03:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072165817081557277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B3QlyHNRyK",
+          "end": 60,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2072152964870107383/photo/1",
+          "media_key": "3_2072023655681572864",
+          "start": 37,
+          "url": "https://t.co/B3QlyHNRyK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072165817081557277",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072152964870107383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: PVZ 的魅惑菇其实是小男娘哦🥵 https://t.co/B3QlyHNRyK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_2072023655681572864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFOiWsbQAAkIjs.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072023655681572864"
+          ],
+          "media_source_tweet_id": [
+            "2072152964870107383"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2072165817081557277",
+        "created_at": "2026-07-01T03:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072165817081557277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3QlyHNRyK",
+              "end": 60,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2072152964870107383/photo/1",
+              "media_key": "3_2072023655681572864",
+              "start": 37,
+              "url": "https://t.co/B3QlyHNRyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072165817081557277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072152964870107383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: PVZ 的魅惑菇其实是小男娘哦🥵 https://t.co/B3QlyHNRyK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072023655681572864"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2072152964870107383",
+        "created_at": "2026-07-01T02:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072152964870107383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3QlyHNRyK",
+              "end": 40,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2072152964870107383/photo/1",
+              "media_key": "3_2072023655681572864",
+              "start": 17,
+              "url": "https://t.co/B3QlyHNRyK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072152964870107383",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 753,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "PVZ 的魅惑菇其实是小男娘哦🥵 https://t.co/B3QlyHNRyK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 994,
+          "like_count": 16940,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 6718
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8682,
+          "following_count": 879,
+          "like_count": 28859,
+          "listed_count": 13,
+          "media_count": 1797,
+          "tweet_count": 9277
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

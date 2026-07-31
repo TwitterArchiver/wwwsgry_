@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2081395123079036967",
+    "created_at": "2026-07-26T23:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T00:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081529732550775024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1810940278468964352",
+          "start": 0,
+          "username": "stgggjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081529732550775024",
+    "in_reply_to_user_id": "1810940278468964352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081426619118555398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stgggjj 何意味"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081426619118555398].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081426619118555398",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081426619118555398"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2081395123079036967",
+        "created_at": "2026-07-26T23:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081529732550775024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810940278468964352",
+              "start": 0,
+              "username": "stgggjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081529732550775024",
+        "in_reply_to_user_id": "1810940278468964352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081426619118555398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stgggjj 何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "何帳號？@zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1009,
+          "like_count": 17411,
+          "listed_count": 4,
+          "media_count": 609,
+          "tweet_count": 6894
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T07:33:14.000Z",
+        "description": "［我没把握说自己真的是生物、真的在生存什么的］\n\n提问箱https://t.co/xQun8GlnPU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27rainyseason",
+                "end": 51,
+                "expanded_url": "https://ngl.link/27rainyseason",
+                "start": 28,
+                "url": "https://t.co/xQun8GlnPU"
+              }
+            ]
+          }
+        },
+        "id": "1810940278468964352",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "骑士小鱼🐟",
+        "pinned_tweet_id": "2057843541410480616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081159154081890304/hbommgJD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 530,
+          "like_count": 10560,
+          "listed_count": 2,
+          "media_count": 499,
+          "tweet_count": 7905
+        },
+        "url": "",
+        "username": "stgggjj",
+        "verified": false
+      }
+    ]
+  }
+}

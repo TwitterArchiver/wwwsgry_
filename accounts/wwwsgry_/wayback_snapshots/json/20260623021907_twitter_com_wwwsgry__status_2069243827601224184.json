@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2069216792065523737",
+    "created_at": "2026-06-23T02:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069243827601224184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011256472936779776",
+          "start": 0,
+          "username": "roupera2313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069243827601224184",
+    "in_reply_to_user_id": "2011256472936779776",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069238878398259237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roupera2313 wtf😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2069216792065523737",
+        "created_at": "2026-06-23T02:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069243827601224184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011256472936779776",
+              "start": 0,
+              "username": "roupera2313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069243827601224184",
+        "in_reply_to_user_id": "2011256472936779776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069238878398259237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roupera2313 wtf😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011256472936779776",
+        "conversation_id": "2069216792065523737",
+        "created_at": "2026-06-23T01:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069238878398259237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069238878398259237",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069216792065523737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 你別說了其實還有硅谷大廠家長群"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 991,
+          "like_count": 16784,
+          "listed_count": 4,
+          "media_count": 586,
+          "tweet_count": 6657
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-14T01:58:13.000Z",
+        "description": "(´д｀*)\nサブ＠subpotato_kayo\n友達、神様、世界中一番綺麗な、にあ様@0o_170o\n（前？)歌い手@oatogayorosikte推し\n彼らのこと嫌いだったらポテトが噛んじゃうよ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "subpotato_kayo"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "0o_170o"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "oatogayorosikte"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/udfv8nfbunrrws…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/udfv8nfbunrrws8?t=gNcnqV&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/qFfFVE0MKX"
+              }
+            ]
+          }
+        },
+        "id": "2011256472936779776",
+        "location": "09/無言フォロー/RT/いいね失礼しました",
+        "name": "ポテト",
+        "pinned_tweet_id": "2068028349411455387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060437239046565888/xOPcTbAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 602,
+          "like_count": 1953,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1030
+        },
+        "url": "https://t.co/qFfFVE0MKX",
+        "username": "roupera2313",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2006769186916450411",
+    "created_at": "2026-01-02T14:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007089973787521420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850647180782272512",
+          "start": 0,
+          "username": "citttrus_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007089973787521420",
+    "in_reply_to_user_id": "1850647180782272512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006769186916450411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@citttrus_ 这个甜味很奇怪 还是McMuffin好吃（（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2006769175432429568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9l57sfagAAXSbq.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2006769186916450411",
+        "created_at": "2026-01-02T14:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007089973787521420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850647180782272512",
+              "start": 0,
+              "username": "citttrus_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007089973787521420",
+        "in_reply_to_user_id": "1850647180782272512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006769186916450411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@citttrus_ 这个甜味很奇怪 还是McMuffin好吃（（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006769175432429568"
+          ]
+        },
+        "author_id": "1850647180782272512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006769186916450411",
+        "created_at": "2026-01-01T16:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006769186916450411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0V8dlP18L1",
+              "end": 30,
+              "expanded_url": "https://x.com/citttrus_/status/2006769186916450411/photo/1",
+              "media_key": "3_2006769175432429568",
+              "start": 7,
+              "url": "https://t.co/0V8dlP18L1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006769186916450411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦新品\n不赖 https://t.co/0V8dlP18L1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 922,
+          "like_count": 14129,
+          "listed_count": 4,
+          "media_count": 489,
+          "tweet_count": 5209
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T21:14:16.000Z",
+        "description": "早",
+        "id": "1850647180782272512",
+        "location": "earth",
+        "name": "citttrus_",
+        "pinned_tweet_id": "2006208427341852679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006207945420464135/51DzdhK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 46,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 37
+        },
+        "username": "citttrus_",
+        "verified": false
+      }
+    ]
+  }
+}

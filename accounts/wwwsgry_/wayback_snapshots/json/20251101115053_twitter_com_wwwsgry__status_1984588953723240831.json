@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983902120593256587",
+    "created_at": "2025-11-01T11:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T12:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984588953723240831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1464583482940796932",
+          "start": 0,
+          "username": "dumeizhu2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984588953723240831",
+    "in_reply_to_user_id": "1464583482940796932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984571883380162777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dumeizhu2002 本来也没打算去澳洲 主要申请的是香港（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-11-01T11:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T12:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984588953723240831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1464583482940796932",
+              "start": 0,
+              "username": "dumeizhu2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984588953723240831",
+        "in_reply_to_user_id": "1464583482940796932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984571883380162777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dumeizhu2002 本来也没打算去澳洲 主要申请的是香港（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464583482940796932",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-11-01T10:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984571883380162777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984571883380162777",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983902120593256587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 記得回來香港找我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 923,
+          "like_count": 13111,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 4739
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-27T13:15:09.000Z",
+        "description": "六十四卦天使投資人，澳門🇲🇴從虧80W到期權翻身",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCLrC8…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCLrC8gHe393wvXmsW2TZpRw?si=h4BEjBQuPCGCmgzN",
+                "start": 0,
+                "url": "https://t.co/0iqlr4Rywh"
+              }
+            ]
+          }
+        },
+        "id": "1464583482940796932",
+        "location": "Macau",
+        "name": "花泽类",
+        "pinned_tweet_id": "1980126356051816879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980926199099510784/E-kRYWh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 865,
+          "like_count": 1696,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/0iqlr4Rywh",
+        "username": "dumeizhu2002",
+        "verified": false
+      }
+    ]
+  }
+}

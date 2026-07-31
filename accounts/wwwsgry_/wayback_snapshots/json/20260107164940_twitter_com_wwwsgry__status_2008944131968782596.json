@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2008884635649089760",
+    "created_at": "2026-01-07T16:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008944131968782596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1505468795875311620",
+          "start": 0,
+          "username": "Xooaviccc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008944131968782596",
+    "in_reply_to_user_id": "1505468795875311620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008940012411474166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xooaviccc 不至于😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-07T16:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008944131968782596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1505468795875311620",
+              "start": 0,
+              "username": "Xooaviccc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008944131968782596",
+        "in_reply_to_user_id": "1505468795875311620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008940012411474166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xooaviccc 不至于😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505468795875311620",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-07T16:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008940012411474166"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "ust大神",
+              "probability": 0.3366,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008940012411474166",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008884635649089760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ ust大神😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 922,
+          "like_count": 13707,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 5257
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T08:58:40.000Z",
+        "description": "χοαγιε  sub @XowithOshi STEM @XowithSTEM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "XowithOshi"
+              },
+              {
+                "end": 40,
+                "start": 29,
+                "username": "XowithSTEM"
+              }
+            ]
+          }
+        },
+        "id": "1505468795875311620",
+        "location": "Mathematical Physics",
+        "name": "Xoavic",
+        "pinned_tweet_id": "1970772392910954714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996827348910620672/6AAENWjC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 784,
+          "like_count": 32822,
+          "listed_count": 1,
+          "media_count": 1955,
+          "tweet_count": 7315
+        },
+        "username": "Xooaviccc",
+        "verified": false
+      }
+    ]
+  }
+}

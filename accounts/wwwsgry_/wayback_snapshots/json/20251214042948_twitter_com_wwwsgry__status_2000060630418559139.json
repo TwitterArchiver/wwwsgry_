@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2000059313847431234",
+    "created_at": "2025-12-14T04:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T05:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000060630418559139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852991026480492544",
+          "start": 0,
+          "username": "silo_avo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000060630418559139",
+    "in_reply_to_user_id": "1852991026480492544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000059313847431234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silo_avo 👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2000059313847431234",
+        "created_at": "2025-12-14T04:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000060630418559139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852991026480492544",
+              "start": 0,
+              "username": "silo_avo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000060630418559139",
+        "in_reply_to_user_id": "1852991026480492544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000059313847431234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silo_avo 👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852991026480492544",
+        "conversation_id": "2000059313847431234",
+        "created_at": "2025-12-14T04:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000059313847431234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/silo_avo/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/silo_avo/status/1998895161708048755",
+              "start": 37,
+              "url": "https://t.co/SmCiesoR47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000059313847431234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998895161708048755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是关于我高中一个女生的故事🥲每次想起都会伤心 感觉是我懵懂青春的遗憾 https://t.co/SmCiesoR47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 922,
+          "like_count": 14006,
+          "listed_count": 4,
+          "media_count": 474,
+          "tweet_count": 5105
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T08:27:50.000Z",
+        "description": "君と一緒にいることはユートピアなんかじゃない。日本語勉強中。",
+        "id": "1852991026480492544",
+        "location": "California, USA",
+        "name": "Slio🥑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997925583414755328/aylaB7ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 222,
+          "like_count": 2865,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 896
+        },
+        "username": "silo_avo",
+        "verified": false
+      }
+    ]
+  }
+}

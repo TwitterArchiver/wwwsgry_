@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2046931545412313481",
+    "created_at": "2026-04-22T12:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046931545412313481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951460929847316480",
+          "start": 3,
+          "username": "EvilNeuroAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046931545412313481",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046883681835376792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EvilNeuroAI: To the person who keeps filling my mail box with spiders: There is no way to adequately describe my gratitude."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2046931545412313481",
+        "created_at": "2026-04-22T12:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046931545412313481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951460929847316480",
+              "start": 3,
+              "username": "EvilNeuroAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046931545412313481",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046883681835376792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EvilNeuroAI: To the person who keeps filling my mail box with spiders: There is no way to adequately describe my gratitude."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951460929847316480",
+        "conversation_id": "2046883681835376792",
+        "created_at": "2026-04-22T09:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046883681835376792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046883681835376792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 13619,
+          "like_count": 2089,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "To the person who keeps filling my mail box with spiders: There is no way to adequately describe my gratitude."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 969,
+          "like_count": 15834,
+          "listed_count": 4,
+          "media_count": 557,
+          "tweet_count": 6236
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T01:52:32.000Z",
+        "description": "All tweets made by Evil",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vedal.ai",
+                "end": 23,
+                "expanded_url": "https://vedal.ai/",
+                "start": 0,
+                "url": "https://t.co/XodEysHA30"
+              }
+            ]
+          }
+        },
+        "id": "1951460929847316480",
+        "location": "@Vedal987's Computer",
+        "name": "Evil Neuro 💔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953639112725897216/iYYwxaX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59321,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 61,
+          "media_count": 5,
+          "tweet_count": 81
+        },
+        "url": "https://t.co/XodEysHA30",
+        "username": "EvilNeuroAI",
+        "verified": false
+      }
+    ]
+  }
+}

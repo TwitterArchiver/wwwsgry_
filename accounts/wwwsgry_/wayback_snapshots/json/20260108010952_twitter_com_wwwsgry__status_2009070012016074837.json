@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2008884635649089760",
+    "created_at": "2026-01-08T01:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T02:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009070012016074837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863998472762114048",
+          "start": 0,
+          "username": "humming_hanming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009070012016074837",
+    "in_reply_to_user_id": "1863998472762114048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009063347476664495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@humming_hanming 谢谢喵 拒了也没关系呀 反正有学上（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-08T01:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T02:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009070012016074837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863998472762114048",
+              "start": 0,
+              "username": "humming_hanming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009070012016074837",
+        "in_reply_to_user_id": "1863998472762114048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009063347476664495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@humming_hanming 谢谢喵 拒了也没关系呀 反正有学上（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863998472762114048",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-08T00:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009063347476664495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009063347476664495",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008884635649089760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ Congrats! UST我只有拒信😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 927,
+          "like_count": 13723,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 5265
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T17:27:39.000Z",
+        "description": "Computer Science | PolyU🇭🇰 |BTW, I use Arch.(^ ^)",
+        "id": "1863998472762114048",
+        "name": "Humming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863998546049155072/z9NxKTny_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 198,
+          "like_count": 2467,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 468
+        },
+        "username": "humming_hanming",
+        "verified": false
+      }
+    ]
+  }
+}

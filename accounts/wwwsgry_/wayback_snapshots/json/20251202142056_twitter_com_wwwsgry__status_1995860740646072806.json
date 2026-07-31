@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1995841185861210485",
+    "created_at": "2025-12-02T14:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995860740646072806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639203203890970624",
+          "start": 0,
+          "username": "SyntaxError_V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995860740646072806",
+    "in_reply_to_user_id": "1639203203890970624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995857207217586367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyntaxError_V 👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1995841185861210485",
+        "created_at": "2025-12-02T14:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995860740646072806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639203203890970624",
+              "start": 0,
+              "username": "SyntaxError_V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995860740646072806",
+        "in_reply_to_user_id": "1639203203890970624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995857207217586367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyntaxError_V 👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639203203890970624",
+        "conversation_id": "1995841185861210485",
+        "created_at": "2025-12-02T14:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995857207217586367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995857207217586367",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995847398980272525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 这个是我提交前的summary"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 925,
+          "like_count": 13684,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 5006
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T09:52:07.000Z",
+        "description": "Father hold me close, don’t let me drown.",
+        "id": "1639203203890970624",
+        "location": "Republic of Korea",
+        "name": "φ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985376877318668289/vJGo1qfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 486,
+          "like_count": 18764,
+          "listed_count": 3,
+          "media_count": 444,
+          "tweet_count": 4914
+        },
+        "username": "SyntaxError_V",
+        "verified": false
+      }
+    ]
+  }
+}

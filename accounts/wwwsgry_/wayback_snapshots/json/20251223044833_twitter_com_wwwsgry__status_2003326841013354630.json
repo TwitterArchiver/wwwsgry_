@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2003303048266080487",
+    "created_at": "2025-12-23T04:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T05:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003326841013354630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852991026480492544",
+          "start": 0,
+          "username": "silo_avo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003326841013354630",
+    "in_reply_to_user_id": "1852991026480492544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003303048266080487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silo_avo 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2003303048266080487",
+        "created_at": "2025-12-23T04:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T05:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003326841013354630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852991026480492544",
+              "start": 0,
+              "username": "silo_avo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003326841013354630",
+        "in_reply_to_user_id": "1852991026480492544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003303048266080487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silo_avo 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852991026480492544",
+        "conversation_id": "2003303048266080487",
+        "created_at": "2025-12-23T03:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T04:13:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003302946898145659",
+          "2003303048266080487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003303048266080487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上推的原因就是我不合群 我出国前是边缘人 出国后是老鼠人 不上网认识点人感觉自己和原始人没啥区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 923,
+          "like_count": 14179,
+          "listed_count": 4,
+          "media_count": 484,
+          "tweet_count": 5172
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T08:27:50.000Z",
+        "description": "君と一緒にいることはユートピアなんかじゃない。日本語勉強中。",
+        "id": "1852991026480492544",
+        "location": "California, USA",
+        "name": "Slio🥑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997925583414755328/aylaB7ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 283,
+          "like_count": 3299,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 1118
+        },
+        "username": "silo_avo",
+        "verified": true
+      }
+    ]
+  }
+}

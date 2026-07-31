@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2071294111391621526",
+    "created_at": "2026-06-28T22:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T23:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071357946358067268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "Y4miSTILLher3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071357946358067268",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071294111391621526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y4miSTILLher3 咕咕嘎嘎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071294103414018048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL63A0takAAvLha.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2071294103292399616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL63A0Qa0AAtUFN.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2071294111391621526",
+        "created_at": "2026-06-28T22:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071357946358067268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "Y4miSTILLher3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071357946358067268",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071294111391621526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y4miSTILLher3 咕咕嘎嘎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071294103414018048",
+            "3_2071294103292399616"
+          ]
+        },
+        "author_id": "2049103771796660224",
+        "conversation_id": "2071294111391621526",
+        "created_at": "2026-06-28T18:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T19:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071294111391621526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FESuosec8H",
+              "end": 35,
+              "expanded_url": "https://x.com/Y4miSTILLher3/status/2071294111391621526/photo/1",
+              "media_key": "3_2071294103414018048",
+              "start": 12,
+              "url": "https://t.co/FESuosec8H"
+            },
+            {
+              "display_url": "pic.x.com/FESuosec8H",
+              "end": 35,
+              "expanded_url": "https://x.com/Y4miSTILLher3/status/2071294111391621526/photo/1",
+              "media_key": "3_2071294103292399616",
+              "start": 12,
+              "url": "https://t.co/FESuosec8H"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "dca44b78dcf8336d"
+        },
+        "id": "2071294111391621526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全世界第一爱拍鸽子之人 https://t.co/FESuosec8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 993,
+          "like_count": 16883,
+          "listed_count": 4,
+          "media_count": 591,
+          "tweet_count": 6703
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "한국계 🇭🇰 | 成份复杂 | 边缘人 \n累累累累累\n妈妈@Xiaozhen_X",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "Xiaozhen_X"
+              }
+            ]
+          }
+        },
+        "id": "2049103771796660224",
+        "name": "φ",
+        "pinned_tweet_id": "2070587112634949960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070577309258760192/_9BgobTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 79,
+          "like_count": 2757,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 571
+        },
+        "url": "",
+        "username": "Y4miSTILLher3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2002495839194001915",
+    "created_at": "2025-12-20T21:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T22:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002495839194001915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2786849255",
+          "start": 3,
+          "username": "Vedal987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002495839194001915",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 895
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002434879691370999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vedal987: guys my dick fell off"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2002495839194001915",
+        "created_at": "2025-12-20T21:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T22:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002495839194001915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786849255",
+              "start": 3,
+              "username": "Vedal987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002495839194001915",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 895
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002434879691370999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vedal987: guys my dick fell off"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2786849255",
+        "conversation_id": "2002434879691370999",
+        "created_at": "2025-12-20T17:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002434879691370999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002434879691370999",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 476,
+          "impression_count": 106936,
+          "like_count": 9587,
+          "quote_count": 46,
+          "reply_count": 700,
+          "retweet_count": 895
+        },
+        "reply_settings": "everyone",
+        "text": "guys my dick fell off"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 923,
+          "like_count": 14164,
+          "listed_count": 4,
+          "media_count": 483,
+          "tweet_count": 5168
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-27T07:52:47.000Z",
+        "description": "professional turtle | developer | level 5 certified hacker | creator of @NeurosamaAI, AI VTuber on Twitch | made @AbandonArchive |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "NeurosamaAI"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "AbandonArchive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vedal.ai",
+                "end": 23,
+                "expanded_url": "https://vedal.ai/",
+                "start": 0,
+                "url": "https://t.co/eIgys4SujG"
+              }
+            ]
+          }
+        },
+        "id": "2786849255",
+        "name": "Vedal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1006985730340610049/HI5T71LB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214013,
+          "following_count": 730,
+          "like_count": 16784,
+          "listed_count": 244,
+          "media_count": 93,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/eIgys4SujG",
+        "username": "Vedal987",
+        "verified": true
+      }
+    ]
+  }
+}

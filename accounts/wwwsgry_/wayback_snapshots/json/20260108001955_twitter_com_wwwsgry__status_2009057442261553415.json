@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2008884635649089760",
+    "created_at": "2026-01-08T00:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T01:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009057442261553415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1048554633029984256",
+          "start": 0,
+          "username": "nanakawaii_01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009057442261553415",
+    "in_reply_to_user_id": "1048554633029984256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009056104475709949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanakawaii_01 加油👏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-08T00:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009057442261553415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1048554633029984256",
+              "start": 0,
+              "username": "nanakawaii_01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009057442261553415",
+        "in_reply_to_user_id": "1048554633029984256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009056104475709949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanakawaii_01 加油👏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048554633029984256",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-08T00:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T01:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009056104475709949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009056104475709949",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008884635649089760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 恭喜啊啊啊 希望我也可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 925,
+          "like_count": 13721,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 5263
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-06T12:44:40.000Z",
+        "description": "性压抑受害者｜ip北京接线下｜私信只回🚪相关｜88🚪不闲聊｜里账号@nanakawaii_02｜漂亮女孩欢迎互fo！想认识更多朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "nanakawaii_02"
+              }
+            ]
+          }
+        },
+        "id": "1048554633029984256",
+        "location": "88/288/520",
+        "name": "人和悲伤都是水做的",
+        "pinned_tweet_id": "1969418740619231397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969045872232271872/X-OLqZIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 37,
+          "like_count": 214,
+          "listed_count": 5,
+          "media_count": 51,
+          "tweet_count": 298
+        },
+        "username": "nanakawaii_01",
+        "verified": false
+      }
+    ]
+  }
+}

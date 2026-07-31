@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1992622580369678833",
+    "created_at": "2025-11-23T16:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992632305572266444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639203203890970624",
+          "start": 0,
+          "username": "SyntaxError_V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992632305572266444",
+    "in_reply_to_user_id": "1639203203890970624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992625243723268118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SyntaxError_V ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1992622580369678833",
+        "created_at": "2025-11-23T16:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992632305572266444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639203203890970624",
+              "start": 0,
+              "username": "SyntaxError_V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992632305572266444",
+        "in_reply_to_user_id": "1639203203890970624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992625243723268118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyntaxError_V ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639203203890970624",
+        "conversation_id": "1992622580369678833",
+        "created_at": "2025-11-23T16:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992625243723268118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992625243723268118",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992624954060263833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 加油老公"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 922,
+          "like_count": 13694,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 4940
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T09:52:07.000Z",
+        "description": "08 | enby | Alevel student 26’| SHA ⬌ HK ⬌ UK | EEE ｜グルメ界の第一人者｜Mi cielo @idcANYTH1NG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 72,
+                "username": "idcANYTH1NG"
+              }
+            ]
+          }
+        },
+        "id": "1639203203890970624",
+        "location": "Republic of Korea",
+        "name": "φ",
+        "pinned_tweet_id": "1985351997642650029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985376877318668289/vJGo1qfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 479,
+          "like_count": 18333,
+          "listed_count": 3,
+          "media_count": 435,
+          "tweet_count": 4785
+        },
+        "username": "SyntaxError_V",
+        "verified": false
+      }
+    ]
+  }
+}

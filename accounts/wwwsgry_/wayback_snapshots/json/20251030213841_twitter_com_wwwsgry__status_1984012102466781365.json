@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983902120593256587",
+    "created_at": "2025-10-30T21:38:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T22:38:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984012102466781365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976063251323764736",
+          "start": 0,
+          "username": "TuT_helpme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984012102466781365",
+    "in_reply_to_user_id": "1976063251323764736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984011053047672945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuT_helpme 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-30T21:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T22:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984012102466781365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976063251323764736",
+              "start": 0,
+              "username": "TuT_helpme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984012102466781365",
+        "in_reply_to_user_id": "1976063251323764736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984011053047672945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_helpme 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976063251323764736",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-30T21:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T22:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984011053047672945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984011053047672945",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983902120593256587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 点击即送"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 917,
+          "like_count": 13014,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 4687
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T23:12:55.000Z",
+        "description": "想到什么发什么｜本人性冷淡，原生家庭幸福，无任何心理疾病，不缺钱，不需要打赏｜欢迎来找我聊天⚠️在我这聊天是互相无聊时的消遣，不是好为人师的工具｜下面是ngl匿名链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/889953607",
+                "end": 23,
+                "expanded_url": "https://ngl.link/889953607",
+                "start": 0,
+                "url": "https://t.co/UF59sUMSgF"
+              }
+            ]
+          }
+        },
+        "id": "1976063251323764736",
+        "name": "TuT",
+        "pinned_tweet_id": "1982795015811137735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982742492899377152/2uvD44JM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 9,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 314
+        },
+        "url": "https://t.co/UF59sUMSgF",
+        "username": "TuT_helpme",
+        "verified": false
+      }
+    ]
+  }
+}

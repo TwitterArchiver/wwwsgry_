@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069553860071313408",
+        "3_2069553860134236160",
+        "3_2069553859928915968",
+        "3_2069553859928977408"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069553869345231336",
+    "created_at": "2026-06-23T22:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T23:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069553869345231336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sv39sCGTfl",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/2069553869345231336/photo/1",
+          "media_key": "3_2069553860071313408",
+          "start": 13,
+          "url": "https://t.co/sv39sCGTfl"
+        },
+        {
+          "display_url": "pic.x.com/sv39sCGTfl",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/2069553869345231336/photo/1",
+          "media_key": "3_2069553860134236160",
+          "start": 13,
+          "url": "https://t.co/sv39sCGTfl"
+        },
+        {
+          "display_url": "pic.x.com/sv39sCGTfl",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/2069553869345231336/photo/1",
+          "media_key": "3_2069553859928915968",
+          "start": 13,
+          "url": "https://t.co/sv39sCGTfl"
+        },
+        {
+          "display_url": "pic.x.com/sv39sCGTfl",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/2069553869345231336/photo/1",
+          "media_key": "3_2069553859928977408",
+          "start": 13,
+          "url": "https://t.co/sv39sCGTfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069553869345231336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我会永远拥护国泰航空😡👊 https://t.co/sv39sCGTfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2069553860071313408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLiIRVEW0AA04KC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1418,
+        "media_key": "3_2069553860134236160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLiIRVTW8AAr2uy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1464,
+        "media_key": "3_2069553859928915968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLiIRUiaAAAU_rH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069553859928977408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLiIRUia8AA6PFz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069553860071313408",
+            "3_2069553860134236160",
+            "3_2069553859928915968",
+            "3_2069553859928977408"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069553869345231336",
+        "created_at": "2026-06-23T22:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T23:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069553869345231336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sv39sCGTfl",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/2069553869345231336/photo/1",
+              "media_key": "3_2069553860071313408",
+              "start": 13,
+              "url": "https://t.co/sv39sCGTfl"
+            },
+            {
+              "display_url": "pic.x.com/sv39sCGTfl",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/2069553869345231336/photo/1",
+              "media_key": "3_2069553860134236160",
+              "start": 13,
+              "url": "https://t.co/sv39sCGTfl"
+            },
+            {
+              "display_url": "pic.x.com/sv39sCGTfl",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/2069553869345231336/photo/1",
+              "media_key": "3_2069553859928915968",
+              "start": 13,
+              "url": "https://t.co/sv39sCGTfl"
+            },
+            {
+              "display_url": "pic.x.com/sv39sCGTfl",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/2069553869345231336/photo/1",
+              "media_key": "3_2069553859928977408",
+              "start": 13,
+              "url": "https://t.co/sv39sCGTfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069553869345231336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我会永远拥护国泰航空😡👊 https://t.co/sv39sCGTfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 992,
+          "like_count": 16823,
+          "listed_count": 4,
+          "media_count": 587,
+          "tweet_count": 6678
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

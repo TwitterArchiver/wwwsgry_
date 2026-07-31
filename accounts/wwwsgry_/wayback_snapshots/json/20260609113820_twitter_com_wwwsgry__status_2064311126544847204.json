@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2063799154422267968",
+    "created_at": "2026-06-09T11:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T12:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064311126544847204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938823083835396096",
+          "start": 0,
+          "username": "VaguelyHuman233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064311126544847204",
+    "in_reply_to_user_id": "1938823083835396096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064290241561985152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VaguelyHuman233 宏观的概念都好抽象 微观感觉好理解"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064290241561985152].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064290241561985152",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064290241561985152"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2063799154422267968",
+        "created_at": "2026-06-09T11:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T12:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064311126544847204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938823083835396096",
+              "start": 0,
+              "username": "VaguelyHuman233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064311126544847204",
+        "in_reply_to_user_id": "1938823083835396096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064290241561985152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VaguelyHuman233 宏观的概念都好抽象 微观感觉好理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 981,
+          "like_count": 16459,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 6530
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T04:53:53.000Z",
+        "description": "Desperado",
+        "id": "1938823083835396096",
+        "location": "hell",
+        "name": "Ni Dios estudia al",
+        "pinned_tweet_id": "2049104960076521534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574208509272065/3QP1x93__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 160,
+          "like_count": 10514,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 4341
+        },
+        "username": "VaguelyHuman233",
+        "verified": false
+      }
+    ]
+  }
+}

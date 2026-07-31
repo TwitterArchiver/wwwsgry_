@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987692826168000513"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1987692829938778413",
+    "created_at": "2025-11-10T01:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T02:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987692829938778413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jEvYNduGRO",
+          "end": 44,
+          "expanded_url": "https://x.com/wwwsgry_/status/1987692829938778413/photo/1",
+          "media_key": "3_1987692826168000513",
+          "start": 21,
+          "url": "https://t.co/jEvYNduGRO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987692829938778413",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "This is true music😭👍 https://t.co/jEvYNduGRO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987692826168000513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5W0GBpWAAE60Cy.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987692826168000513"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1987692829938778413",
+        "created_at": "2025-11-10T01:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T02:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987692829938778413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEvYNduGRO",
+              "end": 44,
+              "expanded_url": "https://x.com/wwwsgry_/status/1987692829938778413/photo/1",
+              "media_key": "3_1987692826168000513",
+              "start": 21,
+              "url": "https://t.co/jEvYNduGRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987692829938778413",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "This is true music😭👍 https://t.co/jEvYNduGRO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 913,
+          "like_count": 13365,
+          "listed_count": 4,
+          "media_count": 446,
+          "tweet_count": 4811
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

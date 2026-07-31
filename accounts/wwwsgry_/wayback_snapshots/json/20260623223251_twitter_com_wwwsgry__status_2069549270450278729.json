@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2069392075238347011",
+    "created_at": "2026-06-23T22:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T23:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069549270450278729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1864352448875515905",
+          "start": 0,
+          "username": "gdgdgg13838541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069549270450278729",
+    "in_reply_to_user_id": "1864352448875515905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069540157607592066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdgdgg13838541 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2069392075238347011",
+        "created_at": "2026-06-23T22:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T23:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069549270450278729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1864352448875515905",
+              "start": 0,
+              "username": "gdgdgg13838541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069549270450278729",
+        "in_reply_to_user_id": "1864352448875515905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069540157607592066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdgdgg13838541 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864352448875515905",
+        "conversation_id": "2069392075238347011",
+        "created_at": "2026-06-23T21:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T22:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069540157607592066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069540157607592066",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069539564415529221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 是这样的，我这个傻叉学校说小学期有课，结果今天发通知是8月31号开始上，我本来说考试考到小学期开始正好不用回家了，边上课边做家教挺好的，现在改全职家教了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 992,
+          "like_count": 16823,
+          "listed_count": 4,
+          "media_count": 586,
+          "tweet_count": 6677
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T16:54:16.000Z",
+        "description": "我喜欢你😘\n流萤/银狼/黍/娜维娅/茜特拉莉/阮·梅 推\n爱磕点姛\n玩原神/崩铁/明日方舟/BA/OW/APEX（FPS新手😇）/有时候打打单机\n欢迎交友聊天☺️",
+        "id": "1864352448875515905",
+        "name": "kmika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033823581243834368/UAqJReTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 237,
+          "like_count": 6110,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "gdgdgg13838541",
+        "verified": false
+      }
+    ]
+  }
+}

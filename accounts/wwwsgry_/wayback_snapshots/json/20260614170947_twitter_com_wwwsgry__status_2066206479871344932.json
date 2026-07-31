@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2065867116444520546",
+    "created_at": "2026-06-14T17:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066206479871344932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909626688675475456",
+          "start": 0,
+          "username": "Afteranone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066206479871344932",
+    "in_reply_to_user_id": "1909626688675475456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066194025259086043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Afteranone 确实 挺凉快的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2065867116444520546",
+        "created_at": "2026-06-14T17:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066206479871344932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909626688675475456",
+              "start": 0,
+              "username": "Afteranone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066206479871344932",
+        "in_reply_to_user_id": "1909626688675475456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066194025259086043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Afteranone 确实 挺凉快的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909626688675475456",
+        "conversation_id": "2065867116444520546",
+        "created_at": "2026-06-14T16:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066194025259086043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066194025259086043",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065867116444520546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 好喜欢这类天气，感觉很适合骑车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 988,
+          "like_count": 16601,
+          "listed_count": 4,
+          "media_count": 580,
+          "tweet_count": 6602
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T15:18:28.000Z",
+        "description": "未完成品/网络幽灵/微活中\n欢迎来和我多说说话！！",
+        "id": "1909626688675475456",
+        "name": "Satline",
+        "pinned_tweet_id": "2001216761035940230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061700549687541760/wg16RuXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 110,
+          "like_count": 1028,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 767
+        },
+        "username": "Afteranone",
+        "verified": false
+      }
+    ]
+  }
+}

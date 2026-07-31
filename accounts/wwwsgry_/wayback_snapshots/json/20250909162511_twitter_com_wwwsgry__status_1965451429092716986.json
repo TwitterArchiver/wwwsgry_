@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1965427675130118386",
+    "created_at": "2025-09-09T16:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T17:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965451429092716986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965451429092716986",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965427675130118386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1965427675130118386",
+        "created_at": "2025-09-09T16:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T17:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965451429092716986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965451429092716986",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965427675130118386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "1965427675130118386",
+        "created_at": "2025-09-09T14:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T15:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965427675130118386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965427675130118386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蛤我consellor也是个博士🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 856,
+          "like_count": 10613,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 3877
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "@pamnc2024，加里顿大学税交学博士，伯伦希尔科技公司科研人员，中华圆梦委员会荣誉会员｜夫君@karasu1stgen｜试运营中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "pamnc2024"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "karasu1stgen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.ms/utopia080923",
+                "end": 23,
+                "expanded_url": "https://note.ms/utopia080923",
+                "start": 0,
+                "url": "https://t.co/Wgt9Ruk829"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "Brunhild Technology Co., Ltd.",
+        "name": "🎐",
+        "pinned_tweet_id": "1961323188106801418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961322891347464192/VBk_6ibL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 269,
+          "like_count": 17666,
+          "listed_count": 2,
+          "media_count": 357,
+          "tweet_count": 8579
+        },
+        "url": "https://t.co/Wgt9Ruk829",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2042873179467845886",
+    "created_at": "2026-04-11T12:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042947968878215192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042947968878215192",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042873179467845886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042873170848608256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm-U0WbcAAUUBO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042873171502829568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm-U2yaEAAO8XI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2042873179467845886",
+        "created_at": "2026-04-11T12:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042947968878215192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042947968878215192",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042873179467845886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042873170848608256",
+            "3_2042873171502829568"
+          ]
+        },
+        "author_id": "1765825463103139840",
+        "conversation_id": "2042873179467845886",
+        "created_at": "2026-04-11T07:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042873179467845886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AujfqlOxXR",
+              "end": 23,
+              "expanded_url": "https://x.com/Chloris923/status/2042873179467845886/photo/1",
+              "media_key": "3_2042873170848608256",
+              "start": 0,
+              "url": "https://t.co/AujfqlOxXR"
+            },
+            {
+              "display_url": "pic.x.com/AujfqlOxXR",
+              "end": 23,
+              "expanded_url": "https://x.com/Chloris923/status/2042873179467845886/photo/1",
+              "media_key": "3_2042873171502829568",
+              "start": 0,
+              "url": "https://t.co/AujfqlOxXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042873179467845886",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AujfqlOxXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 955,
+          "like_count": 15507,
+          "listed_count": 5,
+          "media_count": 554,
+          "tweet_count": 6168
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "春夏秋冬，睡睡睡睡。\n猜猜我是谁 @pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "pamnc2024"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ",
+        "name": "🌙",
+        "pinned_tweet_id": "2038201779268288728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042288116799848450/Ru431sCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 261,
+          "like_count": 31024,
+          "listed_count": 3,
+          "media_count": 590,
+          "tweet_count": 17452
+        },
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

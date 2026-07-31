@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2000040987104793074",
+    "created_at": "2025-12-14T06:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T07:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000086182521385340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000086182521385340",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000040987104793074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 你赔我眼睛🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2000040987104793074",
+        "created_at": "2025-12-14T06:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000086182521385340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000086182521385340",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000040987104793074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 你赔我眼睛🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2000040987104793074",
+        "created_at": "2025-12-14T03:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000040987104793074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaofuwong0529…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xiaofuwong0529/status/1999729835191787620",
+              "start": 8,
+              "url": "https://t.co/QRk34dSrE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000040987104793074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999729835191787620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不能只有我看到 https://t.co/QRk34dSrE7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 922,
+          "like_count": 14011,
+          "listed_count": 4,
+          "media_count": 474,
+          "tweet_count": 5106
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "18岁 女 intp/中文/BS、ff14/saob @ohyeahcomeonnow 🐻❤️～@Lmao_Quien /🐖@tanbara_ririka 妈妈@mantou0618 🎸@D_D_ovO_ /@ninarich1991 @sanitf1 @iTZQing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "ohyeahcomeonnow"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 77,
+                "start": 62,
+                "username": "tanbara_ririka"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "mantou0618"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "ninarich1991"
+              },
+              {
+                "end": 126,
+                "start": 118,
+                "username": "sanitf1"
+              },
+              {
+                "end": 135,
+                "start": 127,
+                "username": "iTZQing"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "idk",
+        "name": "6nS",
+        "pinned_tweet_id": "1995735816644055184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998199180091650048/jyn-AwjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4406,
+          "following_count": 297,
+          "like_count": 22999,
+          "listed_count": 13,
+          "media_count": 899,
+          "tweet_count": 13251
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

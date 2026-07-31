@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1984745544485326912",
+    "created_at": "2025-11-14T13:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989322065401229528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "260663159",
+          "start": 0,
+          "username": "fakeChitose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989322065401229528",
+    "in_reply_to_user_id": "260663159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989286031519277530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fakeChitose 很神奇吧 我也不知道怎么放在一起的😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1984745544485326912",
+        "created_at": "2025-11-14T13:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989322065401229528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "260663159",
+              "start": 0,
+              "username": "fakeChitose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989322065401229528",
+        "in_reply_to_user_id": "260663159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989286031519277530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fakeChitose 很神奇吧 我也不知道怎么放在一起的😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "260663159",
+        "conversation_id": "1984745544485326912",
+        "created_at": "2025-11-14T10:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989286031519277530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989286031519277530",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984745544485326912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 藍紋奶酪和漢堡這兩樣東西是怎樣聯繫在一起的😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 920,
+          "like_count": 13499,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 4851
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-04T09:56:32.000Z",
+        "description": "成人井外勢力 地球在住 混吃等死從業者/ memo AkechiSatori #StandWithUkraine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 39,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/fakeChito…",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/fakeChitose",
+                "start": 0,
+                "url": "https://t.co/4hZcOWhdip"
+              }
+            ]
+          }
+        },
+        "id": "260663159",
+        "location": "IP 屬地：広州動物園(南門)",
+        "name": "チトセ 💙💛",
+        "pinned_tweet_id": "1987477787524178399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632373928697151488/2EvE2as9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 1129,
+          "like_count": 5092,
+          "listed_count": 16,
+          "media_count": 1754,
+          "tweet_count": 9284
+        },
+        "url": "https://t.co/4hZcOWhdip",
+        "username": "fakeChitose",
+        "verified": true
+      }
+    ]
+  }
+}

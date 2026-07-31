@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050034516828262401"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2050034522750595123",
+    "created_at": "2026-05-01T02:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T03:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050034522750595123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RvCd4y6XzR",
+          "end": 78,
+          "expanded_url": "https://x.com/wwwsgry_/status/2050034522750595123/photo/1",
+          "media_key": "3_2050034516828262401",
+          "start": 55,
+          "url": "https://t.co/RvCd4y6XzR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050034522750595123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再也不学经济了 出生assignment我写了六个多小时啊啊 脑子都快爆掉了😭\n这老登怎么这么坏😭😭😭😭😭😭 https://t.co/RvCd4y6XzR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050034516828262401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMviBDWkAE9Zca.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050034516828262401"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2050034522750595123",
+        "created_at": "2026-05-01T02:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050034522750595123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvCd4y6XzR",
+              "end": 78,
+              "expanded_url": "https://x.com/wwwsgry_/status/2050034522750595123/photo/1",
+              "media_key": "3_2050034516828262401",
+              "start": 55,
+              "url": "https://t.co/RvCd4y6XzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050034522750595123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再也不学经济了 出生assignment我写了六个多小时啊啊 脑子都快爆掉了😭\n这老登怎么这么坏😭😭😭😭😭😭 https://t.co/RvCd4y6XzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 971,
+          "like_count": 15948,
+          "listed_count": 4,
+          "media_count": 563,
+          "tweet_count": 6288
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

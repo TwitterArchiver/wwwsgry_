@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019605656937066501"
+      ],
+      "media_source_tweet_id": [
+        "2019605663807336724"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2019775902112948724",
+    "created_at": "2026-02-06T14:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019775902112948724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pr3vYDJeyT",
+          "end": 53,
+          "expanded_url": "https://x.com/NGNGVXX/status/2019605663807336724/photo/1",
+          "media_key": "3_2019605656937066501",
+          "start": 30,
+          "url": "https://t.co/pr3vYDJeyT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019775902112948724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 356
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019605663807336724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: 长大后才发现小新妈妈说的都是真的 https://t.co/pr3vYDJeyT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2019605656937066501",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcUpQgacAUlLap.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019605656937066501"
+          ],
+          "media_source_tweet_id": [
+            "2019605663807336724"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2019775902112948724",
+        "created_at": "2026-02-06T14:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019775902112948724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pr3vYDJeyT",
+              "end": 53,
+              "expanded_url": "https://x.com/NGNGVXX/status/2019605663807336724/photo/1",
+              "media_key": "3_2019605656937066501",
+              "start": 30,
+              "url": "https://t.co/pr3vYDJeyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019775902112948724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 356
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019605663807336724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: 长大后才发现小新妈妈说的都是真的 https://t.co/pr3vYDJeyT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019605656937066501"
+          ]
+        },
+        "author_id": "2363856960",
+        "conversation_id": "2019605663807336724",
+        "created_at": "2026-02-06T02:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019605663807336724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pr3vYDJeyT",
+              "end": 40,
+              "expanded_url": "https://x.com/NGNGVXX/status/2019605663807336724/photo/1",
+              "media_key": "3_2019605656937066501",
+              "start": 17,
+              "url": "https://t.co/pr3vYDJeyT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019605663807336724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 76489,
+          "like_count": 2707,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "长大后才发现小新妈妈说的都是真的 https://t.co/pr3vYDJeyT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 942,
+          "like_count": 13987,
+          "listed_count": 4,
+          "media_count": 502,
+          "tweet_count": 5456
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "这里介绍不了我。定义我干嘛？你很完美吗？",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6337,
+          "following_count": 5,
+          "like_count": 931,
+          "listed_count": 16,
+          "media_count": 67,
+          "tweet_count": 1269
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

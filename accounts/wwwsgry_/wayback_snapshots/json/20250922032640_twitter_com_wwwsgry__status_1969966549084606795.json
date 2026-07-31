@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1969964656866603429",
+    "created_at": "2025-09-22T03:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T04:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969966549084606795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1617094637986156546",
+          "start": 0,
+          "username": "dqivz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969966549084606795",
+    "in_reply_to_user_id": "1617094637986156546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969964656866603429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dqivz 买了什么👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_1969964653703778304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1a4akwW0AA2cBt.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1969964656866603429",
+        "created_at": "2025-09-22T03:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T04:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969966549084606795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1617094637986156546",
+              "start": 0,
+              "username": "dqivz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969966549084606795",
+        "in_reply_to_user_id": "1617094637986156546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969964656866603429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dqivz 买了什么👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969964653703778304"
+          ]
+        },
+        "author_id": "1617094637986156546",
+        "conversation_id": "1969964656866603429",
+        "created_at": "2025-09-22T03:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T04:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969964656866603429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZFUE0XKuh",
+              "end": 26,
+              "expanded_url": "https://x.com/dqivz/status/1969964656866603429/photo/1",
+              "media_key": "3_1969964653703778304",
+              "start": 3,
+              "url": "https://t.co/EZFUE0XKuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969964656866603429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好！ https://t.co/EZFUE0XKuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 867,
+          "like_count": 11179,
+          "listed_count": 4,
+          "media_count": 394,
+          "tweet_count": 3996
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T09:39:56.000Z",
+        "description": "",
+        "id": "1617094637986156546",
+        "location": "Toronto, Ontario",
+        "name": "Wyg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913304823417733120/eUQDoLWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 125,
+          "like_count": 525,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 232
+        },
+        "username": "dqivz",
+        "verified": false
+      }
+    ]
+  }
+}

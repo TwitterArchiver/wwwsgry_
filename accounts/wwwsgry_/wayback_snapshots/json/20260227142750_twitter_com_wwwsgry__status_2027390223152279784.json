@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027319824179716096"
+      ],
+      "media_source_tweet_id": [
+        "2027319828587958618"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2027390223152279784",
+    "created_at": "2026-02-27T14:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027390223152279784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sAyHoys11g",
+          "end": 49,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2027319828587958618/photo/1",
+          "media_key": "3_2027319824179716096",
+          "start": 26,
+          "url": "https://t.co/sAyHoys11g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027390223152279784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027319828587958618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: 初音未来有对手了 https://t.co/sAyHoys11g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2027319824179716096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJ8o45W4AAGe7q.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027319824179716096"
+          ],
+          "media_source_tweet_id": [
+            "2027319828587958618"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2027390223152279784",
+        "created_at": "2026-02-27T14:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027390223152279784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAyHoys11g",
+              "end": 49,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2027319828587958618/photo/1",
+              "media_key": "3_2027319824179716096",
+              "start": 26,
+              "url": "https://t.co/sAyHoys11g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027390223152279784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027319828587958618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: 初音未来有对手了 https://t.co/sAyHoys11g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027319824179716096"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2027319828587958618",
+        "created_at": "2026-02-27T09:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T10:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027319828587958618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAyHoys11g",
+              "end": 32,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2027319828587958618/photo/1",
+              "media_key": "3_2027319824179716096",
+              "start": 9,
+              "url": "https://t.co/sAyHoys11g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027319828587958618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2281,
+          "like_count": 123,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "初音未来有对手了 https://t.co/sAyHoys11g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 957,
+          "like_count": 14649,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 5652
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "びゃくやこう     梗图源网络，如有侵权可删\nsub： @IzayoiMarinn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "IzayoiMarinn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "name": "まりん（卑微求fo版）",
+        "pinned_tweet_id": "2027198071239852413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024740561744277504/OllzlXUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 2320,
+          "like_count": 39652,
+          "listed_count": 4,
+          "media_count": 1705,
+          "tweet_count": 18639
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

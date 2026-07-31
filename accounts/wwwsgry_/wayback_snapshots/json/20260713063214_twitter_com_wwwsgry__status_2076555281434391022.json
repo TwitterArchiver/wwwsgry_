@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2076541482702602595",
+    "created_at": "2026-07-13T06:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076555281434391022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4886512384",
+          "start": 0,
+          "username": "Bamboorusua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076555281434391022",
+    "in_reply_to_user_id": "4886512384",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076541482702602595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bamboorusua &lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_2076541479879901184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFbeVWbAAAkbFV.jpg",
+        "width": 742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2076541482702602595",
+        "created_at": "2026-07-13T06:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076555281434391022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4886512384",
+              "start": 0,
+              "username": "Bamboorusua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076555281434391022",
+        "in_reply_to_user_id": "4886512384",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076541482702602595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bamboorusua &lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;&lt;(ºOº)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076541479879901184"
+          ]
+        },
+        "author_id": "4886512384",
+        "conversation_id": "2076541482702602595",
+        "created_at": "2026-07-13T05:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076541482702602595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iweWTt3sHv",
+              "end": 40,
+              "expanded_url": "https://x.com/Bamboorusua/status/2076541482702602595/photo/1",
+              "media_key": "3_2076541479879901184",
+              "start": 17,
+              "url": "https://t.co/iweWTt3sHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076541482702602595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想认识新朋友\n\n图为四年前的自己 https://t.co/iweWTt3sHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 997,
+          "like_count": 17086,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 6791
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-08T01:54:18.000Z",
+        "description": "Tibbers the 182nd",
+        "id": "4886512384",
+        "name": "竹路沙",
+        "pinned_tweet_id": "1864207938153492716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962736760397737984/FkP0Pztl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 61,
+          "like_count": 6073,
+          "listed_count": 7,
+          "media_count": 119,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "Bamboorusua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1959247385571242000",
+    "created_at": "2025-08-23T14:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T15:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959264256475693365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943511886378733573",
+          "start": 0,
+          "username": "asaaoi12345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959264256475693365",
+    "in_reply_to_user_id": "1943511886378733573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959263445326377202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asaaoi12345 对的兄弟但是bmi15是否有点低了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1959263445326377202].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1959263445326377202",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1959263445326377202"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1959247385571242000",
+        "created_at": "2025-08-23T14:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T15:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959264256475693365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943511886378733573",
+              "start": 0,
+              "username": "asaaoi12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959264256475693365",
+        "in_reply_to_user_id": "1943511886378733573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959263445326377202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asaaoi12345 对的兄弟但是bmi15是否有点低了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 780,
+          "like_count": 9763,
+          "listed_count": 3,
+          "media_count": 357,
+          "tweet_count": 3608
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T03:25:30.000Z",
+        "description": "もう終わりだ",
+        "id": "1943511886378733573",
+        "name": "東北ずんだもん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958180169866412032/35dqROMN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 65,
+          "like_count": 3160,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1227
+        },
+        "username": "asaaoi12345",
+        "verified": false
+      }
+    ]
+  }
+}

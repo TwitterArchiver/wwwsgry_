@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1975314655485788323",
+    "created_at": "2025-10-06T21:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T22:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975318359182090445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934423287729455105",
+          "start": 0,
+          "username": "auroralia7777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "xyy.gta4.bio",
+          "end": 38,
+          "expanded_url": "https://xyy.gta4.bio/",
+          "start": 15,
+          "status": 200,
+          "title": "性压抑指数计算器 - Sexual Repression Index Calculator",
+          "unwound_url": "https://xyy.gta4.bio/",
+          "url": "https://t.co/Xx2x87bIIi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975318359182090445",
+    "in_reply_to_user_id": "1934423287729455105",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975318133532729652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auroralia7777 https://t.co/Xx2x87bIIi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1975314655485788323",
+        "created_at": "2025-10-06T21:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T22:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975318359182090445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934423287729455105",
+              "start": 0,
+              "username": "auroralia7777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "xyy.gta4.bio",
+              "end": 38,
+              "expanded_url": "https://xyy.gta4.bio/",
+              "start": 15,
+              "status": 200,
+              "title": "性压抑指数计算器 - Sexual Repression Index Calculator",
+              "unwound_url": "https://xyy.gta4.bio/",
+              "url": "https://t.co/Xx2x87bIIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975318359182090445",
+        "in_reply_to_user_id": "1934423287729455105",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975318133532729652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auroralia7777 https://t.co/Xx2x87bIIi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934423287729455105",
+        "conversation_id": "1975314655485788323",
+        "created_at": "2025-10-06T21:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T22:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975318133532729652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975318133532729652",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975317938090717536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 给个网站呗……（扣手手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 888,
+          "like_count": 11729,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 4193
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T01:30:35.000Z",
+        "description": "这里是一直在思考的的小极光♡\n\n♡我永远的一切……我的爱人@yeziyu7777 ♡\n\n「You are my forever PERFECTION. 」\n\n神秘小号@AuroraXHazuki（盯——",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "AuroraXHazuki"
+              }
+            ]
+          }
+        },
+        "id": "1934423287729455105",
+        "location": "永远依偎在叶叶的怀里呐♡",
+        "name": "Auroralia♡",
+        "pinned_tweet_id": "1963017759572529210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964180368439070722/GsHJLg3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 137,
+          "like_count": 3797,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1336
+        },
+        "username": "auroralia7777",
+        "verified": false
+      }
+    ]
+  }
+}

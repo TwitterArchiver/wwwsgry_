@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2000933790533988361",
+    "created_at": "2025-12-18T02:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T03:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001476517495525641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922602046907449344",
+          "start": 0,
+          "username": "tokiutsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001476517495525641",
+    "in_reply_to_user_id": "1922602046907449344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001472583733252497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiutsu 咬你🐿️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2001472583733252497].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2001472583733252497",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2001472583733252497"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2000933790533988361",
+        "created_at": "2025-12-18T02:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T03:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001476517495525641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922602046907449344",
+              "start": 0,
+              "username": "tokiutsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001476517495525641",
+        "in_reply_to_user_id": "1922602046907449344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001472583733252497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiutsu 咬你🐿️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 923,
+          "like_count": 14123,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 5155
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T10:37:10.000Z",
+        "description": "F.U.C.K.Y.O.U",
+        "id": "1922602046907449344",
+        "location": "我不想回歸",
+        "name": "Сильная зависимость от кофеина",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977332361823162368/VtKXpLUC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 119,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1415
+        },
+        "username": "tokiutsu",
+        "verified": false
+      }
+    ]
+  }
+}

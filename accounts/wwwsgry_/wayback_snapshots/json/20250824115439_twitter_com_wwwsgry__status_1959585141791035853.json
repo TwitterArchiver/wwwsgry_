@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959585133910216704"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1959585141791035853",
+    "created_at": "2025-08-24T11:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T12:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959585141791035853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aE8c1gbCCb",
+          "end": 62,
+          "expanded_url": "https://x.com/wwwsgry_/status/1959585141791035853/photo/1",
+          "media_key": "3_1959585133910216704",
+          "start": 39,
+          "url": "https://t.co/aE8c1gbCCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959585141791035853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "香港的酒店装了个大陆的接口\n吹风机给的却是英式插头🤨\n那我问你我怎么吹头发🙂 https://t.co/aE8c1gbCCb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959585133910216704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzHYTAXa0AAc0fN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959585133910216704"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1959585141791035853",
+        "created_at": "2025-08-24T11:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T12:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959585141791035853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aE8c1gbCCb",
+              "end": 62,
+              "expanded_url": "https://x.com/wwwsgry_/status/1959585141791035853/photo/1",
+              "media_key": "3_1959585133910216704",
+              "start": 39,
+              "url": "https://t.co/aE8c1gbCCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959585141791035853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港的酒店装了个大陆的接口\n吹风机给的却是英式插头🤨\n那我问你我怎么吹头发🙂 https://t.co/aE8c1gbCCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 784,
+          "like_count": 9812,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 3630
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

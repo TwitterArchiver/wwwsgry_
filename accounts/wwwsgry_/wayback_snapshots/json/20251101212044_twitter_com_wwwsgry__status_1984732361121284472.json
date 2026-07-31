@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984732355152560128"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1984732361121284472",
+    "created_at": "2025-11-01T21:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T22:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984732361121284472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZbOs3tjXAk",
+          "end": 78,
+          "expanded_url": "https://x.com/wwwsgry_/status/1984732361121284472/photo/1",
+          "media_key": "3_1984732355152560128",
+          "start": 55,
+          "url": "https://t.co/ZbOs3tjXAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984732361121284472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你PolyU为什么这么高贵 CityU只要了我200HKD 你个保底校竟然要500HKD跟CUHK平起平坐😡 https://t.co/ZbOs3tjXAk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984732355152560128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4svj7sXwAA7vBK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984732355152560128"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1984732361121284472",
+        "created_at": "2025-11-01T21:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T22:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984732361121284472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbOs3tjXAk",
+              "end": 78,
+              "expanded_url": "https://x.com/wwwsgry_/status/1984732361121284472/photo/1",
+              "media_key": "3_1984732355152560128",
+              "start": 55,
+              "url": "https://t.co/ZbOs3tjXAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984732361121284472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你PolyU为什么这么高贵 CityU只要了我200HKD 你个保底校竟然要500HKD跟CUHK平起平坐😡 https://t.co/ZbOs3tjXAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 925,
+          "like_count": 13136,
+          "listed_count": 4,
+          "media_count": 440,
+          "tweet_count": 4746
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963636560831647744"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1963636564686221500",
+    "created_at": "2025-09-04T16:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T17:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963636564686221500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wIkoGN300R",
+          "end": 40,
+          "expanded_url": "https://x.com/wwwsgry_/status/1963636564686221500/photo/1",
+          "media_key": "3_1963636560831647744",
+          "start": 17,
+          "url": "https://t.co/wIkoGN300R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963636564686221500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打开b站第一个视频👌👌👍👍👍👍👍 https://t.co/wIkoGN300R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1963636560831647744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0A9DFxXEAAAyjW.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963636560831647744"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1963636564686221500",
+        "created_at": "2025-09-04T16:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963636564686221500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wIkoGN300R",
+              "end": 40,
+              "expanded_url": "https://x.com/wwwsgry_/status/1963636564686221500/photo/1",
+              "media_key": "3_1963636560831647744",
+              "start": 17,
+              "url": "https://t.co/wIkoGN300R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963636564686221500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打开b站第一个视频👌👌👍👍👍👍👍 https://t.co/wIkoGN300R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 836,
+          "like_count": 10361,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 3796
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

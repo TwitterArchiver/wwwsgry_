@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1974992549787144639",
+    "created_at": "2025-10-06T04:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975049998955130900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847272386066051073",
+          "start": 0,
+          "username": "io__jiia_0112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975049998955130900",
+    "in_reply_to_user_id": "1847272386066051073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975049401698857214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@io__jiia_0112 六本花了将近三百刀😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1974992549787144639",
+        "created_at": "2025-10-06T04:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975049998955130900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847272386066051073",
+              "start": 0,
+              "username": "io__jiia_0112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975049998955130900",
+        "in_reply_to_user_id": "1847272386066051073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975049401698857214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@io__jiia_0112 六本花了将近三百刀😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847272386066051073",
+        "conversation_id": "1974992549787144639",
+        "created_at": "2025-10-06T04:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975049401698857214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975049401698857214",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974992549787144639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 沃——畫集不是都挺貴的😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 889,
+          "like_count": 11691,
+          "listed_count": 4,
+          "media_count": 408,
+          "tweet_count": 4162
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T13:44:00.000Z",
+        "description": "俯瞰風景",
+        "id": "1847272386066051073",
+        "name": "小老虎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888639438944915456/JJv02vQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 75,
+          "like_count": 6686,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 1479
+        },
+        "username": "io__jiia_0112",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2022757512412365080",
+    "created_at": "2026-02-14T19:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T20:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022757512412365080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/deadbydaylight…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/deadbydaylight/status/2022732707101327810",
+          "start": 8,
+          "url": "https://t.co/cjTxDkhOj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022757512412365080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022732707101327810",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这对不错啊我看 https://t.co/cjTxDkhOj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2022732665183510528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIwpF_XoAAXcxO.png",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "media_key": "3_2022732686163369984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIwqUJW4AAUvjI.png",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2022757512412365080",
+        "created_at": "2026-02-14T19:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022757512412365080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deadbydaylight…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/deadbydaylight/status/2022732707101327810",
+              "start": 8,
+              "url": "https://t.co/cjTxDkhOj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022757512412365080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022732707101327810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这对不错啊我看 https://t.co/cjTxDkhOj0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022732665183510528",
+            "3_2022732686163369984"
+          ]
+        },
+        "author_id": "4850837842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234625911128936448",
+              "name": "Dead by Daylight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234625911128936448",
+              "name": "Dead by Daylight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899016900083712",
+              "name": "Horror games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899125926821900",
+              "name": "Survival games"
+            }
+          }
+        ],
+        "conversation_id": "2022732707101327810",
+        "created_at": "2026-02-14T18:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022732707101327810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UeS5TYINC",
+              "end": 100,
+              "expanded_url": "https://x.com/DeadbyDaylight/status/2022732707101327810/photo/1",
+              "media_key": "3_2022732665183510528",
+              "start": 77,
+              "url": "https://t.co/6UeS5TYINC"
+            },
+            {
+              "display_url": "pic.x.com/6UeS5TYINC",
+              "end": 100,
+              "expanded_url": "https://x.com/DeadbyDaylight/status/2022732707101327810/photo/1",
+              "media_key": "3_2022732686163369984",
+              "start": 77,
+              "url": "https://t.co/6UeS5TYINC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022732707101327810",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 314,
+          "impression_count": 101758,
+          "like_count": 5717,
+          "quote_count": 63,
+          "reply_count": 66,
+          "retweet_count": 401
+        },
+        "reply_settings": "everyone",
+        "text": "\"We have                   \"I know.\ndating rumors\"           I started them\" https://t.co/6UeS5TYINC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 949,
+          "like_count": 14263,
+          "listed_count": 4,
+          "media_count": 506,
+          "tweet_count": 5527
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-26T19:08:12.000Z",
+        "description": "Dead by Daylight: Stranger Things Chapter 2 is now available.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dbd.game/3zNLGzH",
+                "end": 23,
+                "expanded_url": "https://dbd.game/3zNLGzH",
+                "start": 0,
+                "url": "https://t.co/KXMlvaN4KR"
+              }
+            ]
+          }
+        },
+        "id": "4850837842",
+        "location": "Montréal, Québec",
+        "name": "Dead by Daylight",
+        "pinned_tweet_id": "2016194793123004757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940827181409513472/WwnnIx9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303885,
+          "following_count": 148,
+          "like_count": 10317,
+          "listed_count": 1915,
+          "media_count": 6051,
+          "tweet_count": 16714
+        },
+        "url": "https://t.co/KXMlvaN4KR",
+        "username": "DeadbyDaylight",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2051464791101706297",
+    "created_at": "2026-05-05T00:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T01:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051464791101706297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wwwsgry_/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/wwwsgry_/status/2051438308123722004",
+          "start": 18,
+          "url": "https://t.co/yZhjhLgKwW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051464791101706297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051438308123722004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晖哥你什么时候能再穿上红马甲😭😭😭 https://t.co/yZhjhLgKwW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2051464791101706297",
+        "created_at": "2026-05-05T00:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T01:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051464791101706297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwwsgry_/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/wwwsgry_/status/2051438308123722004",
+              "start": 18,
+              "url": "https://t.co/yZhjhLgKwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051464791101706297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051438308123722004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晖哥你什么时候能再穿上红马甲😭😭😭 https://t.co/yZhjhLgKwW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1463580457203732480",
+              "name": "Shaun Murphy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1463580457203732480",
+              "name": "Shaun Murphy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Billiards",
+              "id": "1095069812697399296",
+              "name": "Cue sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Snooker",
+              "id": "1095070235600678912",
+              "name": "Snooker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1463580457203732480",
+              "name": "Shaun Murphy"
+            }
+          }
+        ],
+        "conversation_id": "2051438308123722004",
+        "created_at": "2026-05-04T23:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051438308123722004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wearewst/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/wearewst/status/2051414259393847613",
+              "start": 19,
+              "url": "https://t.co/V8Mr74dchf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051438308123722004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051414259393847613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帅 中国连着夺冠两年 终于熬出头了😭 https://t.co/V8Mr74dchf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 973,
+          "like_count": 16010,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 6313
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

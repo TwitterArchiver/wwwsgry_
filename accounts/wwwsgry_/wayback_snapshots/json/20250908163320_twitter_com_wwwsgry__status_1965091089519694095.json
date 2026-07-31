@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1965089459105628530",
+    "created_at": "2025-09-08T16:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T17:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965091089519694095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "972145472495210496",
+          "start": 0,
+          "username": "Bill8910XJP8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965091089519694095",
+    "in_reply_to_user_id": "972145472495210496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965089459105628530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bill8910XJP8964 踩踩背这一块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1965089459105628530",
+        "created_at": "2025-09-08T16:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965091089519694095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "972145472495210496",
+              "start": 0,
+              "username": "Bill8910XJP8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965091089519694095",
+        "in_reply_to_user_id": "972145472495210496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965089459105628530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bill8910XJP8964 踩踩背这一块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "972145472495210496",
+        "conversation_id": "1965089459105628530",
+        "created_at": "2025-09-08T16:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965089459105628530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965089459105628530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现有时和别人讲生活好不好聊不到一块去，别人评判生活质量好坏主要看物质生活我主要看性生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 854,
+          "like_count": 10593,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 3875
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-09T16:21:57.000Z",
+        "description": "",
+        "id": "972145472495210496",
+        "name": "Bill",
+        "pinned_tweet_id": "1017675231702454272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1072868824217640961/ErX8chQq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 606,
+          "like_count": 141562,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 5367
+        },
+        "username": "Bill8910XJP8964",
+        "verified": false
+      }
+    ]
+  }
+}

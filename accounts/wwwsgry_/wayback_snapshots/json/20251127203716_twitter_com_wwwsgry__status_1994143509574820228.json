@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1994056759904763947",
+    "created_at": "2025-11-27T20:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T21:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994143509574820228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1590390445347151873",
+          "start": 0,
+          "username": "Kgo_dayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994143509574820228",
+    "in_reply_to_user_id": "1590390445347151873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994133387490238785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kgo_dayo 四年😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1994056759904763947",
+        "created_at": "2025-11-27T20:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T21:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994143509574820228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590390445347151873",
+              "start": 0,
+              "username": "Kgo_dayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994143509574820228",
+        "in_reply_to_user_id": "1590390445347151873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994133387490238785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kgo_dayo 四年😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590390445347151873",
+        "conversation_id": "1994056759904763947",
+        "created_at": "2025-11-27T19:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T20:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994133387490238785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994133387490238785",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994056759904763947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 1年7万吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 928,
+          "like_count": 13616,
+          "listed_count": 4,
+          "media_count": 465,
+          "tweet_count": 4984
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T17:06:52.000Z",
+        "description": "能不能买到43块麦乐鼠 ❄️ 🍁 some fragments of ego. miscellaneous notes of 🐭’s. Weeb & Riachū account: @Kgo_rabi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Kgo_rabi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kgodesu.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://kgodesu.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/INjCuYH8Zk"
+              }
+            ]
+          }
+        },
+        "id": "1590390445347151873",
+        "location": "Mousehole, England",
+        "name": "Kgo🐭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976897584166772736/2ocFD51x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 493,
+          "like_count": 3579,
+          "listed_count": 1,
+          "media_count": 1784,
+          "tweet_count": 9313
+        },
+        "url": "https://t.co/INjCuYH8Zk",
+        "username": "Kgo_dayo",
+        "verified": false
+      }
+    ]
+  }
+}

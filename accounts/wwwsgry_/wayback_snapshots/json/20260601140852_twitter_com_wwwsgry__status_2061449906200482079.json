@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061015447634612224"
+      ],
+      "media_source_tweet_id": [
+        "2061170599008067624"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2061449906200482079",
+    "created_at": "2026-06-01T14:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061449906200482079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1049468067502125062",
+          "start": 3,
+          "username": "S0UND_0F_FUTURE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u86PhEWPRS",
+          "end": 44,
+          "expanded_url": "https://x.com/S0UND_0F_FUTURE/status/2061170599008067624/photo/1",
+          "media_key": "3_2061015447634612224",
+          "start": 21,
+          "url": "https://t.co/u86PhEWPRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061449906200482079",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2057
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061170599008067624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @S0UND_0F_FUTURE: https://t.co/u86PhEWPRS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_2061015447634612224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoyoUDakAAy7IB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061015447634612224"
+          ],
+          "media_source_tweet_id": [
+            "2061170599008067624"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2061449906200482079",
+        "created_at": "2026-06-01T14:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061449906200482079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1049468067502125062",
+              "start": 3,
+              "username": "S0UND_0F_FUTURE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u86PhEWPRS",
+              "end": 44,
+              "expanded_url": "https://x.com/S0UND_0F_FUTURE/status/2061170599008067624/photo/1",
+              "media_key": "3_2061015447634612224",
+              "start": 21,
+              "url": "https://t.co/u86PhEWPRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061449906200482079",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2057
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061170599008067624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @S0UND_0F_FUTURE: https://t.co/u86PhEWPRS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061015447634612224"
+          ]
+        },
+        "author_id": "1049468067502125062",
+        "conversation_id": "2061170599008067624",
+        "created_at": "2026-05-31T19:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061170599008067624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u86PhEWPRS",
+              "end": 23,
+              "expanded_url": "https://x.com/S0UND_0F_FUTURE/status/2061170599008067624/photo/1",
+              "media_key": "3_2061015447634612224",
+              "start": 0,
+              "url": "https://t.co/u86PhEWPRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061170599008067624",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 680,
+          "impression_count": 128711,
+          "like_count": 14427,
+          "quote_count": 17,
+          "reply_count": 15,
+          "retweet_count": 2057
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/u86PhEWPRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 979,
+          "like_count": 16366,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 6494
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-09T01:14:20.000Z",
+        "description": "\"𝓜𝓮𝓽𝓪𝓶𝓸𝓻𝓹𝓱𝓸𝓼𝓲𝓼!\"\n\n(fan account based on Retry Now, not associated with Nakiso)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/JVXQdasg8w",
+                "end": 23,
+                "expanded_url": "https://discord.gg/JVXQdasg8w",
+                "start": 0,
+                "url": "https://t.co/g8oXjPndeK"
+              }
+            ]
+          }
+        },
+        "id": "1049468067502125062",
+        "location": "𝓦𝓱𝓮𝓻𝓮𝓿𝓮𝓻 𝔂𝓸𝓾 𝓪𝓻𝓮",
+        "name": "𝓗𝓪𝓽𝓼𝓾𝓷𝓮 𝓜𝓲𝓴𝓾 💙",
+        "pinned_tweet_id": "2057014425601941821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056673944015708160/pSO3aviq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8823,
+          "following_count": 645,
+          "like_count": 65902,
+          "listed_count": 20,
+          "media_count": 3641,
+          "tweet_count": 19878
+        },
+        "url": "https://t.co/g8oXjPndeK",
+        "username": "S0UND_0F_FUTURE",
+        "verified": false
+      }
+    ]
+  }
+}

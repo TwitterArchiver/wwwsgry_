@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2042567660634857549",
+    "created_at": "2026-04-10T20:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T21:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042706901197095188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1762715917879021568",
+          "start": 0,
+          "username": "Achangnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042706901197095188",
+    "in_reply_to_user_id": "1762715917879021568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042705390656512435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Achangnya 辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2042567660634857549",
+        "created_at": "2026-04-10T20:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042706901197095188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762715917879021568",
+              "start": 0,
+              "username": "Achangnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042706901197095188",
+        "in_reply_to_user_id": "1762715917879021568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042705390656512435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Achangnya 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762715917879021568",
+        "conversation_id": "2042567660634857549",
+        "created_at": "2026-04-10T20:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042705390656512435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042705390656512435",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042567660634857549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 竞赛的在宿舍刚上炕😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 954,
+          "like_count": 15473,
+          "listed_count": 4,
+          "media_count": 553,
+          "tweet_count": 6151
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T05:46:50.000Z",
+        "description": "学习，改变，实践\n仅反对军国主义\n提供网民素质检测服务",
+        "id": "1762715917879021568",
+        "location": "之江省 欲比西子市",
+        "name": "阿长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940098375640096768/-z0NqQiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 691,
+          "like_count": 2287,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1359
+        },
+        "username": "Achangnya",
+        "verified": false
+      }
+    ]
+  }
+}

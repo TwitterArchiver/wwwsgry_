@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075955193380995072"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2075916231518122129",
+    "created_at": "2026-07-11T14:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075955198972014897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rjkoMcixwy",
+          "end": 35,
+          "expanded_url": "https://x.com/wwwsgry_/status/2075955198972014897/photo/1",
+          "media_key": "3_2075955193380995072",
+          "start": 12,
+          "url": "https://t.co/rjkoMcixwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075955198972014897",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075954958059601950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 https://t.co/rjkoMcixwy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_2075955193380995072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9GP98aAAAsUUh.jpg",
+        "width": 284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075955193380995072"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2075916231518122129",
+        "created_at": "2026-07-11T14:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075955198972014897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjkoMcixwy",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/2075955198972014897/photo/1",
+              "media_key": "3_2075955193380995072",
+              "start": 12,
+              "url": "https://t.co/rjkoMcixwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075955198972014897",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075954958059601950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 https://t.co/rjkoMcixwy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2075916231518122129",
+        "created_at": "2026-07-11T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075954958059601950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075954958059601950",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075954882918650352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 不对。爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 997,
+          "like_count": 17062,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 6784
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "09｜高二生｜南部大陸的邪惡魔女",
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2075916231518122129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066050332250238976/PRslPyHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 342,
+          "like_count": 40562,
+          "listed_count": 5,
+          "media_count": 749,
+          "tweet_count": 23114
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

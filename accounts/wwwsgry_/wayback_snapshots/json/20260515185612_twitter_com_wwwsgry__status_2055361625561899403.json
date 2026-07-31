@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055329262845202433"
+      ],
+      "media_source_tweet_id": [
+        "2055329264984305728"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2055361625561899403",
+    "created_at": "2026-05-15T18:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055361625561899403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1758508742780567552",
+          "start": 3,
+          "username": "qianxunchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NcaxeGdRcj",
+          "end": 52,
+          "expanded_url": "https://x.com/qianxunchan/status/2055329264984305728/photo/1",
+          "media_key": "3_2055329262845202433",
+          "start": 29,
+          "url": "https://t.co/NcaxeGdRcj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055361625561899403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055329264984305728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qianxunchan: 吓得我赶紧去上班了😭😭 https://t.co/NcaxeGdRcj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2055329262845202433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX_EzBakAE7mBj.jpg",
+        "width": 599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055329262845202433"
+          ],
+          "media_source_tweet_id": [
+            "2055329264984305728"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2055361625561899403",
+        "created_at": "2026-05-15T18:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055361625561899403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758508742780567552",
+              "start": 3,
+              "username": "qianxunchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcaxeGdRcj",
+              "end": 52,
+              "expanded_url": "https://x.com/qianxunchan/status/2055329264984305728/photo/1",
+              "media_key": "3_2055329262845202433",
+              "start": 29,
+              "url": "https://t.co/NcaxeGdRcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055361625561899403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055329264984305728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qianxunchan: 吓得我赶紧去上班了😭😭 https://t.co/NcaxeGdRcj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055329262845202433"
+          ]
+        },
+        "author_id": "1758508742780567552",
+        "conversation_id": "2055329264984305728",
+        "created_at": "2026-05-15T16:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055329264984305728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcaxeGdRcj",
+              "end": 35,
+              "expanded_url": "https://x.com/qianxunchan/status/2055329264984305728/photo/1",
+              "media_key": "3_2055329262845202433",
+              "start": 12,
+              "url": "https://t.co/NcaxeGdRcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055329264984305728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "吓得我赶紧去上班了😭😭 https://t.co/NcaxeGdRcj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 974,
+          "like_count": 16142,
+          "listed_count": 4,
+          "media_count": 574,
+          "tweet_count": 6405
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n小号：@yansuichan\nQ群667335570\ntg在q群公告置顶\n\n生产年份:2007 \n身高:180 体重:57\n性别：female 🏳️‍⚧️\n爱好:到处逛 彩六 骑车 女装 wargame \n老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n好伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "yansuichan"
+              },
+              {
+                "end": 159,
+                "start": 149,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+D26Gt92PEwphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+D26Gt92PEwphNGNh",
+                "start": 0,
+                "url": "https://t.co/ohpCYKVI8b"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA 🇺🇸",
+        "name": "绿色杯子千尋醬喵～🫪😦😨😰🥵",
+        "pinned_tweet_id": "2043840840263708673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 1096,
+          "like_count": 3357,
+          "listed_count": 7,
+          "media_count": 644,
+          "tweet_count": 2151
+        },
+        "url": "https://t.co/ohpCYKVI8b",
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

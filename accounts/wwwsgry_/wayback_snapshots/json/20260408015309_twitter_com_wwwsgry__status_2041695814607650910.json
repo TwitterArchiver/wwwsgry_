@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      }
+    ],
+    "conversation_id": "2041695814607650910",
+    "created_at": "2026-04-08T01:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041695814607650910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikuexpo/statu…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/mikuexpo/status/2041684886873108554",
+          "start": 42,
+          "url": "https://t.co/slnuIMcfav"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041695814607650910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041684886873108554",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "芝加哥第一场还有四天就开了 这群byd要两天后再开presale😂😂😂😂😂😂😂😂😂 https://t.co/slnuIMcfav"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1675,
+        "media_key": "3_2041682469968347136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWDY56bAAAFHWp.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2041695814607650910",
+        "created_at": "2026-04-08T01:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041695814607650910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikuexpo/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/mikuexpo/status/2041684886873108554",
+              "start": 42,
+              "url": "https://t.co/slnuIMcfav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041695814607650910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041684886873108554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芝加哥第一场还有四天就开了 这群byd要两天后再开presale😂😂😂😂😂😂😂😂😂 https://t.co/slnuIMcfav"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041682469968347136"
+          ]
+        },
+        "author_id": "834571838701268992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2041684886873108554",
+        "created_at": "2026-04-08T01:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041684886873108554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MH31Ni69uW",
+              "end": 291,
+              "expanded_url": "https://x.com/mikuexpo/status/2041684886873108554/photo/1",
+              "media_key": "3_2041682469968347136",
+              "start": 268,
+              "url": "https://t.co/MH31Ni69uW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041684886873108554",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 388,
+                "start": 375,
+                "tag": "MIKUEXPO2026"
+              },
+              {
+                "end": 398,
+                "start": 389,
+                "tag": "MIKUEXPO"
+              },
+              {
+                "end": 411,
+                "start": 399,
+                "tag": "HatsuneMiku"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mikuexpo.com/na2026/goods.h…",
+                "end": 291,
+                "expanded_url": "https://mikuexpo.com/na2026/goods.html",
+                "start": 268,
+                "url": "https://t.co/DKAzfGgfhM"
+              }
+            ]
+          },
+          "text": "🌐MIKU EXPO 2026 North America🌐\n\nThe North America tour goods online sales for USA and Canada will be beginning soon!\nDon’t miss out✨\n\n🍬Sales Period: April 9th 9PM ET~\n🍭Online exclusive item available\n🍬Free sticker with purchases above 50USD or equivalent\n\n▼Goods Info\nhttps://t.co/DKAzfGgfhM\n\n*Mexico sales date to be announced at a later date.\n*Shipping regions will vary.\n\n#MIKUEXPO2026 #MIKUEXPO #HatsuneMiku"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 21367,
+          "like_count": 559,
+          "quote_count": 62,
+          "reply_count": 58,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "🌐MIKU EXPO 2026 North America🌐\n\nThe North America tour goods online sales for USA and Canada will be beginning soon!\nDon’t miss out✨\n\n🍬Sales Period: April 9th 9PM ET~\n🍭Online exclusive item available\n🍬Free sticker with purchases above 50USD or equivalent\n\n▼Goods Info https://t.co/MH31Ni69uW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646828041547776/E827cquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 955,
+          "like_count": 15583,
+          "listed_count": 4,
+          "media_count": 550,
+          "tweet_count": 6111
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-23T01:13:26.000Z",
+        "description": "Art by yon / suzunosuke © Crypton Future Media, INC. https://t.co/wE0rnMgXxp #MIKUEXPO2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 77,
+                "tag": "MIKUEXPO2026"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "piapro.net",
+                "end": 76,
+                "expanded_url": "https://piapro.net/",
+                "start": 53,
+                "url": "https://t.co/wE0rnMgXxp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikuexpo.com",
+                "end": 23,
+                "expanded_url": "http://mikuexpo.com/",
+                "start": 0,
+                "url": "https://t.co/4Ys4vpkdQs"
+              }
+            ]
+          }
+        },
+        "id": "834571838701268992",
+        "name": "MIKU EXPO",
+        "pinned_tweet_id": "2013763476527702173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999397683153539072/5cZ7KjId_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111378,
+          "following_count": 114,
+          "like_count": 146,
+          "listed_count": 325,
+          "media_count": 1695,
+          "tweet_count": 4527
+        },
+        "url": "https://t.co/4Ys4vpkdQs",
+        "username": "mikuexpo",
+        "verified": true
+      }
+    ]
+  }
+}

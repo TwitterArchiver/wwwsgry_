@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2075463275572248895",
+    "created_at": "2026-07-10T08:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075502400795029963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909626688675475456",
+          "start": 0,
+          "username": "Afteranone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075502400795029963",
+    "in_reply_to_user_id": "1909626688675475456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075463275572248895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Afteranone 方糕是对的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2075463275572248895",
+        "created_at": "2026-07-10T08:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075502400795029963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909626688675475456",
+              "start": 0,
+              "username": "Afteranone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075502400795029963",
+        "in_reply_to_user_id": "1909626688675475456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075463275572248895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Afteranone 方糕是对的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909626688675475456",
+        "conversation_id": "2075463275572248895",
+        "created_at": "2026-07-10T06:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075463275572248895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Afteranone/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Afteranone/status/2075455830024224946",
+              "start": 44,
+              "url": "https://t.co/xvFVBWaZ0o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075463275572248895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075455830024224946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近试了一下，感觉糯米糍里包雪糕和方糕这种等等的都不错！吃着凉快的同时也不会太冷感觉✌ https://t.co/xvFVBWaZ0o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 996,
+          "like_count": 17047,
+          "listed_count": 4,
+          "media_count": 598,
+          "tweet_count": 6772
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T15:18:28.000Z",
+        "description": "未完成品/网络幽灵/微活中/骑行\n欢迎来和我多说说话！！",
+        "id": "1909626688675475456",
+        "name": "Satline",
+        "pinned_tweet_id": "2001216761035940230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061700549687541760/wg16RuXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 133,
+          "like_count": 2209,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1387
+        },
+        "url": "",
+        "username": "Afteranone",
+        "verified": false
+      }
+    ]
+  }
+}

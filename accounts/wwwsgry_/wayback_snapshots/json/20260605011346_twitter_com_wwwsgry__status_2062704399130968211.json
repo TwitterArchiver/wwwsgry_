@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2062704399130968211",
+    "created_at": "2026-06-05T01:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062704399130968211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061811887096909824",
+          "start": 3,
+          "username": "NingYi1998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062704399130968211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062648883088330954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NingYi1998: 感觉加拿大传统约会项目真是除了逛超市，逛宜家，逛各种mall，就没别的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2062704399130968211",
+        "created_at": "2026-06-05T01:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062704399130968211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061811887096909824",
+              "start": 3,
+              "username": "NingYi1998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062704399130968211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062648883088330954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NingYi1998: 感觉加拿大传统约会项目真是除了逛超市，逛宜家，逛各种mall，就没别的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061811887096909824",
+        "conversation_id": "2062648883088330954",
+        "created_at": "2026-06-04T21:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T22:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062648883088330954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062648883088330954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7928,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "感觉加拿大传统约会项目真是除了逛超市，逛宜家，逛各种mall，就没别的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 974,
+          "like_count": 16391,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 6505
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T14:07:58.000Z",
+        "description": "凝熠の碎碎念\n大号@NingYi998\n励志当MTL第一女菩萨\nMTL同城的可以加V交友的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "NingYi998"
+              }
+            ]
+          }
+        },
+        "id": "2061811887096909824",
+        "name": "凝熠",
+        "pinned_tweet_id": "2062198983171162596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061874936516325376/-493CvXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 70,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "username": "NingYi1998",
+        "verified": false
+      }
+    ]
+  }
+}

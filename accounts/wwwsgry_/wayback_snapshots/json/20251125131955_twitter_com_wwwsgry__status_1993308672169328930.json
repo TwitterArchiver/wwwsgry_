@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1993188016072900883",
+    "created_at": "2025-11-25T13:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993308672169328930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826611872118046720",
+          "start": 0,
+          "username": "Ijichi_Kotomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993308672169328930",
+    "in_reply_to_user_id": "1826611872118046720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993208837164486875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ijichi_Kotomi 我物欲比较低 花3000多已经比较少见了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1993188016072900883",
+        "created_at": "2025-11-25T13:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993308672169328930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826611872118046720",
+              "start": 0,
+              "username": "Ijichi_Kotomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993308672169328930",
+        "in_reply_to_user_id": "1826611872118046720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993208837164486875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ijichi_Kotomi 我物欲比较低 花3000多已经比较少见了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826611872118046720",
+        "conversation_id": "1993188016072900883",
+        "created_at": "2025-11-25T06:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993208837164486875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993208837164486875",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993188016072900883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 3000多算超预算？我吃了4千多还瘦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 924,
+          "like_count": 13536,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 4967
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T13:26:34.000Z",
+        "description": "University Student/18/China @HKUniversity 25’/HAI interest: anime & painting & 术力口/favorite anime: CLANNAD/pjsk Bilingual: En/Zh alt:@kotomi_tyan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "HKUniversity"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "kotomi_tyan"
+              }
+            ]
+          }
+        },
+        "id": "1826611872118046720",
+        "location": "下北泽",
+        "name": "kotomi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893880882429108224/IKz-uKQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 655,
+          "like_count": 13327,
+          "listed_count": 4,
+          "media_count": 325,
+          "tweet_count": 4255
+        },
+        "username": "Ijichi_Kotomi",
+        "verified": false
+      }
+    ]
+  }
+}

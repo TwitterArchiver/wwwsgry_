@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2000966795281256897",
+    "created_at": "2025-12-17T04:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T05:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001154331886715382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        },
+        {
+          "end": 21,
+          "id": "1922602046907449344",
+          "start": 12,
+          "username": "tokiutsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001154331886715382",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001151855125250503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 @tokiutsu 不是 这个是美国的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2000966795281256897",
+        "created_at": "2025-12-17T04:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001154331886715382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            },
+            {
+              "end": 21,
+              "id": "1922602046907449344",
+              "start": 12,
+              "username": "tokiutsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001154331886715382",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001151855125250503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 @tokiutsu 不是 这个是美国的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2000966795281256897",
+        "created_at": "2025-12-17T04:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001151855125250503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            },
+            {
+              "end": 19,
+              "id": "1922602046907449344",
+              "start": 10,
+              "username": "tokiutsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001151855125250503",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001091761427358043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ @tokiutsu 等會你是說澳洲那個數學競賽嗎💀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 923,
+          "like_count": 14104,
+          "listed_count": 4,
+          "media_count": 476,
+          "tweet_count": 5147
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "木頭｜低成本批發人形生物｜澳11年級生絕贊生存中｜不放假時也會用@pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pamnc2024"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "name": "🪞",
+        "pinned_tweet_id": "1999805112932589884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992515558689193984/dbBJeHML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 282,
+          "like_count": 22280,
+          "listed_count": 3,
+          "media_count": 460,
+          "tweet_count": 11760
+        },
+        "username": "Chloris923",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-14T10:37:10.000Z",
+        "description": "F.U.C.K.Y.O.U",
+        "id": "1922602046907449344",
+        "location": "我不想回歸",
+        "name": "Сильная зависимость от кофеина",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977332361823162368/VtKXpLUC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 117,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1405
+        },
+        "username": "tokiutsu",
+        "verified": false
+      }
+    ]
+  }
+}

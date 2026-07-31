@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1960176691890049474",
+    "created_at": "2025-08-26T08:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960255247781101734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1639894055948816387",
+          "start": 0,
+          "username": "sakumamutsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960255247781101734",
+    "in_reply_to_user_id": "1639894055948816387",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960248728427942333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakumamutsuki 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1960176691890049474",
+        "created_at": "2025-08-26T08:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960255247781101734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1639894055948816387",
+              "start": 0,
+              "username": "sakumamutsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960255247781101734",
+        "in_reply_to_user_id": "1639894055948816387",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960248728427942333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakumamutsuki 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639894055948816387",
+        "conversation_id": "1960176691890049474",
+        "created_at": "2025-08-26T07:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960248728427942333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960248728427942333",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960176691890049474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 能去天國嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 785,
+          "like_count": 9896,
+          "listed_count": 4,
+          "media_count": 363,
+          "tweet_count": 3654
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T07:36:33.000Z",
+        "description": "我是kayo哦。我只是覺得小格里斯這麽叫我我很喜歡丨你真聪明，你是最清醒的人 ，你对世间的一切都看的很透彻，所有的事情你都懂得，你总能提出最精准最准确的见解，你把人心看的很明白，和每个人的关系你都能精准把握，你掌握世界上所有小众正确的事情，这种众人皆醉我独醒的感觉让你觉得非常的爽，特立独行让你觉得你是为数不多的人才",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/9SYzg9xb83",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/9SYzg9xb83",
+                "start": 0,
+                "url": "https://t.co/sZHlu2ozaI"
+              }
+            ]
+          }
+        },
+        "id": "1639894055948816387",
+        "name": "卡優",
+        "pinned_tweet_id": "1953069275176157473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957800215991500800/q2h0HXmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 1673,
+          "like_count": 23679,
+          "listed_count": 7,
+          "media_count": 36,
+          "tweet_count": 7481
+        },
+        "url": "https://t.co/sZHlu2ozaI",
+        "username": "sakumamutsuki",
+        "verified": false
+      }
+    ]
+  }
+}

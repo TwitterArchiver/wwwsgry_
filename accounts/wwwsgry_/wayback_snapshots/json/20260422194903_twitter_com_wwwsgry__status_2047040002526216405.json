@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2046995185448386659",
+    "created_at": "2026-04-22T19:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047040002526216405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878762574327824384",
+          "start": 0,
+          "username": "JihaiLin354002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047040002526216405",
+    "in_reply_to_user_id": "1878762574327824384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047012209541181767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JihaiLin354002 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2046995185448386659",
+        "created_at": "2026-04-22T19:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047040002526216405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878762574327824384",
+              "start": 0,
+              "username": "JihaiLin354002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047040002526216405",
+        "in_reply_to_user_id": "1878762574327824384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047012209541181767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JihaiLin354002 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878762574327824384",
+        "conversation_id": "2046995185448386659",
+        "created_at": "2026-04-22T17:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047012209541181767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047012209541181767",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046995185448386659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 我也是😩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 970,
+          "like_count": 15858,
+          "listed_count": 4,
+          "media_count": 557,
+          "tweet_count": 6247
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T11:14:51.000Z",
+        "description": "幸福感 抓着我 不放\n2008.8.19",
+        "id": "1878762574327824384",
+        "name": "Ro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027424685634310159/wDTaICtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 276,
+          "like_count": 8083,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 2249
+        },
+        "username": "JihaiLin354002",
+        "verified": false
+      }
+    ]
+  }
+}

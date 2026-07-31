@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2065872052079452190",
+    "created_at": "2026-06-13T20:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T21:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065890677385224447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065890677385224447",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065872052079452190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2065872052079452190",
+        "created_at": "2026-06-13T20:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065890677385224447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065890677385224447",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065872052079452190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2065872052079452190",
+        "created_at": "2026-06-13T19:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065872052079452190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2064288538158616929",
+              "start": 59,
+              "url": "https://t.co/qyLxYUGKqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065872052079452190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 330,
+                "start": 324,
+                "tag": "小藤闯世界"
+              }
+            ]
+          },
+          "text": "告诉各位一个好消息：\n\n小藤的旅行要继续进行啦\n\n从明天开始，小藤要和老爸一起自驾游半个月（老妈想留在家里照顾猫狗）\n\n从初中以来，小藤一直在住校，与家人的交流很少，故而矛盾很多......休学一年，小藤学会了赚钱，学会体贴与照料，家人也被我所改变，他们也意识到过去给我的教育过于畸形，现在想要给我弥补什么\n\n小藤虽说不是富贵家庭，但是父母一直很忙（做零售行业）,很少有时间给予关怀。\n\n如今他们放下家中的事业，短暂休憩（其实他们也很累了）\n\n本来去年冬天就在计划家庭旅行，因为冬天的业务并不繁忙，但是小藤突发交通事故，一直卧床养伤。现在小藤刚刚从日本回来，余兴未尽，家人想出去走走，让我做向导\n\n他们认为「出过国的人一定很有旅游经验」\n\n栏目  #小藤闯世界  将会续写"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 597,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064288538158616929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "告诉各位一个好消息：\n\n小藤的旅行要继续进行啦\n\n从明天开始，小藤要和老爸一起自驾游半个月（老妈想留在家里照顾猫狗） https://t.co/qyLxYUGKqj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 984,
+          "like_count": 16571,
+          "listed_count": 4,
+          "media_count": 580,
+          "tweet_count": 6587
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11983,
+          "following_count": 4363,
+          "like_count": 49030,
+          "listed_count": 36,
+          "media_count": 2779,
+          "tweet_count": 15935
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

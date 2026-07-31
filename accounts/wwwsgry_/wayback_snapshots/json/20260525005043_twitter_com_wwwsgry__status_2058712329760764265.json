@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2058708767576142320",
+    "created_at": "2026-05-25T00:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058712329760764265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "Y4miSTILLher3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058712329760764265",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058708767576142320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y4miSTILLher3 😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2058708767576142320",
+        "created_at": "2026-05-25T00:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058712329760764265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "Y4miSTILLher3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058712329760764265",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058708767576142320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y4miSTILLher3 😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049103771796660224",
+        "conversation_id": "2058708767576142320",
+        "created_at": "2026-05-25T00:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058708767576142320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058708767576142320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡五个小时起来考试心脏跳好快我要猝死了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 969,
+          "like_count": 16218,
+          "listed_count": 4,
+          "media_count": 576,
+          "tweet_count": 6443
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "loser | joker | gooner | 私には愛する妻がいます\nTo cry me a river ✟",
+        "id": "2049103771796660224",
+        "location": "Santa Ana, CA",
+        "name": "涙が没収された",
+        "pinned_tweet_id": "2054217812672205217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057467344889503744/homHnz32_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 50,
+          "like_count": 1358,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 279
+        },
+        "username": "Y4miSTILLher3",
+        "verified": false
+      }
+    ]
+  }
+}

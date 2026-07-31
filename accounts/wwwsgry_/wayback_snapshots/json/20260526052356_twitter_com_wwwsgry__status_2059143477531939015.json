@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059143456329781248"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2059143477531939015",
+    "created_at": "2026-05-26T05:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059143477531939015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oOm5WyMW6R",
+          "end": 33,
+          "expanded_url": "https://x.com/wwwsgry_/status/2059143477531939015/photo/1",
+          "media_key": "3_2059143456329781248",
+          "start": 10,
+          "url": "https://t.co/oOm5WyMW6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059143477531939015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这太好吃了你知道吗 https://t.co/oOm5WyMW6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059143456329781248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOMEFAbUAACERF.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059143456329781248"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059143477531939015",
+        "created_at": "2026-05-26T05:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059143477531939015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oOm5WyMW6R",
+              "end": 33,
+              "expanded_url": "https://x.com/wwwsgry_/status/2059143477531939015/photo/1",
+              "media_key": "3_2059143456329781248",
+              "start": 10,
+              "url": "https://t.co/oOm5WyMW6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059143477531939015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这太好吃了你知道吗 https://t.co/oOm5WyMW6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 968,
+          "like_count": 16245,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 6447
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

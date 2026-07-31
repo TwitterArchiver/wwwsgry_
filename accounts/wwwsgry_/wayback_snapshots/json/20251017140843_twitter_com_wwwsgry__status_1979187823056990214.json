@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1979146927452123351",
+    "created_at": "2025-10-17T14:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T15:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979187823056990214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1842895382839537664",
+          "start": 0,
+          "username": "_FiniteWorld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979187823056990214",
+    "in_reply_to_user_id": "1842895382839537664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979187533214027881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FiniteWorld 错误的 我是飞舞喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1979146927452123351",
+        "created_at": "2025-10-17T14:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979187823056990214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1842895382839537664",
+              "start": 0,
+              "username": "_FiniteWorld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979187823056990214",
+        "in_reply_to_user_id": "1842895382839537664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979187533214027881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FiniteWorld 错误的 我是飞舞喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842895382839537664",
+        "conversation_id": "1979146927452123351",
+        "created_at": "2025-10-17T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979187533214027881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979187533214027881",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979146927452123351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 大佬喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 900,
+          "like_count": 12473,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 4433
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T11:51:19.000Z",
+        "description": "为生而战 | 比彩梦还饿\n原神 | 绝区零 | 明日方舟 | Arcaea\n崩铁已退游 勿扰\nVue | React | Ktor",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "finiteworld.moe",
+                "end": 23,
+                "expanded_url": "http://finiteworld.moe",
+                "start": 0,
+                "url": "https://t.co/zlgMX0zv9M"
+              }
+            ]
+          }
+        },
+        "id": "1842895382839537664",
+        "location": "匹诺康尼",
+        "name": "Finite World",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845397247950979072/E2dL3s1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 553,
+          "like_count": 2930,
+          "listed_count": 5,
+          "media_count": 40,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/zlgMX0zv9M",
+        "username": "_FiniteWorld",
+        "verified": false
+      }
+    ]
+  }
+}

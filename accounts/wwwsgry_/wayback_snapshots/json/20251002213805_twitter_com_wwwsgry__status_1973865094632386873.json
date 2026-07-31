@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1973734066882228424",
+    "created_at": "2025-10-02T21:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T22:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973865094632386873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "MikuMikuGOAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973865094632386873",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973734066882228424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMikuGOAT 整天发史不涨就怪了😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1973734066882228424",
+        "created_at": "2025-10-02T21:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T22:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973865094632386873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "MikuMikuGOAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973865094632386873",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973734066882228424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMikuGOAT 整天发史不涨就怪了😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905180625981890560",
+        "conversation_id": "1973734066882228424",
+        "created_at": "2025-10-02T12:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T13:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973734066882228424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973734066882228424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽锁推一关涨粉好快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 886,
+          "like_count": 11564,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 4104
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "ドM犬　雑魚       变态\n              Masochist, incel, Chinese",
+        "id": "1905180625981890560",
+        "location": "between your feet",
+        "name": "‏ً",
+        "pinned_tweet_id": "1964292339893227904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973009992912646144/icMJfqNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 1909,
+          "like_count": 58576,
+          "listed_count": 4,
+          "media_count": 1094,
+          "tweet_count": 11171
+        },
+        "username": "MikuMikuGOAT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2066271042104893819",
+    "created_at": "2026-06-15T00:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066313230473957402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878762574327824384",
+          "start": 0,
+          "username": "JihaiLin354002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066313230473957402",
+    "in_reply_to_user_id": "1878762574327824384",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066308441912828161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JihaiLin354002 👍👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2066271042104893819",
+        "created_at": "2026-06-15T00:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066313230473957402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878762574327824384",
+              "start": 0,
+              "username": "JihaiLin354002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066313230473957402",
+        "in_reply_to_user_id": "1878762574327824384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066308441912828161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JihaiLin354002 👍👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878762574327824384",
+        "conversation_id": "2066271042104893819",
+        "created_at": "2026-06-14T23:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T00:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066308441912828161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066308441912828161",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066271042104893819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 988,
+          "like_count": 16611,
+          "listed_count": 4,
+          "media_count": 581,
+          "tweet_count": 6605
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T11:14:51.000Z",
+        "description": "08/女/bi/168/54kg/不约不聊纯碎碎念/识相就自己离开/开个防炸小号@LoranH999",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "LoranH999"
+              }
+            ]
+          }
+        },
+        "id": "1878762574327824384",
+        "name": "Ro",
+        "pinned_tweet_id": "2065356544712036651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027424685634310159/wDTaICtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 330,
+          "like_count": 10008,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 3089
+        },
+        "username": "JihaiLin354002",
+        "verified": false
+      }
+    ]
+  }
+}

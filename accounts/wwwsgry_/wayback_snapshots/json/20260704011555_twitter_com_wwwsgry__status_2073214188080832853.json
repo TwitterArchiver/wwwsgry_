@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2073214188080832853",
+    "created_at": "2026-07-04T01:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073214188080832853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1319578357395156993",
+          "start": 3,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073214188080832853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073102349951013068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoshino_2333: 面对面坐唯一坏处：没法轻松吃到对方碗里/嘴里（？）的东西。\n\n其他全是好处，桌面空间不会太拥挤、方便给对方倒水拿东西、看对方吃东西溅到脸上的时候可以帮忙擦擦..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2073214188080832853",
+        "created_at": "2026-07-04T01:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073214188080832853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1319578357395156993",
+              "start": 3,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073214188080832853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073102349951013068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoshino_2333: 面对面坐唯一坏处：没法轻松吃到对方碗里/嘴里（？）的东西。\n\n其他全是好处，桌面空间不会太拥挤、方便给对方倒水拿东西、看对方吃东西溅到脸上的时候可以帮忙擦擦..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2073102349951013068",
+        "created_at": "2026-07-03T17:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073102349951013068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qaq5777/status…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/qaq5777/status/2072964059519975628",
+              "start": 82,
+              "url": "https://t.co/a81rmDzp0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073102349951013068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 422,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072964059519975628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "面对面坐唯一坏处：没法轻松吃到对方碗里/嘴里（？）的东西。\n\n其他全是好处，桌面空间不会太拥挤、方便给对方倒水拿东西、看对方吃东西溅到脸上的时候可以帮忙擦擦... https://t.co/a81rmDzp0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 998,
+          "like_count": 16996,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 6726
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058124254395400192/V-ESBVRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 696,
+          "like_count": 20482,
+          "listed_count": 5,
+          "media_count": 896,
+          "tweet_count": 13826
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

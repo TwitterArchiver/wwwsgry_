@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1988623842718196213",
+    "created_at": "2025-11-12T15:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T16:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988625181661622422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927346314972418048",
+          "start": 0,
+          "username": "yukisama2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988625181661622422",
+    "in_reply_to_user_id": "1927346314972418048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988623842718196213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukisama2025 我怎么感觉还行（）剧情还挺好的吧，就是出的时装有点一般"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1988623842718196213",
+        "created_at": "2025-11-12T15:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988625181661622422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927346314972418048",
+              "start": 0,
+              "username": "yukisama2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988625181661622422",
+        "in_reply_to_user_id": "1927346314972418048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988623842718196213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukisama2025 我怎么感觉还行（）剧情还挺好的吧，就是出的时装有点一般"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927346314972418048",
+        "conversation_id": "1988623842718196213",
+        "created_at": "2025-11-12T15:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T16:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988623842718196213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988623842718196213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真就覺得愛麗西亞那些姿勢和服裝特別噁心。到底誰在喜歡我現在抽卡每次都求著千萬別抽到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 918,
+          "like_count": 13422,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 4825
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T12:49:34.000Z",
+        "description": "",
+        "id": "1927346314972418048",
+        "name": "❄️",
+        "pinned_tweet_id": "1978030002206568827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983408289368207360/micahwFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 196
+        },
+        "username": "yukisama2025",
+        "verified": false
+      }
+    ]
+  }
+}

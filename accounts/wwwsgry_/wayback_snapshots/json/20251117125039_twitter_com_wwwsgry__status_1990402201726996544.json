@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1990396919668211958",
+    "created_at": "2025-11-17T12:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T13:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990402201726996544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1603675470536486912",
+          "start": 0,
+          "username": "yeziyuovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990402201726996544",
+    "in_reply_to_user_id": "1603675470536486912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990396919668211958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeziyuovo 👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1990396910755344384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59PcdubcAAGEHQ.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1990396919668211958",
+        "created_at": "2025-11-17T12:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990402201726996544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1603675470536486912",
+              "start": 0,
+              "username": "yeziyuovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990402201726996544",
+        "in_reply_to_user_id": "1603675470536486912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990396919668211958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeziyuovo 👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990396910755344384"
+          ]
+        },
+        "author_id": "1603675470536486912",
+        "conversation_id": "1990396919668211958",
+        "created_at": "2025-11-17T12:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990396919668211958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1687116360814637056",
+              "start": 22,
+              "username": "wwwsgry_"
+            },
+            {
+              "end": 46,
+              "id": "1718587405379473408",
+              "start": 32,
+              "username": "Sakura1817550"
+            },
+            {
+              "end": 69,
+              "id": "1890301271124635648",
+              "start": 53,
+              "username": "niurouhuoguo123"
+            },
+            {
+              "end": 87,
+              "id": "1267812046097117186",
+              "start": 76,
+              "username": "Utsuho_223"
+            },
+            {
+              "end": 101,
+              "id": "1841820581282643972",
+              "start": 88,
+              "username": "qianfan10086"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 129,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1989847568952729601/YBwRDH8f?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989847568952729601/YBwRDH8f?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/pYe03wPMAS"
+            },
+            {
+              "display_url": "pic.x.com/0n7MBeSAPn",
+              "end": 153,
+              "expanded_url": "https://x.com/yeziyuovo/status/1990396919668211958/photo/1",
+              "media_key": "3_1990396910755344384",
+              "start": 130,
+              "url": "https://t.co/0n7MBeSAPn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990396919668211958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @wwwsgry_ @Sakura1817550\n👰 配偶: @niurouhuoguo123\n👶 孩子: @Utsuho_223 @qianfan10086\n\n➡️ https://t.co/pYe03wPMAS https://t.co/0n7MBeSAPn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 926,
+          "like_count": 13553,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 4874
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-16T08:56:49.000Z",
+        "description": "",
+        "id": "1603675470536486912",
+        "name": "yu",
+        "pinned_tweet_id": "1955209364639453403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608033505942065152/aWlUtDOI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 37,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 217
+        },
+        "username": "yeziyuovo",
+        "verified": false
+      }
+    ]
+  }
+}

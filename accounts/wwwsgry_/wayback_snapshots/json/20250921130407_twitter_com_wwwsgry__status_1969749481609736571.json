@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1969739399933186486",
+    "created_at": "2025-09-21T13:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969749481609736571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "MikuMikuGOAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969749481609736571",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969739399933186486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMikuGOAT 没救了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1969739399933186486].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1969739399933186486",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1969739399933186486"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1969739399933186486",
+        "created_at": "2025-09-21T13:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969749481609736571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "MikuMikuGOAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969749481609736571",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969739399933186486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMikuGOAT 没救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 865,
+          "like_count": 11117,
+          "listed_count": 4,
+          "media_count": 394,
+          "tweet_count": 3984
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "一般路过土澳性压抑男高，单推Miku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "973-eht-namuh-973.com",
+                "end": 23,
+                "expanded_url": "https://973-eht-namuh-973.com/",
+                "start": 0,
+                "url": "https://t.co/OQUkpqto2C"
+              }
+            ]
+          }
+        },
+        "id": "1905180625981890560",
+        "location": "wrong side of heaven",
+        "name": "໊",
+        "pinned_tweet_id": "1964292339893227904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966003414317543425/gIUh-p9-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 1707,
+          "like_count": 52581,
+          "listed_count": 3,
+          "media_count": 1000,
+          "tweet_count": 10060
+        },
+        "url": "https://t.co/OQUkpqto2C",
+        "username": "MikuMikuGOAT",
+        "verified": false
+      }
+    ]
+  }
+}

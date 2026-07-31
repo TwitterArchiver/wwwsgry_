@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2058158405387231695",
+    "created_at": "2026-05-23T19:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T20:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058269135444791416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858851394599653376",
+          "start": 0,
+          "username": "NightGuesser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058269135444791416",
+    "in_reply_to_user_id": "1858851394599653376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058207944752406773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NightGuesser 谢谢🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2058158405387231695",
+        "created_at": "2026-05-23T19:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058269135444791416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858851394599653376",
+              "start": 0,
+              "username": "NightGuesser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058269135444791416",
+        "in_reply_to_user_id": "1858851394599653376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058207944752406773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NightGuesser 谢谢🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858851394599653376",
+        "conversation_id": "2058158405387231695",
+        "created_at": "2026-05-23T15:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058207944752406773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058207944752406773",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058158405387231695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 生日快乐捏～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 969,
+          "like_count": 16205,
+          "listed_count": 4,
+          "media_count": 575,
+          "tweet_count": 6434
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T12:35:22.000Z",
+        "description": "这里是一只只存在于线上的赛博治愈猫猫……绝大多数时间保持温柔善良和优雅，偶尔看到槽点过多的言论会有点小毒舌，也会有不合时宜的认真喵~",
+        "id": "1858851394599653376",
+        "name": "晚安喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859586941211361280/SIyc1-E-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 20,
+          "like_count": 989,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 541
+        },
+        "username": "NightGuesser",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1985358137436897283",
+    "created_at": "2025-11-03T14:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T15:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985358759129162065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847272386066051073",
+          "start": 0,
+          "username": "io__jiia_0112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985358759129162065",
+    "in_reply_to_user_id": "1847272386066051073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985358613217747248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@io__jiia_0112 是这样的😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1985358137436897283",
+        "created_at": "2025-11-03T14:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985358759129162065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847272386066051073",
+              "start": 0,
+              "username": "io__jiia_0112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985358759129162065",
+        "in_reply_to_user_id": "1847272386066051073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985358613217747248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@io__jiia_0112 是这样的😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847272386066051073",
+        "conversation_id": "1985358137436897283",
+        "created_at": "2025-11-03T14:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T15:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985358613217747248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985358613217747248",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985358137436897283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 有點太冷了🤧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 923,
+          "like_count": 13193,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 4768
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T13:44:00.000Z",
+        "description": "俯瞰風景",
+        "id": "1847272386066051073",
+        "name": "小老虎",
+        "pinned_tweet_id": "1981818097259647160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888639438944915456/JJv02vQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 78,
+          "like_count": 7422,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1624
+        },
+        "username": "io__jiia_0112",
+        "verified": false
+      }
+    ]
+  }
+}

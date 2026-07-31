@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2029922521244471683",
+    "created_at": "2026-03-06T14:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T15:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029922521244471683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dqkeita/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/dqkeita/status/2029718134530228479",
+          "start": 4,
+          "url": "https://t.co/ybxmitslGQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029922521244471683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029718134530228479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个好 https://t.co/ybxmitslGQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33274,
+        "height": 576,
+        "media_key": "7_2029718090691530753",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2029718090691530753/pu/img/3UcLNkQiG0kf2zD5.jpg",
+        "public_metrics": {
+          "view_count": 499392
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029718090691530753/pu/vid/avc1/526x270/nOXyBIqz-9wQliC4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029718090691530753/pu/vid/avc1/702x360/p-c2IiyW8vflxTk_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2029718090691530753/pu/vid/avc1/1124x576/YsxNvt4LsoEnPzI5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2029718090691530753/pu/pl/LgqtMB91BseMRYq8.m3u8"
+          }
+        ],
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2029922521244471683",
+        "created_at": "2026-03-06T14:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029922521244471683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dqkeita/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/dqkeita/status/2029718134530228479",
+              "start": 4,
+              "url": "https://t.co/ybxmitslGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029922521244471683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029718134530228479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好 https://t.co/ybxmitslGQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2029718090691530753"
+          ]
+        },
+        "author_id": "1161380924229115907",
+        "conversation_id": "2029718134530228479",
+        "created_at": "2026-03-06T00:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029718134530228479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX34e0B1Cd",
+              "end": 23,
+              "expanded_url": "https://x.com/DqKeita/status/2029718134530228479/video/1",
+              "media_key": "7_2029718090691530753",
+              "start": 0,
+              "url": "https://t.co/cX34e0B1Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029718134530228479",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12812,
+          "impression_count": 960095,
+          "like_count": 33151,
+          "quote_count": 187,
+          "reply_count": 69,
+          "retweet_count": 2278
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cX34e0B1Cd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 955,
+          "like_count": 14826,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 5709
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T20:56:04.000Z",
+        "description": "ฅ(• ɪ •)HoyoCC Official✦\n🔴https://t.co/P7WTpRLTbU |\n🟣https://t.co/7VpRaPi6Fc |\n\n✉️Keitaro@amg.gg\n\n Enlace de descuento▶️https://t.co/zKrZk1Mnrd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KeitaroTR",
+                "end": 49,
+                "expanded_url": "http://youtube.com/@KeitaroTR",
+                "start": 26,
+                "url": "https://t.co/P7WTpRLTbU"
+              },
+              {
+                "display_url": "twitch.tv/keitarotr",
+                "end": 76,
+                "expanded_url": "http://twitch.tv/keitarotr",
+                "start": 53,
+                "url": "https://t.co/7VpRaPi6Fc"
+              },
+              {
+                "display_url": "ene.ba/Keitaro",
+                "end": 143,
+                "expanded_url": "https://ene.ba/Keitaro",
+                "start": 120,
+                "url": "https://t.co/zKrZk1Mnrd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KeitaroTR",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KeitaroTR",
+                "start": 0,
+                "url": "https://t.co/DMU2wxMt2e"
+              }
+            ]
+          }
+        },
+        "id": "1161380924229115907",
+        "location": "Comunidad Valenciana, España",
+        "name": "Keitaro",
+        "pinned_tweet_id": "2029300857502875728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975233561494986753/2jbdzKAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76909,
+          "following_count": 2436,
+          "like_count": 198991,
+          "listed_count": 115,
+          "media_count": 17352,
+          "tweet_count": 51461
+        },
+        "url": "https://t.co/DMU2wxMt2e",
+        "username": "DqKeita",
+        "verified": true
+      }
+    ]
+  }
+}

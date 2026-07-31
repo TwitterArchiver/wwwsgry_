@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1960917832465834269",
+    "created_at": "2025-08-28T05:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T06:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960941446959141081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692408428642357248",
+          "start": 0,
+          "username": "chiyoukawai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960941446959141081",
+    "in_reply_to_user_id": "1692408428642357248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960917832465834269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyoukawai 这是在做什么，，，唐笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1847,
+        "media_key": "3_1960917829877948417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzaUYHua4AECUPO.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1960917832465834269",
+        "created_at": "2025-08-28T05:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T06:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960941446959141081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692408428642357248",
+              "start": 0,
+              "username": "chiyoukawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960941446959141081",
+        "in_reply_to_user_id": "1692408428642357248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960917832465834269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyoukawai 这是在做什么，，，唐笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960917829877948417"
+          ]
+        },
+        "author_id": "1692408428642357248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1960917832465834269",
+        "created_at": "2025-08-28T04:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T05:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960917832465834269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aElR7sw5H6",
+              "end": 30,
+              "expanded_url": "https://x.com/chiyoukawai/status/1960917832465834269/photo/1",
+              "media_key": "3_1960917829877948417",
+              "start": 7,
+              "url": "https://t.co/aElR7sw5H6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960917832465834269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幹啥啊。。。 https://t.co/aElR7sw5H6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 806,
+          "like_count": 10008,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 3679
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T05:29:59.000Z",
+        "description": "いいね≠認同\nムツキは世界一1⃣️1⃣️1⃣️\n日本語👌 EN👌CN👌 16歳女子高一生\n兔兔派 兔兔黨 兔兔主義🐰🐰 以及我不能使用私信🙇‍♀️🙇‍♀️上推衹是為了看可愛的東西 我害怕建政的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koieivi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koieivi",
+                "start": 0,
+                "url": "https://t.co/SR2vL36YlE"
+              }
+            ]
+          }
+        },
+        "id": "1692408428642357248",
+        "location": "兔兔窩",
+        "name": "koi🍰",
+        "pinned_tweet_id": "1947217505841508596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958429139628867584/WRWeiX8X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 247,
+          "like_count": 38356,
+          "listed_count": 7,
+          "media_count": 274,
+          "tweet_count": 1809
+        },
+        "url": "https://t.co/SR2vL36YlE",
+        "username": "chiyoukawai",
+        "verified": false
+      }
+    ]
+  }
+}

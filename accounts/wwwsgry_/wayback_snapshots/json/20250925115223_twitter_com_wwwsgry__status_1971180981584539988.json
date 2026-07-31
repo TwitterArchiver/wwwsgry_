@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1970978781692297358",
+    "created_at": "2025-09-25T11:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T12:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971180981584539988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1741421109365387264",
+          "start": 0,
+          "username": "rinn00126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971180981584539988",
+    "in_reply_to_user_id": "1741421109365387264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971121991127355603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinn00126 我不到啊图是这么写的（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1970978781692297358",
+        "created_at": "2025-09-25T11:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T12:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971180981584539988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741421109365387264",
+              "start": 0,
+              "username": "rinn00126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971180981584539988",
+        "in_reply_to_user_id": "1741421109365387264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971121991127355603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinn00126 我不到啊图是这么写的（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741421109365387264",
+        "conversation_id": "1970978781692297358",
+        "created_at": "2025-09-25T07:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T08:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971121991127355603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971121991127355603",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970978781692297358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ GCSE不应该是1-9嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 871,
+          "like_count": 11269,
+          "listed_count": 4,
+          "media_count": 395,
+          "tweet_count": 4025
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T11:30:00.000Z",
+        "description": "準技術者です | INTJ | ZH・EN・日本語勉強中 | 願為貫徹自由意志而生，還有她 | \nよろしく",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin61707",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin61707",
+                "start": 0,
+                "url": "https://t.co/QHATznyJYK"
+              }
+            ]
+          }
+        },
+        "id": "1741421109365387264",
+        "location": "United Kingdom",
+        "name": "霖リン",
+        "pinned_tweet_id": "1936539542074302635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936895010235981824/o5YP0lIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 668,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/QHATznyJYK",
+        "username": "rinn00126",
+        "verified": false
+      }
+    ]
+  }
+}

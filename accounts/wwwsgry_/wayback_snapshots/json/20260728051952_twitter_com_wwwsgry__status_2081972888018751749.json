@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081799219531120640"
+      ],
+      "media_source_tweet_id": [
+        "2081799318462214156"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2081972888018751749",
+    "created_at": "2026-07-28T05:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081972888018751749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041208481030852608",
+          "start": 3,
+          "username": "JuanEgg18"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DxeN32eVuH",
+          "end": 38,
+          "expanded_url": "https://x.com/JuanEgg18/status/2081799318462214156/video/1",
+          "media_key": "13_2081799219531120640",
+          "start": 15,
+          "url": "https://t.co/DxeN32eVuH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081972888018751749",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081799318462214156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JuanEgg18: https://t.co/DxeN32eVuH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6391,
+        "height": 1280,
+        "media_key": "13_2081799219531120640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081799219531120640/img/IBE94lQhsyMajS6w.jpg",
+        "public_metrics": {
+          "view_count": 12345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081799219531120640/vid/avc1/320x568/yarYojYYWF3u31fO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081799219531120640/vid/avc1/480x852/T4AknuJwGITqXNS5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081799219531120640/vid/avc1/720x1280/5taGygPxhtRyd6fg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081799219531120640/pl/x-rXjsu7IXE4U8SA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081799219531120640"
+          ]
+        },
+        "author_id": "2041208481030852608",
+        "conversation_id": "2081799318462214156",
+        "created_at": "2026-07-27T17:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081799318462214156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxeN32eVuH",
+              "end": 23,
+              "expanded_url": "https://x.com/JuanEgg18/status/2081799318462214156/video/1",
+              "media_key": "13_2081799219531120640",
+              "start": 0,
+              "url": "https://t.co/DxeN32eVuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081799318462214156",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 24782,
+          "like_count": 1125,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DxeN32eVuH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081799219531120640"
+          ],
+          "media_source_tweet_id": [
+            "2081799318462214156"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2081972888018751749",
+        "created_at": "2026-07-28T05:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081972888018751749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041208481030852608",
+              "start": 3,
+              "username": "JuanEgg18"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DxeN32eVuH",
+              "end": 38,
+              "expanded_url": "https://x.com/JuanEgg18/status/2081799318462214156/video/1",
+              "media_key": "13_2081799219531120640",
+              "start": 15,
+              "url": "https://t.co/DxeN32eVuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081972888018751749",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081799318462214156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JuanEgg18: https://t.co/DxeN32eVuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "何帳號？@zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1009,
+          "like_count": 17438,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 6899
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T17:38:51.000Z",
+        "description": "谢谢大家关心！我是蛋卷Dwi本人啦～～！！",
+        "id": "2041208481030852608",
+        "name": "蛋卷Dwi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041235142530961408/C0K-uBWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10811,
+          "following_count": 59,
+          "like_count": 143,
+          "listed_count": 31,
+          "media_count": 102,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "JuanEgg18",
+        "verified": false
+      }
+    ]
+  }
+}

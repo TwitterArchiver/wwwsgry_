@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1959560825133310242",
+    "created_at": "2025-08-24T10:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T11:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959564960348180838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1541257518156218368",
+          "start": 0,
+          "username": "TAaaaamia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959564960348180838",
+    "in_reply_to_user_id": "1541257518156218368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959564702817645037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAaaaamia 捞翔，中🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1959560825133310242",
+        "created_at": "2025-08-24T10:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T11:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959564960348180838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1541257518156218368",
+              "start": 0,
+              "username": "TAaaaamia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959564960348180838",
+        "in_reply_to_user_id": "1541257518156218368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959564702817645037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAaaaamia 捞翔，中🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541257518156218368",
+        "conversation_id": "1959560825133310242",
+        "created_at": "2025-08-24T10:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T11:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959564702817645037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959564702817645037",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959560825133310242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 中不中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 784,
+          "like_count": 9808,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 3626
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T03:10:23.000Z",
+        "description": "cn小曦 一个很普通的人，很善解人意喜欢沟通，会提供爆炸的情绪价值，很欢迎来找我聊天!我会暖死你的😎互fo嘞，几乎全天都在线",
+        "id": "1541257518156218368",
+        "location": "四川",
+        "name": "TAMIA",
+        "pinned_tweet_id": "1876299891422761147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877388642920050688/ROKChI52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 78,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 472
+        },
+        "username": "TAaaaamia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2023245005876285537",
+    "created_at": "2026-02-16T09:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023330144958787800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1293074266515099648",
+          "start": 0,
+          "username": "Plaskid_9244"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023330144958787800",
+    "in_reply_to_user_id": "1293074266515099648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023321589828448509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plaskid_9244 他给自己全程经历直接发出来了🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2023245005876285537",
+        "created_at": "2026-02-16T09:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023330144958787800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1293074266515099648",
+              "start": 0,
+              "username": "Plaskid_9244"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023330144958787800",
+        "in_reply_to_user_id": "1293074266515099648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023321589828448509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plaskid_9244 他给自己全程经历直接发出来了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293074266515099648",
+        "conversation_id": "2023245005876285537",
+        "created_at": "2026-02-16T09:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023321589828448509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023321589828448509",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023245005876285537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 怎么知道的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 949,
+          "like_count": 14293,
+          "listed_count": 4,
+          "media_count": 507,
+          "tweet_count": 5542
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-11T06:38:41.000Z",
+        "description": "一個沒有雙休的三流高中生/我忘了我是EN還是IN/草你媽榮格/Wovon man nicht sprechen kann, darüber muß man schweigen./也許選擇去死",
+        "id": "1293074266515099648",
+        "location": "Newcastle,UK",
+        "name": "v0dkakillzmyenvyy",
+        "pinned_tweet_id": "1977044514859893148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944718997355728896/2k3ZS-Bt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 812,
+          "like_count": 5595,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 795
+        },
+        "username": "Plaskid_9244",
+        "verified": false
+      }
+    ]
+  }
+}

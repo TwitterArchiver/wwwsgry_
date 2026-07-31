@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2055361931070902391",
+    "created_at": "2026-05-15T18:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055361931070902391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1528798633168347137",
+          "start": 3,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055361931070902391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055112554981253267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TomoriNao2022: 老实做题的叫做题区，闹腾的叫嘉豪。\n\n我看这小一辈打法也颇有老一辈遗风啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2055361931070902391",
+        "created_at": "2026-05-15T18:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055361931070902391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1528798633168347137",
+              "start": 3,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055361931070902391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055112554981253267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TomoriNao2022: 老实做题的叫做题区，闹腾的叫嘉豪。\n\n我看这小一辈打法也颇有老一辈遗风啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528798633168347137",
+        "conversation_id": "2055112554981253267",
+        "created_at": "2026-05-15T02:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055112554981253267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055112554981253267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 22723,
+          "like_count": 439,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "老实做题的叫做题区，闹腾的叫嘉豪。\n\n我看这小一辈打法也颇有老一辈遗风啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 974,
+          "like_count": 16143,
+          "listed_count": 4,
+          "media_count": 574,
+          "tweet_count": 6406
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！",
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "1894341414131306854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16525,
+          "following_count": 532,
+          "like_count": 10614,
+          "listed_count": 59,
+          "media_count": 2389,
+          "tweet_count": 10125
+        },
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983902120593256587",
+    "created_at": "2025-10-31T13:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T14:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984244091295809929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1903842107707850752",
+          "start": 0,
+          "username": "YtT1925157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984244091295809929",
+    "in_reply_to_user_id": "1903842107707850752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984243266616012881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YtT1925157 申工程所以这么学的 单ossd认可度太低了才加的ap sat"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T13:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984244091295809929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1903842107707850752",
+              "start": 0,
+              "username": "YtT1925157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984244091295809929",
+        "in_reply_to_user_id": "1903842107707850752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984243266616012881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YtT1925157 申工程所以这么学的 单ossd认可度太低了才加的ap sat"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903842107707850752",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T12:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984243266616012881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984243266616012881",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984241921867620514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ ossd和ap一起搞？感觉很有故事了，是学偏综合类的专业吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 921,
+          "like_count": 13048,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 4712
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T16:12:00.000Z",
+        "description": "",
+        "id": "1903842107707850752",
+        "location": "阿克西斯",
+        "name": "ERRHAZE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914350748588240896/8QUDu6zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 1162,
+          "like_count": 2839,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 929
+        },
+        "username": "YtT1925157",
+        "verified": false
+      }
+    ]
+  }
+}

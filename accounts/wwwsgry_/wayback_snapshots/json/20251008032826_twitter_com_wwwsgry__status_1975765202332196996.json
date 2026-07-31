@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1975765202332196996",
+    "created_at": "2025-10-08T03:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T04:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975765202332196996"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975765202332196996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有的时候会思考，我把他们当作朋友但他们会不会只把我当作陌生人。但哪怕他们把我看做朋友，我不擅长和人相处，很多时候只能接受他们单方面的好意，我却不知道怎么回报，就又会质疑自己是否配做他们的朋友。跟他们相处只能尽量去适当“骚扰”、创造存在感维持关系，可我又怕烦到他们导致他们不理我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1975765202332196996",
+        "created_at": "2025-10-08T03:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T04:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975765202332196996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975765202332196996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有的时候会思考，我把他们当作朋友但他们会不会只把我当作陌生人。但哪怕他们把我看做朋友，我不擅长和人相处，很多时候只能接受他们单方面的好意，我却不知道怎么回报，就又会质疑自己是否配做他们的朋友。跟他们相处只能尽量去适当“骚扰”、创造存在感维持关系，可我又怕烦到他们导致他们不理我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 892,
+          "like_count": 11852,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 4232
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

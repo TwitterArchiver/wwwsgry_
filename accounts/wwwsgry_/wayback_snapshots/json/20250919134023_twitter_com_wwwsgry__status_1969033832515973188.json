@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1968954486770004301",
+    "created_at": "2025-09-19T13:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T14:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969033832515973188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1813971881990742016",
+          "start": 0,
+          "username": "TXTYYDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969033832515973188",
+    "in_reply_to_user_id": "1813971881990742016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968954486770004301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TXTYYDZ 你是？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_1968954483557511168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Mhq7tbsAAP-7r.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1968954486770004301",
+        "created_at": "2025-09-19T13:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969033832515973188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1813971881990742016",
+              "start": 0,
+              "username": "TXTYYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969033832515973188",
+        "in_reply_to_user_id": "1813971881990742016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968954486770004301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TXTYYDZ 你是？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968954483557511168"
+          ]
+        },
+        "author_id": "1813971881990742016",
+        "conversation_id": "1968954486770004301",
+        "created_at": "2025-09-19T08:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T09:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968954486770004301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jx8hduLf3X",
+              "end": 60,
+              "expanded_url": "https://x.com/TXTYYDZ/status/1968954486770004301/photo/1",
+              "media_key": "3_1968954483557511168",
+              "start": 37,
+              "url": "https://t.co/jx8hduLf3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968954486770004301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突击检测：是不是都把我给忘了是不是是不是是不是是不是是不是？！！！！！！ https://t.co/jx8hduLf3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 865,
+          "like_count": 11074,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 3972
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T16:19:41.000Z",
+        "description": "抽象与生活，梗图即为艺术！\n唯一单推：@snhrlinglu\n废话小账:@TianXiaoTangDLZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "snhrlinglu"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "TianXiaoTangDLZ"
+              }
+            ]
+          }
+        },
+        "id": "1813971881990742016",
+        "location": "铁西区是沈阳的不是鞍山也不是四平铁西区",
+        "name": "田小唐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879614299683074048/oo3zvDbF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 971,
+          "like_count": 50952,
+          "listed_count": 8,
+          "media_count": 2229,
+          "tweet_count": 13343
+        },
+        "username": "TXTYYDZ",
+        "verified": false
+      }
+    ]
+  }
+}

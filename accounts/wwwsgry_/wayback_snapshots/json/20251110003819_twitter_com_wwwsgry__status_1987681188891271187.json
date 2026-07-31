@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1987681188891271187",
+    "created_at": "2025-11-10T00:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T01:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987681188891271187"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987681188891271187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "眼前刚刚飘过去一片很小的发光的羽毛 是我熬夜太多出幻觉了吗😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1987681188891271187",
+        "created_at": "2025-11-10T00:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T01:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987681188891271187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987681188891271187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼前刚刚飘过去一片很小的发光的羽毛 是我熬夜太多出幻觉了吗😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 913,
+          "like_count": 13361,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 4810
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

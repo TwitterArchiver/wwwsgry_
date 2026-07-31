@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066680787089670144"
+      ],
+      "media_source_tweet_id": [
+        "2066756153845977328"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2066785890215633195",
+    "created_at": "2026-06-16T07:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066785890215633195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VH3PlV2ia2",
+          "end": 64,
+          "expanded_url": "https://x.com/Rococo90933671/status/2066756153845977328/photo/1",
+          "media_key": "3_2066680787089670144",
+          "start": 41,
+          "url": "https://t.co/VH3PlV2ia2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066785890215633195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066756153845977328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 永远记得这个让人气哭的瞬间，人各有命啊😭 https://t.co/VH3PlV2ia2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 763,
+        "media_key": "3_2066680787089670144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK5TOeKawAASv19.png",
+        "width": 732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066680787089670144"
+          ],
+          "media_source_tweet_id": [
+            "2066756153845977328"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2066785890215633195",
+        "created_at": "2026-06-16T07:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066785890215633195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VH3PlV2ia2",
+              "end": 64,
+              "expanded_url": "https://x.com/Rococo90933671/status/2066756153845977328/photo/1",
+              "media_key": "3_2066680787089670144",
+              "start": 41,
+              "url": "https://t.co/VH3PlV2ia2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066785890215633195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066756153845977328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 永远记得这个让人气哭的瞬间，人各有命啊😭 https://t.co/VH3PlV2ia2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066680787089670144"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2066756153845977328",
+        "created_at": "2026-06-16T05:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066756153845977328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VH3PlV2ia2",
+              "end": 44,
+              "expanded_url": "https://x.com/Rococo90933671/status/2066756153845977328/photo/1",
+              "media_key": "3_2066680787089670144",
+              "start": 21,
+              "url": "https://t.co/VH3PlV2ia2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066756153845977328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2063,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "永远记得这个让人气哭的瞬间，人各有命啊😭 https://t.co/VH3PlV2ia2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 988,
+          "like_count": 16632,
+          "listed_count": 4,
+          "media_count": 582,
+          "tweet_count": 6607
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12801,
+          "following_count": 3109,
+          "like_count": 40742,
+          "listed_count": 41,
+          "media_count": 4352,
+          "tweet_count": 22645
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

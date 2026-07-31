@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1993340380767760870",
+    "created_at": "2025-11-25T16:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993363350160654803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1687753797169467392",
+          "start": 0,
+          "username": "pamnc2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993363350160654803",
+    "in_reply_to_user_id": "1687753797169467392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993340380767760870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pamnc2024 宝宝加油👄❤️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1993340380767760870].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1993340380767760870",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1993340380767760870"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1993340380767760870",
+        "created_at": "2025-11-25T16:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993363350160654803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1687753797169467392",
+              "start": 0,
+              "username": "pamnc2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993363350160654803",
+        "in_reply_to_user_id": "1687753797169467392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993340380767760870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pamnc2024 宝宝加油👄❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 924,
+          "like_count": 13548,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 4971
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T09:14:06.000Z",
+        "description": "某某｜17｜文科生｜音樂生｜電子白癡｜非主流神棍｜碎碎念｜秦始皇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.ms/chloris923",
+                "end": 23,
+                "expanded_url": "https://note.ms/chloris923",
+                "start": 0,
+                "url": "https://t.co/w2Jss0WVW0"
+              }
+            ]
+          }
+        },
+        "id": "1687753797169467392",
+        "name": "渡鴉還在睡大覺💤",
+        "pinned_tweet_id": "1992837682855280904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992484086120960002/2q8CwVkK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 185,
+          "like_count": 15310,
+          "listed_count": 1,
+          "media_count": 428,
+          "tweet_count": 10632
+        },
+        "url": "https://t.co/w2Jss0WVW0",
+        "username": "pamnc2024",
+        "verified": false
+      }
+    ]
+  }
+}

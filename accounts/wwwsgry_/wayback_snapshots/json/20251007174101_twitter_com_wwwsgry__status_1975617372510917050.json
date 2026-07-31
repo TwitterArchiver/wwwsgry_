@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1975606682962338093",
+    "created_at": "2025-10-07T17:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T18:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975617372510917050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692408428642357248",
+          "start": 0,
+          "username": "chiyoukawai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975617372510917050",
+    "in_reply_to_user_id": "1692408428642357248",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975606682962338093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyoukawai 🤨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1975606682962338093",
+        "created_at": "2025-10-07T17:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975617372510917050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692408428642357248",
+              "start": 0,
+              "username": "chiyoukawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975617372510917050",
+        "in_reply_to_user_id": "1692408428642357248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975606682962338093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyoukawai 🤨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692408428642357248",
+        "conversation_id": "1975606682962338093",
+        "created_at": "2025-10-07T16:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975606682962338093"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975606682962338093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "國慶只做了兩次^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 889,
+          "like_count": 11799,
+          "listed_count": 4,
+          "media_count": 413,
+          "tweet_count": 4219
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T05:29:59.000Z",
+        "description": "別罵我了唄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koieivi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koieivi",
+                "start": 0,
+                "url": "https://t.co/SR2vL36YlE"
+              }
+            ]
+          }
+        },
+        "id": "1692408428642357248",
+        "location": "兔兔窩",
+        "name": "。。。。。",
+        "pinned_tweet_id": "1947217505841508596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967107624203415552/UD2ne1DH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 251,
+          "like_count": 40753,
+          "listed_count": 8,
+          "media_count": 282,
+          "tweet_count": 1924
+        },
+        "url": "https://t.co/SR2vL36YlE",
+        "username": "chiyoukawai",
+        "verified": false
+      }
+    ]
+  }
+}

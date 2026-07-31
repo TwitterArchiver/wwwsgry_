@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1976771038278303999",
+    "created_at": "2025-10-10T22:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T23:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976775071944650791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934423287729455105",
+          "start": 0,
+          "username": "auroralia7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976775071944650791",
+    "in_reply_to_user_id": "1934423287729455105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976771038278303999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auroralia7777 可爱就可以秒杀99%的人了👄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1976771038278303999",
+        "created_at": "2025-10-10T22:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T23:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976775071944650791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934423287729455105",
+              "start": 0,
+              "username": "auroralia7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976775071944650791",
+        "in_reply_to_user_id": "1934423287729455105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976771038278303999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auroralia7777 可爱就可以秒杀99%的人了👄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934423287729455105",
+        "conversation_id": "1976771038278303999",
+        "created_at": "2025-10-10T22:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T23:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976771038278303999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976771038278303999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……咱有什么优点诶呜\n长得不好看…身材也不好…声音不好听…游戏不会玩…学习也不好\n也没有人脉…好奇怪呜…\n为什么会是这样子诶(&gt;﹏&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 895,
+          "like_count": 12063,
+          "listed_count": 4,
+          "media_count": 417,
+          "tweet_count": 4286
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T01:30:35.000Z",
+        "description": "这里是一直在思考的的小极光♡\n\n♡我永远的一切……我的爱人@yeziyu7777 ♡\n\n「You are my forever PERFECTION. 」\n\n神秘小号@AuroraXHazuki（盯——",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "yeziyu7777"
+              },
+              {
+                "end": 97,
+                "start": 83,
+                "username": "AuroraXHazuki"
+              }
+            ]
+          }
+        },
+        "id": "1934423287729455105",
+        "location": "永远依偎在叶叶的怀里呐♡",
+        "name": "Auroralia♡",
+        "pinned_tweet_id": "1963017759572529210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964180368439070722/GsHJLg3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 146,
+          "like_count": 4128,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1430
+        },
+        "username": "auroralia7777",
+        "verified": false
+      }
+    ]
+  }
+}

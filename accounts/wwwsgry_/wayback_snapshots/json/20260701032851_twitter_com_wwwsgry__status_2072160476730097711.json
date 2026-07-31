@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072016323782279168"
+      ],
+      "media_source_tweet_id": [
+        "2072092821390303740"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2072160476730097711",
+    "created_at": "2026-07-01T03:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072160476730097711"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813736523046817792",
+          "start": 3,
+          "username": "imT0nyS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iEJRhR2sw7",
+          "end": 56,
+          "expanded_url": "https://x.com/imT0nyS/status/2072092821390303740/photo/1",
+          "media_key": "3_2072016323782279168",
+          "start": 33,
+          "url": "https://t.co/iEJRhR2sw7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072160476730097711",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1361
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072092821390303740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imT0nyS: #超かぐや姫\n急速充電モード！⚡️⚡️ https://t.co/iEJRhR2sw7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3260,
+        "media_key": "3_2072016323782279168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMFH3lPagAAPQvY.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072016323782279168"
+          ],
+          "media_source_tweet_id": [
+            "2072092821390303740"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2072160476730097711",
+        "created_at": "2026-07-01T03:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072160476730097711"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813736523046817792",
+              "start": 3,
+              "username": "imT0nyS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEJRhR2sw7",
+              "end": 56,
+              "expanded_url": "https://x.com/imT0nyS/status/2072092821390303740/photo/1",
+              "media_key": "3_2072016323782279168",
+              "start": 33,
+              "url": "https://t.co/iEJRhR2sw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072160476730097711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072092821390303740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imT0nyS: #超かぐや姫\n急速充電モード！⚡️⚡️ https://t.co/iEJRhR2sw7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072016323782279168"
+          ]
+        },
+        "author_id": "1813736523046817792",
+        "conversation_id": "2072092821390303740",
+        "created_at": "2026-06-30T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072092821390303740"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEJRhR2sw7",
+              "end": 43,
+              "expanded_url": "https://x.com/imT0nyS/status/2072092821390303740/photo/1",
+              "media_key": "3_2072016323782279168",
+              "start": 20,
+              "url": "https://t.co/iEJRhR2sw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072092821390303740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2667,
+          "impression_count": 130529,
+          "like_count": 17204,
+          "quote_count": 12,
+          "reply_count": 28,
+          "retweet_count": 1361
+        },
+        "reply_settings": "everyone",
+        "text": "#超かぐや姫\n急速充電モード！⚡️⚡️ https://t.co/iEJRhR2sw7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 994,
+          "like_count": 16939,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 6717
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T00:44:27.000Z",
+        "description": "🍀*约稿爆满啦！将于八月份重新开放~~🍀\n\n谢谢你打开了我的主页、谢谢你看到了这条简介，还要再谢谢你发现了我的谢谢！🍀\nᗜˬᗜ\n我非常喜欢CPK！\n\npixiv：https://t.co/Vx70akGtyk\n🍀个人网站↓↓↓*约稿、联系方式、建议箱*🍀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65407506",
+                "end": 104,
+                "expanded_url": "https://www.pixiv.net/users/65407506",
+                "start": 81,
+                "url": "https://t.co/Vx70akGtyk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/t0nys",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/t0nys",
+                "start": 0,
+                "url": "https://t.co/BfNa1P3EO6"
+              }
+            ]
+          }
+        },
+        "id": "1813736523046817792",
+        "name": "T0nyS @7/5 8/16",
+        "pinned_tweet_id": "2049762908138275247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813736667628683264/EniEqFtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30038,
+          "following_count": 721,
+          "like_count": 3688,
+          "listed_count": 118,
+          "media_count": 215,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/BfNa1P3EO6",
+        "username": "imT0nyS",
+        "verified": true
+      }
+    ]
+  }
+}

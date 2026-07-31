@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981190172965277696"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981184267360358681",
+    "created_at": "2025-10-23T02:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T03:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981190177059196941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756909109788753920",
+          "start": 0,
+          "username": "BaoZheFanQie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a2Y16F3SO6",
+          "end": 37,
+          "expanded_url": "https://x.com/wwwsgry_/status/1981190177059196941/photo/1",
+          "media_key": "3_1981190172965277696",
+          "start": 14,
+          "url": "https://t.co/a2Y16F3SO6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981190177059196941",
+    "in_reply_to_user_id": "1756909109788753920",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981184267360358681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoZheFanQie https://t.co/a2Y16F3SO6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1981190172965277696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36Z9ywXEAA15un.jpg",
+        "width": 764
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1981184258707161088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36UlibWAAArcgI.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981190172965277696"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981184267360358681",
+        "created_at": "2025-10-23T02:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T03:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981190177059196941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoZheFanQie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2Y16F3SO6",
+              "end": 37,
+              "expanded_url": "https://x.com/wwwsgry_/status/1981190177059196941/photo/1",
+              "media_key": "3_1981190172965277696",
+              "start": 14,
+              "url": "https://t.co/a2Y16F3SO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981190177059196941",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981184267360358681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoZheFanQie https://t.co/a2Y16F3SO6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981184258707161088"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "1981184267360358681",
+        "created_at": "2025-10-23T02:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T03:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981184267360358681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3pbZxoUWH",
+              "end": 47,
+              "expanded_url": "https://x.com/BaoZheFanQie/status/1981184267360358681/photo/1",
+              "media_key": "3_1981184258707161088",
+              "start": 24,
+              "url": "https://t.co/u3pbZxoUWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981184267360358681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测完了，\n谁要听我原生家庭的伤痛\n但是不能操我 https://t.co/u3pbZxoUWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 915,
+          "like_count": 12709,
+          "listed_count": 5,
+          "media_count": 427,
+          "tweet_count": 4533
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅\nage20 理性交流。友跨友双友同，偶尔发癫\n推内包含 大a/美股/币圈/跨子/🌈/涩涩🥵/抽象🐘/对线/可互 fo\n若感到生理不适可随时取关，本人投资仅供参考，盈亏自负",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuzVJI"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "大牛牛/88r🚪",
+        "name": "不包西红柿的西红柿",
+        "pinned_tweet_id": "1980311361348595911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977324843269033984/gAl4FWvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 2556,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 438,
+          "tweet_count": 5653
+        },
+        "url": "https://t.co/R2tlnuzVJI",
+        "username": "BaoZheFanQie",
+        "verified": true
+      }
+    ]
+  }
+}

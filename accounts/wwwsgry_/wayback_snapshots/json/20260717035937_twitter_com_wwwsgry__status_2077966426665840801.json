@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077747240798670848"
+      ],
+      "media_source_tweet_id": [
+        "2077747250013614278"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2077966426665840801",
+    "created_at": "2026-07-17T03:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077966426665840801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pq9cWDqCDQ",
+          "end": 59,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2077747250013614278/photo/1",
+          "media_key": "3_2077747240798670848",
+          "start": 36,
+          "url": "https://t.co/pq9cWDqCDQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077966426665840801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077747250013614278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 自然女见多了，来看看“自然男”吧 https://t.co/pq9cWDqCDQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1640,
+        "media_key": "3_2077747240798670848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWkG2zaUAAkZvG.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077747240798670848"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2077747250013614278",
+        "created_at": "2026-07-16T13:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077747250013614278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pq9cWDqCDQ",
+              "end": 40,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2077747250013614278/photo/1",
+              "media_key": "3_2077747240798670848",
+              "start": 17,
+              "url": "https://t.co/pq9cWDqCDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077747250013614278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 15372,
+          "like_count": 597,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "自然女见多了，来看看“自然男”吧 https://t.co/pq9cWDqCDQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077747240798670848"
+          ],
+          "media_source_tweet_id": [
+            "2077747250013614278"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2077966426665840801",
+        "created_at": "2026-07-17T03:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077966426665840801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pq9cWDqCDQ",
+              "end": 59,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2077747250013614278/photo/1",
+              "media_key": "3_2077747240798670848",
+              "start": 36,
+              "url": "https://t.co/pq9cWDqCDQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077966426665840801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077747250013614278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 自然女见多了，来看看“自然男”吧 https://t.co/pq9cWDqCDQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 998,
+          "like_count": 17186,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 6828
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "蓝v互关必回｜私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95921,
+          "following_count": 1949,
+          "like_count": 6852,
+          "listed_count": 205,
+          "media_count": 327,
+          "tweet_count": 3096
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

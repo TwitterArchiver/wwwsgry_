@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1959872674945196397",
+    "created_at": "2025-08-25T13:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T14:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959964027591037339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811057149805834241",
+          "start": 0,
+          "username": "Tarimarl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959964027591037339",
+    "in_reply_to_user_id": "1811057149805834241",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959872674945196397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tarimarl （）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1959872674945196397",
+        "created_at": "2025-08-25T13:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959964027591037339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811057149805834241",
+              "start": 0,
+              "username": "Tarimarl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959964027591037339",
+        "in_reply_to_user_id": "1811057149805834241",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959872674945196397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tarimarl （）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811057149805834241",
+        "conversation_id": "1959872674945196397",
+        "created_at": "2025-08-25T06:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T07:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959872674945196397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959872674945196397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和不熟的人聊天我就疯狂扣括号（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 783,
+          "like_count": 9855,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 3647
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T15:17:40.000Z",
+        "description": "一般高中生 | 性别是沃尔玛塑料袋 | 可以叫我小T/Ta一串字母巴拉巴拉 | 喜欢温柔聪明有趣的人 | 不吵架，不鉴证 | 碎碎念 | 什么都懂一点",
+        "id": "1811057149805834241",
+        "location": "✟​Heaven✟",
+        "name": "Tarimar今天吃什么",
+        "pinned_tweet_id": "1950150968143671410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949484166711771136/ud5gOPeC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 547,
+          "like_count": 10003,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 3026
+        },
+        "username": "Tarimarl",
+        "verified": false
+      }
+    ]
+  }
+}

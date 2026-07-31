@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2065636215022330066",
+    "created_at": "2026-06-13T04:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065657223313780871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817172899788099584",
+          "start": 0,
+          "username": "littleonio16950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065657223313780871",
+    "in_reply_to_user_id": "1817172899788099584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065653077575680126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littleonio16950 你俩啥时候回去的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2065636215022330066",
+        "created_at": "2026-06-13T04:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065657223313780871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817172899788099584",
+              "start": 0,
+              "username": "littleonio16950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065657223313780871",
+        "in_reply_to_user_id": "1817172899788099584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065653077575680126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littleonio16950 你俩啥时候回去的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817172899788099584",
+        "conversation_id": "2065636215022330066",
+        "created_at": "2026-06-13T04:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065653077575680126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065653077575680126",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065636215022330066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 刚和陈回完初中😄还是和之前一样 其他班里大部分人我都不说话了😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 984,
+          "like_count": 16546,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 6572
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T12:19:37.000Z",
+        "description": "喜欢猫猫/infp/超级恋爱脑/喜欢写东西的文艺b/会吹口琴/男高 可不可以和我聊天🥺",
+        "id": "1817172899788099584",
+        "name": "春草行更生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883525727766630400/NEHFAC7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "username": "littleonio16950",
+        "verified": false
+      }
+    ]
+  }
+}

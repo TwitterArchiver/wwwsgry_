@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2060359056900956188",
+    "created_at": "2026-05-29T13:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060359056900956188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060359056900956188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060074351249314185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 兄弟我发现个事\nv＝s/t 平均速度\nρ＝m/V 密度\nG＝mg 重力\np＝F/S 压强\np＝ρgh 液体压强\nFL＝FL 杠杆原理\nW＝FscosΘ 机械功\nP＝W/t 机械功率\nη＝W/W 效率\nQ＝cmΔt 热量\nI＝U/R 电流\nR＝R+R+…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2060359056900956188",
+        "created_at": "2026-05-29T13:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060359056900956188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060359056900956188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060074351249314185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 兄弟我发现个事\nv＝s/t 平均速度\nρ＝m/V 密度\nG＝mg 重力\np＝F/S 压强\np＝ρgh 液体压强\nFL＝FL 杠杆原理\nW＝FscosΘ 机械功\nP＝W/t 机械功率\nη＝W/W 效率\nQ＝cmΔt 热量\nI＝U/R 电流\nR＝R+R+…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2060074351249314185",
+        "created_at": "2026-05-28T19:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060074351249314185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060074351249314185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "兄弟我发现个事\nv＝s/t 平均速度\nρ＝m/V 密度\nG＝mg 重力\np＝F/S 压强\np＝ρgh 液体压强\nFL＝FL 杠杆原理\nW＝FscosΘ 机械功\nP＝W/t 机械功率\nη＝W/W 效率\nQ＝cmΔt 热量\nI＝U/R 电流\nR＝R+R+… 串联电阻\n1/R＝1/R+1/R+… 并联电阻\nW＝UIt 电功\nP＝UI 电功率\nc＝λf 波速\nv＝gt 竖直方向速度\nx＝vt 位移\ny＝1/2gt 竖直方向位移\nv＝v+at 瞬时速度\nv-v＝2as 位移速度\nω＝2π/T 角速度\na＝v/r＝ωr＝ωv 向心加速度\nF＝ma＝mv/r 向心力\nF＝ma 合外力，牛顿第二定律\nF＝GMm/r 万有引力\nE＝1/2mv 动能\nE＝mgh 重力势能\nE＝-GMm/r 万有引力势能\nW＝ΔE 功能转化\n1/2mv+mgh＝1/2mv+mgh 机械能守恒\np＝mv 动量\nmv+mv＝mv+mv 动量守恒\nI＝Δp 冲量\nI＝E/R+r 闭合电路欧姆定律\nF＝kQq/r 静电力，库仑定律\nE＝kQ/r 电场强度\nU＝φ-φ 电势差\nF = kx 胡克定律\nf = μN 滑动摩擦力\nT = 2π√(L/g) 单摆周期\nT = 2π√(m/k) 弹簧振子周期\npV = nRT 理想气体状态方程\nΔU = Q - W 热力学第一定律（系统对外做功）\nη = 1 - T/T 卡诺热机效率\nR = ρL/S 电阻定律\nC = Q/U 电容定义\nC = εε S/d 平行板电容\n1/C = 1/C + 1/C + ... 电容串联\nC = C + C + ... 电容并联\nε = -L dI/dt 自感电动势\nU/U = n/n 变压器电压比\nF = BIL sinθ 安培力\nF = qvB sinθ 洛伦兹力\nΦ = BS cosθ 磁通量\nε = -dΦ/dt 法拉第电磁感应定律\nε = BLv 动生电动势\nI = Q/t 电流定义\nP = IR 焦耳定律（电热功率）\nU = Ed 匀强电场电势差与场强关系\nE = F/q 电场强度定义\nB = F/(IL) 磁感应强度定义（电流元）\nn sinθ = n sinθ 折射定律\n1/f = 1/u + 1/v 薄透镜成像公式\nΔx = λL/d 双缝干涉条纹间距\nd sinθ = kλ 光栅方程\nhν = W + Ek 光电效应方程\nE = mc 质能方程\nλ = h/p 德布罗意波长\nE = -13.6/n eV 氢原子能级\nN = N e^(-λt) 放射性衰变定律\nT/ = ln2/λ 半衰期\nm = m/√(1 - v/c) 相对论质速关系\nE = (γ - 1)mc 相对论动能\np = γ m v 相对论动量\nv = √(γRT/M) 声速（理想气体）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 7970,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟我发现个事\nv＝s/t 平均速度\nρ＝m/V 密度\nG＝mg 重力\np＝F/S 压强\np＝ρgh 液体压强\nFL＝FL 杠杆原理\nW＝FscosΘ 机械功\nP＝W/t 机械功率\nη＝W/W 效率\nQ＝cmΔt 热量\nI＝U/R 电流\nR＝R+R+… 串联电阻\n1/R＝1/R+1/R+… 并联电阻\nW＝UIt 电功\nP＝UI 电功率\nc＝λf 波速\nv＝gt 竖直方向速度\nx＝vt 位移"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 973,
+          "like_count": 16319,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 6474
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21083,
+          "following_count": 8608,
+          "like_count": 151336,
+          "listed_count": 51,
+          "media_count": 4438,
+          "tweet_count": 49710
+        },
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

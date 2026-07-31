@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1955628621089108356",
+    "created_at": "2025-08-14T07:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T08:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955888525708288361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781308864438345728",
+          "start": 0,
+          "username": "FoxRed695449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955888525708288361",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955628621089108356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRed695449 wtf我还真住过这个😱😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3855,
+        "height": 960,
+        "media_key": "7_1955628601531072512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1955628601531072512/pu/img/l6uz0ocKqzpGtdRF.jpg",
+        "public_metrics": {
+          "view_count": 1772
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955628601531072512/pu/vid/avc1/320x426/9Z2TZGjsJZmMUsl6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955628601531072512/pu/vid/avc1/480x640/ajQzXKzdnMETX59l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955628601531072512/pu/vid/avc1/720x960/gI1p0WHle_CagDgc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1955628601531072512/pu/pl/ej54P2IZWItL-yzw.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1955628621089108356",
+        "created_at": "2025-08-14T07:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955888525708288361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955888525708288361",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955628621089108356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 wtf我还真住过这个😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1955628601531072512"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1955628621089108356",
+        "created_at": "2025-08-13T13:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955628621089108356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7t2YKFNA5T",
+              "end": 61,
+              "expanded_url": "https://x.com/FoxRed695449/status/1955628621089108356/video/1",
+              "media_key": "7_1955628601531072512",
+              "start": 38,
+              "url": "https://t.co/7t2YKFNA5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955628621089108356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4428,
+          "like_count": 52,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "荃灣如心酒店：\n轉載於小紅書，原帳戶號：193913641\n評論區真的好笑 https://t.co/7t2YKFNA5T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "不关注一下我吗？什么你没想关注我？那请回吧不要查我成分了。等等你真的不关注一下我吗？看了这么久不点个Follow吗？你的良心不会痛吗？😢😢😢",
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 743,
+          "like_count": 9409,
+          "listed_count": 3,
+          "media_count": 339,
+          "tweet_count": 3481
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 683,
+          "like_count": 3933,
+          "listed_count": 7,
+          "media_count": 625,
+          "tweet_count": 2030
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

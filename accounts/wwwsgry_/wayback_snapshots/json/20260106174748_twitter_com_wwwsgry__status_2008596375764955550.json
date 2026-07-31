@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2008543831550239126",
+    "created_at": "2026-01-06T17:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T18:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008596375764955550"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "好美",
+          "probability": 0.4881,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847272386066051073",
+          "start": 0,
+          "username": "io__jiia_0112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008596375764955550",
+    "in_reply_to_user_id": "1847272386066051073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008543831550239126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@io__jiia_0112 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008543817847418880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_H9eqaMAAiZ5R.jpg",
+        "width": 1150
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008543817847500806",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_H9eqbcAYXcih.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008543817830723590",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_H9embcAYMhUp.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008543817826537472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_H9elbkAA8-qS.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2008543831550239126",
+        "created_at": "2026-01-06T17:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008596375764955550"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "好美",
+              "probability": 0.4881,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847272386066051073",
+              "start": 0,
+              "username": "io__jiia_0112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008596375764955550",
+        "in_reply_to_user_id": "1847272386066051073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008543831550239126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@io__jiia_0112 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008543817847418880",
+            "3_2008543817847500806",
+            "3_2008543817830723590",
+            "3_2008543817826537472"
+          ]
+        },
+        "author_id": "1847272386066051073",
+        "conversation_id": "2008543831550239126",
+        "created_at": "2026-01-06T14:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008543831550239126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tnwBUEUSxw",
+              "end": 40,
+              "expanded_url": "https://x.com/io__jiia_0112/status/2008543831550239126/photo/1",
+              "media_key": "3_2008543817847418880",
+              "start": 17,
+              "url": "https://t.co/tnwBUEUSxw"
+            },
+            {
+              "display_url": "pic.x.com/tnwBUEUSxw",
+              "end": 40,
+              "expanded_url": "https://x.com/io__jiia_0112/status/2008543831550239126/photo/1",
+              "media_key": "3_2008543817847500806",
+              "start": 17,
+              "url": "https://t.co/tnwBUEUSxw"
+            },
+            {
+              "display_url": "pic.x.com/tnwBUEUSxw",
+              "end": 40,
+              "expanded_url": "https://x.com/io__jiia_0112/status/2008543831550239126/photo/1",
+              "media_key": "3_2008543817830723590",
+              "start": 17,
+              "url": "https://t.co/tnwBUEUSxw"
+            },
+            {
+              "display_url": "pic.x.com/tnwBUEUSxw",
+              "end": 40,
+              "expanded_url": "https://x.com/io__jiia_0112/status/2008543831550239126/photo/1",
+              "media_key": "3_2008543817826537472",
+              "start": 17,
+              "url": "https://t.co/tnwBUEUSxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008543831550239126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和喜歡的人去了一個很遠很遠的地方 https://t.co/tnwBUEUSxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 922,
+          "like_count": 13692,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 5243
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T13:44:00.000Z",
+        "description": "伊老師和小老虎大歷險",
+        "id": "1847272386066051073",
+        "name": "小老虎",
+        "pinned_tweet_id": "1981818097259647160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888639438944915456/JJv02vQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 84,
+          "like_count": 9217,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 1930
+        },
+        "username": "io__jiia_0112",
+        "verified": false
+      }
+    ]
+  }
+}

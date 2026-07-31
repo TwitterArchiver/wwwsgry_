@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1982440511072764395",
+    "created_at": "2025-10-26T15:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982462729462993333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1568240356252340230",
+          "start": 0,
+          "username": "xenzeku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982462729462993333",
+    "in_reply_to_user_id": "1568240356252340230",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982444198042480692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xenzeku 😋👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1982440511072764395",
+        "created_at": "2025-10-26T15:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982462729462993333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1568240356252340230",
+              "start": 0,
+              "username": "xenzeku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982462729462993333",
+        "in_reply_to_user_id": "1568240356252340230",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982444198042480692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xenzeku 😋👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568240356252340230",
+        "conversation_id": "1982440511072764395",
+        "created_at": "2025-10-26T13:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982444198042480692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982444198042480692",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982440511072764395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 913,
+          "like_count": 12733,
+          "listed_count": 5,
+          "media_count": 433,
+          "tweet_count": 4579
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T14:10:23.000Z",
+        "description": "i just wanna see you shine cause i know you are a stargirl.🌟 |\nGraphic Design, Writer, Encoder, a11y Advocate, Translator.| He/they, 23, pan | ♡ xi•xx•mmiii",
+        "id": "1568240356252340230",
+        "location": "xian's♡",
+        "name": "Xenzeku🔻",
+        "pinned_tweet_id": "1604315641413963777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959855351790252032/Ma0Ctp3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 5154,
+          "like_count": 72757,
+          "listed_count": 8,
+          "media_count": 623,
+          "tweet_count": 27921
+        },
+        "username": "xenzeku",
+        "verified": false
+      }
+    ]
+  }
+}

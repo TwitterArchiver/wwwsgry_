@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2076938785464754205",
+    "created_at": "2026-07-14T07:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T08:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076938785464754205"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076938785464754205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啧烦死了，最近让我最烦的两个话题就是我的病和回老家，每次一和他们聊到这两件事我就烦的要死，对我的病擅自揣测，还不停催促我回老家看亲戚，我看他妈个鬼，回去也是被唠叨🙄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2076938785464754205",
+        "created_at": "2026-07-14T07:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T08:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076938785464754205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076938785464754205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啧烦死了，最近让我最烦的两个话题就是我的病和回老家，每次一和他们聊到这两件事我就烦的要死，对我的病擅自揣测，还不停催促我回老家看亲戚，我看他妈个鬼，回去也是被唠叨🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 996,
+          "like_count": 17118,
+          "listed_count": 4,
+          "media_count": 603,
+          "tweet_count": 6804
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

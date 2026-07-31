@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2051278471457030459",
+    "created_at": "2026-05-04T13:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051289576207986727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "Phisback_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051289576207986727",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051285801447895352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phisback_X 为了港大我可以放弃一切"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2051278471457030459",
+        "created_at": "2026-05-04T13:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051289576207986727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "Phisback_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051289576207986727",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051285801447895352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phisback_X 为了港大我可以放弃一切"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049103771796660224",
+        "conversation_id": "2051278471457030459",
+        "created_at": "2026-05-04T13:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051285801447895352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051285801447895352",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051285056656699836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 没你的多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 972,
+          "like_count": 16002,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 6307
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "Quote the Raven, Nevermore\n08 | loser joker gooner | ⚰️",
+        "id": "2049103771796660224",
+        "location": "Santa Ana, CA",
+        "name": "Phi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049104561508659200/jI45nPCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 39,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 71
+        },
+        "username": "Phisback_X",
+        "verified": false
+      }
+    ]
+  }
+}

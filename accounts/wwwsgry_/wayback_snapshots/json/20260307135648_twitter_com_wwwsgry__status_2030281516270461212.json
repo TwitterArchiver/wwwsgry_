@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2030273910072373454",
+    "created_at": "2026-03-07T13:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030281516270461212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030281516270461212",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030273910072373454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 嗓子不舒服😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2030273910072373454",
+        "created_at": "2026-03-07T13:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030281516270461212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030281516270461212",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030273910072373454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 嗓子不舒服😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2030273910072373454",
+        "created_at": "2026-03-07T13:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030273910072373454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "❄️’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1AxRn…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1AxRnaoYYANxl",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 55",
+              "unwound_url": "https://twitter.com/i/spaces/1AxRnaoYYANxl/peek",
+              "url": "https://t.co/tplZjZ5pHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030273910072373454",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tplZjZ5pHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 953,
+          "like_count": 14843,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 5722
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "⚡️インターネット最高⚡️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chloris923.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://chloris923.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/pyjXlDnHlj"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "blog网页：",
+        "name": "❄️",
+        "pinned_tweet_id": "2029491429198930059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028136498181316608/VLSPjO7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 255,
+          "like_count": 27342,
+          "listed_count": 4,
+          "media_count": 515,
+          "tweet_count": 14676
+        },
+        "url": "https://t.co/pyjXlDnHlj",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2048802676830601696",
+    "created_at": "2026-04-27T17:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048821612829401493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946863961502298112",
+          "start": 0,
+          "username": "Chloris8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048821612829401493",
+    "in_reply_to_user_id": "1946863961502298112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048802676830601696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris8964 想舔👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048802666076340225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7PK3ZagAEK1eb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2048802676830601696",
+        "created_at": "2026-04-27T17:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048821612829401493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946863961502298112",
+              "start": 0,
+              "username": "Chloris8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048821612829401493",
+        "in_reply_to_user_id": "1946863961502298112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048802676830601696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris8964 想舔👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048802666076340225"
+          ]
+        },
+        "author_id": "1946863961502298112",
+        "conversation_id": "2048802676830601696",
+        "created_at": "2026-04-27T16:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048802676830601696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZ2sGtE7M7",
+              "end": 122,
+              "expanded_url": "https://x.com/Chloris8964/status/2048802676830601696/photo/1",
+              "media_key": "3_2048802666076340225",
+              "start": 99,
+              "url": "https://t.co/oZ2sGtE7M7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048802676830601696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "明天會有新的爛片上傳\n（靈感枯竭中⋯請給我你們想讓我拍的姿勢，或者有什麼好的推主推薦也🉑\n（求評論轉推我想要更多流量⋯最近很多人流量好像都很差。？偏偏能拿流量的社群還馬上就要關掉。一龍馬你壞事做盡 https://t.co/oZ2sGtE7M7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 969,
+          "like_count": 15909,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 6270
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T09:25:27.000Z",
+        "description": "₊⁺ ꒰১ ♡ ໒꒱ ⁺₊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.ms/chloris923",
+                "end": 23,
+                "expanded_url": "http://note.ms/chloris923",
+                "start": 0,
+                "url": "https://t.co/A8JkxkNGCv"
+              }
+            ]
+          }
+        },
+        "id": "1946863961502298112",
+        "location": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡|",
+        "name": "🪼",
+        "pinned_tweet_id": "2048317074242711659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019343177866682368/h1VnB9vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7534,
+          "following_count": 102,
+          "like_count": 2141,
+          "listed_count": 14,
+          "media_count": 26,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/A8JkxkNGCv",
+        "username": "Chloris8964",
+        "verified": true
+      }
+    ]
+  }
+}

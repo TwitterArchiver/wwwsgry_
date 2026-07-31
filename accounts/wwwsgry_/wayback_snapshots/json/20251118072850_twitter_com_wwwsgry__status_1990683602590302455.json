@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1990678554116301299",
+    "created_at": "2025-11-18T07:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990683602590302455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1617094637986156546",
+          "start": 0,
+          "username": "dqivz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990683602590302455",
+    "in_reply_to_user_id": "1617094637986156546",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990680182890353100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dqivz 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1990678554116301299",
+        "created_at": "2025-11-18T07:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990683602590302455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1617094637986156546",
+              "start": 0,
+              "username": "dqivz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990683602590302455",
+        "in_reply_to_user_id": "1617094637986156546",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990680182890353100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dqivz 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617094637986156546",
+        "conversation_id": "1990678554116301299",
+        "created_at": "2025-11-18T07:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990680182890353100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990680182890353100",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990678554116301299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 珍惜。当年我高中的时候身体也这么好，现在早就没法这样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 926,
+          "like_count": 13565,
+          "listed_count": 4,
+          "media_count": 449,
+          "tweet_count": 4876
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T09:39:56.000Z",
+        "description": "是鱼子酱，可以吃",
+        "id": "1617094637986156546",
+        "location": "Toronto, Ontario",
+        "name": "Wyivz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913304823417733120/eUQDoLWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 177,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 465
+        },
+        "username": "dqivz",
+        "verified": false
+      }
+    ]
+  }
+}

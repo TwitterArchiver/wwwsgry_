@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958512992624242688",
+        "3_1958512992607457280"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1958508739624898910",
+    "created_at": "2025-08-21T12:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T13:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958513009913143628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943511886378733573",
+          "start": 0,
+          "username": "asaaoi12345"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZkZ71kOU4l",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/1958513009913143628/photo/1",
+          "media_key": "3_1958512992624242688",
+          "start": 13,
+          "url": "https://t.co/ZkZ71kOU4l"
+        },
+        {
+          "display_url": "pic.x.com/ZkZ71kOU4l",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/1958513009913143628/photo/1",
+          "media_key": "3_1958512992607457280",
+          "start": 13,
+          "url": "https://t.co/ZkZ71kOU4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958513009913143628",
+    "in_reply_to_user_id": "1943511886378733573",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958512869001306503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asaaoi12345 https://t.co/ZkZ71kOU4l"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958512869001306503].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958512869001306503",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958512869001306503"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1958512992624242688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4JMK1a8AAkB01.jpg",
+        "width": 713
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1958512992607457280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy4JMKxa0AAkUnW.jpg",
+        "width": 713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958512992624242688",
+            "3_1958512992607457280"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958508739624898910",
+        "created_at": "2025-08-21T12:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958513009913143628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943511886378733573",
+              "start": 0,
+              "username": "asaaoi12345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZkZ71kOU4l",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/1958513009913143628/photo/1",
+              "media_key": "3_1958512992624242688",
+              "start": 13,
+              "url": "https://t.co/ZkZ71kOU4l"
+            },
+            {
+              "display_url": "pic.x.com/ZkZ71kOU4l",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/1958513009913143628/photo/1",
+              "media_key": "3_1958512992607457280",
+              "start": 13,
+              "url": "https://t.co/ZkZ71kOU4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958513009913143628",
+        "in_reply_to_user_id": "1943511886378733573",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958512869001306503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asaaoi12345 https://t.co/ZkZ71kOU4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 771,
+          "like_count": 9686,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 3576
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T03:25:30.000Z",
+        "description": "もう終わりだ",
+        "id": "1943511886378733573",
+        "name": "東北ずんだもん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958180169866412032/35dqROMN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 64,
+          "like_count": 2983,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1149
+        },
+        "username": "asaaoi12345",
+        "verified": false
+      }
+    ]
+  }
+}

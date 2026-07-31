@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1999521880558940594",
+    "created_at": "2025-12-12T16:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T17:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999524607745736874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898932862021238784",
+          "start": 0,
+          "username": "Northbirch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999524607745736874",
+    "in_reply_to_user_id": "1898932862021238784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999524310466330880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Northbirch_ 真是一对苦命鸳鸯，一对苦命鹦鹉，一对苦命鸬鹚，一对苦命鹧鹄，一对苦命鸸鹋，一对苦命乌鸦，一对苦命信天翁，一对苦命斑鸠，一对苦命朱鹮，一对苦命鸿雁，一对苦命黄鹂，一对苦命蛇鹫，一对苦命红隼，一对苦命雨燕，一对苦命黄莺，一对苦命伯劳，一对苦命渡鸦，一对苦命海鹦，一对苦命蜂鸟，一对苦命"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999524310466330880].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999524310466330880",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999524310466330880"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1999521880558940594",
+        "created_at": "2025-12-12T16:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999524607745736874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898932862021238784",
+              "start": 0,
+              "username": "Northbirch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999524607745736874",
+        "in_reply_to_user_id": "1898932862021238784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999524310466330880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Northbirch_ 真是一对苦命鸳鸯，一对苦命鹦鹉，一对苦命鸬鹚，一对苦命鹧鹄，一对苦命鸸鹋，一对苦命乌鸦，一对苦命信天翁，一对苦命斑鸠，一对苦命朱鹮，一对苦命鸿雁，一对苦命黄鹂，一对苦命蛇鹫，一对苦命红隼，一对苦命雨燕，一对苦命黄莺，一对苦命伯劳，一对苦命渡鸦，一对苦命海鹦，一对苦命蜂鸟，一对苦命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 919,
+          "like_count": 13921,
+          "listed_count": 4,
+          "media_count": 471,
+          "tweet_count": 5078
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T03:04:20.000Z",
+        "description": "@chloris923 四號帳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "chloris923"
+              }
+            ]
+          }
+        },
+        "id": "1898932862021238784",
+        "name": "Æstas",
+        "pinned_tweet_id": "1988984258736820378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999504683761827843/euf1OXc8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 2135
+        },
+        "username": "Northbirch_",
+        "verified": false
+      }
+    ]
+  }
+}

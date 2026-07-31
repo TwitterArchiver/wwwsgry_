@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2075170633252818978",
+    "created_at": "2026-07-09T12:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075198210977735036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843311768040542209",
+          "start": 0,
+          "username": "Shipwreckrodney"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075198210977735036",
+    "in_reply_to_user_id": "1843311768040542209",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075178643366760512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shipwreckrodney 🫶🫶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2075178643366760512].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2075178643366760512",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2075178643366760512"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2075170633252818978",
+        "created_at": "2026-07-09T12:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075198210977735036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843311768040542209",
+              "start": 0,
+              "username": "Shipwreckrodney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075198210977735036",
+        "in_reply_to_user_id": "1843311768040542209",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075178643366760512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shipwreckrodney 🫶🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 995,
+          "like_count": 17018,
+          "listed_count": 4,
+          "media_count": 597,
+          "tweet_count": 6754
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T15:25:58.000Z",
+        "description": "罗德尼的船骸 @Dekabrist_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Dekabrist_QAQ"
+              }
+            ]
+          }
+        },
+        "id": "1843311768040542209",
+        "name": "罗德尼的船骸",
+        "pinned_tweet_id": "1843463985963905084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003793356607127552/cn-MZRYg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 646,
+          "like_count": 91332,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 8123
+        },
+        "url": "",
+        "username": "Shipwreckrodney",
+        "verified": false
+      }
+    ]
+  }
+}

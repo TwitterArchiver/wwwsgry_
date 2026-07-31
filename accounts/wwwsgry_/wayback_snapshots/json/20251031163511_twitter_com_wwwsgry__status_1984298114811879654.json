@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983902120593256587",
+    "created_at": "2025-10-31T16:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984298114811879654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1322444537415966720",
+          "start": 0,
+          "username": "cgefw_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984298114811879654",
+    "in_reply_to_user_id": "1322444537415966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984295525181731020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cgefw_1 啊这样吗 我都没关注过它的要求（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T16:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984298114811879654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1322444537415966720",
+              "start": 0,
+              "username": "cgefw_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984298114811879654",
+        "in_reply_to_user_id": "1322444537415966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984295525181731020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cgefw_1 啊这样吗 我都没关注过它的要求（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322444537415966720",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T16:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984295525181731020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984295525181731020",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984058162887192667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 923,
+          "like_count": 13072,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 4726
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-31T07:45:31.000Z",
+        "description": "EN/中文/日本語？(下手）",
+        "id": "1322444537415966720",
+        "name": "cgefwtydjwnnw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555092163981033472/2NTgDcRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 210,
+          "like_count": 4833,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2017
+        },
+        "username": "cgefw_1",
+        "verified": false
+      }
+    ]
+  }
+}

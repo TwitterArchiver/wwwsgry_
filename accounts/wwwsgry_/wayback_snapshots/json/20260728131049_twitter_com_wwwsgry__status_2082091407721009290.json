@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2082043531435405318",
+    "created_at": "2026-07-28T13:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082091407721009290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803370127041191942",
+          "start": 0,
+          "username": "cheansnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082091407721009290",
+    "in_reply_to_user_id": "1803370127041191942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082070776858173569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheansnow 一直在清单上一直没补，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2082043531435405318",
+        "created_at": "2026-07-28T13:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082091407721009290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803370127041191942",
+              "start": 0,
+              "username": "cheansnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082091407721009290",
+        "in_reply_to_user_id": "1803370127041191942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082070776858173569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheansnow 一直在清单上一直没补，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803370127041191942",
+        "conversation_id": "2082043531435405318",
+        "created_at": "2026-07-28T11:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082070776858173569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082070776858173569",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082060565430915192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 终将成为你   就是菲奖得主邓煜办公桌上的那对百合hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "何帳號？@zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1008,
+          "like_count": 17452,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 6906
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T10:12:08.000Z",
+        "description": "Apogee. / INFP-T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apogee26549",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apogee26549",
+                "start": 0,
+                "url": "https://t.co/1PHLNCWbEM"
+              }
+            ]
+          }
+        },
+        "id": "1803370127041191942",
+        "name": "Chean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082033097537982464/EeE-ZpPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 168,
+          "like_count": 13299,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/1PHLNCWbEM",
+        "username": "cheansnow",
+        "verified": false
+      }
+    ]
+  }
+}

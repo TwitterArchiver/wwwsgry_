@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1988852922927448250",
+    "created_at": "2025-11-13T22:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T23:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989104483012681888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989104483012681888",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988852922927448250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notThujaS 串得不像 立刻草似"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 389,
+        "media_key": "3_1988852920058875904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nTMYKbkAAaeBt.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1988852922927448250",
+        "created_at": "2025-11-13T22:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T23:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989104483012681888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989104483012681888",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988852922927448250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS 串得不像 立刻草似"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988852920058875904"
+          ]
+        },
+        "author_id": "1896061942785310720",
+        "conversation_id": "1988852922927448250",
+        "created_at": "2025-11-13T06:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T07:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988852922927448250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sBAGh6343X",
+              "end": 38,
+              "expanded_url": "https://x.com/notThujaS/status/1988852922927448250/photo/1",
+              "media_key": "3_1988852920058875904",
+              "start": 15,
+              "url": "https://t.co/sBAGh6343X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988852922927448250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 27329,
+          "like_count": 188,
+          "quote_count": 4,
+          "reply_count": 87,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "翻车了，我正式宣布加入MTF https://t.co/sBAGh6343X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 920,
+          "like_count": 13488,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 4847
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "劳保变成xyn磁剁了喵/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与对骂与炫压抑之后，吃上一口我精挑细选的上等好💩        我的浮木死了，别问了我回关的。2000fo直播杜桥延期，最近太忙太忙了😭///DXL_888不是我小号，别理那个支黑（唉他还要纠缠到什么时候）",
+        "id": "1896061942785310720",
+        "location": "热河省省会",
+        "name": "神乐板 鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1988852922927448250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988853061335588864/XAAUSKJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 838,
+          "like_count": 5962,
+          "listed_count": 8,
+          "media_count": 343,
+          "tweet_count": 3382
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

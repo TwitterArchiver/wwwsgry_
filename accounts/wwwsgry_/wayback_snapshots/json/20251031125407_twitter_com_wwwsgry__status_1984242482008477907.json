@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983902120593256587",
+    "created_at": "2025-10-31T12:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984242482008477907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1488410958867595269",
+          "start": 0,
+          "username": "Ironegg1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984242482008477907",
+    "in_reply_to_user_id": "1488410958867595269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984134391191498834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ironegg1984 孩子们我没打算去😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T12:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984242482008477907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1488410958867595269",
+              "start": 0,
+              "username": "Ironegg1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984242482008477907",
+        "in_reply_to_user_id": "1488410958867595269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984134391191498834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ironegg1984 孩子们我没打算去😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488410958867595269",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T05:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984134391191498834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984134391191498834",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983902120593256587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 恭喜成为大怨种，同时感谢你为澳大利亚的经济作出贡献🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 919,
+          "like_count": 13037,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 4708
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-01T07:16:57.000Z",
+        "description": "世间谁能称英雄？韶华不肯负白发！",
+        "id": "1488410958867595269",
+        "location": "Brisbane, Queensland",
+        "name": "月隐剑气藏 Warden 2.0",
+        "pinned_tweet_id": "1964140281407951048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859585528439635968/1Xb45fIX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 154,
+          "like_count": 22278,
+          "listed_count": 5,
+          "media_count": 1318,
+          "tweet_count": 16475
+        },
+        "username": "Ironegg1984",
+        "verified": false
+      }
+    ]
+  }
+}

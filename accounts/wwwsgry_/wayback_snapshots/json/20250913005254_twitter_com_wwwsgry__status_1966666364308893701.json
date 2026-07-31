@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1966643304319082960",
+    "created_at": "2025-09-13T00:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T01:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966666364308893701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1617094637986156546",
+          "start": 0,
+          "username": "dqivz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966666364308893701",
+    "in_reply_to_user_id": "1617094637986156546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966660569341059244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dqivz 语言是没问题 怕被理工科拷打（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1966643304319082960",
+        "created_at": "2025-09-13T00:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966666364308893701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1617094637986156546",
+              "start": 0,
+              "username": "dqivz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966666364308893701",
+        "in_reply_to_user_id": "1617094637986156546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966660569341059244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dqivz 语言是没问题 怕被理工科拷打（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617094637986156546",
+        "conversation_id": "1966643304319082960",
+        "created_at": "2025-09-13T00:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966660569341059244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966660569341059244",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966652696741474392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 现在刚开学，所以我也不知道🤔你是本地高中？那应该不会有语言和适应的问题，所以不必担心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 858,
+          "like_count": 10745,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 3910
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T09:39:56.000Z",
+        "description": "",
+        "id": "1617094637986156546",
+        "location": "Toronto, Ontario",
+        "name": "Wyg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913304823417733120/eUQDoLWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 115,
+          "like_count": 433,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 186
+        },
+        "username": "dqivz",
+        "verified": false
+      }
+    ]
+  }
+}

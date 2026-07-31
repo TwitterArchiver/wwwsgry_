@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037573868622118912"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2037573875098079389",
+    "created_at": "2026-03-27T16:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T17:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037573875098079389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Md0mZJ66uf",
+          "end": 42,
+          "expanded_url": "https://x.com/wwwsgry_/status/2037573875098079389/photo/1",
+          "media_key": "3_2037573868622118912",
+          "start": 19,
+          "url": "https://t.co/Md0mZJ66uf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037573875098079389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麦当劳你为什么给我一个肛门一样的贝果 https://t.co/Md0mZJ66uf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037573868622118912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbqo1LXAAA3jKW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037573868622118912"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037573875098079389",
+        "created_at": "2026-03-27T16:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037573875098079389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Md0mZJ66uf",
+              "end": 42,
+              "expanded_url": "https://x.com/wwwsgry_/status/2037573875098079389/photo/1",
+              "media_key": "3_2037573868622118912",
+              "start": 19,
+              "url": "https://t.co/Md0mZJ66uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037573875098079389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦当劳你为什么给我一个肛门一样的贝果 https://t.co/Md0mZJ66uf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646828041547776/E827cquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 957,
+          "like_count": 15382,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 6016
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

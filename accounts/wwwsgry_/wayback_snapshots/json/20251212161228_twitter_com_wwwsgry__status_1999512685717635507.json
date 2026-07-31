@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1999508771408617717",
+    "created_at": "2025-12-12T16:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T17:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999512685717635507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927346314972418048",
+          "start": 0,
+          "username": "yukisama2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999512685717635507",
+    "in_reply_to_user_id": "1927346314972418048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999512215871771111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukisama2025 芥末馅汤圆沾水牛酱才是正统👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1999508771408617717",
+        "created_at": "2025-12-12T16:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999512685717635507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927346314972418048",
+              "start": 0,
+              "username": "yukisama2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999512685717635507",
+        "in_reply_to_user_id": "1927346314972418048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999512215871771111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukisama2025 芥末馅汤圆沾水牛酱才是正统👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927346314972418048",
+        "conversation_id": "1999508771408617717",
+        "created_at": "2025-12-12T16:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T17:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999512215871771111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999512215871771111",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999512025022550203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 這不對的？！！明明應該蘸番茄醬。異端"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 919,
+          "like_count": 13899,
+          "listed_count": 4,
+          "media_count": 471,
+          "tweet_count": 5069
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T12:49:34.000Z",
+        "description": "",
+        "id": "1927346314972418048",
+        "name": "❄️",
+        "pinned_tweet_id": "1978030002206568827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997970352090263553/6VLwpOV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 19,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 314
+        },
+        "username": "yukisama2025",
+        "verified": false
+      }
+    ]
+  }
+}

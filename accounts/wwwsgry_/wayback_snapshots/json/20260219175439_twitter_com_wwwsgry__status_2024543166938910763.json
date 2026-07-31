@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024395128891387904"
+      ],
+      "media_source_tweet_id": [
+        "2024395132846690530"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2024543166938910763",
+    "created_at": "2026-02-19T17:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024543166938910763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1327146428431536129",
+          "start": 3,
+          "username": "Duolingo_Japan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vng3CxDkb8",
+          "end": 51,
+          "expanded_url": "https://x.com/Duolingo_Japan/status/2024395132846690530/photo/1",
+          "media_key": "3_2024395128891387904",
+          "start": 28,
+          "url": "https://t.co/vng3CxDkb8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024543166938910763",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4693
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024395132846690530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Duolingo_Japan: 自分、いけます https://t.co/vng3CxDkb8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 762,
+        "media_key": "3_2024395128891387904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgYpN6aMAAO_yG.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024395128891387904"
+          ],
+          "media_source_tweet_id": [
+            "2024395132846690530"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2024543166938910763",
+        "created_at": "2026-02-19T17:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024543166938910763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1327146428431536129",
+              "start": 3,
+              "username": "Duolingo_Japan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vng3CxDkb8",
+              "end": 51,
+              "expanded_url": "https://x.com/Duolingo_Japan/status/2024395132846690530/photo/1",
+              "media_key": "3_2024395128891387904",
+              "start": 28,
+              "url": "https://t.co/vng3CxDkb8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024543166938910763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4693
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024395132846690530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Duolingo_Japan: 自分、いけます https://t.co/vng3CxDkb8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024395128891387904"
+          ]
+        },
+        "author_id": "1327146428431536129",
+        "conversation_id": "2024395132846690530",
+        "created_at": "2026-02-19T08:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024395132846690530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vng3CxDkb8",
+              "end": 31,
+              "expanded_url": "https://x.com/Duolingo_Japan/status/2024395132846690530/photo/1",
+              "media_key": "3_2024395128891387904",
+              "start": 8,
+              "url": "https://t.co/vng3CxDkb8"
+            },
+            {
+              "display_url": "x.com/jreast_news/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/jreast_news/status/2024297957294821520",
+              "start": 32,
+              "url": "https://t.co/5hP7oLUnRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024395132846690530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1872,
+          "impression_count": 3475963,
+          "like_count": 55376,
+          "quote_count": 574,
+          "reply_count": 383,
+          "retweet_count": 4693
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024297957294821520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自分、いけます https://t.co/vng3CxDkb8 https://t.co/5hP7oLUnRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 955,
+          "like_count": 14399,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 5565
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T07:09:16.000Z",
+        "description": "世界で最もダウンロードされている無料語学アプリ「Duolingo（デュオリンゴ）」の日本公式アカウント💚🇯🇵 フクロウのDuoが楽しくツイートしてるよ🦉 Duolingoで学習したら、ハッシュタグ #毎日Duolingo に報告してね📝 ランダムでいいねしにいくよ〜👀",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 99,
+                "tag": "毎日Duolingo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ja.duolingo.com",
+                "end": 23,
+                "expanded_url": "http://ja.duolingo.com",
+                "start": 0,
+                "url": "https://t.co/8muikzTX9t"
+              }
+            ]
+          }
+        },
+        "id": "1327146428431536129",
+        "name": "Duolingo(デュオリンゴ) | 日本公式🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996771443275886592/-furad1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230819,
+          "following_count": 8,
+          "like_count": 52248,
+          "listed_count": 244,
+          "media_count": 1553,
+          "tweet_count": 16094
+        },
+        "url": "https://t.co/8muikzTX9t",
+        "username": "Duolingo_Japan",
+        "verified": true
+      }
+    ]
+  }
+}

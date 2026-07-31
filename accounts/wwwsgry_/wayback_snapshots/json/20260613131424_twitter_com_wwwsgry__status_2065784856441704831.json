@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2065778999259787689",
+    "created_at": "2026-06-13T13:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065784856441704831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878762574327824384",
+          "start": 0,
+          "username": "JihaiLin354002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065784856441704831",
+    "in_reply_to_user_id": "1878762574327824384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065784315141583134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JihaiLin354002 肾透支"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2065778999259787689",
+        "created_at": "2026-06-13T13:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065784856441704831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878762574327824384",
+              "start": 0,
+              "username": "JihaiLin354002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065784856441704831",
+        "in_reply_to_user_id": "1878762574327824384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065784315141583134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JihaiLin354002 肾透支"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878762574327824384",
+        "conversation_id": "2065778999259787689",
+        "created_at": "2026-06-13T13:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065784315141583134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065784315141583134",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065778999259787689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 在透支了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 984,
+          "like_count": 16556,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 6578
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T11:14:51.000Z",
+        "description": "08/女/bi",
+        "id": "1878762574327824384",
+        "name": "Ro",
+        "pinned_tweet_id": "2065356544712036651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027424685634310159/wDTaICtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 307,
+          "like_count": 9428,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 2845
+        },
+        "username": "JihaiLin354002",
+        "verified": false
+      }
+    ]
+  }
+}

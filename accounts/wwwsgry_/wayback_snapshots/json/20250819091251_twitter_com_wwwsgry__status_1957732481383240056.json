@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1957732413855133699"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1957732481383240056",
+    "created_at": "2025-08-19T09:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T10:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957732481383240056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oTLhqorBD0",
+          "end": 49,
+          "expanded_url": "https://x.com/wwwsgry_/status/1957732481383240056/video/1",
+          "media_key": "13_1957732413855133699",
+          "start": 26,
+          "url": "https://t.co/oTLhqorBD0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957732481383240056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出来溜达买点东西被困住了😃\n北京你要淹死我吗😇😇😇 https://t.co/oTLhqorBD0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5406,
+        "height": 1280,
+        "media_key": "13_1957732413855133699",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957732413855133699/img/heLdouECoZwC4om3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957732413855133699/vid/avc1/320x568/hweZPE3viSynLm0Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957732413855133699/vid/avc1/480x852/9Pv3irxOa3Rc6Ky_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957732413855133699/vid/avc1/720x1280/it5DU6bwvDzBQ0ea.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957732413855133699/pl/o_8Afl1DY4QTwJQA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957732413855133699"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1957732481383240056",
+        "created_at": "2025-08-19T09:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T10:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957732481383240056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oTLhqorBD0",
+              "end": 49,
+              "expanded_url": "https://x.com/wwwsgry_/status/1957732481383240056/video/1",
+              "media_key": "13_1957732413855133699",
+              "start": 26,
+              "url": "https://t.co/oTLhqorBD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957732481383240056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出来溜达买点东西被困住了😃\n北京你要淹死我吗😇😇😇 https://t.co/oTLhqorBD0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 753,
+          "like_count": 9628,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 3528
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

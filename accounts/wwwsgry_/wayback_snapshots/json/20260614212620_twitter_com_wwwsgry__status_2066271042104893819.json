@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066271038388764672",
+        "3_2066271038351065090",
+        "3_2066271038359400448",
+        "3_2066271038401282048"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2066271042104893819",
+    "created_at": "2026-06-14T21:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T22:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066271042104893819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YzptzLxvdq",
+          "end": 71,
+          "expanded_url": "https://x.com/wwwsgry_/status/2066271042104893819/photo/1",
+          "media_key": "3_2066271038388764672",
+          "start": 48,
+          "url": "https://t.co/YzptzLxvdq"
+        },
+        {
+          "display_url": "pic.x.com/YzptzLxvdq",
+          "end": 71,
+          "expanded_url": "https://x.com/wwwsgry_/status/2066271042104893819/photo/1",
+          "media_key": "3_2066271038351065090",
+          "start": 48,
+          "url": "https://t.co/YzptzLxvdq"
+        },
+        {
+          "display_url": "pic.x.com/YzptzLxvdq",
+          "end": 71,
+          "expanded_url": "https://x.com/wwwsgry_/status/2066271042104893819/photo/1",
+          "media_key": "3_2066271038359400448",
+          "start": 48,
+          "url": "https://t.co/YzptzLxvdq"
+        },
+        {
+          "display_url": "pic.x.com/YzptzLxvdq",
+          "end": 71,
+          "expanded_url": "https://x.com/wwwsgry_/status/2066271042104893819/photo/1",
+          "media_key": "3_2066271038401282048",
+          "start": 48,
+          "url": "https://t.co/YzptzLxvdq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066271042104893819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说这个是妈妈级别的有没有懂的🥵\n不知道是什么时候开始的 越来越喜欢俏皮正经都有的大姐姐了😍😍 https://t.co/YzptzLxvdq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2066271038388764672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzej9TXAAASI2-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2066271038351065090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzej9KXwAIGS13.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2066271038359400448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzej9MW8AA4ipm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2066271038401282048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzej9WWAAA-qZf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066271038388764672",
+            "3_2066271038351065090",
+            "3_2066271038359400448",
+            "3_2066271038401282048"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2066271042104893819",
+        "created_at": "2026-06-14T21:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066271042104893819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YzptzLxvdq",
+              "end": 71,
+              "expanded_url": "https://x.com/wwwsgry_/status/2066271042104893819/photo/1",
+              "media_key": "3_2066271038388764672",
+              "start": 48,
+              "url": "https://t.co/YzptzLxvdq"
+            },
+            {
+              "display_url": "pic.x.com/YzptzLxvdq",
+              "end": 71,
+              "expanded_url": "https://x.com/wwwsgry_/status/2066271042104893819/photo/1",
+              "media_key": "3_2066271038351065090",
+              "start": 48,
+              "url": "https://t.co/YzptzLxvdq"
+            },
+            {
+              "display_url": "pic.x.com/YzptzLxvdq",
+              "end": 71,
+              "expanded_url": "https://x.com/wwwsgry_/status/2066271042104893819/photo/1",
+              "media_key": "3_2066271038359400448",
+              "start": 48,
+              "url": "https://t.co/YzptzLxvdq"
+            },
+            {
+              "display_url": "pic.x.com/YzptzLxvdq",
+              "end": 71,
+              "expanded_url": "https://x.com/wwwsgry_/status/2066271042104893819/photo/1",
+              "media_key": "3_2066271038401282048",
+              "start": 48,
+              "url": "https://t.co/YzptzLxvdq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066271042104893819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说这个是妈妈级别的有没有懂的🥵\n不知道是什么时候开始的 越来越喜欢俏皮正经都有的大姐姐了😍😍 https://t.co/YzptzLxvdq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 988,
+          "like_count": 16607,
+          "listed_count": 4,
+          "media_count": 581,
+          "tweet_count": 6603
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

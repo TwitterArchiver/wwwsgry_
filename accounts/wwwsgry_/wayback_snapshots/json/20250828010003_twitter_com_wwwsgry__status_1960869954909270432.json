@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960869946348724224"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1960869954909270432",
+    "created_at": "2025-08-28T01:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T02:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960869954909270432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W2nijGjDLK",
+          "end": 37,
+          "expanded_url": "https://x.com/wwwsgry_/status/1960869954909270432/photo/1",
+          "media_key": "3_1960869946348724224",
+          "start": 14,
+          "url": "https://t.co/W2nijGjDLK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960869954909270432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下了雨好凉快 空气也挺好😋 https://t.co/W2nijGjDLK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1960869946348724224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzZo07ra4AAG7Gc.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960869946348724224"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1960869954909270432",
+        "created_at": "2025-08-28T01:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T02:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960869954909270432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2nijGjDLK",
+              "end": 37,
+              "expanded_url": "https://x.com/wwwsgry_/status/1960869954909270432/photo/1",
+              "media_key": "3_1960869946348724224",
+              "start": 14,
+              "url": "https://t.co/W2nijGjDLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960869954909270432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下了雨好凉快 空气也挺好😋 https://t.co/W2nijGjDLK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 804,
+          "like_count": 9992,
+          "listed_count": 4,
+          "media_count": 366,
+          "tweet_count": 3675
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

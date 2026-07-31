@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957439511572406272",
+        "3_1957439514961387520"
+      ],
+      "media_source_tweet_id": [
+        "1957439518220362015",
+        "1957439518220362015"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1112769073455095813",
+          "name": "Dexerto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1112769073455095813",
+          "name": "Dexerto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492293504529166341",
+          "name": "Games media"
+        }
+      }
+    ],
+    "conversation_id": "1957695084008468868",
+    "created_at": "2025-08-19T06:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T07:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957695084008468868"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "skibidi",
+          "probability": 0.4406,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "Cambridge Dictionary",
+          "probability": 0.8231,
+          "start": 54,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "76766018",
+          "start": 3,
+          "username": "Dexerto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jDZyZ2TBBZ",
+          "end": 98,
+          "expanded_url": "https://x.com/Dexerto/status/1957439518220362015/photo/1",
+          "media_key": "3_1957439511572406272",
+          "start": 75,
+          "url": "https://t.co/jDZyZ2TBBZ"
+        },
+        {
+          "display_url": "pic.x.com/jDZyZ2TBBZ",
+          "end": 98,
+          "expanded_url": "https://x.com/Dexerto/status/1957439518220362015/photo/1",
+          "media_key": "3_1957439514961387520",
+          "start": 75,
+          "url": "https://t.co/jDZyZ2TBBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957695084008468868",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4759
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957439518220362015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dexerto: The word \"skibidi\" has been added to the Cambridge Dictionary https://t.co/jDZyZ2TBBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1957439511572406272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyo43WSWYAAUFn9.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1957439514961387520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyo43i6WIAAT7co.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957439511572406272",
+            "3_1957439514961387520"
+          ],
+          "media_source_tweet_id": [
+            "1957439518220362015",
+            "1957439518220362015"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          }
+        ],
+        "conversation_id": "1957695084008468868",
+        "created_at": "2025-08-19T06:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T07:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957695084008468868"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "skibidi",
+              "probability": 0.4406,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Cambridge Dictionary",
+              "probability": 0.8231,
+              "start": 54,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "76766018",
+              "start": 3,
+              "username": "Dexerto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDZyZ2TBBZ",
+              "end": 98,
+              "expanded_url": "https://x.com/Dexerto/status/1957439518220362015/photo/1",
+              "media_key": "3_1957439511572406272",
+              "start": 75,
+              "url": "https://t.co/jDZyZ2TBBZ"
+            },
+            {
+              "display_url": "pic.x.com/jDZyZ2TBBZ",
+              "end": 98,
+              "expanded_url": "https://x.com/Dexerto/status/1957439518220362015/photo/1",
+              "media_key": "3_1957439514961387520",
+              "start": 75,
+              "url": "https://t.co/jDZyZ2TBBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957695084008468868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4759
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957439518220362015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dexerto: The word \"skibidi\" has been added to the Cambridge Dictionary https://t.co/jDZyZ2TBBZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957439511572406272",
+            "3_1957439514961387520"
+          ]
+        },
+        "author_id": "76766018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1112769073455095813",
+              "name": "Dexerto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          }
+        ],
+        "conversation_id": "1957439518220362015",
+        "created_at": "2025-08-18T13:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957439518220362015"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "skibidi",
+              "probability": 0.5411,
+              "start": 10,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Cambridge Dictionary",
+              "probability": 0.8066,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDZyZ2TBBZ",
+              "end": 85,
+              "expanded_url": "https://x.com/Dexerto/status/1957439518220362015/photo/1",
+              "media_key": "3_1957439511572406272",
+              "start": 62,
+              "url": "https://t.co/jDZyZ2TBBZ"
+            },
+            {
+              "display_url": "pic.x.com/jDZyZ2TBBZ",
+              "end": 85,
+              "expanded_url": "https://x.com/Dexerto/status/1957439518220362015/photo/1",
+              "media_key": "3_1957439514961387520",
+              "start": 62,
+              "url": "https://t.co/jDZyZ2TBBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957439518220362015",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6594,
+          "impression_count": 4051621,
+          "like_count": 79514,
+          "quote_count": 2288,
+          "reply_count": 1554,
+          "retweet_count": 4759
+        },
+        "reply_settings": "everyone",
+        "text": "The word \"skibidi\" has been added to the Cambridge Dictionary https://t.co/jDZyZ2TBBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 751,
+          "like_count": 9614,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 3524
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-23T21:44:53.000Z",
+        "description": "The leading source for influencer, streamer, gaming, and viral content",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dexerto.com",
+                "end": 23,
+                "expanded_url": "https://www.dexerto.com/",
+                "start": 0,
+                "url": "https://t.co/2So9UX8reR"
+              }
+            ]
+          }
+        },
+        "id": "76766018",
+        "location": "press[at]dexerto.com",
+        "name": "Dexerto",
+        "pinned_tweet_id": "1957465010684178456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714301666445402112/5U5myYFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236723,
+          "following_count": 922,
+          "like_count": 6642,
+          "listed_count": 3204,
+          "media_count": 54407,
+          "tweet_count": 127335
+        },
+        "url": "https://t.co/2So9UX8reR",
+        "username": "Dexerto",
+        "verified": true
+      }
+    ]
+  }
+}

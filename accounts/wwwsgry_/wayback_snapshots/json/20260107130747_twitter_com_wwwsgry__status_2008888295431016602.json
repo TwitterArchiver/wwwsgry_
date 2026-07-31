@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2008884635649089760",
+    "created_at": "2026-01-07T13:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T14:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008888295431016602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938823083835396096",
+          "start": 0,
+          "username": "VaguelyHuman233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008888295431016602",
+    "in_reply_to_user_id": "1938823083835396096",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008886705684939243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VaguelyHuman233 👄👄👄"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2008886705684939243].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2008886705684939243",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2008886705684939243"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-07T13:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T14:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008888295431016602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938823083835396096",
+              "start": 0,
+              "username": "VaguelyHuman233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008888295431016602",
+        "in_reply_to_user_id": "1938823083835396096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008886705684939243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VaguelyHuman233 👄👄👄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 922,
+          "like_count": 13693,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 5247
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T04:53:53.000Z",
+        "description": "made in china",
+        "id": "1938823083835396096",
+        "location": "web",
+        "name": "新世界之主",
+        "pinned_tweet_id": "2000382057164530116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574208509272065/3QP1x93__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 99,
+          "like_count": 5600,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 2735
+        },
+        "username": "VaguelyHuman233",
+        "verified": false
+      }
+    ]
+  }
+}

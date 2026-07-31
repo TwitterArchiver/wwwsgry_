@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1982469973919371285",
+    "created_at": "2025-10-26T15:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982471209691328794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689275528572760064",
+          "start": 0,
+          "username": "5mRtist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982471209691328794",
+    "in_reply_to_user_id": "1689275528572760064",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982469973919371285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5mRtist ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 1280,
+        "media_key": "13_1982469858072592384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982469858072592384/img/xI_eqA_yeOBW8GhC.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982469858072592384/vid/avc1/320x580/yLb4uMhIvwT6vhGh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982469858072592384/vid/avc1/480x872/ZFQAX_UprRy63hdV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982469858072592384/vid/avc1/704x1280/N0DE2yHa3TIGadfX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982469858072592384/pl/iDkt-sh2qhos1tbd.m3u8"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1982469973919371285",
+        "created_at": "2025-10-26T15:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982471209691328794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689275528572760064",
+              "start": 0,
+              "username": "5mRtist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982471209691328794",
+        "in_reply_to_user_id": "1689275528572760064",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982469973919371285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5mRtist ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982469858072592384"
+          ]
+        },
+        "author_id": "1689275528572760064",
+        "conversation_id": "1982469973919371285",
+        "created_at": "2025-10-26T15:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982469973919371285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/70JnXqoSje",
+              "end": 23,
+              "expanded_url": "https://x.com/5mRtist/status/1982469973919371285/video/1",
+              "media_key": "13_1982469858072592384",
+              "start": 0,
+              "url": "https://t.co/70JnXqoSje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982469973919371285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/70JnXqoSje"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 913,
+          "like_count": 12739,
+          "listed_count": 5,
+          "media_count": 433,
+          "tweet_count": 4581
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T14:00:59.000Z",
+        "description": "七三一官方推特",
+        "id": "1689275528572760064",
+        "location": "距你4.51km",
+        "name": "5mR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823995534987943936/20q2mxDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4721,
+          "following_count": 1606,
+          "like_count": 33492,
+          "listed_count": 10,
+          "media_count": 227,
+          "tweet_count": 6851
+        },
+        "username": "5mRtist",
+        "verified": false
+      }
+    ]
+  }
+}

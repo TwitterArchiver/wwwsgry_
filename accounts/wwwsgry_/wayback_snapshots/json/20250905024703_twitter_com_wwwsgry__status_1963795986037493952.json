@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963795981507411968"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1963795986037493952",
+    "created_at": "2025-09-05T02:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T03:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963795986037493952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SB7uaoJJf4",
+          "end": 40,
+          "expanded_url": "https://x.com/wwwsgry_/status/1963795986037493952/photo/1",
+          "media_key": "3_1963795981507411968",
+          "start": 17,
+          "url": "https://t.co/SB7uaoJJf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963795986037493952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽象天赋这一块 拼尽全力无法绷住 https://t.co/SB7uaoJJf4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963795981507411968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0DOCmEWwAAeEMm.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963795981507411968"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1963795986037493952",
+        "created_at": "2025-09-05T02:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T03:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963795986037493952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SB7uaoJJf4",
+              "end": 40,
+              "expanded_url": "https://x.com/wwwsgry_/status/1963795986037493952/photo/1",
+              "media_key": "3_1963795981507411968",
+              "start": 17,
+              "url": "https://t.co/SB7uaoJJf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963795986037493952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽象天赋这一块 拼尽全力无法绷住 https://t.co/SB7uaoJJf4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 840,
+          "like_count": 10397,
+          "listed_count": 4,
+          "media_count": 384,
+          "tweet_count": 3803
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983902120593256587",
+    "created_at": "2025-10-31T12:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984242369374679135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "813608960267677696",
+          "start": 0,
+          "username": "28_AcreLand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984242369374679135",
+    "in_reply_to_user_id": "813608960267677696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984156403754471474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@28_AcreLand 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T12:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984242369374679135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "813608960267677696",
+              "start": 0,
+              "username": "28_AcreLand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984242369374679135",
+        "in_reply_to_user_id": "813608960267677696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984156403754471474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@28_AcreLand 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "813608960267677696",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T07:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984156403754471474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984156403754471474",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983902120593256587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 网红学校"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 919,
+          "like_count": 13035,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 4706
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-27T04:54:27.000Z",
+        "description": "90后 16cm 墨尔本 单男 轻微s 可约可调教 NS玩家 甜品/调酒/按摩 不玩远程跳蛋 不要门槛 关注我小心被草",
+        "id": "813608960267677696",
+        "location": "Melbourne, Victoria",
+        "name": "二十八亩田🇦🇺DTF",
+        "pinned_tweet_id": "1613351575485026304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629304568390778880/_Tfyf1uN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 3223,
+          "like_count": 4054,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 1137
+        },
+        "username": "28_AcreLand",
+        "verified": false
+      }
+    ]
+  }
+}

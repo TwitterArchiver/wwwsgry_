@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2067639667235909881",
+    "created_at": "2026-06-19T01:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T02:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067786894373540263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878762574327824384",
+          "start": 0,
+          "username": "JihaiLin354002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067786894373540263",
+    "in_reply_to_user_id": "1878762574327824384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067639667235909881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JihaiLin354002 重女😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2067639667235909881",
+        "created_at": "2026-06-19T01:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067786894373540263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878762574327824384",
+              "start": 0,
+              "username": "JihaiLin354002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067786894373540263",
+        "in_reply_to_user_id": "1878762574327824384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067639667235909881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JihaiLin354002 重女😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878762574327824384",
+        "conversation_id": "2067639667235909881",
+        "created_at": "2026-06-18T16:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067639667235909881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067639667235909881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实是我诡秘小学二年级开始养的一条狗，但我的寿命比一般狗长，所以我会忠心耿耿陪她到死。她也只有我一条狗。真好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 989,
+          "like_count": 16695,
+          "listed_count": 4,
+          "media_count": 584,
+          "tweet_count": 6624
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T11:14:51.000Z",
+        "description": "头像来自@shim_46_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "shim_46_"
+              }
+            ]
+          }
+        },
+        "id": "1878762574327824384",
+        "name": "Ro",
+        "pinned_tweet_id": "2066445864353333515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027424685634310159/wDTaICtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 328,
+          "like_count": 10477,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 3304
+        },
+        "url": "",
+        "username": "JihaiLin354002",
+        "verified": false
+      }
+    ]
+  }
+}

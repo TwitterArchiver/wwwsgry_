@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992032681094205440",
+        "3_1992032681102594049",
+        "3_1992032681106853888"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1992032712454992165",
+    "created_at": "2025-11-22T00:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T01:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992032712454992165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iO3n9ytKuc",
+          "end": 48,
+          "expanded_url": "https://x.com/wwwsgry_/status/1992032712454992165/photo/1",
+          "media_key": "3_1992032681094205440",
+          "start": 25,
+          "url": "https://t.co/iO3n9ytKuc"
+        },
+        {
+          "display_url": "pic.x.com/iO3n9ytKuc",
+          "end": 48,
+          "expanded_url": "https://x.com/wwwsgry_/status/1992032712454992165/photo/1",
+          "media_key": "3_1992032681102594049",
+          "start": 25,
+          "url": "https://t.co/iO3n9ytKuc"
+        },
+        {
+          "display_url": "pic.x.com/iO3n9ytKuc",
+          "end": 48,
+          "expanded_url": "https://x.com/wwwsgry_/status/1992032712454992165/photo/1",
+          "media_key": "3_1992032681106853888",
+          "start": 25,
+          "url": "https://t.co/iO3n9ytKuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992032712454992165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难得出门 跟着老师混进保守党神秘小集会蹭吃蹭喝🤓 https://t.co/iO3n9ytKuc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992032681094205440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UfK1GW0AAaXH7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1992032681102594049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UfK1IW0AE3oEl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992032681106853888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UfK1JX0AAmw3B.jpg",
+        "width": 1512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992032681094205440",
+            "3_1992032681102594049",
+            "3_1992032681106853888"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992032712454992165",
+        "created_at": "2025-11-22T00:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T01:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992032712454992165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iO3n9ytKuc",
+              "end": 48,
+              "expanded_url": "https://x.com/wwwsgry_/status/1992032712454992165/photo/1",
+              "media_key": "3_1992032681094205440",
+              "start": 25,
+              "url": "https://t.co/iO3n9ytKuc"
+            },
+            {
+              "display_url": "pic.x.com/iO3n9ytKuc",
+              "end": 48,
+              "expanded_url": "https://x.com/wwwsgry_/status/1992032712454992165/photo/1",
+              "media_key": "3_1992032681102594049",
+              "start": 25,
+              "url": "https://t.co/iO3n9ytKuc"
+            },
+            {
+              "display_url": "pic.x.com/iO3n9ytKuc",
+              "end": 48,
+              "expanded_url": "https://x.com/wwwsgry_/status/1992032712454992165/photo/1",
+              "media_key": "3_1992032681106853888",
+              "start": 25,
+              "url": "https://t.co/iO3n9ytKuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992032712454992165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难得出门 跟着老师混进保守党神秘小集会蹭吃蹭喝🤓 https://t.co/iO3n9ytKuc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 923,
+          "like_count": 13660,
+          "listed_count": 4,
+          "media_count": 457,
+          "tweet_count": 4928
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

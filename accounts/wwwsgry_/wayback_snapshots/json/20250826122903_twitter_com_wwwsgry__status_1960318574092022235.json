@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1960318574092022235",
+    "created_at": "2025-08-26T12:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T13:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960318574092022235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rkgk__3/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/rkgk__3/status/1960247265483710927",
+          "start": 17,
+          "url": "https://t.co/qBkkc5tzj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960318574092022235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960247265483710927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么时候出这个发型的宵宫皮肤😻😻 https://t.co/qBkkc5tzj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3033,
+        "media_key": "3_1960247256013234176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQyflaaYAAqQdz.jpg",
+        "width": 2424
+      },
+      {
+        "height": 3504,
+        "media_key": "3_1960247256042659840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQyflhbYAAq_yh.jpg",
+        "width": 2683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1960318574092022235",
+        "created_at": "2025-08-26T12:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960318574092022235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rkgk__3/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/rkgk__3/status/1960247265483710927",
+              "start": 17,
+              "url": "https://t.co/qBkkc5tzj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960318574092022235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960247265483710927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候出这个发型的宵宫皮肤😻😻 https://t.co/qBkkc5tzj0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960247256013234176",
+            "3_1960247256042659840"
+          ]
+        },
+        "author_id": "1781913104458334208",
+        "conversation_id": "1960247265483710927",
+        "created_at": "2025-08-26T07:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T08:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960247265483710927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSGwVo7GEx",
+              "end": 23,
+              "expanded_url": "https://x.com/rkgk__3/status/1960247265483710927/photo/1",
+              "media_key": "3_1960247256013234176",
+              "start": 0,
+              "url": "https://t.co/wSGwVo7GEx"
+            },
+            {
+              "display_url": "pic.x.com/wSGwVo7GEx",
+              "end": 23,
+              "expanded_url": "https://x.com/rkgk__3/status/1960247265483710927/photo/1",
+              "media_key": "3_1960247256042659840",
+              "start": 0,
+              "url": "https://t.co/wSGwVo7GEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960247265483710927",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 831,
+          "impression_count": 91564,
+          "like_count": 6424,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 524
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/wSGwVo7GEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 786,
+          "like_count": 9904,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 3657
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T05:09:56.000Z",
+        "description": "絵と和解せよ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rkgk__3",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@rkgk__3",
+                "start": 0,
+                "url": "https://t.co/UaKzsUo7Vs"
+              }
+            ]
+          }
+        },
+        "id": "1781913104458334208",
+        "location": "利用禁止／Do not reupload my art.",
+        "name": "かるぁ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925085664972099584/0ZIqKt_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27682,
+          "following_count": 69,
+          "like_count": 417,
+          "listed_count": 113,
+          "media_count": 21,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/UaKzsUo7Vs",
+        "username": "rkgk__3",
+        "verified": false
+      }
+    ]
+  }
+}

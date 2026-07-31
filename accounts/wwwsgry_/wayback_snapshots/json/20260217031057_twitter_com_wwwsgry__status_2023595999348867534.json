@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023595945368104960"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2023595999348867534",
+    "created_at": "2026-02-17T03:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T04:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023595999348867534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sGn5HVVx7h",
+          "end": 23,
+          "expanded_url": "https://x.com/wwwsgry_/status/2023595999348867534/video/1",
+          "media_key": "13_2023595945368104960",
+          "start": 0,
+          "url": "https://t.co/sGn5HVVx7h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023595999348867534",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/sGn5HVVx7h"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5700,
+        "height": 1280,
+        "media_key": "13_2023595945368104960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023595945368104960/img/2pRKTNw5XNk_EPwo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023595945368104960/vid/avc1/320x568/DJYsN1sNYDprzlL1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023595945368104960/vid/avc1/480x852/B4ZKi0ynLfwWkLC4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023595945368104960/vid/avc1/720x1280/3Xm98mTfosxvy4t5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023595945368104960/pl/WRATZf7wPyttVWJc.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023595945368104960"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2023595999348867534",
+        "created_at": "2026-02-17T03:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023595999348867534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sGn5HVVx7h",
+              "end": 23,
+              "expanded_url": "https://x.com/wwwsgry_/status/2023595999348867534/video/1",
+              "media_key": "13_2023595945368104960",
+              "start": 0,
+              "url": "https://t.co/sGn5HVVx7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023595999348867534",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sGn5HVVx7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 949,
+          "like_count": 14305,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 5545
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

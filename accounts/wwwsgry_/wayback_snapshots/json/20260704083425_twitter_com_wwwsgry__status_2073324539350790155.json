@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2073302740323717628",
+    "created_at": "2026-07-04T08:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T09:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073324539350790155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987421067884048384",
+          "start": 0,
+          "username": "yznb1234"
+        },
+        {
+          "end": 21,
+          "id": "1765825463103139840",
+          "start": 10,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073324539350790155",
+    "in_reply_to_user_id": "1987421067884048384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073302740323717628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yznb1234 @Chloris923 哇哦这么精致细心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073302612053573632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXZvadXwAA-BCX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073302612057677824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXZvaeWYAAL0lD.jpg",
+        "width": 868
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073302612112224256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXZvarWsAAJ1pl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2073302740323717628",
+        "created_at": "2026-07-04T08:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073324539350790155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987421067884048384",
+              "start": 0,
+              "username": "yznb1234"
+            },
+            {
+              "end": 21,
+              "id": "1765825463103139840",
+              "start": 10,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073324539350790155",
+        "in_reply_to_user_id": "1987421067884048384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073302740323717628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yznb1234 @Chloris923 哇哦这么精致细心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073302612053573632",
+            "3_2073302612057677824",
+            "3_2073302612112224256"
+          ]
+        },
+        "author_id": "1987421067884048384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073302740323717628",
+        "created_at": "2026-07-04T07:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073302740323717628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1765825463103139840",
+              "start": 9,
+              "username": "Chloris923"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gexJj22W0M",
+              "end": 168,
+              "expanded_url": "https://x.com/yznb1234/status/2073302740323717628/photo/1",
+              "media_key": "3_2073302612053573632",
+              "start": 145,
+              "url": "https://t.co/gexJj22W0M"
+            },
+            {
+              "display_url": "pic.x.com/gexJj22W0M",
+              "end": 168,
+              "expanded_url": "https://x.com/yznb1234/status/2073302740323717628/photo/1",
+              "media_key": "3_2073302612057677824",
+              "start": 145,
+              "url": "https://t.co/gexJj22W0M"
+            },
+            {
+              "display_url": "pic.x.com/gexJj22W0M",
+              "end": 168,
+              "expanded_url": "https://x.com/yznb1234/status/2073302740323717628/photo/1",
+              "media_key": "3_2073302612112224256",
+              "start": 145,
+              "url": "https://t.co/gexJj22W0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073302740323717628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感谢我的姐妹，白桦@Chloris923 送的暑假礼物🎁🤩包裹一打开香气就扑面而来🥹\n总督府，中正纪念堂，墨尔本的艺术馆雕塑，都拍得十分好👍🏻（竟然写了这么多，有生之年我一定要亲自参观\n香薰我已经忍不住想点了，我好喜欢这种香而不腻的味道omg。。海德薇茶杯太可爱了，我也算HP十年老粉了😭 https://t.co/gexJj22W0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 999,
+          "like_count": 17011,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 6728
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T07:24:57.000Z",
+        "description": "万人为我写诗而幸福却是此时\n不必回fo，感谢相遇",
+        "id": "1987421067884048384",
+        "location": "707",
+        "name": "(＾ω＾)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040669525604212736/vauyoVIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 590,
+          "like_count": 7971,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1812
+        },
+        "url": "",
+        "username": "yznb1234",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "09｜高二生｜南部大陸的邪惡魔女",
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2072369531658658001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066050332250238976/PRslPyHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 348,
+          "like_count": 39855,
+          "listed_count": 5,
+          "media_count": 769,
+          "tweet_count": 22822
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

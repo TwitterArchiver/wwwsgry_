@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1992627991793578117",
+    "created_at": "2025-11-23T18:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T19:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992669172124569675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992669172124569675",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992627991793578117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 设置里的privacy and safety有一个地方🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1992627988702310400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c8mSwaMAA2WN3.jpg",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1992627988698189826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c8mSvbUAIbp-F.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1992627991793578117",
+        "created_at": "2025-11-23T18:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T19:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992669172124569675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992669172124569675",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992627991793578117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 设置里的privacy and safety有一个地方🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992627988702310400",
+            "3_1992627988698189826"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "1992627991793578117",
+        "created_at": "2025-11-23T16:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992627991793578117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1owbAR1Up",
+              "end": 46,
+              "expanded_url": "https://x.com/huahuojiang_/status/1992627991793578117/photo/1",
+              "media_key": "3_1992627988702310400",
+              "start": 23,
+              "url": "https://t.co/B1owbAR1Up"
+            },
+            {
+              "display_url": "pic.x.com/B1owbAR1Up",
+              "end": 46,
+              "expanded_url": "https://x.com/huahuojiang_/status/1992627991793578117/photo/1",
+              "media_key": "3_1992627988698189826",
+              "start": 23,
+              "url": "https://t.co/B1owbAR1Up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992627991793578117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人告訴我設置裡可以改，可是你告訴我我怎麼改 https://t.co/B1owbAR1Up"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 926,
+          "like_count": 13703,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 4943
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1991154110759121103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6791,
+          "following_count": 3654,
+          "like_count": 96980,
+          "listed_count": 19,
+          "media_count": 6094,
+          "tweet_count": 86208
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1979205433358160047",
+    "created_at": "2025-10-17T16:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979219187156333010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1930929865789931520",
+          "start": 0,
+          "username": "mi_huan030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979219187156333010",
+    "in_reply_to_user_id": "1930929865789931520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979205433358160047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mi_huan030 加油喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1979205433358160047",
+        "created_at": "2025-10-17T16:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979219187156333010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1930929865789931520",
+              "start": 0,
+              "username": "mi_huan030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979219187156333010",
+        "in_reply_to_user_id": "1930929865789931520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979205433358160047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mi_huan030 加油喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930929865789931520",
+        "conversation_id": "1979205433358160047",
+        "created_at": "2025-10-17T15:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979205433358160047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mi_huan030/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/mi_huan030/status/1979126729370406978",
+              "start": 9,
+              "url": "https://t.co/2waNeVAXB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979205433358160047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979126729370406978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😿现在还在实验室 https://t.co/2waNeVAXB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 900,
+          "like_count": 12476,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 4437
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T10:09:01.000Z",
+        "description": "/suicide   “没有管理员权限” ｜豪🐱@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mihuan1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mihuan1",
+                "start": 0,
+                "url": "https://t.co/4qvoOYAuDS"
+              }
+            ]
+          }
+        },
+        "id": "1930929865789931520",
+        "name": "mi huan🐾",
+        "pinned_tweet_id": "1977415117378891797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973475440745652225/OHryGGmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 399,
+          "like_count": 11711,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 2885
+        },
+        "url": "https://t.co/4qvoOYAuDS",
+        "username": "mi_huan030",
+        "verified": false
+      }
+    ]
+  }
+}

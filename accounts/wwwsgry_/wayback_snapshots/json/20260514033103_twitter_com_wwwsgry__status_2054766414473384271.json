@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2054706496722600268",
+    "created_at": "2026-05-14T03:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054766414473384271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938823083835396096",
+          "start": 0,
+          "username": "VaguelyHuman233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054766414473384271",
+    "in_reply_to_user_id": "1938823083835396096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054720961589760055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VaguelyHuman233 我第二排（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054720961589760055].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054720961589760055",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054720961589760055"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2054706496722600268",
+        "created_at": "2026-05-14T03:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054766414473384271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938823083835396096",
+              "start": 0,
+              "username": "VaguelyHuman233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054766414473384271",
+        "in_reply_to_user_id": "1938823083835396096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054720961589760055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VaguelyHuman233 我第二排（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 973,
+          "like_count": 16154,
+          "listed_count": 4,
+          "media_count": 574,
+          "tweet_count": 6399
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T04:53:53.000Z",
+        "description": "Desperado",
+        "id": "1938823083835396096",
+        "location": "hell",
+        "name": "Ni Dios estudia al",
+        "pinned_tweet_id": "2049104960076521534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574208509272065/3QP1x93__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 153,
+          "like_count": 9846,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 4217
+        },
+        "username": "VaguelyHuman233",
+        "verified": false
+      }
+    ]
+  }
+}

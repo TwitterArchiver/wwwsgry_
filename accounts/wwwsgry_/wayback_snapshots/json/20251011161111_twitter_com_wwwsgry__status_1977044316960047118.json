@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977044300924874752",
+        "3_1977044300937515008",
+        "3_1977044300912369664",
+        "3_1977044300912263168"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1977044316960047118",
+    "created_at": "2025-10-11T16:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T17:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977044316960047118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qbQJy4MeYc",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/1977044316960047118/photo/1",
+          "media_key": "3_1977044300924874752",
+          "start": 13,
+          "url": "https://t.co/qbQJy4MeYc"
+        },
+        {
+          "display_url": "pic.x.com/qbQJy4MeYc",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/1977044316960047118/photo/1",
+          "media_key": "3_1977044300937515008",
+          "start": 13,
+          "url": "https://t.co/qbQJy4MeYc"
+        },
+        {
+          "display_url": "pic.x.com/qbQJy4MeYc",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/1977044316960047118/photo/1",
+          "media_key": "3_1977044300912369664",
+          "start": 13,
+          "url": "https://t.co/qbQJy4MeYc"
+        },
+        {
+          "display_url": "pic.x.com/qbQJy4MeYc",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/1977044316960047118/photo/1",
+          "media_key": "3_1977044300912263168",
+          "start": 13,
+          "url": "https://t.co/qbQJy4MeYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977044316960047118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈基鸥 哈基船 哈基湖🫡 https://t.co/qbQJy4MeYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977044300924874752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_fUR3WcAAqts5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977044300937515008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_fUR6XUAAOHQY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977044300912369664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_fUR0XoAAPq1Z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977044300912263168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_fUR0WAAAnD6F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977044300924874752",
+            "3_1977044300937515008",
+            "3_1977044300912369664",
+            "3_1977044300912263168"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1977044316960047118",
+        "created_at": "2025-10-11T16:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T17:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977044316960047118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbQJy4MeYc",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/1977044316960047118/photo/1",
+              "media_key": "3_1977044300924874752",
+              "start": 13,
+              "url": "https://t.co/qbQJy4MeYc"
+            },
+            {
+              "display_url": "pic.x.com/qbQJy4MeYc",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/1977044316960047118/photo/1",
+              "media_key": "3_1977044300937515008",
+              "start": 13,
+              "url": "https://t.co/qbQJy4MeYc"
+            },
+            {
+              "display_url": "pic.x.com/qbQJy4MeYc",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/1977044316960047118/photo/1",
+              "media_key": "3_1977044300912369664",
+              "start": 13,
+              "url": "https://t.co/qbQJy4MeYc"
+            },
+            {
+              "display_url": "pic.x.com/qbQJy4MeYc",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/1977044316960047118/photo/1",
+              "media_key": "3_1977044300912263168",
+              "start": 13,
+              "url": "https://t.co/qbQJy4MeYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977044316960047118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈基鸥 哈基船 哈基湖🫡 https://t.co/qbQJy4MeYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 893,
+          "like_count": 12101,
+          "listed_count": 4,
+          "media_count": 418,
+          "tweet_count": 4303
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

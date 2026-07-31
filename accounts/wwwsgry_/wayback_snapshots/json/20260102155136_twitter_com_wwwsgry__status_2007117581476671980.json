@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2007110739094548561",
+    "created_at": "2026-01-02T15:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007117581476671980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898932862021238784",
+          "start": 0,
+          "username": "Northbirch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007117581476671980",
+    "in_reply_to_user_id": "1898932862021238784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007110739094548561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Northbirch_ 妈妈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2007110739094548561].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2007110739094548561",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2007110739094548561"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2007110739094548561",
+        "created_at": "2026-01-02T15:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007117581476671980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898932862021238784",
+              "start": 0,
+              "username": "Northbirch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007117581476671980",
+        "in_reply_to_user_id": "1898932862021238784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007110739094548561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Northbirch_ 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 922,
+          "like_count": 14134,
+          "listed_count": 4,
+          "media_count": 489,
+          "tweet_count": 5213
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T03:04:20.000Z",
+        "description": "非請勿入。仍在使用中",
+        "id": "1898932862021238784",
+        "name": "Chloris",
+        "pinned_tweet_id": "2003406403730538979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003109587042623488/o1PpfUWV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 18,
+          "like_count": 1267,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 2549
+        },
+        "username": "Northbirch_",
+        "verified": false
+      }
+    ]
+  }
+}

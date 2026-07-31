@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066369867138166784",
+        "3_2066369867117191169",
+        "3_2066369867159097344"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066369882585710770",
+    "created_at": "2026-06-15T03:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066369882585710770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l88xnZsF9C",
+          "end": 35,
+          "expanded_url": "https://x.com/wwwsgry_/status/2066369882585710770/photo/1",
+          "media_key": "3_2066369867138166784",
+          "start": 12,
+          "url": "https://t.co/l88xnZsF9C"
+        },
+        {
+          "display_url": "pic.x.com/l88xnZsF9C",
+          "end": 35,
+          "expanded_url": "https://x.com/wwwsgry_/status/2066369882585710770/photo/1",
+          "media_key": "3_2066369867117191169",
+          "start": 12,
+          "url": "https://t.co/l88xnZsF9C"
+        },
+        {
+          "display_url": "pic.x.com/l88xnZsF9C",
+          "end": 35,
+          "expanded_url": "https://x.com/wwwsgry_/status/2066369882585710770/photo/1",
+          "media_key": "3_2066369867159097344",
+          "start": 12,
+          "url": "https://t.co/l88xnZsF9C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066369882585710770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我迟早要被这个b车笑死 https://t.co/l88xnZsF9C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066369867138166784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK04cjFXcAA66RA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066369867117191169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK04cjAXYAEWeki.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066369867159097344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK04cjKW0AAhFp9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066369867138166784",
+            "3_2066369867117191169",
+            "3_2066369867159097344"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066369882585710770",
+        "created_at": "2026-06-15T03:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066369882585710770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l88xnZsF9C",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/2066369882585710770/photo/1",
+              "media_key": "3_2066369867138166784",
+              "start": 12,
+              "url": "https://t.co/l88xnZsF9C"
+            },
+            {
+              "display_url": "pic.x.com/l88xnZsF9C",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/2066369882585710770/photo/1",
+              "media_key": "3_2066369867117191169",
+              "start": 12,
+              "url": "https://t.co/l88xnZsF9C"
+            },
+            {
+              "display_url": "pic.x.com/l88xnZsF9C",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/2066369882585710770/photo/1",
+              "media_key": "3_2066369867159097344",
+              "start": 12,
+              "url": "https://t.co/l88xnZsF9C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066369882585710770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我迟早要被这个b车笑死 https://t.co/l88xnZsF9C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 988,
+          "like_count": 16611,
+          "listed_count": 4,
+          "media_count": 582,
+          "tweet_count": 6606
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

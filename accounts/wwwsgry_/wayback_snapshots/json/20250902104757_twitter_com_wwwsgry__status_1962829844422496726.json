@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1962460422856216650",
+    "created_at": "2025-09-02T10:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T11:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962829844422496726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644880617933520898",
+          "start": 0,
+          "username": "ivinansz_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962829844422496726",
+    "in_reply_to_user_id": "1644880617933520898",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962812391630217519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivinansz_oO 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1962460422856216650",
+        "created_at": "2025-09-02T10:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T11:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962829844422496726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644880617933520898",
+              "start": 0,
+              "username": "ivinansz_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962829844422496726",
+        "in_reply_to_user_id": "1644880617933520898",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962812391630217519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivinansz_oO 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644880617933520898",
+        "conversation_id": "1962460422856216650",
+        "created_at": "2025-09-02T09:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T10:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962812391630217519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962812391630217519",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962460422856216650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 猪可以学ap 已证实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 834,
+          "like_count": 10242,
+          "listed_count": 4,
+          "media_count": 380,
+          "tweet_count": 3765
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T01:51:22.000Z",
+        "description": "淡淡的",
+        "id": "1644880617933520898",
+        "name": "iivan.oo",
+        "pinned_tweet_id": "1945643430249459912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950636656568274944/aibsxo1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 245,
+          "like_count": 1092,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 617
+        },
+        "username": "ivinansz_oO",
+        "verified": false
+      }
+    ]
+  }
+}

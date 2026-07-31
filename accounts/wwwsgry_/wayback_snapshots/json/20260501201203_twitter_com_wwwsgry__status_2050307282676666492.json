@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050307279975538688"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050307282676666492",
+    "created_at": "2026-05-01T20:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T21:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050307282676666492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EQ91sw8V7z",
+          "end": 37,
+          "expanded_url": "https://x.com/wwwsgry_/status/2050307282676666492/photo/1",
+          "media_key": "3_2050307279975538688",
+          "start": 14,
+          "url": "https://t.co/EQ91sw8V7z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050307282676666492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我将用余生全力研究这局比赛 https://t.co/EQ91sw8V7z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 326,
+        "media_key": "3_2050307279975538688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQnm69W4AAh9vT.jpg",
+        "width": 1094
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050307279975538688"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050307282676666492",
+        "created_at": "2026-05-01T20:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T21:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050307282676666492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQ91sw8V7z",
+              "end": 37,
+              "expanded_url": "https://x.com/wwwsgry_/status/2050307282676666492/photo/1",
+              "media_key": "3_2050307279975538688",
+              "start": 14,
+              "url": "https://t.co/EQ91sw8V7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050307282676666492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将用余生全力研究这局比赛 https://t.co/EQ91sw8V7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 970,
+          "like_count": 15969,
+          "listed_count": 4,
+          "media_count": 564,
+          "tweet_count": 6300
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

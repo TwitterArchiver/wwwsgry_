@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1999580254973690350",
+    "created_at": "2025-12-12T21:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T22:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999594913550209379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965497607264022528",
+          "start": 0,
+          "username": "AGautea11155"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999594913550209379",
+    "in_reply_to_user_id": "1965497607264022528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999590463737856488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGautea11155 本来就是单人宿舍（）就是隔音太差😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1999580254973690350",
+        "created_at": "2025-12-12T21:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999594913550209379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965497607264022528",
+              "start": 0,
+              "username": "AGautea11155"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999594913550209379",
+        "in_reply_to_user_id": "1965497607264022528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999590463737856488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGautea11155 本来就是单人宿舍（）就是隔音太差😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965497607264022528",
+        "conversation_id": "1999580254973690350",
+        "created_at": "2025-12-12T21:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999590463737856488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999590463737856488",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999580254973690350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 转念一想宿舍一个人住很爽的“ψ(｀∇´)ψ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 923,
+          "like_count": 13945,
+          "listed_count": 4,
+          "media_count": 472,
+          "tweet_count": 5087
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T19:28:43.000Z",
+        "description": "寡王",
+        "id": "1965497607264022528",
+        "name": "海绵宝的白衬衫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982460562668732416/RHVH44ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 214
+        },
+        "username": "AGautea11155",
+        "verified": false
+      }
+    ]
+  }
+}

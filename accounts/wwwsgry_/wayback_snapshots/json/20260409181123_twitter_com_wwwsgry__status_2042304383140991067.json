@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041939232957079552"
+      ],
+      "media_source_tweet_id": [
+        "2041939241148568045"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2042304383140991067",
+    "created_at": "2026-04-09T18:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042304383140991067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963013320614547456",
+          "start": 3,
+          "username": "JayFreedomX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jHgP9HFKh5",
+          "end": 43,
+          "expanded_url": "https://x.com/JayFreedomX/status/2041939241148568045/photo/1",
+          "media_key": "3_2041939232957079552",
+          "start": 20,
+          "url": "https://t.co/jHgP9HFKh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042304383140991067",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 491
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041939241148568045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JayFreedomX: :3 https://t.co/jHgP9HFKh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_2041939232957079552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZs6elXIAAxWwg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041939232957079552"
+          ],
+          "media_source_tweet_id": [
+            "2041939241148568045"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2042304383140991067",
+        "created_at": "2026-04-09T18:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042304383140991067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963013320614547456",
+              "start": 3,
+              "username": "JayFreedomX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHgP9HFKh5",
+              "end": 43,
+              "expanded_url": "https://x.com/JayFreedomX/status/2041939241148568045/photo/1",
+              "media_key": "3_2041939232957079552",
+              "start": 20,
+              "url": "https://t.co/jHgP9HFKh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042304383140991067",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 491
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041939241148568045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JayFreedomX: :3 https://t.co/jHgP9HFKh5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041939232957079552"
+          ]
+        },
+        "author_id": "1963013320614547456",
+        "conversation_id": "2041939241148568045",
+        "created_at": "2026-04-08T18:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041939241148568045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHgP9HFKh5",
+              "end": 26,
+              "expanded_url": "https://x.com/JayFreedomX/status/2041939241148568045/photo/1",
+              "media_key": "3_2041939232957079552",
+              "start": 3,
+              "url": "https://t.co/jHgP9HFKh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041939241148568045",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 59155,
+          "like_count": 4783,
+          "quote_count": 67,
+          "reply_count": 55,
+          "retweet_count": 491
+        },
+        "reply_settings": "everyone",
+        "text": ":3 https://t.co/jHgP9HFKh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042288918339416064/2u9qr-16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 956,
+          "like_count": 15620,
+          "listed_count": 4,
+          "media_count": 551,
+          "tweet_count": 6128
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-02T22:57:26.000Z",
+        "description": "hey, i`m new here 😳👉👈 just a shy lil femboy (he/him, 18+, 5'5\") i love taking pictures (of myself) & working on my body~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/JayFreedomX",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/JayFreedomX",
+                "start": 0,
+                "url": "https://t.co/CecsLxrusp"
+              }
+            ]
+          }
+        },
+        "id": "1963013320614547456",
+        "location": "MORE content :3",
+        "name": "Jay 🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023371779675398144/cbC5QYT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 67,
+          "like_count": 2219,
+          "listed_count": 6,
+          "media_count": 118,
+          "tweet_count": 229
+        },
+        "url": "https://t.co/CecsLxrusp",
+        "username": "JayFreedomX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2038693399130157483",
+    "created_at": "2026-03-30T20:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T21:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038714879364710631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1855781466917228544",
+          "start": 0,
+          "username": "hy1194527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038714879364710631",
+    "in_reply_to_user_id": "1855781466917228544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038696084541685879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hy1194527 666没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2038696081496965120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErnSN6bgAAojiy.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2038693399130157483",
+        "created_at": "2026-03-30T20:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T21:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038714879364710631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1855781466917228544",
+              "start": 0,
+              "username": "hy1194527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038714879364710631",
+        "in_reply_to_user_id": "1855781466917228544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038696084541685879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hy1194527 666没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038696081496965120"
+          ]
+        },
+        "author_id": "1855781466917228544",
+        "conversation_id": "2038693399130157483",
+        "created_at": "2026-03-30T19:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038696084541685879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EO84BLDgyl",
+              "end": 66,
+              "expanded_url": "https://x.com/hy1194527/status/2038696084541685879/photo/1",
+              "media_key": "3_2038696081496965120",
+              "start": 43,
+              "url": "https://t.co/EO84BLDgyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038696084541685879",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038693399130157483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 小红书上买答案的：到处都是自己考的，这尊重我们这些花了钱的学生吗 https://t.co/EO84BLDgyl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646828041547776/E827cquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 954,
+          "like_count": 15424,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 6038
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T01:16:04.000Z",
+        "description": "全网最尊重女性、跨畜和坂下六花的站街po主",
+        "id": "1855781466917228544",
+        "name": "凌晨四点在 Valenkov站街",
+        "pinned_tweet_id": "1912622651643949394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034069755624042496/4TbkDc-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 853,
+          "like_count": 19156,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 960
+        },
+        "username": "hy1194527",
+        "verified": false
+      }
+    ]
+  }
+}

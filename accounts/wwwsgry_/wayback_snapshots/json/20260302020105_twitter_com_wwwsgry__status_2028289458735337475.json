@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2028149498136920181",
+    "created_at": "2026-03-02T02:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T03:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028289458735337475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847272386066051073",
+          "start": 0,
+          "username": "io__jiia_0112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028289458735337475",
+    "in_reply_to_user_id": "1847272386066051073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028286376186396766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@io__jiia_0112 其实我不会做饭（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2028149498136920181",
+        "created_at": "2026-03-02T02:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028289458735337475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847272386066051073",
+              "start": 0,
+              "username": "io__jiia_0112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028289458735337475",
+        "in_reply_to_user_id": "1847272386066051073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028286376186396766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@io__jiia_0112 其实我不会做饭（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847272386066051073",
+        "conversation_id": "2028149498136920181",
+        "created_at": "2026-03-02T01:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028286376186396766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028286376186396766",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028149498136920181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 這麼好🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 958,
+          "like_count": 14740,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 5689
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T13:44:00.000Z",
+        "description": "累了一整天，先躺在床上滑一會兒手機再呼呼大睡。就像吃布丁前，也要先舔一舔包裝紙再大口大口地吃",
+        "id": "1847272386066051073",
+        "location": "動物園",
+        "name": "小老虎",
+        "pinned_tweet_id": "1981818097259647160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888639438944915456/JJv02vQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 89,
+          "like_count": 10604,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 2088
+        },
+        "username": "io__jiia_0112",
+        "verified": false
+      }
+    ]
+  }
+}

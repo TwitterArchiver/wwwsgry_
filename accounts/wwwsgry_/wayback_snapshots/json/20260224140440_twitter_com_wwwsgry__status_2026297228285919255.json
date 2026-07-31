@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2026132905387229296",
+    "created_at": "2026-02-24T14:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026297228285919255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1869031385425743872",
+          "start": 0,
+          "username": "AkaHenrry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026297228285919255",
+    "in_reply_to_user_id": "1869031385425743872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026292591860523391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaHenrry 一直在戴 只是洗完澡习惯性摘一会"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_2026292588832288768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7WX7Ba8AABdEN.jpg",
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2026132905387229296",
+        "created_at": "2026-02-24T14:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026297228285919255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1869031385425743872",
+              "start": 0,
+              "username": "AkaHenrry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026297228285919255",
+        "in_reply_to_user_id": "1869031385425743872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026292591860523391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaHenrry 一直在戴 只是洗完澡习惯性摘一会"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026292588832288768"
+          ]
+        },
+        "author_id": "1869031385425743872",
+        "conversation_id": "2026132905387229296",
+        "created_at": "2026-02-24T13:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026292591860523391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0JpTZosOgV",
+              "end": 55,
+              "expanded_url": "https://x.com/AkaHenrry/status/2026292591860523391/photo/1",
+              "media_key": "3_2026292588832288768",
+              "start": 32,
+              "url": "https://t.co/0JpTZosOgV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026292591860523391",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026132905387229296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 不建议这种情况不戴 我现在就有点斜视了（（ https://t.co/0JpTZosOgV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 958,
+          "like_count": 14501,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 5609
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T14:47:13.000Z",
+        "description": "中文/日本語（勉強ing..）/EN ｜BI头指定二区卡局qeg | code｜同好互fo｜working together for better tomorrow!｜不要键政，这是日常推｜ 系二刺螈，很好说话。希望和大家好好相处(๑•ᴗ•๑)♡\n小账：@wi98114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "wi98114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiyz.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://tiyz.is-a.dev",
+                "start": 0,
+                "url": "https://t.co/8kNtlzRbds"
+              }
+            ]
+          }
+        },
+        "id": "1869031385425743872",
+        "location": "Koto-ku, Tokyo",
+        "name": "希文｜しうん（未完待续）",
+        "pinned_tweet_id": "2000229528241922498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882667906129141761/-7Ox4Oz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 272,
+          "like_count": 5314,
+          "listed_count": 3,
+          "media_count": 633,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/8kNtlzRbds",
+        "username": "AkaHenrry",
+        "verified": false
+      }
+    ]
+  }
+}

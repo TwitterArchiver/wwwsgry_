@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003277830113697792",
+        "3_2003277830109433856",
+        "3_2003277830113652736"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2003277842650386898",
+    "created_at": "2025-12-23T01:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T02:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003277842650386898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t2wZbZyjhZ",
+          "end": 35,
+          "expanded_url": "https://x.com/wwwsgry_/status/2003277842650386898/photo/1",
+          "media_key": "3_2003277830113697792",
+          "start": 12,
+          "url": "https://t.co/t2wZbZyjhZ"
+        },
+        {
+          "display_url": "pic.x.com/t2wZbZyjhZ",
+          "end": 35,
+          "expanded_url": "https://x.com/wwwsgry_/status/2003277842650386898/photo/1",
+          "media_key": "3_2003277830109433856",
+          "start": 12,
+          "url": "https://t.co/t2wZbZyjhZ"
+        },
+        {
+          "display_url": "pic.x.com/t2wZbZyjhZ",
+          "end": 35,
+          "expanded_url": "https://x.com/wwwsgry_/status/2003277842650386898/photo/1",
+          "media_key": "3_2003277830113652736",
+          "start": 12,
+          "url": "https://t.co/t2wZbZyjhZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003277842650386898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墨西哥菜真的好香😭😭😭 https://t.co/t2wZbZyjhZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003277830113697792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G80SkppXoAANZNQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003277830109433856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G80SkpoWkAA-QKj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003277830113652736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G80SkppW8AAd8yr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003277830113697792",
+            "3_2003277830109433856",
+            "3_2003277830113652736"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2003277842650386898",
+        "created_at": "2025-12-23T01:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T02:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003277842650386898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t2wZbZyjhZ",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/2003277842650386898/photo/1",
+              "media_key": "3_2003277830113697792",
+              "start": 12,
+              "url": "https://t.co/t2wZbZyjhZ"
+            },
+            {
+              "display_url": "pic.x.com/t2wZbZyjhZ",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/2003277842650386898/photo/1",
+              "media_key": "3_2003277830109433856",
+              "start": 12,
+              "url": "https://t.co/t2wZbZyjhZ"
+            },
+            {
+              "display_url": "pic.x.com/t2wZbZyjhZ",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/2003277842650386898/photo/1",
+              "media_key": "3_2003277830113652736",
+              "start": 12,
+              "url": "https://t.co/t2wZbZyjhZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003277842650386898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墨西哥菜真的好香😭😭😭 https://t.co/t2wZbZyjhZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 923,
+          "like_count": 14175,
+          "listed_count": 4,
+          "media_count": 484,
+          "tweet_count": 5170
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

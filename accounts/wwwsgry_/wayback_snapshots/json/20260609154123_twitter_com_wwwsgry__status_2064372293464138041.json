@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2063816464402972997",
+    "created_at": "2026-06-09T15:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T16:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064372293464138041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922602046907449344",
+          "start": 0,
+          "username": "tokiutsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064372293464138041",
+    "in_reply_to_user_id": "1922602046907449344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064353261726183686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiutsu poly"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064353261726183686].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064353261726183686",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064353261726183686"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2063816464402972997",
+        "created_at": "2026-06-09T15:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064372293464138041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922602046907449344",
+              "start": 0,
+              "username": "tokiutsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064372293464138041",
+        "in_reply_to_user_id": "1922602046907449344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064353261726183686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiutsu poly"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 981,
+          "like_count": 16468,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 6538
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T10:37:10.000Z",
+        "description": "🇨🇳🇹🇼丨8964丨天安門事件丨小熊維尼丨粉蛆申請跟隨請提交全家死亡證明\n芝士窩的主人@VaguelyHuman233\n阿明幸福的話誰痛苦都可以@0o_170o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "VaguelyHuman233"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "0o_170o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/THqWDjFFu6",
+                "end": 23,
+                "expanded_url": "https://discord.gg/THqWDjFFu6",
+                "start": 0,
+                "url": "https://t.co/7HxynCZbob"
+              }
+            ]
+          }
+        },
+        "id": "1922602046907449344",
+        "location": "Одного дня я покину це місце",
+        "name": "Бог не вивчає ap",
+        "pinned_tweet_id": "2014511203268379000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977332361823162368/VtKXpLUC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 384,
+          "like_count": 1703,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2446
+        },
+        "url": "https://t.co/7HxynCZbob",
+        "username": "tokiutsu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2003652837268685152",
+    "created_at": "2025-12-24T02:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T03:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003652837268685152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wwwsgry_/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/wwwsgry_/status/2003651220133794009",
+          "start": 14,
+          "url": "https://t.co/oJFUCp3ViJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003652837268685152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003651220133794009",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wtf我隔壁也没纸？？？？ https://t.co/oJFUCp3ViJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2003652837268685152",
+        "created_at": "2025-12-24T02:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003652837268685152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwwsgry_/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/wwwsgry_/status/2003651220133794009",
+              "start": 14,
+              "url": "https://t.co/oJFUCp3ViJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003652837268685152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003651220133794009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wtf我隔壁也没纸？？？？ https://t.co/oJFUCp3ViJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2003651220133794009",
+        "created_at": "2025-12-24T02:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003651220133794009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003651220133794009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草你妈完蛋了 厕所没纸了同学全出去吃饭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 924,
+          "like_count": 14181,
+          "listed_count": 4,
+          "media_count": 485,
+          "tweet_count": 5177
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

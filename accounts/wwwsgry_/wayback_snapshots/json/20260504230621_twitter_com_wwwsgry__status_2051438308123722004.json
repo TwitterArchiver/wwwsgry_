@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1463580457203732480",
+          "name": "Shaun Murphy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "1463580457203732480",
+          "name": "Shaun Murphy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Billiards",
+          "id": "1095069812697399296",
+          "name": "Cue sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Snooker",
+          "id": "1095070235600678912",
+          "name": "Snooker"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1463580457203732480",
+          "name": "Shaun Murphy"
+        }
+      }
+    ],
+    "conversation_id": "2051438308123722004",
+    "created_at": "2026-05-04T23:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T00:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051438308123722004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wearewst/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/wearewst/status/2051414259393847613",
+          "start": 19,
+          "url": "https://t.co/V8Mr74dchf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051438308123722004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051414259393847613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帅 中国连着夺冠两年 终于熬出头了😭 https://t.co/V8Mr74dchf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2051413331932553216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgVjnlXIAAeU5g.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1463580457203732480",
+              "name": "Shaun Murphy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1463580457203732480",
+              "name": "Shaun Murphy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Billiards",
+              "id": "1095069812697399296",
+              "name": "Cue sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Snooker",
+              "id": "1095070235600678912",
+              "name": "Snooker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1463580457203732480",
+              "name": "Shaun Murphy"
+            }
+          }
+        ],
+        "conversation_id": "2051438308123722004",
+        "created_at": "2026-05-04T23:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051438308123722004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wearewst/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/wearewst/status/2051414259393847613",
+              "start": 19,
+              "url": "https://t.co/V8Mr74dchf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051438308123722004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051414259393847613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帅 中国连着夺冠两年 终于熬出头了😭 https://t.co/V8Mr74dchf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051413331932553216"
+          ]
+        },
+        "author_id": "26250599",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1463580457203732480",
+              "name": "Shaun Murphy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Snooker",
+              "id": "1095070235600678912",
+              "name": "Snooker"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "1463580457203732480",
+              "name": "Shaun Murphy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Billiards",
+              "id": "1095069812697399296",
+              "name": "Cue sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Snooker",
+              "id": "1095070235600678912",
+              "name": "Snooker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1463580457203732480",
+              "name": "Shaun Murphy"
+            }
+          }
+        ],
+        "conversation_id": "2051414259393847613",
+        "created_at": "2026-05-04T21:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T22:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051414259393847613"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 118,
+              "tag": "WorldChampionship"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QfzEnY1BEU",
+              "end": 160,
+              "expanded_url": "https://x.com/WeAreWST/status/2051414259393847613/photo/1",
+              "media_key": "3_2051413331932553216",
+              "start": 137,
+              "url": "https://t.co/QfzEnY1BEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051414259393847613",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 104697,
+          "like_count": 4337,
+          "quote_count": 237,
+          "reply_count": 232,
+          "retweet_count": 810
+        },
+        "reply_settings": "everyone",
+        "text": "WU YIZE IS THE CHAMPION OF THE WORLD!!!!!! 🏆🌍\n\nHe beats Shaun Murphy in an EPIC DECIDER to become the Crucible King.\n\n#WorldChampionship https://t.co/QfzEnY1BEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 972,
+          "like_count": 16010,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 6311
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-24T14:50:55.000Z",
+        "description": "The World Snooker Tour",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wst.tv",
+                "end": 23,
+                "expanded_url": "http://wst.tv",
+                "start": 0,
+                "url": "https://t.co/OV6jPTP4vd"
+              }
+            ]
+          }
+        },
+        "id": "26250599",
+        "location": "Bristol, England",
+        "name": "WST",
+        "pinned_tweet_id": "2051414259393847613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231501,
+          "following_count": 398,
+          "like_count": 4226,
+          "listed_count": 1181,
+          "media_count": 40910,
+          "tweet_count": 91417
+        },
+        "url": "https://t.co/OV6jPTP4vd",
+        "username": "WeAreWST",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1981694148865659125",
+    "created_at": "2025-10-24T13:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T14:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981709424373936187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708116381005434880",
+          "start": 0,
+          "username": "origamicmic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981709424373936187",
+    "in_reply_to_user_id": "1708116381005434880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981694148865659125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@origamicmic 投到暗网都得放猎奇区"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 465,
+        "media_key": "3_1981694146432659456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BkU6OW8AA3k2s.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1981694148865659125",
+        "created_at": "2025-10-24T13:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T14:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981709424373936187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708116381005434880",
+              "start": 0,
+              "username": "origamicmic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981709424373936187",
+        "in_reply_to_user_id": "1708116381005434880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981694148865659125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@origamicmic 投到暗网都得放猎奇区"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981694146432659456"
+          ]
+        },
+        "author_id": "1708116381005434880",
+        "conversation_id": "1981694148865659125",
+        "created_at": "2025-10-24T12:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981694148865659125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUJx0E1Jw0",
+              "end": 40,
+              "expanded_url": "https://x.com/origamicmic/status/1981694148865659125/photo/1",
+              "media_key": "3_1981694146432659456",
+              "start": 17,
+              "url": "https://t.co/IUJx0E1Jw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981694148865659125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连线某翼刀的怎么感觉越来越离谱了 https://t.co/IUJx0E1Jw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 913,
+          "like_count": 12742,
+          "listed_count": 5,
+          "media_count": 429,
+          "tweet_count": 4547
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T13:47:44.000Z",
+        "description": "INFP-█｜粘█精｜术█口厨｜█游｜05  1██ ｜只█记录█己的█聊日常，如█打扰到█了实在█歉（骗你的█抱歉了也█打扰你😈 \n咱█术术频道█\nhttps://t.co/R55oc5uuUW 欢█来听█歌哦～\nng█：\nhttps://t.co/24wXJaYddN 来问█喵～",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tomori_desu",
+                "end": 98,
+                "expanded_url": "http://t.me/tomori_desu",
+                "start": 75,
+                "url": "https://t.co/R55oc5uuUW"
+              },
+              {
+                "display_url": "ngl.link/origami81181",
+                "end": 136,
+                "expanded_url": "http://ngl.link/origami81181",
+                "start": 113,
+                "url": "https://t.co/24wXJaYddN"
+              }
+            ]
+          }
+        },
+        "id": "1708116381005434880",
+        "location": " █黒塗りだとして█理解できるか¿?",
+        "name": "𝕜𝕪𝕦𝕜𝕪𝕦（淡推ing",
+        "pinned_tweet_id": "1963269481612054897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971641315323793416/PY06JQ4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 677,
+          "like_count": 19699,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1231
+        },
+        "username": "origamicmic",
+        "verified": false
+      }
+    ]
+  }
+}

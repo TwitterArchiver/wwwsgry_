@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2041214849989198087",
+    "created_at": "2026-04-06T18:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T19:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041219696687525929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1687753797169467392",
+          "start": 0,
+          "username": "pamnc2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041219696687525929",
+    "in_reply_to_user_id": "1687753797169467392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041214849989198087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pamnc2024 妈妈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041214849989198087].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041214849989198087",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041214849989198087"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2041214849989198087",
+        "created_at": "2026-04-06T18:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T19:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041219696687525929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1687753797169467392",
+              "start": 0,
+              "username": "pamnc2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041219696687525929",
+        "in_reply_to_user_id": "1687753797169467392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041214849989198087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pamnc2024 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "小号 @zZxy6987 看心情过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646828041547776/E827cquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 957,
+          "like_count": 15574,
+          "listed_count": 4,
+          "media_count": 550,
+          "tweet_count": 6106
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T09:14:06.000Z",
+        "description": "白樺，鳶尾，向日葵。",
+        "id": "1687753797169467392",
+        "name": "🌻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039562814369775616/m9RUgiqz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 204,
+          "like_count": 16980,
+          "listed_count": 2,
+          "media_count": 502,
+          "tweet_count": 12392
+        },
+        "username": "pamnc2024",
+        "verified": false
+      }
+    ]
+  }
+}

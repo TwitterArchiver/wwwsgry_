@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2082043531435405318",
+    "created_at": "2026-07-28T11:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082060565430915192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803370127041191942",
+          "start": 0,
+          "username": "cheansnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082060565430915192",
+    "in_reply_to_user_id": "1803370127041191942",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082043531435405318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheansnow 何番剧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2082043474808053760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTnglraoAAuaar.jpg",
+        "width": 2940
+      },
+      {
+        "height": 1912,
+        "media_key": "3_2082043474770317312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTnglia0AApghh.jpg",
+        "width": 2940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2082043531435405318",
+        "created_at": "2026-07-28T11:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082060565430915192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803370127041191942",
+              "start": 0,
+              "username": "cheansnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082060565430915192",
+        "in_reply_to_user_id": "1803370127041191942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082043531435405318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheansnow 何番剧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082043474808053760",
+            "3_2082043474770317312"
+          ]
+        },
+        "author_id": "1803370127041191942",
+        "conversation_id": "2082043531435405318",
+        "created_at": "2026-07-28T10:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082043531435405318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDZBtgKlTo",
+              "end": 28,
+              "expanded_url": "https://x.com/cheansnow/status/2082043531435405318/photo/1",
+              "media_key": "3_2082043474808053760",
+              "start": 5,
+              "url": "https://t.co/VDZBtgKlTo"
+            },
+            {
+              "display_url": "pic.x.com/VDZBtgKlTo",
+              "end": 28,
+              "expanded_url": "https://x.com/cheansnow/status/2082043531435405318/photo/1",
+              "media_key": "3_2082043474770317312",
+              "start": 5,
+              "url": "https://t.co/VDZBtgKlTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082043531435405318",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wwww https://t.co/VDZBtgKlTo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "何帳號？@zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1009,
+          "like_count": 17448,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 6903
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T10:12:08.000Z",
+        "description": "Apogee. / INFP-T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apogee26549",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apogee26549",
+                "start": 0,
+                "url": "https://t.co/1PHLNCWbEM"
+              }
+            ]
+          }
+        },
+        "id": "1803370127041191942",
+        "name": "Chean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082033097537982464/EeE-ZpPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 168,
+          "like_count": 13293,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/1PHLNCWbEM",
+        "username": "cheansnow",
+        "verified": false
+      }
+    ]
+  }
+}

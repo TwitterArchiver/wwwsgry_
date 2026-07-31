@@ -1,0 +1,577 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024789105364946944"
+      ],
+      "media_source_tweet_id": [
+        "2024789186587644407"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2024862355046146268",
+    "created_at": "2026-02-20T15:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024862355046146268"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 52,
+          "tag": "AKASAKI"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "シド"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "カバー曲"
+        },
+        {
+          "end": 80,
+          "start": 74,
+          "tag": "歌ってみた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981284360985694208",
+          "start": 3,
+          "username": "baejuhan67"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XfCiL7Pwau",
+          "end": 104,
+          "expanded_url": "https://x.com/baejuhan67/status/2024789186587644407/video/1",
+          "media_key": "13_2024789105364946944",
+          "start": 81,
+          "url": "https://t.co/XfCiL7Pwau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024862355046146268",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1177
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024789186587644407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baejuhan67: AKASAKI - Bunny Girl🐰\nカバー \n歌ってみた  \n\n#AKASAKI \n#シド \n#カバー曲 \n#歌ってみた https://t.co/XfCiL7Pwau"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30303,
+        "height": 1280,
+        "media_key": "13_2024789105364946944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024789105364946944/img/fwW1K4j2LtysIEFS.jpg",
+        "public_metrics": {
+          "view_count": 77743
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024789105364946944/vid/avc1/320x568/pI8eEUuBqp5jrRaq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024789105364946944/vid/avc1/480x852/KoPc-T-jTYvU3JFf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024789105364946944/vid/avc1/720x1280/StsZ5rAK8u4KeMth.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024789105364946944/pl/0NSyRv0kLtRad6tY.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 30303,
+        "height": 1280,
+        "media_key": "13_2024789105364946944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024789105364946944/img/fwW1K4j2LtysIEFS.jpg",
+        "public_metrics": {
+          "view_count": 79799
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024789105364946944/vid/avc1/320x568/pI8eEUuBqp5jrRaq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024789105364946944/vid/avc1/480x852/KoPc-T-jTYvU3JFf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024789105364946944/vid/avc1/720x1280/StsZ5rAK8u4KeMth.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024789105364946944/pl/0NSyRv0kLtRad6tY.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024789105364946944"
+          ],
+          "media_source_tweet_id": [
+            "2024789186587644407"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2024862355046146268",
+        "created_at": "2026-02-20T15:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024862355046146268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "AKASAKI"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "シド"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "カバー曲"
+            },
+            {
+              "end": 80,
+              "start": 74,
+              "tag": "歌ってみた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981284360985694208",
+              "start": 3,
+              "username": "baejuhan67"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfCiL7Pwau",
+              "end": 104,
+              "expanded_url": "https://x.com/baejuhan67/status/2024789186587644407/video/1",
+              "media_key": "13_2024789105364946944",
+              "start": 81,
+              "url": "https://t.co/XfCiL7Pwau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024862355046146268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1177
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024789186587644407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baejuhan67: AKASAKI - Bunny Girl🐰\nカバー \n歌ってみた  \n\n#AKASAKI \n#シド \n#カバー曲 \n#歌ってみた https://t.co/XfCiL7Pwau"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024789105364946944"
+          ]
+        },
+        "author_id": "1981284360985694208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2024789186587644407",
+        "created_at": "2026-02-20T10:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024789186587644407"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Bunny Girl",
+              "probability": 0.4085,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "AKASAKI"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "シド"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "カバー曲"
+            },
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "歌ってみた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfCiL7Pwau",
+              "end": 88,
+              "expanded_url": "https://x.com/baejuhan67/status/2024789186587644407/video/1",
+              "media_key": "13_2024789105364946944",
+              "start": 65,
+              "url": "https://t.co/XfCiL7Pwau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024789186587644407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 677,
+          "impression_count": 298729,
+          "like_count": 4099,
+          "quote_count": 752,
+          "reply_count": 16,
+          "retweet_count": 1177
+        },
+        "reply_settings": "everyone",
+        "text": "AKASAKI - Bunny Girl🐰\nカバー \n歌ってみた  \n\n#AKASAKI \n#シド \n#カバー曲 \n#歌ってみた https://t.co/XfCiL7Pwau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 955,
+          "like_count": 14411,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 5574
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T08:59:54.000Z",
+        "description": "日本の歌が好き ! ! !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/baejuhan68?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/baejuhan68?igsh=aHV4eWFxbXJyMXA2",
+                "start": 0,
+                "url": "https://t.co/otrBbHI7NX"
+              }
+            ]
+          }
+        },
+        "id": "1981284360985694208",
+        "location": "contact@quokkamusic.com",
+        "name": "ジュハン (JUHAN)",
+        "pinned_tweet_id": "1981705639161405910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981761647770255361/AoMppcRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 0,
+          "like_count": 78,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/otrBbHI7NX",
+        "username": "baejuhan67",
+        "verified": true
+      }
+    ]
+  }
+}

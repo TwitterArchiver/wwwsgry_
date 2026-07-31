@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2022327139702636911",
+    "created_at": "2026-02-13T15:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022327139702636911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016074423770742785",
+          "start": 3,
+          "username": "LoveElysiaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022327139702636911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021970844143300883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LoveElysiaaa: 我是小小遥\n大号鼠掉了TvT\n此账号也会更新本人碎碎念和抽象文案或自拍\n（其实什么都发）\n想和女孩子们互关or磕药互关摩多摩多\n（需要互关请私戳！）\n好相处不聊h，精神状态不好偶尔不回信息见谅\n单推爱莉，如果你也喜欢爱莉我们就是好朋友\n不鉴证…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 697,
+        "media_key": "3_2021970828406272001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA97wW1bsAEB0xG.jpg",
+        "width": 1190
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2021970828368449536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA97wWsakAAINsF.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1242,
+        "media_key": "3_2021970828372627456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA97wWtaUAA8s62.jpg",
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2021970828385193984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA97wWwaEAAm_JW.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2022327139702636911",
+        "created_at": "2026-02-13T15:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022327139702636911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016074423770742785",
+              "start": 3,
+              "username": "LoveElysiaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022327139702636911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021970844143300883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LoveElysiaaa: 我是小小遥\n大号鼠掉了TvT\n此账号也会更新本人碎碎念和抽象文案或自拍\n（其实什么都发）\n想和女孩子们互关or磕药互关摩多摩多\n（需要互关请私戳！）\n好相处不聊h，精神状态不好偶尔不回信息见谅\n单推爱莉，如果你也喜欢爱莉我们就是好朋友\n不鉴证…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021970828406272001",
+            "3_2021970828368449536",
+            "3_2021970828372627456",
+            "3_2021970828385193984"
+          ]
+        },
+        "author_id": "2016074423770742785",
+        "conversation_id": "2021970844143300883",
+        "created_at": "2026-02-12T15:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021970844143300883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05yyFHizag",
+              "end": 172,
+              "expanded_url": "https://x.com/LoveElysiaaa/status/2021970844143300883/photo/1",
+              "media_key": "3_2021970828406272001",
+              "start": 149,
+              "url": "https://t.co/05yyFHizag"
+            },
+            {
+              "display_url": "pic.x.com/05yyFHizag",
+              "end": 172,
+              "expanded_url": "https://x.com/LoveElysiaaa/status/2021970844143300883/photo/1",
+              "media_key": "3_2021970828368449536",
+              "start": 149,
+              "url": "https://t.co/05yyFHizag"
+            },
+            {
+              "display_url": "pic.x.com/05yyFHizag",
+              "end": 172,
+              "expanded_url": "https://x.com/LoveElysiaaa/status/2021970844143300883/photo/1",
+              "media_key": "3_2021970828372627456",
+              "start": 149,
+              "url": "https://t.co/05yyFHizag"
+            },
+            {
+              "display_url": "pic.x.com/05yyFHizag",
+              "end": 172,
+              "expanded_url": "https://x.com/LoveElysiaaa/status/2021970844143300883/photo/1",
+              "media_key": "3_2021970828385193984",
+              "start": 149,
+              "url": "https://t.co/05yyFHizag"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021970844143300883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 610,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是小小遥\n大号鼠掉了TvT\n此账号也会更新本人碎碎念和抽象文案或自拍\n（其实什么都发）\n想和女孩子们互关or磕药互关摩多摩多\n（需要互关请私戳！）\n好相处不聊h，精神状态不好偶尔不回信息见谅\n单推爱莉，如果你也喜欢爱莉我们就是好朋友\n不鉴证|会骂人|喜欢互动\n我很可爱，请给我钱。\n寻回互关中！ https://t.co/05yyFHizag"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 947,
+          "like_count": 14211,
+          "listed_count": 4,
+          "media_count": 503,
+          "tweet_count": 5500
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T09:03:00.000Z",
+        "description": "我复活了，过去的我@Miharuka_47已经死了！现在是更加懦弱的我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Miharuka_47"
+              }
+            ]
+          }
+        },
+        "id": "2016074423770742785",
+        "name": "米遥",
+        "pinned_tweet_id": "2021970844143300883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021971012322226176/lt2InUcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 45,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "LoveElysiaaa",
+        "verified": false
+      }
+    ]
+  }
+}

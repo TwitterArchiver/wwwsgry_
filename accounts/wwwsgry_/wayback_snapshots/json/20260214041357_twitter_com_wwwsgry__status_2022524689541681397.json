@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2022415929767006670",
+    "created_at": "2026-02-14T04:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T05:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022524689541681397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652379044347011073",
+          "start": 0,
+          "username": "b782r233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022524689541681397",
+    "in_reply_to_user_id": "1652379044347011073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022524005564190743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@b782r233 其实不厉害🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2022415929767006670",
+        "created_at": "2026-02-14T04:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022524689541681397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652379044347011073",
+              "start": 0,
+              "username": "b782r233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022524689541681397",
+        "in_reply_to_user_id": "1652379044347011073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022524005564190743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@b782r233 其实不厉害🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652379044347011073",
+        "conversation_id": "2022415929767006670",
+        "created_at": "2026-02-14T04:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022524005564190743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022524005564190743",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022415929767006670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 看起来好厉害🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 947,
+          "like_count": 14234,
+          "listed_count": 4,
+          "media_count": 506,
+          "tweet_count": 5519
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T18:27:28.000Z",
+        "description": "私の夢は、世界中にある好きなアニメを全部観ることです",
+        "id": "1652379044347011073",
+        "name": "秋庭ヒヤシンス",
+        "pinned_tweet_id": "1815063804713328799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971157751637352448/zU78tDNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 242,
+          "like_count": 1904,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 608
+        },
+        "username": "b782r233",
+        "verified": false
+      }
+    ]
+  }
+}

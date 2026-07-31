@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1967496191010369614",
+    "created_at": "2025-09-15T12:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T13:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967561341780304134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802024392391802880",
+          "start": 0,
+          "username": "Determinat_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967561341780304134",
+    "in_reply_to_user_id": "1802024392391802880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967496191010369614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Determinat_37 开摆啊嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1967496191010369614",
+        "created_at": "2025-09-15T12:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967561341780304134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802024392391802880",
+              "start": 0,
+              "username": "Determinat_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967561341780304134",
+        "in_reply_to_user_id": "1802024392391802880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967496191010369614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Determinat_37 开摆啊嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802024392391802880",
+        "conversation_id": "1967496191010369614",
+        "created_at": "2025-09-15T07:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T08:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967496191010369614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967496191010369614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈翘课睡觉是对的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 866,
+          "like_count": 10899,
+          "listed_count": 4,
+          "media_count": 392,
+          "tweet_count": 3935
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T17:04:47.000Z",
+        "description": "",
+        "id": "1802024392391802880",
+        "name": "樂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906817971940728832/i4eSccJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 404,
+          "like_count": 3011,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1404
+        },
+        "username": "Determinat_37",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991956474667450368"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1991956478320902255",
+    "created_at": "2025-11-21T19:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T20:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991956478320902255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFq9mEW4KO",
+          "end": 43,
+          "expanded_url": "https://x.com/wwwsgry_/status/1991956478320902255/photo/1",
+          "media_key": "3_1991956474667450368",
+          "start": 20,
+          "url": "https://t.co/rFq9mEW4KO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991956478320902255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不上课楼下也没人 躺在桌子上休息会（） https://t.co/rFq9mEW4KO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991956474667450368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6TZ3CCXwAAxunP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991956474667450368"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1991956478320902255",
+        "created_at": "2025-11-21T19:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T20:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991956478320902255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFq9mEW4KO",
+              "end": 43,
+              "expanded_url": "https://x.com/wwwsgry_/status/1991956478320902255/photo/1",
+              "media_key": "3_1991956474667450368",
+              "start": 20,
+              "url": "https://t.co/rFq9mEW4KO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991956478320902255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不上课楼下也没人 躺在桌子上休息会（） https://t.co/rFq9mEW4KO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 923,
+          "like_count": 13659,
+          "listed_count": 4,
+          "media_count": 456,
+          "tweet_count": 4925
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

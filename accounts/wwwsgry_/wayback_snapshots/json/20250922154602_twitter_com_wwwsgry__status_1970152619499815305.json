@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1969617902564176256",
+    "created_at": "2025-09-22T15:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970152619499815305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1563372219224707074",
+          "start": 0,
+          "username": "DonQuixoteHC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970152619499815305",
+    "in_reply_to_user_id": "1563372219224707074",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970130427508859293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DonQuixoteHC 🤨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1969617902564176256",
+        "created_at": "2025-09-22T15:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970152619499815305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1563372219224707074",
+              "start": 0,
+              "username": "DonQuixoteHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970152619499815305",
+        "in_reply_to_user_id": "1563372219224707074",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970130427508859293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DonQuixoteHC 🤨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563372219224707074",
+        "conversation_id": "1969617902564176256",
+        "created_at": "2025-09-22T14:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T15:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970130427508859293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970130427508859293",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969617902564176256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 把offer卖窝（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 866,
+          "like_count": 11193,
+          "listed_count": 4,
+          "media_count": 394,
+          "tweet_count": 4000
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T03:46:50.000Z",
+        "description": "International student｜ACGN-related topics · Mushoku · ROXY💙🛐｜The Outsider｜Napoleonic wars｜Post-punk｜FAS 🎨 · Baroque · Rococo · Neoclassicism｜中文・日本語・English｜",
+        "id": "1563372219224707074",
+        "location": "Peking",
+        "name": "Kage",
+        "pinned_tweet_id": "1886435197350031781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940107449278636032/VhM7faES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 613,
+          "like_count": 36982,
+          "listed_count": 8,
+          "media_count": 3476,
+          "tweet_count": 9902
+        },
+        "username": "DonQuixoteHC",
+        "verified": false
+      }
+    ]
+  }
+}

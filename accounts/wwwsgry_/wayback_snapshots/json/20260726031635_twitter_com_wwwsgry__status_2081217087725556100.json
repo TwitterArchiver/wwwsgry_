@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2081217087725556100",
+    "created_at": "2026-07-26T03:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081217087725556100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081217087725556100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081137524697948472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 闺蜜兴奋地说她养了只小猫，让我去看，我说好啊，我最喜欢猫了，闺蜜说那你快来，我在家等你，闺蜜我到了，你的猫呢让我看看，什么，你说在卧室里躲床底下了，闺蜜，那我们进卧室吧，等等闺蜜，你为什么进卧室要把门锁上，哦你说怕猫跑出去啊，闺蜜你的猫为什么一直躲…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2081217087725556100",
+        "created_at": "2026-07-26T03:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081217087725556100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081217087725556100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081137524697948472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 闺蜜兴奋地说她养了只小猫，让我去看，我说好啊，我最喜欢猫了，闺蜜说那你快来，我在家等你，闺蜜我到了，你的猫呢让我看看，什么，你说在卧室里躲床底下了，闺蜜，那我们进卧室吧，等等闺蜜，你为什么进卧室要把门锁上，哦你说怕猫跑出去啊，闺蜜你的猫为什么一直躲…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2081137524697948472",
+        "created_at": "2026-07-25T22:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T22:59:51.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081137379419803743",
+          "2081137524697948472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081137524697948472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "闺蜜兴奋地说她养了只小猫，让我去看，我说好啊，我最喜欢猫了，闺蜜说那你快来，我在家等你，闺蜜我到了，你的猫呢让我看看，什么，你说在卧室里躲床底下了，闺蜜，那我们进卧室吧，等等闺蜜，你为什么进卧室要把门锁上，哦你说怕猫跑出去啊，闺蜜你的猫为什么一直躲在床底下不出来，什么，你说它怕生，要慢慢来，闺蜜那我趴下看看它，等等闺蜜，为什么要从后面扶住我的腰，哦你说怕我摔下去，要保护我，可闺蜜，我趴着怎么会摔下去，哦你说万一呢安全第一，闺蜜床底下根本没有猫啊，什么，你说可能是跑到衣柜里了，闺蜜那我们找找，等等，为什么打开衣柜，全是我的照片，什么你说那是你怕忘记我长什么样子，所以多打印了几张，什么闺蜜，你摊牌了，你说你根本就没有养猫，这一切都是骗我来你卧室的借口，什么，你说你早就把卧室的门窗锁死了，我现在出不去了，等等，什么叫作，既然猫没有就让我来当你的猫，闺蜜你手里拿的是什么，闺蜜那是猫耳朵发箍吗，闺蜜你为什么还有项圈和铃铛，闺蜜我不要当猫啊啊啊啊闺蜜"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1552,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜兴奋地说她养了只小猫，让我去看，我说好啊，我最喜欢猫了，闺蜜说那你快来，我在家等你，闺蜜我到了，你的猫呢让我看看，什么，你说在卧室里躲床底下了，闺蜜，那我们进卧室吧，等等闺蜜，你为什么进卧室要把门锁上，哦你说怕猫跑出去啊，闺蜜你的猫为什么一直躲在床底下不出来，什么，你说它怕生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1009,
+          "like_count": 17360,
+          "listed_count": 4,
+          "media_count": 607,
+          "tweet_count": 6872
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2076918385678676330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3611,
+          "following_count": 498,
+          "like_count": 38364,
+          "listed_count": 2,
+          "media_count": 962,
+          "tweet_count": 4940
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

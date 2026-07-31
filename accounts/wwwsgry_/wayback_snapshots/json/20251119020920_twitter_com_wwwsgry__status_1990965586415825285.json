@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1990920881879548309",
+    "created_at": "2025-11-19T02:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T03:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990965586415825285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990965586415825285",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990944338294308887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 玉手👅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990943664244473856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FAttMbQAAVEl1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990944252579491842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FBP86bMAIfnsx.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990944252638232576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6FBP9IbgAAhxw2.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1990920881879548309",
+        "created_at": "2025-11-19T02:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T03:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990965586415825285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990965586415825285",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990944338294308887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 玉手👅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990943664244473856",
+            "3_1990944252579491842",
+            "3_1990944252638232576"
+          ]
+        },
+        "author_id": "1765825463103139840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1990920881879548309",
+        "created_at": "2025-11-19T00:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T01:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990944338294308887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mu6DQTz24c",
+              "end": 38,
+              "expanded_url": "https://x.com/Chloris923/status/1990944338294308887/photo/1",
+              "media_key": "3_1990943664244473856",
+              "start": 15,
+              "url": "https://t.co/Mu6DQTz24c"
+            },
+            {
+              "display_url": "pic.x.com/Mu6DQTz24c",
+              "end": 38,
+              "expanded_url": "https://x.com/Chloris923/status/1990944338294308887/photo/1",
+              "media_key": "3_1990944252579491842",
+              "start": 15,
+              "url": "https://t.co/Mu6DQTz24c"
+            },
+            {
+              "display_url": "pic.x.com/Mu6DQTz24c",
+              "end": 38,
+              "expanded_url": "https://x.com/Chloris923/status/1990944338294308887/photo/1",
+              "media_key": "3_1990944252638232576",
+              "start": 15,
+              "url": "https://t.co/Mu6DQTz24c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990944338294308887",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990920881879548309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 寶寶寶寶 https://t.co/Mu6DQTz24c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 926,
+          "like_count": 13598,
+          "listed_count": 4,
+          "media_count": 451,
+          "tweet_count": 4891
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "小镜子@pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "pamnc2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wUFTz7W19p0xZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wUFTz7W19p0xZTk1",
+                "start": 0,
+                "url": "https://t.co/9K3rlt5qoC"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "name": "🪞",
+        "pinned_tweet_id": "1990224087155986773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984410739357204484/2ax_b7im_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 317,
+          "like_count": 20307,
+          "listed_count": 3,
+          "media_count": 417,
+          "tweet_count": 10615
+        },
+        "url": "https://t.co/9K3rlt5qoC",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

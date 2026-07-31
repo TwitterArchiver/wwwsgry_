@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2039495075978199040"
+      ],
+      "media_source_tweet_id": [
+        "2039495118533652492"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2039569179523649591",
+    "created_at": "2026-04-02T05:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T06:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039569179523649591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1972871557476179968",
+          "start": 3,
+          "username": "anindividualgem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FOtR6SKwHr",
+          "end": 44,
+          "expanded_url": "https://x.com/anindividualgem/status/2039495118533652492/photo/1",
+          "media_key": "16_2039495075978199040",
+          "start": 21,
+          "url": "https://t.co/FOtR6SKwHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039569179523649591",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 468
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039495118533652492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anindividualgem: https://t.co/FOtR6SKwHr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2039495075978199040",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HE2990TWwAAaU44.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HE2990TWwAAaU44.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2039495075978199040"
+          ],
+          "media_source_tweet_id": [
+            "2039495118533652492"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2039569179523649591",
+        "created_at": "2026-04-02T05:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039569179523649591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1972871557476179968",
+              "start": 3,
+              "username": "anindividualgem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOtR6SKwHr",
+              "end": 44,
+              "expanded_url": "https://x.com/anindividualgem/status/2039495118533652492/photo/1",
+              "media_key": "16_2039495075978199040",
+              "start": 21,
+              "url": "https://t.co/FOtR6SKwHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039569179523649591",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 468
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039495118533652492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anindividualgem: https://t.co/FOtR6SKwHr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2039495075978199040"
+          ]
+        },
+        "author_id": "1972871557476179968",
+        "conversation_id": "2039495118533652492",
+        "created_at": "2026-04-02T00:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039495118533652492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOtR6SKwHr",
+              "end": 23,
+              "expanded_url": "https://x.com/anindividualgem/status/2039495118533652492/photo/1",
+              "media_key": "16_2039495075978199040",
+              "start": 0,
+              "url": "https://t.co/FOtR6SKwHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039495118533652492",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2220,
+          "impression_count": 102759,
+          "like_count": 8711,
+          "quote_count": 10,
+          "reply_count": 29,
+          "retweet_count": 468
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FOtR6SKwHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646828041547776/E827cquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 956,
+          "like_count": 15478,
+          "listed_count": 4,
+          "media_count": 538,
+          "tweet_count": 6063
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T03:50:19.000Z",
+        "description": "posting every gem imaginable.",
+        "id": "1972871557476179968",
+        "location": "in my greedy little gem stash",
+        "name": "Six ᛗillion Dollar Extremist",
+        "pinned_tweet_id": "2039135276551823520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031066359384432640/_FrkMc14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4253,
+          "following_count": 504,
+          "like_count": 2091,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 489
+        },
+        "username": "anindividualgem",
+        "verified": false
+      }
+    ]
+  }
+}

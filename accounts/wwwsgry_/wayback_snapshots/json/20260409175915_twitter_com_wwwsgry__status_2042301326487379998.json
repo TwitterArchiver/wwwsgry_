@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042277322657873920"
+      ],
+      "media_source_tweet_id": [
+        "2042277327900680660"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2042301326487379998",
+    "created_at": "2026-04-09T17:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042301326487379998"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918311019031740417",
+          "start": 3,
+          "username": "xxoxx_01a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KjT7eT2obS",
+          "end": 61,
+          "expanded_url": "https://x.com/xxoxx_01a/status/2042277327900680660/photo/1",
+          "media_key": "3_2042277322657873920",
+          "start": 38,
+          "url": "https://t.co/KjT7eT2obS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042301326487379998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042277327900680660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxoxx_01a: エマヒロ衣装交換 🌸⇌🌺\n#まのさば二次創作 https://t.co/KjT7eT2obS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042277322657873920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFegZ43bwAANlsG.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042277322657873920"
+          ],
+          "media_source_tweet_id": [
+            "2042277327900680660"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2042301326487379998",
+        "created_at": "2026-04-09T17:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042301326487379998"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918311019031740417",
+              "start": 3,
+              "username": "xxoxx_01a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjT7eT2obS",
+              "end": 61,
+              "expanded_url": "https://x.com/xxoxx_01a/status/2042277327900680660/photo/1",
+              "media_key": "3_2042277322657873920",
+              "start": 38,
+              "url": "https://t.co/KjT7eT2obS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042301326487379998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042277327900680660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxoxx_01a: エマヒロ衣装交換 🌸⇌🌺\n#まのさば二次創作 https://t.co/KjT7eT2obS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042277322657873920"
+          ]
+        },
+        "author_id": "1918311019031740417",
+        "conversation_id": "2042277327900680660",
+        "created_at": "2026-04-09T16:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042277327900680660"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KjT7eT2obS",
+              "end": 46,
+              "expanded_url": "https://x.com/xxoxx_01a/status/2042277327900680660/photo/1",
+              "media_key": "3_2042277322657873920",
+              "start": 23,
+              "url": "https://t.co/KjT7eT2obS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042277327900680660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 5587,
+          "like_count": 844,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "エマヒロ衣装交換 🌸⇌🌺\n#まのさば二次創作 https://t.co/KjT7eT2obS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042288918339416064/2u9qr-16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 956,
+          "like_count": 15616,
+          "listed_count": 4,
+          "media_count": 551,
+          "tweet_count": 6127
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T14:26:24.000Z",
+        "description": "雑多.不定期に絵を描きます/サブ@lif4o_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "lif4o_"
+              }
+            ]
+          }
+        },
+        "id": "1918311019031740417",
+        "location": "AI学習.編集禁止❌️",
+        "name": "r",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042279895439638528/zVTV8rQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 59,
+          "like_count": 2057,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 850
+        },
+        "username": "xxoxx_01a",
+        "verified": false
+      }
+    ]
+  }
+}

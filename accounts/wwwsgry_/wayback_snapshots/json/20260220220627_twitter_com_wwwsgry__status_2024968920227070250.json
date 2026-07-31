@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024895298351644672"
+      ],
+      "media_source_tweet_id": [
+        "2024895306366931272"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2024968920227070250",
+    "created_at": "2026-02-20T22:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T23:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024968920227070250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5S3Pkk0uz",
+          "end": 45,
+          "expanded_url": "https://x.com/DDaquaforever/status/2024895306366931272/photo/1",
+          "media_key": "3_2024895298351644672",
+          "start": 22,
+          "url": "https://t.co/p5S3Pkk0uz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024968920227070250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024895306366931272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 是的 https://t.co/p5S3Pkk0uz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2024895298351644672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnfi6WbwAA5CIP.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024895298351644672"
+          ],
+          "media_source_tweet_id": [
+            "2024895306366931272"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2024968920227070250",
+        "created_at": "2026-02-20T22:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T23:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024968920227070250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5S3Pkk0uz",
+              "end": 45,
+              "expanded_url": "https://x.com/DDaquaforever/status/2024895306366931272/photo/1",
+              "media_key": "3_2024895298351644672",
+              "start": 22,
+              "url": "https://t.co/p5S3Pkk0uz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024968920227070250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024895306366931272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 是的 https://t.co/p5S3Pkk0uz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024895298351644672"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2024895306366931272",
+        "created_at": "2026-02-20T17:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024895306366931272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5S3Pkk0uz",
+              "end": 26,
+              "expanded_url": "https://x.com/DDaquaforever/status/2024895306366931272/photo/1",
+              "media_key": "3_2024895298351644672",
+              "start": 3,
+              "url": "https://t.co/p5S3Pkk0uz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024895306366931272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的 https://t.co/p5S3Pkk0uz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 954,
+          "like_count": 14421,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 5579
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2983,
+          "following_count": 3360,
+          "like_count": 4944,
+          "listed_count": 9,
+          "media_count": 1786,
+          "tweet_count": 8115
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

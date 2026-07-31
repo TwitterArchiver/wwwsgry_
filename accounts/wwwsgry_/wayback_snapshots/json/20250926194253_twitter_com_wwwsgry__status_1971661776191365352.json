@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1971655390095200522",
+    "created_at": "2025-09-26T19:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T20:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971661776191365352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1741421109365387264",
+          "start": 0,
+          "username": "rinn00126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971661776191365352",
+    "in_reply_to_user_id": "1741421109365387264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971655390095200522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinn00126 看起来味道很丰富了🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "@ Safire Restaurant & Grill",
+        "height": 2208,
+        "media_key": "3_1971655384495464449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1y6IDxWoAEiZd-.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1971655390095200522",
+        "created_at": "2025-09-26T19:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T20:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971661776191365352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741421109365387264",
+              "start": 0,
+              "username": "rinn00126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971661776191365352",
+        "in_reply_to_user_id": "1741421109365387264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971655390095200522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinn00126 看起来味道很丰富了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971655384495464449"
+          ]
+        },
+        "author_id": "1741421109365387264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1971655390095200522",
+        "created_at": "2025-09-26T19:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T20:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971655390095200522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lAPD8j3tx",
+              "end": 63,
+              "expanded_url": "https://x.com/rinn00126/status/1971655390095200522/photo/1",
+              "media_key": "3_1971655384495464449",
+              "start": 40,
+              "url": "https://t.co/5lAPD8j3tx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971655390095200522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "印度料理好吃😋比中餐值多了\n炸鸡肉质不好而且没入味\n蘑菇炒饭和去骨羊肉咖喱很棒 https://t.co/5lAPD8j3tx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 877,
+          "like_count": 11338,
+          "listed_count": 4,
+          "media_count": 396,
+          "tweet_count": 4050
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T11:30:00.000Z",
+        "description": "準技術者です | INTJ | ZH・EN・日本語勉強中 | 願為貫徹自由意志而生，還有她 | \nよろしく",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin61707",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin61707",
+                "start": 0,
+                "url": "https://t.co/QHATznyJYK"
+              }
+            ]
+          }
+        },
+        "id": "1741421109365387264",
+        "location": "United Kingdom",
+        "name": "霖リン",
+        "pinned_tweet_id": "1936539542074302635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936895010235981824/o5YP0lIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 667,
+          "like_count": 1816,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/QHATznyJYK",
+        "username": "rinn00126",
+        "verified": false
+      }
+    ]
+  }
+}

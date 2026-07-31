@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983902120593256587",
+    "created_at": "2025-10-31T00:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T01:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984058162887192667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1322444537415966720",
+          "start": 0,
+          "username": "cgefw_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984058162887192667",
+    "in_reply_to_user_id": "1322444537415966720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984055137573466425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cgefw_1 真的吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T00:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984058162887192667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1322444537415966720",
+              "start": 0,
+              "username": "cgefw_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984058162887192667",
+        "in_reply_to_user_id": "1322444537415966720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984055137573466425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cgefw_1 真的吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322444537415966720",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-10-31T00:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984055137573466425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1100776666194882561",
+              "start": 0,
+              "username": "akiEl3venn"
+            },
+            {
+              "end": 21,
+              "id": "1687116360814637056",
+              "start": 12,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984055137573466425",
+        "in_reply_to_user_id": "1100776666194882561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983940233902104667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiEl3venn @wwwsgry_ 悉尼现在要雅思7了😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 917,
+          "like_count": 13025,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 4694
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-31T07:45:31.000Z",
+        "description": "EN/中文/日本語？(下手）",
+        "id": "1322444537415966720",
+        "name": "cgefwtydjwnnw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555092163981033472/2NTgDcRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 209,
+          "like_count": 4834,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2017
+        },
+        "username": "cgefw_1",
+        "verified": false
+      }
+    ]
+  }
+}

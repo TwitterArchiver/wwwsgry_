@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1999873906346541487",
+    "created_at": "2025-12-14T00:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T01:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999994315188187348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852991026480492544",
+          "start": 0,
+          "username": "silo_avo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999994315188187348",
+    "in_reply_to_user_id": "1852991026480492544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999992332519923843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silo_avo 波士顿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1999873906346541487",
+        "created_at": "2025-12-14T00:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T01:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999994315188187348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852991026480492544",
+              "start": 0,
+              "username": "silo_avo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999994315188187348",
+        "in_reply_to_user_id": "1852991026480492544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999992332519923843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silo_avo 波士顿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852991026480492544",
+        "conversation_id": "1999873906346541487",
+        "created_at": "2025-12-13T23:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T00:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999992332519923843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999992332519923843",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999873906346541487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 啊？啥大学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 922,
+          "like_count": 13997,
+          "listed_count": 4,
+          "media_count": 474,
+          "tweet_count": 5102
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T08:27:50.000Z",
+        "description": "君と一緒にいることはユートピアなんかじゃない。日本語勉強中。",
+        "id": "1852991026480492544",
+        "location": "California, USA",
+        "name": "Slio🥑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997925583414755328/aylaB7ts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 223,
+          "like_count": 2855,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 888
+        },
+        "username": "silo_avo",
+        "verified": false
+      }
+    ]
+  }
+}

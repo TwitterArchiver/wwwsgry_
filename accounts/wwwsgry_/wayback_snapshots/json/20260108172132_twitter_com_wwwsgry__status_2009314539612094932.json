@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2008884635649089760",
+    "created_at": "2026-01-08T17:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T18:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009314539612094932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1554997800030461952",
+          "start": 0,
+          "username": "Plne7_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009314539612094932",
+    "in_reply_to_user_id": "1554997800030461952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009305165061607430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plne7_ 谢谢🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-08T17:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009314539612094932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1554997800030461952",
+              "start": 0,
+              "username": "Plne7_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009314539612094932",
+        "in_reply_to_user_id": "1554997800030461952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009305165061607430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plne7_ 谢谢🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554997800030461952",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-08T16:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009305165061607430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009305165061607430",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008884635649089760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 牛啊牛啊，现在港校越来越难申请了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 927,
+          "like_count": 13734,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 5275
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T01:09:29.000Z",
+        "description": "Btc Holder｜Macro&Crypto｜Artificial Intelligence",
+        "id": "1554997800030461952",
+        "name": "Vincent7",
+        "pinned_tweet_id": "2001857329327935531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997116616837156866/4G1jZnZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 816,
+          "like_count": 41204,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 824
+        },
+        "username": "Plne7_",
+        "verified": true
+      }
+    ]
+  }
+}

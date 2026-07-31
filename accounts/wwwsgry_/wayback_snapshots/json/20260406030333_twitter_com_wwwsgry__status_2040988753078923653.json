@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2040854305855742046",
+    "created_at": "2026-04-06T03:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040988753078923653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1875971244597948416",
+          "start": 0,
+          "username": "femboyliberty"
+        },
+        {
+          "end": 26,
+          "id": "1765825463103139840",
+          "start": 15,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040988753078923653",
+    "in_reply_to_user_id": "1875971244597948416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040854305855742046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@femboyliberty @Chloris923 你能拍这个吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3264,
+        "media_key": "3_2040854294996664321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFKSKxubQAEoG6g.jpg",
+        "width": 2448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2040854305855742046",
+        "created_at": "2026-04-06T03:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040988753078923653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1875971244597948416",
+              "start": 0,
+              "username": "femboyliberty"
+            },
+            {
+              "end": 26,
+              "id": "1765825463103139840",
+              "start": 15,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040988753078923653",
+        "in_reply_to_user_id": "1875971244597948416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040854305855742046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@femboyliberty @Chloris923 你能拍这个吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040854294996664321"
+          ]
+        },
+        "author_id": "1875971244597948416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2040854305855742046",
+        "created_at": "2026-04-05T18:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040854305855742046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "It's been another 4 years since President Obama has been chosen to be re-elected for President for the 2nd term and has chosen not to run for a 3rd term, with Nico Duo Roy Cooper bringing on a progressive vision to America while 2 time loser Bruce Wayne seeks to get a seat in the white house instead. America is becoming more and more polarized more than ever and the people are not exactly fond of the two moderates running for election with Populism on the rise.",
+              "display_url": "docs.google.com/forms/d/e/1FAI…",
+              "end": 47,
+              "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSd5O9WdZ7AkZRtCf7cv6FDq8bqvKPBCXcQ3GiVyWjM0ubuHuQ/viewform",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2040671510919249920/BK5fvrpO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040671510919249920/BK5fvrpO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "The 2016 Presidential Election",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSd5O9WdZ7AkZRtCf7cv6FDq8bqvKPBCXcQ3GiVyWjM0ubuHuQ/viewform",
+              "url": "https://t.co/IFVxwABKqz"
+            },
+            {
+              "display_url": "pic.x.com/BFOxe9nsUx",
+              "end": 71,
+              "expanded_url": "https://x.com/femboyliberty/status/2040854305855742046/photo/1",
+              "media_key": "3_2040854294996664321",
+              "start": 48,
+              "url": "https://t.co/BFOxe9nsUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040854305855742046",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 1999,
+          "like_count": 226,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "vote libertarian o algo https://t.co/IFVxwABKqz https://t.co/BFOxe9nsUx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646828041547776/E827cquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 956,
+          "like_count": 15550,
+          "listed_count": 4,
+          "media_count": 550,
+          "tweet_count": 6098
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T18:24:13.000Z",
+        "description": "classical liberal-libertarian M 18y/o dumb dumb\nmoderation in the pursuit of justice is no virtue\nNO MINORS ALLOWED!!! 🛑\npriv: @femblibertypriv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 127,
+                "username": "femblibertypriv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "femboylibertarian.straw.page",
+                "end": 23,
+                "expanded_url": "https://femboylibertarian.straw.page",
+                "start": 0,
+                "url": "https://t.co/Qi78xSmZxl"
+              }
+            ]
+          }
+        },
+        "id": "1875971244597948416",
+        "location": "USA",
+        "name": "femboy libertarian 🇺🇸🦔",
+        "pinned_tweet_id": "2032141722462171170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034972222071480323/6frFL51b_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4484,
+          "following_count": 1243,
+          "like_count": 290920,
+          "listed_count": 13,
+          "media_count": 4137,
+          "tweet_count": 47139
+        },
+        "url": "https://t.co/Qi78xSmZxl",
+        "username": "femboyliberty",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "春夏秋冬，睡睡睡睡。\n無限月讀發動中\nalt @pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "pamnc2024"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ",
+        "name": "🌙",
+        "pinned_tweet_id": "2038201779268288728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040792301329694720/Em7xkW1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 257,
+          "like_count": 30338,
+          "listed_count": 3,
+          "media_count": 586,
+          "tweet_count": 17091
+        },
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042240031654305792"
+      ],
+      "media_source_tweet_id": [
+        "2042256470285128164"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2042296737700745545",
+    "created_at": "2026-04-09T17:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042296737700745545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1874369770344067072",
+          "start": 3,
+          "username": "LostMemeArchive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IUD6bcFlBD",
+          "end": 91,
+          "expanded_url": "https://x.com/LostMemeArchive/status/2042256470285128164/photo/1",
+          "media_key": "3_2042240031654305792",
+          "start": 68,
+          "url": "https://t.co/IUD6bcFlBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042296737700745545",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1063
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042256470285128164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LostMemeArchive: Maxwell the Spinning Cat Original Image (2017) https://t.co/IUD6bcFlBD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2042240031654305792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd-fRDWYAAFVXh.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042240031654305792"
+          ],
+          "media_source_tweet_id": [
+            "2042256470285128164"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2042296737700745545",
+        "created_at": "2026-04-09T17:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042296737700745545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1874369770344067072",
+              "start": 3,
+              "username": "LostMemeArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUD6bcFlBD",
+              "end": 91,
+              "expanded_url": "https://x.com/LostMemeArchive/status/2042256470285128164/photo/1",
+              "media_key": "3_2042240031654305792",
+              "start": 68,
+              "url": "https://t.co/IUD6bcFlBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042296737700745545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1063
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042256470285128164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LostMemeArchive: Maxwell the Spinning Cat Original Image (2017) https://t.co/IUD6bcFlBD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042240031654305792"
+          ]
+        },
+        "author_id": "1874369770344067072",
+        "conversation_id": "2042256470285128164",
+        "created_at": "2026-04-09T15:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042256470285128164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUD6bcFlBD",
+              "end": 70,
+              "expanded_url": "https://x.com/LostMemeArchive/status/2042256470285128164/photo/1",
+              "media_key": "3_2042240031654305792",
+              "start": 47,
+              "url": "https://t.co/IUD6bcFlBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042256470285128164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 659,
+          "impression_count": 118417,
+          "like_count": 11643,
+          "quote_count": 29,
+          "reply_count": 21,
+          "retweet_count": 1063
+        },
+        "reply_settings": "everyone",
+        "text": "Maxwell the Spinning Cat Original Image (2017) https://t.co/IUD6bcFlBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042288918339416064/2u9qr-16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 956,
+          "like_count": 15614,
+          "listed_count": 4,
+          "media_count": 551,
+          "tweet_count": 6126
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T08:19:26.000Z",
+        "description": "you’ve been here before—you just forgot.",
+        "id": "1874369770344067072",
+        "name": "Lost Internet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993772256464437248/A16GTO_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733136,
+          "following_count": 4,
+          "like_count": 1843,
+          "listed_count": 567,
+          "media_count": 699,
+          "tweet_count": 825
+        },
+        "username": "LostMemeArchive",
+        "verified": true
+      }
+    ]
+  }
+}

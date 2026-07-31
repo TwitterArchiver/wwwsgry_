@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071887964339077120"
+      ],
+      "media_source_tweet_id": [
+        "2071887967258583430"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2072165855497240833",
+    "created_at": "2026-07-01T03:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072165855497240833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1631302454229848064",
+          "start": 3,
+          "username": "tori_nankotsu96"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AQz7pby3A7",
+          "end": 44,
+          "expanded_url": "https://x.com/tori_nankotsu96/status/2071887967258583430/photo/1",
+          "media_key": "3_2071887964339077120",
+          "start": 21,
+          "url": "https://t.co/AQz7pby3A7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072165855497240833",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 510
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071887967258583430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tori_nankotsu96: https://t.co/AQz7pby3A7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071887964339077120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDTIFDWgAAiBeB.jpg",
+        "width": 1790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071887964339077120"
+          ],
+          "media_source_tweet_id": [
+            "2071887967258583430"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2072165855497240833",
+        "created_at": "2026-07-01T03:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072165855497240833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1631302454229848064",
+              "start": 3,
+              "username": "tori_nankotsu96"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQz7pby3A7",
+              "end": 44,
+              "expanded_url": "https://x.com/tori_nankotsu96/status/2071887967258583430/photo/1",
+              "media_key": "3_2071887964339077120",
+              "start": 21,
+              "url": "https://t.co/AQz7pby3A7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072165855497240833",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 510
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071887967258583430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tori_nankotsu96: https://t.co/AQz7pby3A7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071887964339077120"
+          ]
+        },
+        "author_id": "1631302454229848064",
+        "conversation_id": "2071887967258583430",
+        "created_at": "2026-06-30T09:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071887967258583430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AQz7pby3A7",
+              "end": 23,
+              "expanded_url": "https://x.com/tori_nankotsu96/status/2071887967258583430/photo/1",
+              "media_key": "3_2071887964339077120",
+              "start": 0,
+              "url": "https://t.co/AQz7pby3A7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071887967258583430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 643,
+          "impression_count": 43592,
+          "like_count": 7032,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 510
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AQz7pby3A7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 994,
+          "like_count": 16940,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 6719
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T14:36:40.000Z",
+        "description": "おえかき/skeb→https://t.co/gxVtHQ7kcP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tori_nankotsu…",
+                "end": 33,
+                "expanded_url": "http://skeb.jp/@tori_nankotsu96",
+                "start": 10,
+                "url": "https://t.co/gxVtHQ7kcP"
+              }
+            ]
+          }
+        },
+        "id": "1631302454229848064",
+        "location": "無断転載、無断使用禁止 Do not repost.",
+        "name": "とり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004644677484773378/XpR8u0XQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10937,
+          "following_count": 267,
+          "like_count": 21034,
+          "listed_count": 80,
+          "media_count": 106,
+          "tweet_count": 6763
+        },
+        "url": "",
+        "username": "tori_nankotsu96",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052437724146155522"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2052437727824531873",
+    "created_at": "2026-05-07T17:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052437727824531873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LDMxpirC1U",
+          "end": 43,
+          "expanded_url": "https://x.com/wwwsgry_/status/2052437727824531873/photo/1",
+          "media_key": "3_2052437724146155522",
+          "start": 20,
+          "url": "https://t.co/LDMxpirC1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052437727824531873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "演唱会在13号 孩子们我能拿到荧光棒吗 https://t.co/LDMxpirC1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_2052437724146155522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHu5PF9XwAIws-H.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052437724146155522"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2052437727824531873",
+        "created_at": "2026-05-07T17:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052437727824531873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LDMxpirC1U",
+              "end": 43,
+              "expanded_url": "https://x.com/wwwsgry_/status/2052437727824531873/photo/1",
+              "media_key": "3_2052437724146155522",
+              "start": 20,
+              "url": "https://t.co/LDMxpirC1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052437727824531873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "演唱会在13号 孩子们我能拿到荧光棒吗 https://t.co/LDMxpirC1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 974,
+          "like_count": 16070,
+          "listed_count": 4,
+          "media_count": 568,
+          "tweet_count": 6346
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

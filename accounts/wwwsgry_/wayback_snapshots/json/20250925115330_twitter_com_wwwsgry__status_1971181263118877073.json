@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1971065292517408850",
+    "created_at": "2025-09-25T11:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T12:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971181263118877073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850642297547079681",
+          "start": 0,
+          "username": "JudyTsang520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971181263118877073",
+    "in_reply_to_user_id": "1850642297547079681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971092963242749971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JudyTsang520 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1971065292517408850",
+        "created_at": "2025-09-25T11:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T12:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971181263118877073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850642297547079681",
+              "start": 0,
+              "username": "JudyTsang520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971181263118877073",
+        "in_reply_to_user_id": "1850642297547079681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971092963242749971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JudyTsang520 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850642297547079681",
+        "conversation_id": "1971065292517408850",
+        "created_at": "2025-09-25T06:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T07:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971092963242749971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971092963242749971",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971065292517408850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 国外对这一块真是很常见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 871,
+          "like_count": 11270,
+          "listed_count": 4,
+          "media_count": 395,
+          "tweet_count": 4026
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T20:55:00.000Z",
+        "description": "Do what you love, fuck the else.",
+        "id": "1850642297547079681",
+        "location": "Scotland, United Kingdom",
+        "name": "I am Judy",
+        "pinned_tweet_id": "1943760099958268072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965443549698138112/nIA3vlXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 640,
+          "like_count": 21050,
+          "listed_count": 5,
+          "media_count": 1565,
+          "tweet_count": 10029
+        },
+        "username": "JudyTsang520",
+        "verified": false
+      }
+    ]
+  }
+}

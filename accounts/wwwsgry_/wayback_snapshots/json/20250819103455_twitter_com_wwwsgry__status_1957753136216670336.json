@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1957745785879368139",
+    "created_at": "2025-08-19T10:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T11:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957753136216670336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684616812099776513",
+          "start": 0,
+          "username": "Ce_404notfond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957753136216670336",
+    "in_reply_to_user_id": "1684616812099776513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957745785879368139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ce_404notfond 国内大学是不是没卡不能进🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957745775041290240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytPaOnboAAZ64X.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1957745785879368139",
+        "created_at": "2025-08-19T10:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957753136216670336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684616812099776513",
+              "start": 0,
+              "username": "Ce_404notfond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957753136216670336",
+        "in_reply_to_user_id": "1684616812099776513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957745785879368139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ce_404notfond 国内大学是不是没卡不能进🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957745775041290240"
+          ]
+        },
+        "author_id": "1684616812099776513",
+        "conversation_id": "1957745785879368139",
+        "created_at": "2025-08-19T10:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957745785879368139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJjX50vkMq",
+              "end": 36,
+              "expanded_url": "https://x.com/Ce_404notfond/status/1957745785879368139/photo/1",
+              "media_key": "3_1957745775041290240",
+              "start": 13,
+              "url": "https://t.co/fJjX50vkMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957745785879368139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问问大家这种是真的假的？ https://t.co/fJjX50vkMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 756,
+          "like_count": 9640,
+          "listed_count": 3,
+          "media_count": 344,
+          "tweet_count": 3533
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T17:28:56.000Z",
+        "description": "一般路过大陆南方网友     \n请友善交流/淡推/友跨/不欢迎支黑     \n西郊有密林，祝君出重围",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MtF.Report",
+                "end": 23,
+                "expanded_url": "http://MtF.Report",
+                "start": 0,
+                "url": "https://t.co/taKzk7w9bi"
+              }
+            ]
+          }
+        },
+        "id": "1684616812099776513",
+        "location": "距离你6km",
+        "name": "Ritsu🌈⃤",
+        "pinned_tweet_id": "1931047808947392980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931795802734858240/EESgSzXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 770,
+          "like_count": 18491,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 2408
+        },
+        "url": "https://t.co/taKzk7w9bi",
+        "username": "Ce_404notfond",
+        "verified": false
+      }
+    ]
+  }
+}

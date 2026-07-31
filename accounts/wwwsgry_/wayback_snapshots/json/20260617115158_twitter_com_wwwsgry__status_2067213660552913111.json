@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2067126050468016294",
+    "created_at": "2026-06-17T11:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067213660552913111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "Y4miSTILLher3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067213660552913111",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067126050468016294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y4miSTILLher3 这蛇好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067126041987223553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_oLt6bkAEuvsD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067126042003980288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_oLt-bQAACQIX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2067126050468016294",
+        "created_at": "2026-06-17T11:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067213660552913111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "Y4miSTILLher3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067213660552913111",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067126050468016294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y4miSTILLher3 这蛇好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067126041987223553",
+            "3_2067126042003980288"
+          ]
+        },
+        "author_id": "2049103771796660224",
+        "conversation_id": "2067126050468016294",
+        "created_at": "2026-06-17T06:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067126050468016294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEM7uJLEEg",
+              "end": 23,
+              "expanded_url": "https://x.com/Y4miSTILLher3/status/2067126050468016294/photo/1",
+              "media_key": "3_2067126041987223553",
+              "start": 0,
+              "url": "https://t.co/WEM7uJLEEg"
+            },
+            {
+              "display_url": "pic.x.com/WEM7uJLEEg",
+              "end": 23,
+              "expanded_url": "https://x.com/Y4miSTILLher3/status/2067126050468016294/photo/1",
+              "media_key": "3_2067126042003980288",
+              "start": 0,
+              "url": "https://t.co/WEM7uJLEEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067126050468016294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WEM7uJLEEg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 988,
+          "like_count": 16656,
+          "listed_count": 4,
+          "media_count": 582,
+          "tweet_count": 6610
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "不要搞我啊",
+        "id": "2049103771796660224",
+        "location": "提瓦特",
+        "name": "原神执行官，达达利亚。烧冻鸡翅（反鸣潮）",
+        "pinned_tweet_id": "2061276290028872084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061273772645294080/etn8fUR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 60,
+          "like_count": 2189,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 457
+        },
+        "username": "Y4miSTILLher3",
+        "verified": false
+      }
+    ]
+  }
+}

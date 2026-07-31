@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1982872514146775545",
+    "created_at": "2025-10-27T18:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T19:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982873421030785460"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1982873421030785460",
+    "in_reply_to_user_id": "1687116360814637056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982872514146775545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "工作不能负责点吗 不能高效点吗 对自己的效率没点数让一小部分人承担后果 你是老师我是老师 我他妈想的都比她清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1982872514146775545",
+        "created_at": "2025-10-27T18:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982873421030785460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982873421030785460",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982872514146775545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "工作不能负责点吗 不能高效点吗 对自己的效率没点数让一小部分人承担后果 你是老师我是老师 我他妈想的都比她清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1982872514146775545",
+        "created_at": "2025-10-27T18:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T19:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982872514146775545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982872514146775545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真开了眼了，见过学生拖ddl没见过老师拖的。essay要先给她看开头段然后回答她的问题，我上周三就写完了，我已经等了四天了她还是没轮到我，明明预留的提问时间只有上周四五，她硬生生拖到这周二，关键我他妈没交开头段还不能写初稿，初稿他吗周四要交了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 913,
+          "like_count": 12809,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 4609
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

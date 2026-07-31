@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2081221081592148359",
+    "created_at": "2026-07-27T07:57:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:57:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081650215778722176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1707351899551490048",
+          "start": 0,
+          "username": "FhtgKey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081650215778722176",
+    "in_reply_to_user_id": "1707351899551490048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081637507876499771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FhtgKey 我深度睡眠也不多😔 每天睡醒特别累"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2081221081592148359",
+        "created_at": "2026-07-27T07:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081650215778722176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1707351899551490048",
+              "start": 0,
+              "username": "FhtgKey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081650215778722176",
+        "in_reply_to_user_id": "1707351899551490048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081637507876499771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FhtgKey 我深度睡眠也不多😔 每天睡醒特别累"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707351899551490048",
+        "conversation_id": "2081221081592148359",
+        "created_at": "2026-07-27T07:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081637507876499771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081637507876499771",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081221081592148359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 羡慕深度睡眠...我基本上都是浅度睡眠左右徘徊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "何帳號？@zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1009,
+          "like_count": 17421,
+          "listed_count": 4,
+          "media_count": 609,
+          "tweet_count": 6895
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T11:09:57.000Z",
+        "description": "请找我聊天/泛/我能做些什么/喜欢我，喜欢你/图和文字",
+        "id": "1707351899551490048",
+        "location": "京都/厦门",
+        "name": "日落向日葵",
+        "pinned_tweet_id": "2065318970794934291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001681060569194496/zfU0hPtw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 45,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 529
+        },
+        "url": "",
+        "username": "FhtgKey",
+        "verified": true
+      }
+    ]
+  }
+}

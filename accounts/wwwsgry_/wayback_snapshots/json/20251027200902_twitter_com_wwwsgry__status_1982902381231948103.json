@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982902375045095424"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1982902381231948103",
+    "created_at": "2025-10-27T20:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T21:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982902381231948103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D8YI628PXq",
+          "end": 41,
+          "expanded_url": "https://x.com/wwwsgry_/status/1982902381231948103/photo/1",
+          "media_key": "3_1982902375045095424",
+          "start": 18,
+          "url": "https://t.co/D8YI628PXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982902381231948103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说得对但我买到了第二排的vip票 https://t.co/D8YI628PXq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982902375045095424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4SvNEjXYAAQlM2.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982902375045095424"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1982902381231948103",
+        "created_at": "2025-10-27T20:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T21:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982902381231948103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8YI628PXq",
+              "end": 41,
+              "expanded_url": "https://x.com/wwwsgry_/status/1982902381231948103/photo/1",
+              "media_key": "3_1982902375045095424",
+              "start": 18,
+              "url": "https://t.co/D8YI628PXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982902381231948103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说得对但我买到了第二排的vip票 https://t.co/D8YI628PXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 913,
+          "like_count": 12819,
+          "listed_count": 5,
+          "media_count": 436,
+          "tweet_count": 4613
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

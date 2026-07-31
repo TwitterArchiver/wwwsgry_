@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1993188016072900883",
+    "created_at": "2025-11-25T13:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T14:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993308716238844042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1684169302109454338",
+          "start": 0,
+          "username": "_Project_Star_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993308716238844042",
+    "in_reply_to_user_id": "1684169302109454338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993198016598360193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Project_Star_ 确实（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1993188016072900883",
+        "created_at": "2025-11-25T13:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993308716238844042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684169302109454338",
+              "start": 0,
+              "username": "_Project_Star_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993308716238844042",
+        "in_reply_to_user_id": "1684169302109454338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993198016598360193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Project_Star_ 确实（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684169302109454338",
+        "conversation_id": "1993188016072900883",
+        "created_at": "2025-11-25T06:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993198016598360193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993198016598360193",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993188016072900883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 至少实实在在吃到肚子里了，不算打水漂（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 924,
+          "like_count": 13538,
+          "listed_count": 4,
+          "media_count": 463,
+          "tweet_count": 4968
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T11:51:17.000Z",
+        "description": "很好说话，欢迎找我打游戏（压力怪就算了｜不发推就是在好好生活😀",
+        "id": "1684169302109454338",
+        "location": "幻想乡",
+        "name": "Starry星曦",
+        "pinned_tweet_id": "1775471205585506732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732117668247867393/r5-4uRoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4083,
+          "following_count": 693,
+          "like_count": 5866,
+          "listed_count": 9,
+          "media_count": 54,
+          "tweet_count": 275
+        },
+        "username": "_Project_Star_",
+        "verified": false
+      }
+    ]
+  }
+}

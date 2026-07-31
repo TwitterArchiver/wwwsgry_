@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1979002289189716386",
+    "created_at": "2025-10-17T01:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T02:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979002289189716386"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979002289189716386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起来也是很有趣，我妈四五年前开始去香港买保险，对接的是个60出头的重庆阿姨，80年代去的香港。然后买着买着我们家和他们夫妻处成朋友了，每次去香港都去和他们转两天吃顿饭，还时不时寄点礼物，平时也会发消息。这次他们夫妻去美国玩顺便来多伦多，发消息说这周末请我出去吃饭😼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1979002289189716386",
+        "created_at": "2025-10-17T01:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T02:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979002289189716386"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979002289189716386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来也是很有趣，我妈四五年前开始去香港买保险，对接的是个60出头的重庆阿姨，80年代去的香港。然后买着买着我们家和他们夫妻处成朋友了，每次去香港都去和他们转两天吃顿饭，还时不时寄点礼物，平时也会发消息。这次他们夫妻去美国玩顺便来多伦多，发消息说这周末请我出去吃饭😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 900,
+          "like_count": 12437,
+          "listed_count": 5,
+          "media_count": 422,
+          "tweet_count": 4411
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

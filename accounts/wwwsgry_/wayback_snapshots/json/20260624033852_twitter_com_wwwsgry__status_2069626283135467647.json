@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069626252181528577"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2069626283135467647",
+    "created_at": "2026-06-24T03:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069626283135467647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dbdLTnwhkC",
+          "end": 48,
+          "expanded_url": "https://x.com/wwwsgry_/status/2069626283135467647/photo/1",
+          "media_key": "3_2069626252181528577",
+          "start": 25,
+          "url": "https://t.co/dbdLTnwhkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069626283135467647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上一条感觉不小心剧透了，删掉\n反正好看就对了😻😻 https://t.co/dbdLTnwhkC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069626252181528577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjKHGsaYAEQV3I.jpg",
+        "width": 1577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069626252181528577"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2069626283135467647",
+        "created_at": "2026-06-24T03:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069626283135467647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbdLTnwhkC",
+              "end": 48,
+              "expanded_url": "https://x.com/wwwsgry_/status/2069626283135467647/photo/1",
+              "media_key": "3_2069626252181528577",
+              "start": 25,
+              "url": "https://t.co/dbdLTnwhkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069626283135467647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上一条感觉不小心剧透了，删掉\n反正好看就对了😻😻 https://t.co/dbdLTnwhkC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 992,
+          "like_count": 16835,
+          "listed_count": 4,
+          "media_count": 588,
+          "tweet_count": 6683
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

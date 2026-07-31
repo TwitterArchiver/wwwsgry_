@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040902697407131649",
+        "3_2040902697541578752",
+        "3_2040902697415520256"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2040902709331538081",
+    "created_at": "2026-04-05T21:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T22:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040902709331538081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sHFKWerwEz",
+          "end": 26,
+          "expanded_url": "https://x.com/wwwsgry_/status/2040902709331538081/photo/1",
+          "media_key": "3_2040902697407131649",
+          "start": 3,
+          "url": "https://t.co/sHFKWerwEz"
+        },
+        {
+          "display_url": "pic.x.com/sHFKWerwEz",
+          "end": 26,
+          "expanded_url": "https://x.com/wwwsgry_/status/2040902709331538081/photo/1",
+          "media_key": "3_2040902697541578752",
+          "start": 3,
+          "url": "https://t.co/sHFKWerwEz"
+        },
+        {
+          "display_url": "pic.x.com/sHFKWerwEz",
+          "end": 26,
+          "expanded_url": "https://x.com/wwwsgry_/status/2040902709331538081/photo/1",
+          "media_key": "3_2040902697415520256",
+          "start": 3,
+          "url": "https://t.co/sHFKWerwEz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040902709331538081",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "☔️ https://t.co/sHFKWerwEz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040902697407131649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFK-MKwWsAEBp0M.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040902697541578752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFK-MLQaMAAYRJj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040902697415520256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFK-MKyWsAAaOwS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040902697407131649",
+            "3_2040902697541578752",
+            "3_2040902697415520256"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2040902709331538081",
+        "created_at": "2026-04-05T21:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T22:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040902709331538081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHFKWerwEz",
+              "end": 26,
+              "expanded_url": "https://x.com/wwwsgry_/status/2040902709331538081/photo/1",
+              "media_key": "3_2040902697407131649",
+              "start": 3,
+              "url": "https://t.co/sHFKWerwEz"
+            },
+            {
+              "display_url": "pic.x.com/sHFKWerwEz",
+              "end": 26,
+              "expanded_url": "https://x.com/wwwsgry_/status/2040902709331538081/photo/1",
+              "media_key": "3_2040902697541578752",
+              "start": 3,
+              "url": "https://t.co/sHFKWerwEz"
+            },
+            {
+              "display_url": "pic.x.com/sHFKWerwEz",
+              "end": 26,
+              "expanded_url": "https://x.com/wwwsgry_/status/2040902709331538081/photo/1",
+              "media_key": "3_2040902697415520256",
+              "start": 3,
+              "url": "https://t.co/sHFKWerwEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040902709331538081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "☔️ https://t.co/sHFKWerwEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646828041547776/E827cquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 956,
+          "like_count": 15549,
+          "listed_count": 4,
+          "media_count": 549,
+          "tweet_count": 6093
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1978134352719470772",
+    "created_at": "2025-10-15T16:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T17:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978496021140271170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978496021140271170",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978134352719470772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 一下就找到了🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 925,
+        "media_key": "3_1978134344502829060",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3O-tKoXYAQ7sF9.jpg",
+        "width": 1812
+      },
+      {
+        "height": 922,
+        "media_key": "3_1978134347774345216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3O-tW0WwAA1hs0.jpg",
+        "width": 1810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1978134352719470772",
+        "created_at": "2025-10-15T16:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978496021140271170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978496021140271170",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978134352719470772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 一下就找到了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978134344502829060",
+            "3_1978134347774345216"
+          ]
+        },
+        "author_id": "1965351173872820224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978134352719470772",
+        "created_at": "2025-10-14T16:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978134352719470772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GoXGgtsEzb",
+              "end": 53,
+              "expanded_url": "https://x.com/BT_7324/status/1978134352719470772/photo/1",
+              "media_key": "3_1978134344502829060",
+              "start": 30,
+              "url": "https://t.co/GoXGgtsEzb"
+            },
+            {
+              "display_url": "pic.x.com/GoXGgtsEzb",
+              "end": 53,
+              "expanded_url": "https://x.com/BT_7324/status/1978134352719470772/photo/1",
+              "media_key": "3_1978134347774345216",
+              "start": 30,
+              "url": "https://t.co/GoXGgtsEzb"
+            },
+            {
+              "display_url": "x.com/BT_7324/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/BT_7324/status/1978131732588052488",
+              "start": 54,
+              "url": "https://t.co/sSoDfjbmeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978134352719470772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10964,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978131732588052488",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我的501个fo们❤️快看看你在哪❤️这次绝对够清楚！ https://t.co/GoXGgtsEzb https://t.co/sSoDfjbmeL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 899,
+          "like_count": 12344,
+          "listed_count": 4,
+          "media_count": 420,
+          "tweet_count": 4375
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "15岁👶՞˶･֊･˶՞会点小技术",
+        "id": "1965351173872820224",
+        "location": "1818181818181818181818181818km",
+        "name": "zzz",
+        "pinned_tweet_id": "1978478916664021366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978145791291047937/a09q1sT9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1331,
+          "like_count": 4081,
+          "listed_count": 0,
+          "media_count": 972,
+          "tweet_count": 2948
+        },
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

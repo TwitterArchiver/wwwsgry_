@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078183467691732992"
+      ],
+      "media_source_tweet_id": [
+        "2078183475178520812"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2078775828817862944",
+    "created_at": "2026-07-19T09:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078775828817862944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1435254645706792968",
+          "start": 3,
+          "username": "kid_sppinarl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EdBQmzr3rs",
+          "end": 50,
+          "expanded_url": "https://x.com/kid_sppinarl/status/2078183475178520812/photo/1",
+          "media_key": "3_2078183467691732992",
+          "start": 27,
+          "url": "https://t.co/EdBQmzr3rs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078775828817862944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4527
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078183475178520812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kid_sppinarl: ❄️💧\n朋友想看 https://t.co/EdBQmzr3rs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078183467691732992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcw2mna8AA9mPV.jpg",
+        "width": 1596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078183467691732992"
+          ]
+        },
+        "author_id": "1435254645706792968",
+        "conversation_id": "2078183475178520812",
+        "created_at": "2026-07-17T18:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078183475178520812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EdBQmzr3rs",
+              "end": 32,
+              "expanded_url": "https://x.com/kid_sppinarl/status/2078183475178520812/photo/1",
+              "media_key": "3_2078183467691732992",
+              "start": 9,
+              "url": "https://t.co/EdBQmzr3rs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078183475178520812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13881,
+          "impression_count": 693522,
+          "like_count": 91939,
+          "quote_count": 97,
+          "reply_count": 60,
+          "retweet_count": 4527
+        },
+        "reply_settings": "everyone",
+        "text": "❄️💧\n朋友想看 https://t.co/EdBQmzr3rs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078183467691732992"
+          ],
+          "media_source_tweet_id": [
+            "2078183475178520812"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2078775828817862944",
+        "created_at": "2026-07-19T09:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078775828817862944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1435254645706792968",
+              "start": 3,
+              "username": "kid_sppinarl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EdBQmzr3rs",
+              "end": 50,
+              "expanded_url": "https://x.com/kid_sppinarl/status/2078183475178520812/photo/1",
+              "media_key": "3_2078183467691732992",
+              "start": 27,
+              "url": "https://t.co/EdBQmzr3rs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078775828817862944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4527
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078183475178520812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kid_sppinarl: ❄️💧\n朋友想看 https://t.co/EdBQmzr3rs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1003,
+          "like_count": 17240,
+          "listed_count": 4,
+          "media_count": 606,
+          "tweet_count": 6845
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-07T14:52:54.000Z",
+        "description": "主-💣✨\n\n  lol-💣All🔁❌\n\n    pjsk-❄️All🔁❌\n\n        左右絕對固定 相手不固定\n              \n                                可能會有💣/❄️的拉朗friendship",
+        "id": "1435254645706792968",
+        "location": "Taiwan ",
+        "name": "嵐喵（ Kat)可悲同仁女",
+        "pinned_tweet_id": "2025211792423874641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067594804314398720/EiJ05a4R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29941,
+          "following_count": 881,
+          "like_count": 92678,
+          "listed_count": 79,
+          "media_count": 2114,
+          "tweet_count": 15519
+        },
+        "url": "",
+        "username": "kid_sppinarl",
+        "verified": false
+      }
+    ]
+  }
+}

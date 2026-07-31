@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2008884635649089760",
+    "created_at": "2026-01-08T20:24:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T21:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009360494218654020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "774931829853782016",
+          "start": 0,
+          "username": "cap_violet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009360494218654020",
+    "in_reply_to_user_id": "774931829853782016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008988779810570527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cap_violet 谢谢❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-08T20:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T21:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009360494218654020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "774931829853782016",
+              "start": 0,
+              "username": "cap_violet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009360494218654020",
+        "in_reply_to_user_id": "774931829853782016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008988779810570527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cap_violet 谢谢❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "774931829853782016",
+        "conversation_id": "2008884635649089760",
+        "created_at": "2026-01-07T19:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T20:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008988779810570527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008988779810570527",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008884635649089760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 哇哇恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 929,
+          "like_count": 13744,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 5280
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-11T11:25:20.000Z",
+        "description": "伊芙加登號夢想航機，飛向星辰大海 |\n'Evergarden' B78X, 🍥T-EVGN |\nex-OIer, math, aviation, cs theory grad student | not yet phd but grinding过程中产出的胡言乱语",
+        "id": "774931829853782016",
+        "location": "FL400",
+        "name": "captain Violet",
+        "pinned_tweet_id": "1922953832339747311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574438134720233472/opIwO9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 4670,
+          "like_count": 27730,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1196
+        },
+        "username": "cap_violet",
+        "verified": false
+      }
+    ]
+  }
+}

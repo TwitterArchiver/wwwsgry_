@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2071477965318410390",
+    "created_at": "2026-06-29T06:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071477965318410390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1765825463103139840",
+          "start": 3,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071477965318410390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071473917605416967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chloris923: 轉推 和/或 評論 的同時關注本帳\n本人如果週三結束前達到500follower會抽三個人送點香薰蠟燭、手作曲奇、巧克力以及小擺件一類⋯\n同時也會看流量大小抽1～2個20塊人民幣送出去\n（如果沒達到500follower就不抽紅包只發禮物）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2071477965318410390",
+        "created_at": "2026-06-29T06:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071477965318410390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1765825463103139840",
+              "start": 3,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071477965318410390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071473917605416967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chloris923: 轉推 和/或 評論 的同時關注本帳\n本人如果週三結束前達到500follower會抽三個人送點香薰蠟燭、手作曲奇、巧克力以及小擺件一類⋯\n同時也會看流量大小抽1～2個20塊人民幣送出去\n（如果沒達到500follower就不抽紅包只發禮物）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2071473917605416967",
+        "created_at": "2026-06-29T06:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071473917605416967"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071473917605416967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "轉推 和/或 評論 的同時關注本帳\n本人如果週三結束前達到500follower會抽三個人送點香薰蠟燭、手作曲奇、巧克力以及小擺件一類⋯\n同時也會看流量大小抽1～2個20塊人民幣送出去\n（如果沒達到500follower就不抽紅包只發禮物）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 993,
+          "like_count": 16898,
+          "listed_count": 4,
+          "media_count": 591,
+          "tweet_count": 6707
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "09｜高二生｜南部大陸的邪惡魔女｜偶爾會轉載文案圖片介意刪｜里账@pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "pamnc2024"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2071473917605416967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066050332250238976/PRslPyHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 338,
+          "like_count": 39224,
+          "listed_count": 5,
+          "media_count": 758,
+          "tweet_count": 22445
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

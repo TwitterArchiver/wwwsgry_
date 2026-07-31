@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2062548622311571754",
+    "created_at": "2026-06-05T00:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062699045819150533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1311361647626170368",
+          "start": 0,
+          "username": "timl20455972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062699045819150533",
+    "in_reply_to_user_id": "1311361647626170368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062548622311571754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@timl20455972 好蓬松"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062548619677642752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-lCq_bsAAgKR6.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2062548622311571754",
+        "created_at": "2026-06-05T00:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062699045819150533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1311361647626170368",
+              "start": 0,
+              "username": "timl20455972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062699045819150533",
+        "in_reply_to_user_id": "1311361647626170368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062548622311571754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@timl20455972 好蓬松"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062548619677642752"
+          ]
+        },
+        "author_id": "1311361647626170368",
+        "conversation_id": "2062548622311571754",
+        "created_at": "2026-06-04T14:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062548622311571754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTE2vb7Iod",
+              "end": 35,
+              "expanded_url": "https://x.com/timl20455972/status/2062548622311571754/photo/1",
+              "media_key": "3_2062548619677642752",
+              "start": 12,
+              "url": "https://t.co/hTE2vb7Iod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062548622311571754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的爆炸頭，沒看過吧？ https://t.co/hTE2vb7Iod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 974,
+          "like_count": 16389,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 6504
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-30T17:46:19.000Z",
+        "description": "鼠雙魚INFP，感覺不會與人相處呀！夢想是被抱緊，喜歡種花種種種種種！雞煲雞煲雞煲　　.　　　　　　　⠀✦\n　˚　　　　*\n.⠀ 　　　　　　　　.　　　　　　　　.\n　　　　　✦⠀　 　　　,　　 　　　　　　　　.\n⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀⠀⠀✦ ⠀ ⠀\n\n你會幸福的",
+        "id": "1311361647626170368",
+        "name": "小龍的白日夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993029174244876289/kTpFACJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 106,
+          "like_count": 4502,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 1306
+        },
+        "username": "timl20455972",
+        "verified": false
+      }
+    ]
+  }
+}

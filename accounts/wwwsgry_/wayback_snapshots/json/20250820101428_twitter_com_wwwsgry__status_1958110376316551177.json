@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1958108426921455986",
+    "created_at": "2025-08-20T10:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T11:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958110376316551177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667865236559519745",
+          "start": 0,
+          "username": "Chenuden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958110376316551177",
+    "in_reply_to_user_id": "1667865236559519745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958108426921455986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chenuden 自带黑丝吗，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958108387780313088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyyZNEVbwAAiI1c.jpg",
+        "width": 1525
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1958108426921455986",
+        "created_at": "2025-08-20T10:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T11:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958110376316551177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667865236559519745",
+              "start": 0,
+              "username": "Chenuden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958110376316551177",
+        "in_reply_to_user_id": "1667865236559519745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958108426921455986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chenuden 自带黑丝吗，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958108387780313088"
+          ]
+        },
+        "author_id": "1667865236559519745",
+        "conversation_id": "1958108426921455986",
+        "created_at": "2025-08-20T10:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T11:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958108426921455986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5pircXQep",
+              "end": 23,
+              "expanded_url": "https://x.com/Chenuden/status/1958108426921455986/photo/1",
+              "media_key": "3_1958108387780313088",
+              "start": 0,
+              "url": "https://t.co/C5pircXQep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958108426921455986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C5pircXQep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 768,
+          "like_count": 9713,
+          "listed_count": 3,
+          "media_count": 345,
+          "tweet_count": 3545
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T12:04:05.000Z",
+        "description": "infp。永远期待下次出发",
+        "id": "1667865236559519745",
+        "location": "世外天",
+        "name": "屑人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947235294207733760/8qTXJaML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 1418,
+          "like_count": 156974,
+          "listed_count": 6,
+          "media_count": 1301,
+          "tweet_count": 11534
+        },
+        "username": "Chenuden",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983902120593256587",
+    "created_at": "2025-11-01T19:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T20:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984699372345389540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345210750068002816",
+          "start": 0,
+          "username": "dfdjgj_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984699372345389540",
+    "in_reply_to_user_id": "1345210750068002816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984698667761353081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdjgj_ 贵又不好留"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-11-01T19:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T20:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984699372345389540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345210750068002816",
+              "start": 0,
+              "username": "dfdjgj_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984699372345389540",
+        "in_reply_to_user_id": "1345210750068002816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984698667761353081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdjgj_ 贵又不好留"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345210750068002816",
+        "conversation_id": "1983902120593256587",
+        "created_at": "2025-11-01T19:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T20:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984698667761353081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            },
+            {
+              "end": 23,
+              "id": "1607005037825515520",
+              "start": 10,
+              "username": "Scout_Sheart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984698667761353081",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984100911959183761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ @Scout_Sheart 澳洲不好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 925,
+          "like_count": 13126,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 4742
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T03:30:23.000Z",
+        "description": "男",
+        "id": "1345210750068002816",
+        "location": "徐州",
+        "name": "yu",
+        "pinned_tweet_id": "1345686701125976064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699772024728489984/LjsSb2eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 145,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 132
+        },
+        "username": "dfdjgj_",
+        "verified": false
+      }
+    ]
+  }
+}

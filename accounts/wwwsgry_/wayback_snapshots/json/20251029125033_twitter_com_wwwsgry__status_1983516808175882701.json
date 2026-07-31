@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983511173044846775",
+    "created_at": "2025-10-29T12:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983516808175882701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927346314972418048",
+          "start": 0,
+          "username": "yukisama2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983516808175882701",
+    "in_reply_to_user_id": "1927346314972418048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983511173044846775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukisama2025 为啥休学了（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983511173044846775",
+        "created_at": "2025-10-29T12:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983516808175882701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927346314972418048",
+              "start": 0,
+              "username": "yukisama2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983516808175882701",
+        "in_reply_to_user_id": "1927346314972418048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983511173044846775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukisama2025 为啥休学了（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927346314972418048",
+        "conversation_id": "1983511173044846775",
+        "created_at": "2025-10-29T12:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983511173044846775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukisama2025/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yukisama2025/status/1983511094141624440",
+              "start": 19,
+              "url": "https://t.co/orMdnr371E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983511173044846775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983511094141624440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這件事情倒是國內休學後一直都這麼覺得 https://t.co/orMdnr371E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 917,
+          "like_count": 12891,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 4639
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T12:49:34.000Z",
+        "description": "",
+        "id": "1927346314972418048",
+        "name": "❄️",
+        "pinned_tweet_id": "1978030002206568827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983408289368207360/micahwFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 10,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "yukisama2025",
+        "verified": false
+      }
+    ]
+  }
+}

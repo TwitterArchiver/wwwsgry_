@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1963449135199101142",
+    "created_at": "2025-09-04T11:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T12:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963564200426438782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557982495710257152",
+          "start": 0,
+          "username": "Queensrdcen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963564200426438782",
+    "in_reply_to_user_id": "1557982495710257152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963505231435894903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Queensrdcen 开了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1963449135199101142",
+        "created_at": "2025-09-04T11:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T12:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963564200426438782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557982495710257152",
+              "start": 0,
+              "username": "Queensrdcen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963564200426438782",
+        "in_reply_to_user_id": "1557982495710257152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963505231435894903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Queensrdcen 开了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557982495710257152",
+        "conversation_id": "1963449135199101142",
+        "created_at": "2025-09-04T07:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T08:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963505231435894903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963505231435894903",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963449135199101142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 畏惧了，去年tmua我只考了8（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 836,
+          "like_count": 10339,
+          "listed_count": 4,
+          "media_count": 381,
+          "tweet_count": 3792
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T06:49:20.000Z",
+        "description": "|♥|死了| 努力达con中|我要学数学|咖啡：https://t.co/SaWyE3f1GS |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/jang22",
+                "end": 47,
+                "expanded_url": "https://buymeacoffee.com/jang22",
+                "start": 24,
+                "url": "https://t.co/SaWyE3f1GS"
+              }
+            ]
+          }
+        },
+        "id": "1557982495710257152",
+        "location": "McDonald's No1. Tianyaoqiao Rd",
+        "name": "Hello there",
+        "pinned_tweet_id": "1803384742072443017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863250418895065089/mYCRJqxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 2580,
+          "like_count": 62392,
+          "listed_count": 8,
+          "media_count": 358,
+          "tweet_count": 6557
+        },
+        "username": "Queensrdcen",
+        "verified": true
+      }
+    ]
+  }
+}

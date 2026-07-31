@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2012634604201517304",
+    "created_at": "2026-01-18T03:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T04:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012729191129596363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1847272386066051073",
+          "start": 0,
+          "username": "io__jiia_0112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012729191129596363",
+    "in_reply_to_user_id": "1847272386066051073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012718096814047602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@io__jiia_0112 问题不大（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2012634604201517304",
+        "created_at": "2026-01-18T03:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012729191129596363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1847272386066051073",
+              "start": 0,
+              "username": "io__jiia_0112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012729191129596363",
+        "in_reply_to_user_id": "1847272386066051073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012718096814047602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@io__jiia_0112 问题不大（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847272386066051073",
+        "conversation_id": "2012634604201517304",
+        "created_at": "2026-01-18T02:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012718096814047602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012718096814047602",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012634604201517304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 這我每一個學期…是不是沒救了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 931,
+          "like_count": 13829,
+          "listed_count": 4,
+          "media_count": 493,
+          "tweet_count": 5313
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T13:44:00.000Z",
+        "description": "伊老師和小老虎大歷險",
+        "id": "1847272386066051073",
+        "name": "小老虎",
+        "pinned_tweet_id": "1981818097259647160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888639438944915456/JJv02vQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 84,
+          "like_count": 9437,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 1949
+        },
+        "username": "io__jiia_0112",
+        "verified": false
+      }
+    ]
+  }
+}

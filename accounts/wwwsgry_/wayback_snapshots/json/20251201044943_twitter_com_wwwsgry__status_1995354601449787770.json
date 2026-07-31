@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1995352549004583159",
+    "created_at": "2025-12-01T04:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T05:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995354601449787770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 19,
+          "id": "1880325371280912386",
+          "start": 9,
+          "username": "genya1976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995354601449787770",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995353818406797599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @genya1976 一天喝了快三升水还跑步来的也不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1995352549004583159",
+        "created_at": "2025-12-01T04:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995354601449787770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 19,
+              "id": "1880325371280912386",
+              "start": 9,
+              "username": "genya1976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995354601449787770",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995353818406797599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @genya1976 一天喝了快三升水还跑步来的也不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "1995352549004583159",
+        "created_at": "2025-12-01T04:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995353818406797599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 20,
+              "id": "1687116360814637056",
+              "start": 11,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995353818406797599",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995353379510632624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @wwwsgry_ 建议是火龙果+多喝水+多运动\n实在不行喝乳果糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "York, PA",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 928,
+          "like_count": 13663,
+          "listed_count": 4,
+          "media_count": 467,
+          "tweet_count": 5001
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n最爱的伴侣@LixdH5jzYx99195\n顺男 泛性恋\n保守建制不jz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/LNLEGH",
+                "end": 23,
+                "expanded_url": "https://qntwx.cn/LNLEGH",
+                "start": 0,
+                "url": "https://t.co/8ZHoMP65Dd"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1993378456063950852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993634037651656704/toeAELuq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 3974,
+          "like_count": 93103,
+          "listed_count": 4,
+          "media_count": 1107,
+          "tweet_count": 35557
+        },
+        "url": "https://t.co/8ZHoMP65Dd",
+        "username": "3ch4O1H",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "圣彼得堡/莫斯科/叶卡捷琳堡/阿拉木图 偶尔兼职公狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小鸡巴的勿扰除了@zhu6hua\n不定时活跃或视奸\n大号 @hy1194527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "zhu6hua"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "hy1194527"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "location": "沈阳大街",
+        "name": "井冈山上的的江上清风游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988511957402468352/Xig1tDba_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 669,
+          "like_count": 95894,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 740
+        },
+        "username": "genya1976",
+        "verified": false
+      }
+    ]
+  }
+}

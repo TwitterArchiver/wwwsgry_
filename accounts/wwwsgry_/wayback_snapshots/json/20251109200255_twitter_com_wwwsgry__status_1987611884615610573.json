@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1987387844911046890",
+    "created_at": "2025-11-09T20:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T21:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987611884615610573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1964042844198621187",
+          "start": 0,
+          "username": "bungeinokunbaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987611884615610573",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987387844911046890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bungeinokunbaku 飞车过大关"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 197,
+        "media_key": "3_1987387840976900096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SetjRb0AAUdla.jpg",
+        "width": 221
+      },
+      {
+        "height": 495,
+        "media_key": "3_1987387841366925312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SetkubIAAHRRZ.jpg",
+        "width": 521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1987387844911046890",
+        "created_at": "2025-11-09T20:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T21:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987611884615610573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeinokunbaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987611884615610573",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987387844911046890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeinokunbaku 飞车过大关"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987387840976900096",
+            "3_1987387841366925312"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987387844911046890",
+        "created_at": "2025-11-09T05:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T06:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987387844911046890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YlCeiLZIBE",
+              "end": 98,
+              "expanded_url": "https://x.com/bungeinokunbaku/status/1987387844911046890/photo/1",
+              "media_key": "3_1987387840976900096",
+              "start": 75,
+              "url": "https://t.co/YlCeiLZIBE"
+            },
+            {
+              "display_url": "pic.x.com/YlCeiLZIBE",
+              "end": 98,
+              "expanded_url": "https://x.com/bungeinokunbaku/status/1987387844911046890/photo/1",
+              "media_key": "3_1987387841366925312",
+              "start": 75,
+              "url": "https://t.co/YlCeiLZIBE"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "1987387844911046890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10376,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "柴湾 北角 铜锣湾 湾仔 中环 金钟 尖沙咀 油蔴地 旺角 太子 九龙塘 沙田 上水 \n罗湖 深圳 广州 厦门 台北 福州 南京 上海 北京 \n中环 https://t.co/YlCeiLZIBE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 912,
+          "like_count": 13341,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 4806
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "简繁中文（粵語同普通話）/日本語/English (is not good)/廣東人/喜歡法學及社會政治研究 /政治科が大好き/邏輯法律至上\n把推特當朋友圈發\n某些不讲逻辑道理听不懂人话的神支猪和片姐死远点\n简体=说梦话帖 日语や繁体=日常/评论研究帖  线上线下分开的瞎说号 走資三民派\n好きの画家：@Nakkar7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "Nakkar7"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "PRD-GBA 🇨🇳🇭🇰🇲🇴——📍Canton",
+        "name": "文芸の空白🇭🇰🇯🇵🇹🇼",
+        "pinned_tweet_id": "1987182018783064355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985026377951928320/JHK8PP6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 330,
+          "like_count": 1346,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 573
+        },
+        "username": "bungeinokunbaku",
+        "verified": false
+      }
+    ]
+  }
+}

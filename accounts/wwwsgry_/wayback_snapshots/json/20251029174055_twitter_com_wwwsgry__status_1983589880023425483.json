@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983577388559565077",
+    "created_at": "2025-10-29T17:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T18:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983589880023425483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1741421109365387264",
+          "start": 0,
+          "username": "linn00126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983589880023425483",
+    "in_reply_to_user_id": "1741421109365387264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983581994245034061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linn00126 节哀 多出去转转缓解一下孤单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983577388559565077",
+        "created_at": "2025-10-29T17:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983589880023425483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741421109365387264",
+              "start": 0,
+              "username": "linn00126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983589880023425483",
+        "in_reply_to_user_id": "1741421109365387264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983581994245034061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linn00126 节哀 多出去转转缓解一下孤单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741421109365387264",
+        "conversation_id": "1983577388559565077",
+        "created_at": "2025-10-29T17:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983581994245034061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983581994245034061",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983579214340141293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 他们回国参加亲人的葬礼…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 917,
+          "like_count": 12939,
+          "listed_count": 4,
+          "media_count": 436,
+          "tweet_count": 4658
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T11:30:00.000Z",
+        "description": "準技術者です|ZH•EN•JP|願為貫徹自由意志而生，還有她",
+        "id": "1741421109365387264",
+        "location": "United Kingdom",
+        "name": "霖リン",
+        "pinned_tweet_id": "1936539542074302635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936895010235981824/o5YP0lIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 664,
+          "like_count": 1970,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 821
+        },
+        "username": "linn00126",
+        "verified": false
+      }
+    ]
+  }
+}

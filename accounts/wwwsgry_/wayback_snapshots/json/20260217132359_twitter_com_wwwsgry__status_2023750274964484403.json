@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2023245005876285537",
+    "created_at": "2026-02-17T13:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T14:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023750274964484403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1883364015881199616",
+          "start": 0,
+          "username": "wsc0816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023750274964484403",
+    "in_reply_to_user_id": "1883364015881199616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023679012149883200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsc0816 你无敌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2023245005876285537",
+        "created_at": "2026-02-17T13:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023750274964484403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1883364015881199616",
+              "start": 0,
+              "username": "wsc0816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023750274964484403",
+        "in_reply_to_user_id": "1883364015881199616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023679012149883200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsc0816 你无敌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883364015881199616",
+        "conversation_id": "2023245005876285537",
+        "created_at": "2026-02-17T08:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023679012149883200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023679012149883200",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023245005876285537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 来和我约一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 950,
+          "like_count": 14305,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 5548
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T03:59:15.000Z",
+        "description": "",
+        "id": "1883364015881199616",
+        "name": "撕葱",
+        "pinned_tweet_id": "1982290551090139163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956805010106228736/cDV--lij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 24,
+          "like_count": 19585,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 417
+        },
+        "username": "wsc0816",
+        "verified": false
+      }
+    ]
+  }
+}

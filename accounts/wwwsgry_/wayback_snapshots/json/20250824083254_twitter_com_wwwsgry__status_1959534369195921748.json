@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1959525327233040599",
+    "created_at": "2025-08-24T08:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T09:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959534369195921748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1235331751855169538",
+          "start": 0,
+          "username": "C12H24KNO162P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959534369195921748",
+    "in_reply_to_user_id": "1235331751855169538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959533466602873050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C12H24KNO162P 666哥们不是男娘 前两年还健身呢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1959533466602873050].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1959533466602873050",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1959533466602873050"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1959525327233040599",
+        "created_at": "2025-08-24T08:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T09:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959534369195921748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1235331751855169538",
+              "start": 0,
+              "username": "C12H24KNO162P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959534369195921748",
+        "in_reply_to_user_id": "1235331751855169538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959533466602873050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C12H24KNO162P 666哥们不是男娘 前两年还健身呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 784,
+          "like_count": 9800,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 3622
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-04T22:30:25.000Z",
+        "description": "🌌 𝑩𝒍𝒖𝒆 𝑪𝒂𝒓𝒅 𝑴𝒐𝒏𝒐𝒈𝒂𝒕𝒂𝒓𝒊 · 𝑺𝒄𝒊𝒆𝒏𝒕𝒊𝒇𝒊𝒄 𝑪𝒓𝒆𝒅𝒊𝒕 𝑪𝒐𝒏𝒇𝒆𝒅𝒆𝒓𝒂𝒄𝒚.  Materialist 𝑻echnocracy. FS→⁠First Credit Spokesperson！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "getsession.org/download?05c5a…",
+                "end": 23,
+                "expanded_url": "https://getsession.org/download?05c5ab31673b1f4982196cccb3c04e7e5baaa965f0d7f7ddd60aabaca86d58d640",
+                "start": 0,
+                "url": "https://t.co/W5g55BSEHU"
+              }
+            ]
+          }
+        },
+        "id": "1235331751855169538",
+        "location": "Instalker🚫TwStalker🚫",
+        "name": "𝑶𝑽𝑬𝑹𝑺𝑬𝑬𝑹⚛️𝑺cientific 𝑪redit 𝑪onfederacy",
+        "pinned_tweet_id": "1942057081642815573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959525444597997568/gkdRPSJc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 572,
+          "like_count": 20532,
+          "listed_count": 5,
+          "media_count": 18995,
+          "tweet_count": 52827
+        },
+        "url": "https://t.co/W5g55BSEHU",
+        "username": "C12H24KNO162P",
+        "verified": false
+      }
+    ]
+  }
+}

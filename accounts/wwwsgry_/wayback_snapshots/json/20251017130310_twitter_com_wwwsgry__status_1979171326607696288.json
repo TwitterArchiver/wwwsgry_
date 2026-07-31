@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1979146927452123351",
+    "created_at": "2025-10-17T13:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979171326607696288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708116381005434880",
+          "start": 0,
+          "username": "origamicmic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979171326607696288",
+    "in_reply_to_user_id": "1708116381005434880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979165183936282670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@origamicmic 飞舞喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1979146927452123351",
+        "created_at": "2025-10-17T13:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979171326607696288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708116381005434880",
+              "start": 0,
+              "username": "origamicmic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979171326607696288",
+        "in_reply_to_user_id": "1708116381005434880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979165183936282670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@origamicmic 飞舞喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708116381005434880",
+        "conversation_id": "1979146927452123351",
+        "created_at": "2025-10-17T12:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979165183936282670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979165183936282670",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979146927452123351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 大佬喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 900,
+          "like_count": 12474,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 4432
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T13:47:44.000Z",
+        "description": "INFP-█｜粘█精｜术█口厨｜█游｜05  1██ ｜只█记录█己的█聊日常，如█打扰到█了实在█歉（骗你的█抱歉了也█打扰你😈 \n咱█术术频道█\nhttps://t.co/R55oc5v2Ku 欢█来听█歌哦～\nng█：\nhttps://t.co/24wXJaYL3l 来问█喵～",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tomori_desu",
+                "end": 98,
+                "expanded_url": "http://t.me/tomori_desu",
+                "start": 75,
+                "url": "https://t.co/R55oc5v2Ku"
+              },
+              {
+                "display_url": "ngl.link/origami81181",
+                "end": 136,
+                "expanded_url": "http://ngl.link/origami81181",
+                "start": 113,
+                "url": "https://t.co/24wXJaYL3l"
+              }
+            ]
+          }
+        },
+        "id": "1708116381005434880",
+        "location": " █黒塗りだとして█理解できるか¿?",
+        "name": "𝕜𝕪𝕦𝕜𝕪𝕦",
+        "pinned_tweet_id": "1963269481612054897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971641315323793416/PY06JQ4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 670,
+          "like_count": 18723,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1161
+        },
+        "username": "origamicmic",
+        "verified": false
+      }
+    ]
+  }
+}

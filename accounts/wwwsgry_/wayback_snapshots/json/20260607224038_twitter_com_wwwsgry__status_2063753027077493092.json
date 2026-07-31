@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063753020861456384",
+        "3_2063753020815335424",
+        "3_2063753020819566592",
+        "3_2063753020811231232"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063753027077493092",
+    "created_at": "2026-06-07T22:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T23:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063753027077493092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMUKh0t6oP",
+          "end": 47,
+          "expanded_url": "https://x.com/wwwsgry_/status/2063753027077493092/photo/1",
+          "media_key": "3_2063753020861456384",
+          "start": 24,
+          "url": "https://t.co/ZMUKh0t6oP"
+        },
+        {
+          "display_url": "pic.x.com/ZMUKh0t6oP",
+          "end": 47,
+          "expanded_url": "https://x.com/wwwsgry_/status/2063753027077493092/photo/1",
+          "media_key": "3_2063753020815335424",
+          "start": 24,
+          "url": "https://t.co/ZMUKh0t6oP"
+        },
+        {
+          "display_url": "pic.x.com/ZMUKh0t6oP",
+          "end": 47,
+          "expanded_url": "https://x.com/wwwsgry_/status/2063753027077493092/photo/1",
+          "media_key": "3_2063753020819566592",
+          "start": 24,
+          "url": "https://t.co/ZMUKh0t6oP"
+        },
+        {
+          "display_url": "pic.x.com/ZMUKh0t6oP",
+          "end": 47,
+          "expanded_url": "https://x.com/wwwsgry_/status/2063753027077493092/photo/1",
+          "media_key": "3_2063753020811231232",
+          "start": 24,
+          "url": "https://t.co/ZMUKh0t6oP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063753027077493092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "本周五献出了第一次🥵\n没错我说的是第一次通宵👍 https://t.co/ZMUKh0t6oP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063753020861456384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPscDCWIAAgzID.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063753020815335424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPscC3WYAAvXr6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063753020819566592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPscC4W8AAtLPW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063753020811231232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPscC2XwAADcvf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063753020861456384",
+            "3_2063753020815335424",
+            "3_2063753020819566592",
+            "3_2063753020811231232"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063753027077493092",
+        "created_at": "2026-06-07T22:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063753027077493092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMUKh0t6oP",
+              "end": 47,
+              "expanded_url": "https://x.com/wwwsgry_/status/2063753027077493092/photo/1",
+              "media_key": "3_2063753020861456384",
+              "start": 24,
+              "url": "https://t.co/ZMUKh0t6oP"
+            },
+            {
+              "display_url": "pic.x.com/ZMUKh0t6oP",
+              "end": 47,
+              "expanded_url": "https://x.com/wwwsgry_/status/2063753027077493092/photo/1",
+              "media_key": "3_2063753020815335424",
+              "start": 24,
+              "url": "https://t.co/ZMUKh0t6oP"
+            },
+            {
+              "display_url": "pic.x.com/ZMUKh0t6oP",
+              "end": 47,
+              "expanded_url": "https://x.com/wwwsgry_/status/2063753027077493092/photo/1",
+              "media_key": "3_2063753020819566592",
+              "start": 24,
+              "url": "https://t.co/ZMUKh0t6oP"
+            },
+            {
+              "display_url": "pic.x.com/ZMUKh0t6oP",
+              "end": 47,
+              "expanded_url": "https://x.com/wwwsgry_/status/2063753027077493092/photo/1",
+              "media_key": "3_2063753020811231232",
+              "start": 24,
+              "url": "https://t.co/ZMUKh0t6oP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063753027077493092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本周五献出了第一次🥵\n没错我说的是第一次通宵👍 https://t.co/ZMUKh0t6oP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 980,
+          "like_count": 16436,
+          "listed_count": 4,
+          "media_count": 578,
+          "tweet_count": 6516
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

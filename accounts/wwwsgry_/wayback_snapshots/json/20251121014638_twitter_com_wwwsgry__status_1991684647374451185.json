@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991684285959438336"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1991684647374451185",
+    "created_at": "2025-11-21T01:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T02:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991684647374451185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8VbWlG8QK",
+          "end": 42,
+          "expanded_url": "https://x.com/wwwsgry_/status/1991684647374451185/photo/1",
+          "media_key": "3_1991684285959438336",
+          "start": 19,
+          "url": "https://t.co/P8VbWlG8QK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991684647374451185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "似乎申请费一共花了将近1万人民币了😇 https://t.co/P8VbWlG8QK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 292,
+        "media_key": "3_1991684285959438336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6PiTkFXAAAiUJw.png",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991684285959438336"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1991684647374451185",
+        "created_at": "2025-11-21T01:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991684647374451185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8VbWlG8QK",
+              "end": 42,
+              "expanded_url": "https://x.com/wwwsgry_/status/1991684647374451185/photo/1",
+              "media_key": "3_1991684285959438336",
+              "start": 19,
+              "url": "https://t.co/P8VbWlG8QK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991684647374451185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "似乎申请费一共花了将近1万人民币了😇 https://t.co/P8VbWlG8QK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 925,
+          "like_count": 13643,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 4907
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

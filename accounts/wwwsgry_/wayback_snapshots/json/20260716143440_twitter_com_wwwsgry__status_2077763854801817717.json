@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2077724484761714889",
+    "created_at": "2026-07-16T14:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077763854801817717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1803370127041191942",
+          "start": 0,
+          "username": "cheansnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077763854801817717",
+    "in_reply_to_user_id": "1803370127041191942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077762022281007326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@cheansnow 不要给自己太大压力 考的很棒啦 上大学了也会熬出头的 加油捏"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2077762022281007326].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2077762022281007326",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2077762022281007326"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2077724484761714889",
+        "created_at": "2026-07-16T14:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077763854801817717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1803370127041191942",
+              "start": 0,
+              "username": "cheansnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077763854801817717",
+        "in_reply_to_user_id": "1803370127041191942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077762022281007326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@cheansnow 不要给自己太大压力 考的很棒啦 上大学了也会熬出头的 加油捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 998,
+          "like_count": 17175,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 6825
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T10:12:08.000Z",
+        "description": "Apogee. / INFP-T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/apogee26549",
+                "end": 23,
+                "expanded_url": "https://ngl.link/apogee26549",
+                "start": 0,
+                "url": "https://t.co/1PHLNCWbEM"
+              }
+            ]
+          }
+        },
+        "id": "1803370127041191942",
+        "name": "Chean",
+        "pinned_tweet_id": "2067446609772953947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066412622468329472/p1Ur57fi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 165,
+          "like_count": 12107,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/1PHLNCWbEM",
+        "username": "cheansnow",
+        "verified": false
+      }
+    ]
+  }
+}

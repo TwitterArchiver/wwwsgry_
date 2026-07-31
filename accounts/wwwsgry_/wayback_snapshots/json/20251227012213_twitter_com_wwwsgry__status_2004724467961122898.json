@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2004724467961122898",
+    "created_at": "2025-12-27T01:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T02:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004724467961122898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1472022007797719048",
+          "start": 3,
+          "username": "user0000O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004724467961122898",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5880
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004626993476775957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user0000O0: life update:…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2004724467961122898",
+        "created_at": "2025-12-27T01:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T02:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004724467961122898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1472022007797719048",
+              "start": 3,
+              "username": "user0000O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004724467961122898",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5880
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004626993476775957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user0000O0: life update:…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472022007797719048",
+        "conversation_id": "2004626993476775957",
+        "created_at": "2025-12-26T18:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T19:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004626993476775957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004626993476775957",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "life update: \nfuckkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1235,
+          "impression_count": 1055401,
+          "like_count": 26696,
+          "quote_count": 62,
+          "reply_count": 68,
+          "retweet_count": 5880
+        },
+        "reply_settings": "everyone",
+        "text": "life update:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 924,
+          "like_count": 14119,
+          "listed_count": 4,
+          "media_count": 486,
+          "tweet_count": 5188
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T01:52:57.000Z",
+        "description": "in my restless dreams",
+        "id": "1472022007797719048",
+        "location": "silent hill ",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988028538562211840/LKOZMzKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114712,
+          "following_count": 236,
+          "like_count": 8965,
+          "listed_count": 146,
+          "media_count": 2305,
+          "tweet_count": 8834
+        },
+        "username": "user0000O0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975370126879838208"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1975370130424275200",
+    "created_at": "2025-10-07T01:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T02:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975370130424275200"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 6,
+          "normalized_text": "Femboys",
+          "probability": 0.4854,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ErMl3sVuy3",
+          "end": 31,
+          "expanded_url": "https://x.com/wwwsgry_/status/1975370130424275200/photo/1",
+          "media_key": "3_1975370126879838208",
+          "start": 8,
+          "url": "https://t.co/ErMl3sVuy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975370130424275200",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Femboys https://t.co/ErMl3sVuy3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975370126879838208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2nsqhiXUAA-iPR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975370126879838208"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1975370130424275200",
+        "created_at": "2025-10-07T01:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T02:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975370130424275200"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Femboys",
+              "probability": 0.4854,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ErMl3sVuy3",
+              "end": 31,
+              "expanded_url": "https://x.com/wwwsgry_/status/1975370130424275200/photo/1",
+              "media_key": "3_1975370126879838208",
+              "start": 8,
+              "url": "https://t.co/ErMl3sVuy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975370130424275200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Femboys https://t.co/ErMl3sVuy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 888,
+          "like_count": 11745,
+          "listed_count": 4,
+          "media_count": 413,
+          "tweet_count": 4203
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1980818788699529592",
+    "created_at": "2025-10-22T02:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T03:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980822879097819226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1100776666194882561",
+          "start": 0,
+          "username": "akiEl3venn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980822879097819226",
+    "in_reply_to_user_id": "1100776666194882561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980821792584273935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiEl3venn 这个我真不会了✋😭🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1980818788699529592",
+        "created_at": "2025-10-22T02:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980822879097819226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1100776666194882561",
+              "start": 0,
+              "username": "akiEl3venn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980822879097819226",
+        "in_reply_to_user_id": "1100776666194882561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980821792584273935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiEl3venn 这个我真不会了✋😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1100776666194882561",
+        "conversation_id": "1980818788699529592",
+        "created_at": "2025-10-22T02:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980821792584273935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980821792584273935",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980818788699529592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 帮我写作业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 912,
+          "like_count": 12651,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 4509
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-27T15:16:23.000Z",
+        "description": "@uoftesports Apex Varsity Manager/Captain || 发现有趣的账号就会关注/回关 || 不是男娘 || ACG weeb || Taking Master’s @uoft || 零审美摄影师, 偶尔拍点飞机 || Banner by 我自己 -树洞@ich1nana7-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "uoftesports"
+              },
+              {
+                "end": 104,
+                "start": 99,
+                "username": "uoft"
+              },
+              {
+                "end": 153,
+                "start": 143,
+                "username": "ich1nana7"
+              }
+            ]
+          }
+        },
+        "id": "1100776666194882561",
+        "location": "Toronto, Ontario",
+        "name": "akiEl3venn_",
+        "pinned_tweet_id": "1978640484584046673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894304085676789760/Uxw4MxMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 332,
+          "like_count": 5909,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 2073
+        },
+        "username": "akiEl3venn",
+        "verified": false
+      }
+    ]
+  }
+}

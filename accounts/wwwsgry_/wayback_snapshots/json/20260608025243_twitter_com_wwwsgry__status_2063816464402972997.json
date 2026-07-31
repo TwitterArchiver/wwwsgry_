@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2063816464402972997",
+    "created_at": "2026-06-08T02:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063816464402972997"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063816464402972997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神人招生办，拖我申请七个月才把status变成being considered，结果回邮件就花了20分钟，自己笑没笑😄😄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2063816464402972997",
+        "created_at": "2026-06-08T02:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063816464402972997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063816464402972997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神人招生办，拖我申请七个月才把status变成being considered，结果回邮件就花了20分钟，自己笑没笑😄😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 980,
+          "like_count": 16437,
+          "listed_count": 4,
+          "media_count": 578,
+          "tweet_count": 6520
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

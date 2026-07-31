@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1989410804932984899",
+    "created_at": "2025-11-14T19:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T20:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989410804932984899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wwwsgry_/statu…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/wwwsgry_/status/1989029858156957837",
+          "start": 54,
+          "url": "https://t.co/b5CXyIXcP5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989410804932984899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989029858156957837",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "英语课老太太请假 今天他又回来当代课老师了😭一边赶作业一边和他聊天😭好想回到10年级的历史课上啊😭😭😭😭😭 https://t.co/b5CXyIXcP5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1989410804932984899",
+        "created_at": "2025-11-14T19:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T20:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989410804932984899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwwsgry_/statu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/wwwsgry_/status/1989029858156957837",
+              "start": 54,
+              "url": "https://t.co/b5CXyIXcP5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989410804932984899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989029858156957837",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英语课老太太请假 今天他又回来当代课老师了😭一边赶作业一边和他聊天😭好想回到10年级的历史课上啊😭😭😭😭😭 https://t.co/b5CXyIXcP5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1989029858156957837",
+        "created_at": "2025-11-13T17:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T18:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989029858156957837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989029858156957837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 476,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要哭了，十年级的历史老师是个文质彬彬的朝鲜裔的老先生，超级温柔有耐心，上课也经常陪我聊天、讲课纲外的故事，特别有意思，但是他教完那一学期就走了。今天在学校很意外地碰到他回来看看，我还怔了一下，他却一眼就认出我了，过来跟我抱了一下开始聊天😭😭😭😭😭😭😭😭😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 920,
+          "like_count": 13491,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 4854
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

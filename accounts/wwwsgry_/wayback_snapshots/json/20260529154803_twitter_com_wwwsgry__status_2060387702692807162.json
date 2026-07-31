@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2060358408314781915",
+    "created_at": "2026-05-29T15:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060387702692807162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1311361647626170368",
+          "start": 0,
+          "username": "timl20455972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060387702692807162",
+    "in_reply_to_user_id": "1311361647626170368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060366920462021014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@timl20455972 耳机终究还是背负了所有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2060358408314781915",
+        "created_at": "2026-05-29T15:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060387702692807162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1311361647626170368",
+              "start": 0,
+              "username": "timl20455972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060387702692807162",
+        "in_reply_to_user_id": "1311361647626170368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060366920462021014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@timl20455972 耳机终究还是背负了所有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311361647626170368",
+        "conversation_id": "2060358408314781915",
+        "created_at": "2026-05-29T14:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060366920462021014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060366920462021014",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060358408314781915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 😹😹😹準備好早餐不止，再幫我去上班"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 975,
+          "like_count": 16321,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 6475
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-30T17:46:19.000Z",
+        "description": "我這份無處可去的愛/我要把你們都溫暖到。\n感覺不會與人相處呀！夢想是被抱緊，喜歡種花種種種種種！雞煲雞煲雞煲　　.　　　　　　　⠀✦\n　˚　　　　*\n.⠀ 　　　　　　　　.　　　　　　　　.\n　　　　　✦⠀　 　　　,　　 　　　　　　　　.\n⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀⠀⠀✦ ⠀ ⠀\n\n你會幸福的",
+        "id": "1311361647626170368",
+        "name": "小龍的白日夢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993029174244876289/kTpFACJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 94,
+          "like_count": 4244,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1068
+        },
+        "username": "timl20455972",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1988733791628849320",
+    "created_at": "2025-11-12T22:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T23:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988743083815743635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927346314972418048",
+          "start": 0,
+          "username": "yukisama2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988743083815743635",
+    "in_reply_to_user_id": "1927346314972418048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988733791628849320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukisama2025 那我是不是可以死刑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1988733791628849320",
+        "created_at": "2025-11-12T22:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T23:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988743083815743635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927346314972418048",
+              "start": 0,
+              "username": "yukisama2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988743083815743635",
+        "in_reply_to_user_id": "1927346314972418048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988733791628849320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukisama2025 那我是不是可以死刑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927346314972418048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988733791628849320",
+        "created_at": "2025-11-12T22:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T23:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988733791628849320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SFumoto/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/SFumoto/status/1988502042554605661",
+              "start": 22,
+              "url": "https://t.co/zsBPCcxWOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988733791628849320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988502042554605661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎麼著現在我幹過的事放歐洲都能進去坐牢了。 https://t.co/zsBPCcxWOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 919,
+          "like_count": 13442,
+          "listed_count": 4,
+          "media_count": 447,
+          "tweet_count": 4832
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T12:49:34.000Z",
+        "description": "",
+        "id": "1927346314972418048",
+        "name": "❄️",
+        "pinned_tweet_id": "1978030002206568827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983408289368207360/micahwFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 198
+        },
+        "username": "yukisama2025",
+        "verified": false
+      }
+    ]
+  }
+}

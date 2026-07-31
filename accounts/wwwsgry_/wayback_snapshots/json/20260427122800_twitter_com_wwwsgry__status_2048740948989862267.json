@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2048712238471770130",
+    "created_at": "2026-04-27T12:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048740948989862267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946863961502298112",
+          "start": 0,
+          "username": "Chloris8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048740948989862267",
+    "in_reply_to_user_id": "1946863961502298112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048712238471770130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris8964 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2048712238471770130",
+        "created_at": "2026-04-27T12:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048740948989862267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946863961502298112",
+              "start": 0,
+              "username": "Chloris8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048740948989862267",
+        "in_reply_to_user_id": "1946863961502298112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048712238471770130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris8964 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946863961502298112",
+        "conversation_id": "2048712238471770130",
+        "created_at": "2026-04-27T10:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048712238471770130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chloris8964/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/chloris8964/status/2048685582365458480",
+              "start": 42,
+              "url": "https://t.co/E0pmStVxMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048712238471770130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048685582365458480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你們知道我多久才能拍出來這麼好看的照片嗎。對於醜人來說這真的是值得載入史冊的時刻。 https://t.co/E0pmStVxMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 971,
+          "like_count": 15902,
+          "listed_count": 4,
+          "media_count": 560,
+          "tweet_count": 6266
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T09:25:27.000Z",
+        "description": "₊⁺ ꒰১ ♡ ໒꒱ ⁺₊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.ms/chloris923",
+                "end": 23,
+                "expanded_url": "http://note.ms/chloris923",
+                "start": 0,
+                "url": "https://t.co/A8JkxkNGCv"
+              }
+            ]
+          }
+        },
+        "id": "1946863961502298112",
+        "location": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡|",
+        "name": "🪼",
+        "pinned_tweet_id": "2048701557311778889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019343177866682368/h1VnB9vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7535,
+          "following_count": 102,
+          "like_count": 2128,
+          "listed_count": 14,
+          "media_count": 25,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/A8JkxkNGCv",
+        "username": "Chloris8964",
+        "verified": true
+      }
+    ]
+  }
+}

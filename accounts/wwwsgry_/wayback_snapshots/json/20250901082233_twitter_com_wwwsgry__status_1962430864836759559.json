@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962430858473910272"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1962430864836759559",
+    "created_at": "2025-09-01T08:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T09:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962430864836759559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rnf6PruSwt",
+          "end": 39,
+          "expanded_url": "https://x.com/wwwsgry_/status/1962430864836759559/photo/1",
+          "media_key": "3_1962430858473910272",
+          "start": 16,
+          "url": "https://t.co/Rnf6PruSwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962430864836759559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么戒指黑了一块😭😭😭😭😭😭 https://t.co/Rnf6PruSwt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_1962430858473910272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzv0d-eaMAA2u_m.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962430858473910272"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1962430864836759559",
+        "created_at": "2025-09-01T08:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T09:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962430864836759559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rnf6PruSwt",
+              "end": 39,
+              "expanded_url": "https://x.com/wwwsgry_/status/1962430864836759559/photo/1",
+              "media_key": "3_1962430858473910272",
+              "start": 16,
+              "url": "https://t.co/Rnf6PruSwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962430864836759559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么戒指黑了一块😭😭😭😭😭😭 https://t.co/Rnf6PruSwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 835,
+          "like_count": 10192,
+          "listed_count": 4,
+          "media_count": 377,
+          "tweet_count": 3747
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

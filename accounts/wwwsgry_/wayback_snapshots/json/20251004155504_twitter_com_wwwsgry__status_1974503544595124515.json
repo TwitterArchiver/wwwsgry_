@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1974446037415915670",
+    "created_at": "2025-10-04T15:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T16:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974503544595124515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1922430761212542976",
+          "start": 0,
+          "username": "doreen129_Nox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974503544595124515",
+    "in_reply_to_user_id": "1922430761212542976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974446037415915670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doreen129_Nox 那种理科大佬想法不都是女人只会影响他写题的速度吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1974446037415915670",
+        "created_at": "2025-10-04T15:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T16:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974503544595124515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922430761212542976",
+              "start": 0,
+              "username": "doreen129_Nox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974503544595124515",
+        "in_reply_to_user_id": "1922430761212542976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974446037415915670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doreen129_Nox 那种理科大佬想法不都是女人只会影响他写题的速度吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922430761212542976",
+        "conversation_id": "1974446037415915670",
+        "created_at": "2025-10-04T12:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T13:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974446037415915670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974446037415915670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补药再在我面前骂做题蛆了 因为我是。\n我的xp也是（指智性恋（指闷闷的心里只有学习并且发誓不谈恋爱的学神（指理科大佬（指可爱的一逗就脸红的纯情小狗（指毒舌傲娇小猫\n不觉得很好调吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 887,
+          "like_count": 11617,
+          "listed_count": 4,
+          "media_count": 402,
+          "tweet_count": 4125
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T23:16:31.000Z",
+        "description": "entp 4w5 | sx/sp | shedtwt | 14y | oier | pan/bi | demigirl | shoded戒断中\n称呼 鱼/请随意\n代词使用 they/she",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Annox.straw.page",
+                "end": 23,
+                "expanded_url": "http://Annox.straw.page",
+                "start": 0,
+                "url": "https://t.co/dyJQh9tbUL"
+              }
+            ]
+          }
+        },
+        "id": "1922430761212542976",
+        "location": "sdjn",
+        "name": "𝐦𝐲𝐬𝐥𝐞𝐞",
+        "pinned_tweet_id": "1967052327275340219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934263078721585152/voo9d7kd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 352,
+          "like_count": 5995,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/dyJQh9tbUL",
+        "username": "doreen129_Nox",
+        "verified": false
+      }
+    ]
+  }
+}

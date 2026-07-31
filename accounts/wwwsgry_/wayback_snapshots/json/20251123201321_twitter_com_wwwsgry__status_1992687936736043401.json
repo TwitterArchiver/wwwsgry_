@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1992687936736043401",
+    "created_at": "2025-11-23T20:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T21:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992687936736043401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whitelate0001/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/whitelate0001/status/1992583654984523788",
+          "start": 44,
+          "url": "https://t.co/ESPUKD0xQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992687936736043401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992583654984523788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不多伦多chinatown的孙中山雕像吗 搞活动跑到唐人街给国父带个跨旗围巾何意味🧐 https://t.co/ESPUKD0xQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 843,
+        "media_key": "3_1992583325744271360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cT-kRakAAKPAc.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1992687936736043401",
+        "created_at": "2025-11-23T20:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T21:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992687936736043401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whitelate0001/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/whitelate0001/status/1992583654984523788",
+              "start": 44,
+              "url": "https://t.co/ESPUKD0xQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992687936736043401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992583654984523788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不多伦多chinatown的孙中山雕像吗 搞活动跑到唐人街给国父带个跨旗围巾何意味🧐 https://t.co/ESPUKD0xQn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992583325744271360"
+          ]
+        },
+        "author_id": "1164467672819499008",
+        "conversation_id": "1992583654984523788",
+        "created_at": "2025-11-23T13:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992583654984523788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qmn8yAwnLa",
+              "end": 168,
+              "expanded_url": "https://x.com/whitelate0001/status/1992583654984523788/photo/1",
+              "media_key": "3_1992583325744271360",
+              "start": 145,
+              "url": "https://t.co/qmn8yAwnLa"
+            },
+            {
+              "display_url": "x.com/Mirro_zinuo/st…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/Mirro_zinuo/status/1991746841139114262",
+              "start": 169,
+              "url": "https://t.co/ju3Y5NcJY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992583654984523788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1341,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991746841139114262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我願意尊重跨性別，尊重弱勢群體，我知道你們受到了相當多的不公不義。\n\n被打壓，被孤立，被欺負，被霸凌。\n\n但是我認為將旗幟掛在國父身上是對他極大的不尊重。\n\n國父創立了亞洲首個民主共和國，一生奉獻於革命事業，他的偉大不容質疑。\n\n我真不是不尊重你但懇求你也先對我們共同景仰的人物放尊重點！ https://t.co/qmn8yAwnLa https://t.co/ju3Y5NcJY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 927,
+          "like_count": 13704,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 4944
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "來自台灣的中國愛國主義者🇹🇼 | 自由/民主/有限市場經濟/民主社會主義/三民主義/中華民國派/泛藍/左翼/人道主義/科學主義的支持者 | Glory to China | \n\n賽博搬史王|偶爾發抽象tv｜\n\n沒有義務的權利必將導致濫用，沒有權利的義務必將導致壓迫|\n\n鍵政勉強中。。",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 1038,
+          "like_count": 9062,
+          "listed_count": 6,
+          "media_count": 817,
+          "tweet_count": 8799
+        },
+        "username": "whitelate0001",
+        "verified": false
+      }
+    ]
+  }
+}

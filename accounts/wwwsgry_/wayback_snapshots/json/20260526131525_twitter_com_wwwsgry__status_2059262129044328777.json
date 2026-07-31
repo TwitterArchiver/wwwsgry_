@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059253557166305280",
+        "3_2059253557174693888"
+      ],
+      "media_source_tweet_id": [
+        "2059253570973966678",
+        "2059253570973966678"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2059262129044328777",
+    "created_at": "2026-05-26T13:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059262129044328777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825931448588840960",
+          "start": 3,
+          "username": "Feyiin_Ccc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGvxN3NCUE",
+          "end": 47,
+          "expanded_url": "https://x.com/Feyiin_Ccc/status/2059253570973966678/photo/1",
+          "media_key": "3_2059253557166305280",
+          "start": 24,
+          "url": "https://t.co/gGvxN3NCUE"
+        },
+        {
+          "display_url": "pic.x.com/gGvxN3NCUE",
+          "end": 47,
+          "expanded_url": "https://x.com/Feyiin_Ccc/status/2059253570973966678/photo/1",
+          "media_key": "3_2059253557174693888",
+          "start": 24,
+          "url": "https://t.co/gGvxN3NCUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059262129044328777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059253570973966678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Feyiin_Ccc: 卧槽有人抛尸。 https://t.co/gGvxN3NCUE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059262129044328777].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059262129044328777",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059262129044328777"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2059253557166305280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPwMylbcAAnn6B.jpg",
+        "width": 810
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2059253557174693888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPwMynbcAAbuHZ.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059253557166305280",
+            "3_2059253557174693888"
+          ]
+        },
+        "author_id": "1825931448588840960",
+        "conversation_id": "2059253570973966678",
+        "created_at": "2026-05-26T12:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059253570973966678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGvxN3NCUE",
+              "end": 31,
+              "expanded_url": "https://x.com/Feyiin_Ccc/status/2059253570973966678/photo/1",
+              "media_key": "3_2059253557166305280",
+              "start": 8,
+              "url": "https://t.co/gGvxN3NCUE"
+            },
+            {
+              "display_url": "pic.x.com/gGvxN3NCUE",
+              "end": 31,
+              "expanded_url": "https://x.com/Feyiin_Ccc/status/2059253570973966678/photo/1",
+              "media_key": "3_2059253557174693888",
+              "start": 8,
+              "url": "https://t.co/gGvxN3NCUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059253570973966678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽有人抛尸。 https://t.co/gGvxN3NCUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 969,
+          "like_count": 16263,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 6456
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T16:22:50.000Z",
+        "description": "我好想你🚬 随意取关^ ^ 纯绿无黄 烂人一个\nDT&KUN重度依赖 别贴脸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aqa.link/Feyiin_Ccc57487",
+                "end": 23,
+                "expanded_url": "https://aqa.link/Feyiin_Ccc57487",
+                "start": 0,
+                "url": "https://t.co/wPJ0EZkHtR"
+              }
+            ]
+          }
+        },
+        "id": "1825931448588840960",
+        "location": "Leipzig, Germany",
+        "name": "Feyiin",
+        "pinned_tweet_id": "2053142359756714493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023462213852569601/ZFL_izCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 167,
+          "like_count": 4068,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 4979
+        },
+        "url": "https://t.co/wPJ0EZkHtR",
+        "username": "Feyiin_Ccc",
+        "verified": true
+      }
+    ]
+  }
+}

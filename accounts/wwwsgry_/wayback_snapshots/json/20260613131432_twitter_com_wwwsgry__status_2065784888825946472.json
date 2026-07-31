@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2065782708375347408",
+    "created_at": "2026-06-13T13:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065784888825946472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065784888825946472",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065784580360356065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 fucku"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2065782708375347408",
+        "created_at": "2026-06-13T13:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065784888825946472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065784888825946472",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065784580360356065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 fucku"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2065782708375347408",
+        "created_at": "2026-06-13T13:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065784580360356065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065784580360356065",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065783798961234374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ gotowork"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 984,
+          "like_count": 16556,
+          "listed_count": 4,
+          "media_count": 579,
+          "tweet_count": 6579
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "𝕾𝖆𝖌𝖆 𝖒𝖆𝖝𝖎𝖒𝖆 𝖈𝖔𝖓𝖙𝖎𝖓𝖊𝖓𝖙𝖎𝖘 𝖆𝖚𝖘𝖙𝖗𝖆𝖑𝖎𝖘🪄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@utopia0923_",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@utopia0923_",
+                "start": 0,
+                "url": "https://t.co/sUSgEQkST1"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2065271622605394007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063911094729711616/JVgAbqgn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 324,
+          "like_count": 37418,
+          "listed_count": 5,
+          "media_count": 717,
+          "tweet_count": 21456
+        },
+        "url": "https://t.co/sUSgEQkST1",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

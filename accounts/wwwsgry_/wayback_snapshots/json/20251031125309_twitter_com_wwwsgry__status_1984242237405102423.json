@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1983917704361713873",
+    "created_at": "2025-10-31T12:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T13:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984242237405102423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1946227322794971136",
+          "start": 0,
+          "username": "Bubble275170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984242237405102423",
+    "in_reply_to_user_id": "1946227322794971136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984174453547528700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bubble275170 没有没有是美国的学校（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1983917704361713873",
+        "created_at": "2025-10-31T12:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T13:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984242237405102423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1946227322794971136",
+              "start": 0,
+              "username": "Bubble275170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984242237405102423",
+        "in_reply_to_user_id": "1946227322794971136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984174453547528700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bubble275170 没有没有是美国的学校（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946227322794971136",
+        "conversation_id": "1983917704361713873",
+        "created_at": "2025-10-31T08:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984174453547528700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984174453547528700",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983917704361713873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 所以悉尼大学12分钟就回复吗😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 919,
+          "like_count": 13035,
+          "listed_count": 4,
+          "media_count": 437,
+          "tweet_count": 4704
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T15:15:41.000Z",
+        "description": "女的/les/直男关注发私信阳痿下体爆破死全家。我是女同性恋，极度恐直男！全是碎碎念，发推只为了说废话",
+        "id": "1946227322794971136",
+        "name": "飄飄",
+        "pinned_tweet_id": "1963986634279457062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954908919484338176/MDqrnoBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 70,
+          "like_count": 599,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 203
+        },
+        "username": "Bubble275170",
+        "verified": false
+      }
+    ]
+  }
+}

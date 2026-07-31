@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2082303495965937937",
+    "created_at": "2026-07-29T05:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082338947091575091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909626688675475456",
+          "start": 0,
+          "username": "Afteranone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082338947091575091",
+    "in_reply_to_user_id": "1909626688675475456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082303495965937937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Afteranone 好可爱www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2082303445747515392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXT845aQAAr8td.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082303445781094401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXT85BaoAEzaO_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2082303495965937937",
+        "created_at": "2026-07-29T05:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082338947091575091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909626688675475456",
+              "start": 0,
+              "username": "Afteranone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082338947091575091",
+        "in_reply_to_user_id": "1909626688675475456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082303495965937937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Afteranone 好可爱www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082303445747515392",
+            "3_2082303445781094401"
+          ]
+        },
+        "author_id": "1909626688675475456",
+        "conversation_id": "2082303495965937937",
+        "created_at": "2026-07-29T03:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082303495965937937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7naCaXsbn",
+              "end": 44,
+              "expanded_url": "https://x.com/Afteranone/status/2082303495965937937/photo/1",
+              "media_key": "3_2082303445747515392",
+              "start": 21,
+              "url": "https://t.co/o7naCaXsbn"
+            },
+            {
+              "display_url": "pic.x.com/o7naCaXsbn",
+              "end": 44,
+              "expanded_url": "https://x.com/Afteranone/status/2082303495965937937/photo/1",
+              "media_key": "3_2082303445781094401",
+              "start": 21,
+              "url": "https://t.co/o7naCaXsbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082303495965937937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼠鼠我啊...掉进兔子窝里了...... https://t.co/o7naCaXsbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "何帳號？@zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1008,
+          "like_count": 17474,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 6913
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T15:18:28.000Z",
+        "description": "///offline///\n无从述说的话无从述说。",
+        "id": "1909626688675475456",
+        "name": "Satline",
+        "pinned_tweet_id": "2001216761035940230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061700549687541760/wg16RuXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 139,
+          "like_count": 3273,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1831
+        },
+        "url": "",
+        "username": "Afteranone",
+        "verified": false
+      }
+    ]
+  }
+}

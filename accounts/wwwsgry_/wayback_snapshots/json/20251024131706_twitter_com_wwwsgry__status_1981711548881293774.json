@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1981681942405001560",
+    "created_at": "2025-10-24T13:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T14:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981711548881293774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1687753797169467392",
+          "start": 0,
+          "username": "pamnc2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981711548881293774",
+    "in_reply_to_user_id": "1687753797169467392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981710964279083032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pamnc2024 还是崩三牢玩家"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1981710964279083032].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981710964279083032",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1981710964279083032"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1981681942405001560",
+        "created_at": "2025-10-24T13:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T14:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981711548881293774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1687753797169467392",
+              "start": 0,
+              "username": "pamnc2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981711548881293774",
+        "in_reply_to_user_id": "1687753797169467392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981710964279083032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pamnc2024 还是崩三牢玩家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 913,
+          "like_count": 12743,
+          "listed_count": 5,
+          "media_count": 429,
+          "tweet_count": 4548
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T09:14:06.000Z",
+        "description": "17｜0.5文科生｜艺术生｜🎵🔮💤｜杂食向",
+        "id": "1687753797169467392",
+        "location": "Остров Сахали́н",
+        "name": "渡鴉還在睡大覺💤",
+        "pinned_tweet_id": "1981598016508240375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979359078548697088/qAgG88AC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 185,
+          "like_count": 15406,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 10047
+        },
+        "username": "pamnc2024",
+        "verified": false
+      }
+    ]
+  }
+}

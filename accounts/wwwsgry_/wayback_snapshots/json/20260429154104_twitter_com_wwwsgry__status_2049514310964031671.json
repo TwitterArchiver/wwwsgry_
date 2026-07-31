@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049514306853888000"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2049470258311057782",
+    "created_at": "2026-04-29T15:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049514310964031671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898932862021238784",
+          "start": 0,
+          "username": "Northbirch_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fSTe3gq2rh",
+          "end": 36,
+          "expanded_url": "https://x.com/wwwsgry_/status/2049514310964031671/photo/1",
+          "media_key": "3_2049514306853888000",
+          "start": 13,
+          "url": "https://t.co/fSTe3gq2rh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049514310964031671",
+    "in_reply_to_user_id": "1898932862021238784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049470258311057782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Northbirch_ https://t.co/fSTe3gq2rh"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049470258311057782].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049470258311057782",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049470258311057782"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 557,
+        "media_key": "3_2049514306853888000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFWZz4bYAAvXbh.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049514306853888000"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2049470258311057782",
+        "created_at": "2026-04-29T15:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049514310964031671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898932862021238784",
+              "start": 0,
+              "username": "Northbirch_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSTe3gq2rh",
+              "end": 36,
+              "expanded_url": "https://x.com/wwwsgry_/status/2049514310964031671/photo/1",
+              "media_key": "3_2049514306853888000",
+              "start": 13,
+              "url": "https://t.co/fSTe3gq2rh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049514310964031671",
+        "in_reply_to_user_id": "1898932862021238784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049470258311057782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Northbirch_ https://t.co/fSTe3gq2rh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 971,
+          "like_count": 15928,
+          "listed_count": 4,
+          "media_count": 561,
+          "tweet_count": 6274
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T03:04:20.000Z",
+        "description": "天才的Chloris大小姐今天又在幹什麼。",
+        "id": "1898932862021238784",
+        "name": "❄️",
+        "pinned_tweet_id": "2049493831020921029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049504141039534080/ZL0IOS16_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 28,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 3517
+        },
+        "username": "Northbirch_",
+        "verified": false
+      }
+    ]
+  }
+}

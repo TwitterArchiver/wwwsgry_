@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1970847050083487993",
+    "created_at": "2025-09-24T15:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970873174423404960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938823083835396096",
+          "start": 0,
+          "username": "idcANYTH1NG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970873174423404960",
+    "in_reply_to_user_id": "1938823083835396096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970850462221156393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@idcANYTH1NG 我看这留学中介是个人就能干啊 还能赚这么多钱🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1970850462221156393].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1970850462221156393",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1970850462221156393"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1970847050083487993",
+        "created_at": "2025-09-24T15:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970873174423404960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938823083835396096",
+              "start": 0,
+              "username": "idcANYTH1NG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970873174423404960",
+        "in_reply_to_user_id": "1938823083835396096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970850462221156393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@idcANYTH1NG 我看这留学中介是个人就能干啊 还能赚这么多钱🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 870,
+          "like_count": 11239,
+          "listed_count": 4,
+          "media_count": 395,
+          "tweet_count": 4013
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T04:53:53.000Z",
+        "description": "天使G",
+        "id": "1938823083835396096",
+        "location": "Camden Town, London",
+        "name": "G",
+        "pinned_tweet_id": "1968095499057238502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938824454441742336/08JW3LYz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 71,
+          "like_count": 2214,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 944
+        },
+        "username": "idcANYTH1NG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050683414068576256",
+        "3_2050683414076944384",
+        "3_2050683414068535297"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2050683422167695455",
+    "created_at": "2026-05-02T21:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T22:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050683422167695455"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4nExxkoqoq",
+          "end": 28,
+          "expanded_url": "https://x.com/wwwsgry_/status/2050683422167695455/photo/1",
+          "media_key": "3_2050683414068576256",
+          "start": 5,
+          "url": "https://t.co/4nExxkoqoq"
+        },
+        {
+          "display_url": "pic.x.com/4nExxkoqoq",
+          "end": 28,
+          "expanded_url": "https://x.com/wwwsgry_/status/2050683422167695455/photo/1",
+          "media_key": "3_2050683414076944384",
+          "start": 5,
+          "url": "https://t.co/4nExxkoqoq"
+        },
+        {
+          "display_url": "pic.x.com/4nExxkoqoq",
+          "end": 28,
+          "expanded_url": "https://x.com/wwwsgry_/status/2050683422167695455/photo/1",
+          "media_key": "3_2050683414068535297",
+          "start": 5,
+          "url": "https://t.co/4nExxkoqoq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050683422167695455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "樱花开了 https://t.co/4nExxkoqoq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050683414068576256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHV9szpXwAACW4n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050683414076944384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHV9szrXcAA9rjB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050683414068535297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHV9szpXIAEGvTI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050683414068576256",
+            "3_2050683414076944384",
+            "3_2050683414068535297"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2050683422167695455",
+        "created_at": "2026-05-02T21:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T22:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050683422167695455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nExxkoqoq",
+              "end": 28,
+              "expanded_url": "https://x.com/wwwsgry_/status/2050683422167695455/photo/1",
+              "media_key": "3_2050683414068576256",
+              "start": 5,
+              "url": "https://t.co/4nExxkoqoq"
+            },
+            {
+              "display_url": "pic.x.com/4nExxkoqoq",
+              "end": 28,
+              "expanded_url": "https://x.com/wwwsgry_/status/2050683422167695455/photo/1",
+              "media_key": "3_2050683414076944384",
+              "start": 5,
+              "url": "https://t.co/4nExxkoqoq"
+            },
+            {
+              "display_url": "pic.x.com/4nExxkoqoq",
+              "end": 28,
+              "expanded_url": "https://x.com/wwwsgry_/status/2050683422167695455/photo/1",
+              "media_key": "3_2050683414068535297",
+              "start": 5,
+              "url": "https://t.co/4nExxkoqoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050683422167695455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "樱花开了 https://t.co/4nExxkoqoq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 971,
+          "like_count": 15985,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 6303
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

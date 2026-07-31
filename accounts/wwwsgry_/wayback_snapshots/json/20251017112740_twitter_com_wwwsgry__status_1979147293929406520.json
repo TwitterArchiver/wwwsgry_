@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1979146927452123351",
+    "created_at": "2025-10-17T11:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T12:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979147293929406520"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1979147293929406520",
+    "in_reply_to_user_id": "1687116360814637056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979146927452123351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草数学错的那道题刚好不算分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1979146924348354560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dXpEgXMAAAWqj.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1979146927452123351",
+        "created_at": "2025-10-17T11:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979147293929406520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979147293929406520",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979146927452123351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草数学错的那道题刚好不算分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979146924348354560"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1979146927452123351",
+        "created_at": "2025-10-17T11:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979146927452123351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpQM8S6bmZ",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/1979146927452123351/photo/1",
+              "media_key": "3_1979146924348354560",
+              "start": 12,
+              "url": "https://t.co/JpQM8S6bmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979146927452123351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以了 也算是卡线了🤓 https://t.co/JpQM8S6bmZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 900,
+          "like_count": 12463,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 4431
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

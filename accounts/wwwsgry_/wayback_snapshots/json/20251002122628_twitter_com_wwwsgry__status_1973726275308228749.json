@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1973722371182969172",
+    "created_at": "2025-10-02T12:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T13:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973726275308228749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "MikuMikuGOAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973726275308228749",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973722371182969172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMikuGOAT 你怎么天天发情"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 965,
+        "media_key": "3_1973722276068835328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2QR8-5bwAA2HLS.jpg",
+        "width": 1872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1973722371182969172",
+        "created_at": "2025-10-02T12:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T13:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973726275308228749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "MikuMikuGOAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973726275308228749",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973722371182969172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMikuGOAT 你怎么天天发情"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973722276068835328"
+          ]
+        },
+        "author_id": "1905180625981890560",
+        "conversation_id": "1973722371182969172",
+        "created_at": "2025-10-02T12:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T13:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973722371182969172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h51gR73oVk",
+              "end": 39,
+              "expanded_url": "https://x.com/MikuMikuGOAT/status/1973722371182969172/photo/1",
+              "media_key": "3_1973722276068835328",
+              "start": 16,
+              "url": "https://t.co/h51gR73oVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973722371182969172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放屁吧……\n我一边自慰一边做的 https://t.co/h51gR73oVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 888,
+          "like_count": 11554,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 4099
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "ドM犬　雑魚       变态\n              Masochist, incel, Chinese",
+        "id": "1905180625981890560",
+        "location": "between your feet",
+        "name": "‏ً",
+        "pinned_tweet_id": "1964292339893227904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973009992912646144/icMJfqNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 1910,
+          "like_count": 58540,
+          "listed_count": 4,
+          "media_count": 1091,
+          "tweet_count": 11160
+        },
+        "username": "MikuMikuGOAT",
+        "verified": false
+      }
+    ]
+  }
+}

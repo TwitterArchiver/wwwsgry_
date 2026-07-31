@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1984456408729883099",
+    "created_at": "2025-11-01T03:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T04:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984466357572792828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843975943419047936",
+          "start": 0,
+          "username": "leaderxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984466357572792828",
+    "in_reply_to_user_id": "1843975943419047936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984462774836273610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaderxiu 何"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1984456408729883099",
+        "created_at": "2025-11-01T03:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984466357572792828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843975943419047936",
+              "start": 0,
+              "username": "leaderxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984466357572792828",
+        "in_reply_to_user_id": "1843975943419047936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984462774836273610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaderxiu 何"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843975943419047936",
+        "conversation_id": "1984456408729883099",
+        "created_at": "2025-11-01T03:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984462774836273610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984462774836273610",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984456408729883099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 925,
+          "like_count": 13101,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 4735
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T11:25:14.000Z",
+        "description": "🌸 廣東人（老廣）／喺大陸讀書📚\n🎮 鍾意音遊、二次元同NBA🏀（以前）\n🎧 愛聽音樂、睇動漫、學語言💬\n💫 想識日本、美國同世界各地嘅朋友🌏\n☕ 唔搞投資、不講政治，只想輕鬆傾計～\n🤝 互Fo歡迎！Let's be mutuals〜✨\n#日本語勉強中 #友達募集 #文化交流 #languageexc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 119,
+                "tag": "日本語勉強中"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "友達募集"
+              },
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "文化交流"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "tag": "languageexc"
+              }
+            ]
+          }
+        },
+        "id": "1843975943419047936",
+        "name": "空去",
+        "pinned_tweet_id": "1980703611522101288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890609505278279681/QHsxaa64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 162,
+          "like_count": 6308,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 528
+        },
+        "username": "leaderxiu",
+        "verified": false
+      }
+    ]
+  }
+}

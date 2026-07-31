@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1966276867339809199",
+    "created_at": "2025-09-11T23:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T00:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966285439964479834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644880617933520898",
+          "start": 0,
+          "username": "ivinansz_oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966285439964479834",
+    "in_reply_to_user_id": "1644880617933520898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966276867339809199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivinansz_oO 初中高中出来的留子很多都这个结局😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966276860750475266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0meYxcaMAI46Yu.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1966276867339809199",
+        "created_at": "2025-09-11T23:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T00:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966285439964479834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644880617933520898",
+              "start": 0,
+              "username": "ivinansz_oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966285439964479834",
+        "in_reply_to_user_id": "1644880617933520898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966276867339809199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivinansz_oO 初中高中出来的留子很多都这个结局😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966276860750475266"
+          ]
+        },
+        "author_id": "1644880617933520898",
+        "conversation_id": "1966276867339809199",
+        "created_at": "2025-09-11T23:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T00:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966276867339809199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ry08qZFJvu",
+              "end": 161,
+              "expanded_url": "https://x.com/ivinansz_oO/status/1966276867339809199/photo/1",
+              "media_key": "3_1966276860750475266",
+              "start": 138,
+              "url": "https://t.co/ry08qZFJvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966276867339809199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在虽然不是这样但真的可以共鸣一下。刚来的时候英语烂的要命我妈嫌我胖把我丢进了水球队 很多外国人一次一个外国人跟我说话我说对不起我英文不好可以用翻译器吗她就再也没跟我说过话了。虽然没什么但是内心真的有想很多 经常晚上在房间里哭想家但也没那么想 和家长也经常吵架 也没什么朋友 https://t.co/ry08qZFJvu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 857,
+          "like_count": 10703,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 3903
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T01:51:22.000Z",
+        "description": "聊骚滚。匿名提问https://t.co/X8NeZTTLZe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ivinansz_oo",
+                "end": 31,
+                "expanded_url": "https://ngl.link/ivinansz_oo",
+                "start": 8,
+                "url": "https://t.co/X8NeZTTLZe"
+              }
+            ]
+          }
+        },
+        "id": "1644880617933520898",
+        "name": "iivan.oo",
+        "pinned_tweet_id": "1962731669926154587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963766973814505472/hjp5l7fu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 250,
+          "like_count": 1383,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 822
+        },
+        "username": "ivinansz_oO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2067603725883977908",
+    "created_at": "2026-06-18T16:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067643532844695815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "Y4miSTILLher3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067643532844695815",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067641635908026856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y4miSTILLher3 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2067603725883977908",
+        "created_at": "2026-06-18T16:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067643532844695815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "Y4miSTILLher3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067643532844695815",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067641635908026856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y4miSTILLher3 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049103771796660224",
+        "conversation_id": "2067603725883977908",
+        "created_at": "2026-06-18T16:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067641635908026856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067641635908026856",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067603725883977908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 入狱照都没我这张严肃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 988,
+          "like_count": 16689,
+          "listed_count": 4,
+          "media_count": 583,
+          "tweet_count": 6622
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "不要搞我啊",
+        "id": "2049103771796660224",
+        "location": "提瓦特",
+        "name": "原神执行官，达达利亚。烧冻鸡翅（反鸣潮）",
+        "pinned_tweet_id": "2061276290028872084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061273772645294080/etn8fUR__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 60,
+          "like_count": 2222,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 464
+        },
+        "username": "Y4miSTILLher3",
+        "verified": false
+      }
+    ]
+  }
+}

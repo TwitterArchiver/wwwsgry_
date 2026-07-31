@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1962680588940534254",
+    "created_at": "2025-09-02T11:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T12:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962846818074587508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962846818074587508",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962680588940534254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 还好我是高中生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1962680588940534254",
+        "created_at": "2025-09-02T11:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962846818074587508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962846818074587508",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962680588940534254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 还好我是高中生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "1962680588940534254",
+        "created_at": "2025-09-02T00:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T01:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962680588940534254"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962680588940534254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多倫多怎麼沒見過幾個正常留學大學生。尤其多大的那幫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 834,
+          "like_count": 10254,
+          "listed_count": 4,
+          "media_count": 380,
+          "tweet_count": 3767
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "@pamnc2024，加里顿大学心理学博士，伯伦希尔科技公司科研人员，中华圆梦委员会荣誉会员｜夫君@karasu1stgen｜试运营中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "pamnc2024"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "karasu1stgen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.ms/utopia080923",
+                "end": 23,
+                "expanded_url": "https://note.ms/utopia080923",
+                "start": 0,
+                "url": "https://t.co/SgfbLacUVi"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "Brunhild Technology Co., Ltd.",
+        "name": "🎐",
+        "pinned_tweet_id": "1961323188106801418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961322891347464192/VBk_6ibL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 270,
+          "like_count": 17256,
+          "listed_count": 2,
+          "media_count": 351,
+          "tweet_count": 8419
+        },
+        "url": "https://t.co/SgfbLacUVi",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

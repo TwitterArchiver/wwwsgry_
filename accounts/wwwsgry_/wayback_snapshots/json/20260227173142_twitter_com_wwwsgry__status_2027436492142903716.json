@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2027433430447780162",
+    "created_at": "2026-02-27T17:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027436492142903716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016303867944996864",
+          "start": 0,
+          "username": "1ris_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027436492142903716",
+    "in_reply_to_user_id": "2016303867944996864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027435730776293513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ris_sama 当了两周兔子了 本来明天要大吃特吃的结果长溃疡呃啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2027433430447780162",
+        "created_at": "2026-02-27T17:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027436492142903716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016303867944996864",
+              "start": 0,
+              "username": "1ris_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027436492142903716",
+        "in_reply_to_user_id": "2016303867944996864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027435730776293513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ris_sama 当了两周兔子了 本来明天要大吃特吃的结果长溃疡呃啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016303867944996864",
+        "conversation_id": "2027433430447780162",
+        "created_at": "2026-02-27T17:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027435730776293513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027435730776293513",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027433430447780162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 摸摸摸摸 好好休息多吃蔬菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 956,
+          "like_count": 14667,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 5661
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T00:14:52.000Z",
+        "description": "mi vida @Satanized_Maple｜be water my friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "Satanized_Maple"
+              }
+            ]
+          }
+        },
+        "id": "2016303867944996864",
+        "location": "🚪8964",
+        "name": "IRIS郁子🗡️♠️",
+        "pinned_tweet_id": "2019406973641654306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020549415568916480/284434qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 120,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 860
+        },
+        "username": "1ris_sama",
+        "verified": false
+      }
+    ]
+  }
+}

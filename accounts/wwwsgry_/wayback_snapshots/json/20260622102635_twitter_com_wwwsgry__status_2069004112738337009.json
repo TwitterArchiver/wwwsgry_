@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2068924150652252221",
+    "created_at": "2026-06-22T10:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069004112738337009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1100776666194882561",
+          "start": 0,
+          "username": "akiEl3venn"
+        },
+        {
+          "end": 23,
+          "id": "1765825463103139840",
+          "start": 12,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069004112738337009",
+    "in_reply_to_user_id": "1100776666194882561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068939081656963464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiEl3venn @Chloris923 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2068924150652252221",
+        "created_at": "2026-06-22T10:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069004112738337009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1100776666194882561",
+              "start": 0,
+              "username": "akiEl3venn"
+            },
+            {
+              "end": 23,
+              "id": "1765825463103139840",
+              "start": 12,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069004112738337009",
+        "in_reply_to_user_id": "1100776666194882561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068939081656963464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiEl3venn @Chloris923 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1100776666194882561",
+        "conversation_id": "2068924150652252221",
+        "created_at": "2026-06-22T06:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068939081656963464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            },
+            {
+              "end": 21,
+              "id": "1765825463103139840",
+              "start": 10,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068939081656963464",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068925764351770950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ @Chloris923 这就不得不提我好几年5.0后来牢印的车坐的太多变成4.94的故事了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 990,
+          "like_count": 16759,
+          "listed_count": 4,
+          "media_count": 585,
+          "tweet_count": 6643
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-27T15:16:23.000Z",
+        "description": "你好，我是aki/十一 || 发现有趣的账号就会关注/回关 || 不是男娘 || ACG weeb || System/Level/PX Designer || MI'26 @uoft, Applying PhD || -树洞@ich1nana7-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 87,
+                "username": "uoft"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "ich1nana7"
+              }
+            ]
+          }
+        },
+        "id": "1100776666194882561",
+        "location": "Toronto, Ontario",
+        "name": "akiEl3venn_",
+        "pinned_tweet_id": "1978640484584046673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999793852970921986/J4gygtMB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 353,
+          "like_count": 8304,
+          "listed_count": 1,
+          "media_count": 640,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "akiEl3venn",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "09｜高二生｜南部大陸的邪惡魔女｜alt @pamnc2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "pamnc2024"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "name": "Bедьма✨️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066050332250238976/PRslPyHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 337,
+          "like_count": 38545,
+          "listed_count": 5,
+          "media_count": 742,
+          "tweet_count": 22057
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

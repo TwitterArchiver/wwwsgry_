@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2069216792065523737",
+    "created_at": "2026-06-23T00:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069216792065523737"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069216792065523737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小红书也是小暗网来的。我本以为家长群这种诡异的东西，只在大陆大学前出现，结果海外硕士怎么还有自发的家长群啊，太可怕了你们老中，这是什么程度的控制欲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2069216792065523737",
+        "created_at": "2026-06-23T00:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069216792065523737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069216792065523737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小红书也是小暗网来的。我本以为家长群这种诡异的东西，只在大陆大学前出现，结果海外硕士怎么还有自发的家长群啊，太可怕了你们老中，这是什么程度的控制欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 990,
+          "like_count": 16783,
+          "listed_count": 4,
+          "media_count": 586,
+          "tweet_count": 6656
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

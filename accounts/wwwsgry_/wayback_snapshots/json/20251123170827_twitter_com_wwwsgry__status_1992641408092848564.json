@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1992622580369678833",
+    "created_at": "2025-11-23T17:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992641408092848564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1526859245165359104",
+          "start": 0,
+          "username": "lukaifeng4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992641408092848564",
+    "in_reply_to_user_id": "1526859245165359104",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992636272633065785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lukaifeng4 ❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1992622580369678833",
+        "created_at": "2025-11-23T17:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992641408092848564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1526859245165359104",
+              "start": 0,
+              "username": "lukaifeng4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992641408092848564",
+        "in_reply_to_user_id": "1526859245165359104",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992636272633065785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lukaifeng4 ❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526859245165359104",
+        "conversation_id": "1992622580369678833",
+        "created_at": "2025-11-23T16:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992636272633065785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992636272633065785",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992622580369678833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 深呼吸然後慢慢吐氣，告訴自己練習了那麼久不是來看自己失敗後抱頭痛哭的，加油！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Trenton, NJ",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985874615172833280/e-Ue03ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 922,
+          "like_count": 13696,
+          "listed_count": 4,
+          "media_count": 459,
+          "tweet_count": 4941
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T09:36:40.000Z",
+        "description": "如果醫生在人腦子燒壞前把他救活，算不算剝奪他當智障的權利🤔",
+        "id": "1526859245165359104",
+        "location": "Taiwan",
+        "name": "沒有人",
+        "pinned_tweet_id": "1969614613257076932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749497304976121859/Q7C8n0NU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 251,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 112
+        },
+        "username": "lukaifeng4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2008331988558581850",
+    "created_at": "2026-01-06T00:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T01:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008331988558581850"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008331988558581850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挺好的 下周一四门课要么culminating project ddl要么考试 有点死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2008331988558581850",
+        "created_at": "2026-01-06T00:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T01:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008331988558581850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008331988558581850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挺好的 下周一四门课要么culminating project ddl要么考试 有点死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是点赞bot😼",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997683639891464192/KUUopGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 922,
+          "like_count": 13686,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 5238
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

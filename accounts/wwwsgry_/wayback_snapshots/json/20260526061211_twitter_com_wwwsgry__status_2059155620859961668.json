@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2059143477531939015",
+    "created_at": "2026-05-26T06:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059155620859961668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2034298625451520000",
+          "start": 0,
+          "username": "subpotato_kayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059155620859961668",
+    "in_reply_to_user_id": "2034298625451520000",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059145580799209828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@subpotato_kayo 👍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059145580799209828].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059145580799209828",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059145580799209828"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2059143477531939015",
+        "created_at": "2026-05-26T06:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059155620859961668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2034298625451520000",
+              "start": 0,
+              "username": "subpotato_kayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059155620859961668",
+        "in_reply_to_user_id": "2034298625451520000",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059145580799209828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@subpotato_kayo 👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 968,
+          "like_count": 16246,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 6448
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T16:00:42.000Z",
+        "description": "殺了徘徊的我吧 殺了沈默的我吧，\n殺了無解的夜吧 殺了無盡的夜吧。\n洽囉神 @Y4miSTILLher3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Y4miSTILLher3"
+              }
+            ]
+          }
+        },
+        "id": "2034298625451520000",
+        "location": "JN/CN(traditional)/ENG",
+        "name": "potato Wedges",
+        "pinned_tweet_id": "2034812680704536983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059060649024802816/mAdo2zom_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 25,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 83
+        },
+        "username": "subpotato_kayo",
+        "verified": false
+      }
+    ]
+  }
+}

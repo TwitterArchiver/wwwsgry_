@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2040986653666238547",
+    "created_at": "2026-04-06T02:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040986653666238547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783824424367755264",
+          "start": 3,
+          "username": "Charon_Nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040986653666238547",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040783898662379831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Charon_Nya: 光臨香港 時代廣場\n不食飯寧死\n預製飯菜下臺\n五大菜系 缺一不可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2040986653666238547",
+        "created_at": "2026-04-06T02:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040986653666238547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783824424367755264",
+              "start": 3,
+              "username": "Charon_Nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040986653666238547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040783898662379831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Charon_Nya: 光臨香港 時代廣場\n不食飯寧死\n預製飯菜下臺\n五大菜系 缺一不可"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783824424367755264",
+        "conversation_id": "2040783898662379831",
+        "created_at": "2026-04-05T13:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040783898662379831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jfrd163461/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/jfrd163461/status/2040762810041610532",
+              "start": 33,
+              "url": "https://t.co/hbdPvTc2qF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040783898662379831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 19319,
+          "like_count": 252,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040762810041610532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "光臨香港 時代廣場\n不食飯寧死\n預製飯菜下臺\n五大菜系 缺一不可 https://t.co/hbdPvTc2qF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036646828041547776/E827cquG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 956,
+          "like_count": 15549,
+          "listed_count": 4,
+          "media_count": 550,
+          "tweet_count": 6096
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T11:44:28.000Z",
+        "description": "人机INFJ(O﹃O)｜有可爱小男友｜现在还是准男大x｜纯清水无里推｜快来fo我！",
+        "id": "1783824424367755264",
+        "location": "Guangdong",
+        "name": "𝘾𝙝𝙖𝙧𝙤𝙣卡戎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867063046641987584/jVynAskx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4249,
+          "following_count": 497,
+          "like_count": 26255,
+          "listed_count": 2,
+          "media_count": 548,
+          "tweet_count": 3565
+        },
+        "username": "Charon_Nya",
+        "verified": true
+      }
+    ]
+  }
+}

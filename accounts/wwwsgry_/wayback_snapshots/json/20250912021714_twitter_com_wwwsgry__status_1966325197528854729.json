@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1965811798998929615",
+    "created_at": "2025-09-12T02:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T03:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966325197528854729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2795947818",
+          "start": 0,
+          "username": "dom_rancon_xi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966325197528854729",
+    "in_reply_to_user_id": "2795947818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966319763044602098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dom_rancon_xi 那很牵强了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1966319763044602098].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1966319763044602098",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1966319763044602098"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1965811798998929615",
+        "created_at": "2025-09-12T02:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966325197528854729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2795947818",
+              "start": 0,
+              "username": "dom_rancon_xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966325197528854729",
+        "in_reply_to_user_id": "2795947818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966319763044602098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dom_rancon_xi 那很牵强了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 857,
+          "like_count": 10710,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 3905
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-07T13:59:54.000Z",
+        "description": "我は日本語が下手です、無言フォロー失礼しました。丨Chinese user丨遊戲鍵垢/精神地球人，有意互fo可直拍(？)，沒過的私丨沒在刷推就是在刷怪丨我是真的看不懂日文啦｡･ﾟ･ヽ(இдஇ`)ﾉ･ﾟ･｡ 求求你們放過我好不好?",
+        "id": "2795947818",
+        "name": "三戰邊緣的炮灰NPC 👊🐧🔥（淡推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1262715758783561728/EfusHoRf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 1392,
+          "like_count": 109792,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 6960
+        },
+        "username": "dom_rancon_xi",
+        "verified": false
+      }
+    ]
+  }
+}

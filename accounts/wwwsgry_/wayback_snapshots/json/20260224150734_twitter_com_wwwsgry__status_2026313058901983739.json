@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026313053587771392",
+        "3_2026313053579427840"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2026313058901983739",
+    "created_at": "2026-02-24T15:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026313058901983739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MswTZJVPiJ",
+          "end": 55,
+          "expanded_url": "https://x.com/wwwsgry_/status/2026313058901983739/photo/1",
+          "media_key": "3_2026313053587771392",
+          "start": 32,
+          "url": "https://t.co/MswTZJVPiJ"
+        },
+        {
+          "display_url": "pic.x.com/MswTZJVPiJ",
+          "end": 55,
+          "expanded_url": "https://x.com/wwwsgry_/status/2026313058901983739/photo/1",
+          "media_key": "3_2026313053579427840",
+          "start": 32,
+          "url": "https://t.co/MswTZJVPiJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026313058901983739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠 常冰玉是人类吗 墨菲四局就拿了一分 我都快笑得喘不过气了 https://t.co/MswTZJVPiJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026313053587771392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7o_ILWEAAatUc.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026313053579427840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7o_IJWwAA2zZE.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026313053587771392",
+            "3_2026313053579427840"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2026313058901983739",
+        "created_at": "2026-02-24T15:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026313058901983739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MswTZJVPiJ",
+              "end": 55,
+              "expanded_url": "https://x.com/wwwsgry_/status/2026313058901983739/photo/1",
+              "media_key": "3_2026313053587771392",
+              "start": 32,
+              "url": "https://t.co/MswTZJVPiJ"
+            },
+            {
+              "display_url": "pic.x.com/MswTZJVPiJ",
+              "end": 55,
+              "expanded_url": "https://x.com/wwwsgry_/status/2026313058901983739/photo/1",
+              "media_key": "3_2026313053579427840",
+              "start": 32,
+              "url": "https://t.co/MswTZJVPiJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026313058901983739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠 常冰玉是人类吗 墨菲四局就拿了一分 我都快笑得喘不过气了 https://t.co/MswTZJVPiJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Ottawa, Ontario, Canada",
+              "geo": {
+                "coordinates": [
+                  -75.69812,
+                  45.41117
+                ],
+                "type": "Point"
+              },
+              "locality": "Ottawa",
+              "region": "Ontario"
+            }
+          ]
+        },
+        "description": "你要关注我吗？🤔我会给你点赞的😋",
+        "id": "1687116360814637056",
+        "location": "Ottawa, Ontario",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009380226472595456/F2Vj33Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 958,
+          "like_count": 14517,
+          "listed_count": 4,
+          "media_count": 510,
+          "tweet_count": 5615
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

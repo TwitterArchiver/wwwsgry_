@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073362349457899520"
+      ],
+      "media_source_tweet_id": [
+        "2073362356227436998"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2073390422353998144",
+    "created_at": "2026-07-04T12:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073390422353998144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036826054166462464",
+          "start": 3,
+          "username": "Mutsu_goro56"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/23JMF4QYpF",
+          "end": 48,
+          "expanded_url": "https://x.com/Mutsu_goro56/status/2073362356227436998/photo/1",
+          "media_key": "3_2073362349457899520",
+          "start": 25,
+          "url": "https://t.co/23JMF4QYpF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073390422353998144",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 346
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073362356227436998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mutsu_goro56: rkgk🐙🦊 https://t.co/23JMF4QYpF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_2073362349457899520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYQElobgAAwZCl.jpg",
+        "width": 1121
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073362349457899520"
+          ],
+          "media_source_tweet_id": [
+            "2073362356227436998"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2073390422353998144",
+        "created_at": "2026-07-04T12:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073390422353998144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036826054166462464",
+              "start": 3,
+              "username": "Mutsu_goro56"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/23JMF4QYpF",
+              "end": 48,
+              "expanded_url": "https://x.com/Mutsu_goro56/status/2073362356227436998/photo/1",
+              "media_key": "3_2073362349457899520",
+              "start": 25,
+              "url": "https://t.co/23JMF4QYpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073390422353998144",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 346
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073362356227436998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mutsu_goro56: rkgk🐙🦊 https://t.co/23JMF4QYpF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073362349457899520"
+          ]
+        },
+        "author_id": "2036826054166462464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2073362356227436998",
+        "created_at": "2026-07-04T11:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073362356227436998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23JMF4QYpF",
+              "end": 30,
+              "expanded_url": "https://x.com/Mutsu_goro56/status/2073362356227436998/photo/1",
+              "media_key": "3_2073362349457899520",
+              "start": 7,
+              "url": "https://t.co/23JMF4QYpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073362356227436998",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 488,
+          "impression_count": 20244,
+          "like_count": 3589,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 346
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk🐙🦊 https://t.co/23JMF4QYpF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 998,
+          "like_count": 17014,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 6730
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T15:22:37.000Z",
+        "description": "CPK用の別垢 フォロー非推奨\nたまに鍵垢なります\n呟きand落書き用",
+        "id": "2036826054166462464",
+        "location": "20↑ ",
+        "name": "おさかな",
+        "pinned_tweet_id": "2036840478231192035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037072208598884355/iRkDZqQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4188,
+          "following_count": 130,
+          "like_count": 496,
+          "listed_count": 23,
+          "media_count": 26,
+          "tweet_count": 645
+        },
+        "url": "",
+        "username": "Mutsu_goro56",
+        "verified": false
+      }
+    ]
+  }
+}

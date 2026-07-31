@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1958511304093974684",
+    "created_at": "2025-08-21T12:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T13:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958512229969527069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1869031385425743872",
+          "start": 0,
+          "username": "AkaHenrry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958512229969527069",
+    "in_reply_to_user_id": "1869031385425743872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958511304093974684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaHenrry 别骂了别骂了😭\n孩子进贤者模式了只看得进去题😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1958511304093974684",
+        "created_at": "2025-08-21T12:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958512229969527069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1869031385425743872",
+              "start": 0,
+              "username": "AkaHenrry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958512229969527069",
+        "in_reply_to_user_id": "1869031385425743872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958511304093974684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaHenrry 别骂了别骂了😭\n孩子进贤者模式了只看得进去题😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869031385425743872",
+        "conversation_id": "1958511304093974684",
+        "created_at": "2025-08-21T12:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958511304093974684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwwsgry_/statu…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/wwwsgry_/status/1958509807343722546",
+              "start": 39,
+              "url": "https://t.co/IeNpGSz3F7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958511304093974684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958509807343722546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种就是典型学习学傻了\n就这种人 到时候都是你考大学的对手\n你不害怕嘛？（） https://t.co/IeNpGSz3F7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 771,
+          "like_count": 9685,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 3575
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T14:47:13.000Z",
+        "description": "中文/日本語（勉強ing..）/EN ｜code｜同好互fo｜working together for better tomorrow!｜不要键政，这是日常推｜ 系二刺螈，很好说话。希望和大家好好相处(๑•ᴗ•๑)♡@MisakaMisakaxfu\n小账：@wi98114\n 大笨猪：@rosmarinou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 108,
+                "username": "MisakaMisakaxfu"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "username": "wi98114"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akahenrry",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akahenrry",
+                "start": 0,
+                "url": "https://t.co/MO3Hag55s4"
+              }
+            ]
+          }
+        },
+        "id": "1869031385425743872",
+        "location": "Koto-ku, Tokyo",
+        "name": "希文｜しうん（全面淡推）",
+        "pinned_tweet_id": "1877649170246279307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882667906129141761/-7Ox4Oz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 249,
+          "like_count": 4424,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/MO3Hag55s4",
+        "username": "AkaHenrry",
+        "verified": false
+      }
+    ]
+  }
+}

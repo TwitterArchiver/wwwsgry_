@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "1961969559818444943",
+    "created_at": "2025-08-31T03:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T04:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961998434933899530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        },
+        {
+          "end": 22,
+          "id": "1687753797169467392",
+          "start": 12,
+          "username": "pamnc2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961998434933899530",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961978801212309851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 @pamnc2024 我记得我们计算机老师好像说过copilot可以替代一些debug部门了🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "1961969559818444943",
+        "created_at": "2025-08-31T03:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T04:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961998434933899530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            },
+            {
+              "end": 22,
+              "id": "1687753797169467392",
+              "start": 12,
+              "username": "pamnc2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961998434933899530",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961978801212309851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 @pamnc2024 我记得我们计算机老师好像说过copilot可以替代一些debug部门了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "1961969559818444943",
+        "created_at": "2025-08-31T02:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T03:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961978801212309851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            },
+            {
+              "end": 20,
+              "id": "1687753797169467392",
+              "start": 10,
+              "username": "pamnc2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961978801212309851",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961977580044812747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ @pamnc2024 還專門有分嗎😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 814,
+          "like_count": 10123,
+          "listed_count": 4,
+          "media_count": 374,
+          "tweet_count": 3730
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "@pamnc2024，加里顿大学心理学博士，伯伦希尔科技公司科研人员，中华圆梦委员会研发组组长｜夫君@karasu1stgen｜试运营中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "pamnc2024"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "karasu1stgen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.ms/utopia080923",
+                "end": 23,
+                "expanded_url": "https://note.ms/utopia080923",
+                "start": 0,
+                "url": "https://t.co/SgfbLacUVi"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "Brunhild Technology Co., Ltd.",
+        "name": "🎐",
+        "pinned_tweet_id": "1961323188106801418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961322891347464192/VBk_6ibL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 266,
+          "like_count": 17031,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 8300
+        },
+        "url": "https://t.co/SgfbLacUVi",
+        "username": "Chloris923",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-05T09:14:06.000Z",
+        "description": "17｜文科生｜艺术生｜业余占卜、业余作曲、多语言学习中｜请我喝五十嵐。",
+        "id": "1687753797169467392",
+        "location": "樺太島",
+        "name": "广告招商+61-466892686",
+        "pinned_tweet_id": "1959647178181443617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961733481945604096/AtPX6bJy_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 181,
+          "like_count": 14102,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 9220
+        },
+        "username": "pamnc2024",
+        "verified": false
+      }
+    ]
+  }
+}

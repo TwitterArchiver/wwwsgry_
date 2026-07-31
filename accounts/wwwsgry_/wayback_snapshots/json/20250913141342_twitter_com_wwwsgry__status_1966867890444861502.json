@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1966867549557322000",
+    "created_at": "2025-09-13T14:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T15:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966867890444861502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692408428642357248",
+          "start": 0,
+          "username": "chiyoukawai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966867890444861502",
+    "in_reply_to_user_id": "1692408428642357248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966867549557322000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiyoukawai 为什么看不了私信🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1966867549557322000",
+        "created_at": "2025-09-13T14:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T15:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966867890444861502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692408428642357248",
+              "start": 0,
+              "username": "chiyoukawai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966867890444861502",
+        "in_reply_to_user_id": "1692408428642357248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966867549557322000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiyoukawai 为什么看不了私信🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692408428642357248",
+        "conversation_id": "1966867549557322000",
+        "created_at": "2025-09-13T14:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T15:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966867549557322000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966867549557322000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看不了私信但是又很想加你們牆內該怎麼辦🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "其实我是一个点赞bot，你关注了我我就会给你点赞😻 熟人可来小号视奸我👁️👁️@QwertyVfrTgb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "QwertyVfrTgb"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 860,
+          "like_count": 10780,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 3916
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-18T05:29:59.000Z",
+        "description": "いいね≠認同\nムツキは世界一1⃣️1⃣️1⃣️\n日本語👌 EN👌CN👌 16歳女子高一生\n兔兔派 兔兔黨 兔兔主義🐰🐰 以及我不能使用私信🙇‍♀️🙇‍♀️上推衹是為了看可愛的東西 我害怕建政的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koieivi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/koieivi",
+                "start": 0,
+                "url": "https://t.co/SR2vL36YlE"
+              }
+            ]
+          }
+        },
+        "id": "1692408428642357248",
+        "location": "兔兔窩",
+        "name": "koi🍰",
+        "pinned_tweet_id": "1947217505841508596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958429139628867584/WRWeiX8X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 248,
+          "like_count": 39701,
+          "listed_count": 7,
+          "media_count": 282,
+          "tweet_count": 1843
+        },
+        "url": "https://t.co/SR2vL36YlE",
+        "username": "chiyoukawai",
+        "verified": false
+      }
+    ]
+  }
+}

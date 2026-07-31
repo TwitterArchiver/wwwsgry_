@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "1985233821130760480",
+    "created_at": "2025-11-03T13:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985337307688243281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894716105958342657",
+          "start": 0,
+          "username": "0_0_00_00_000_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985337307688243281",
+    "in_reply_to_user_id": "1894716105958342657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985327249567142163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0_0_00_00_000_0 不如钟离假死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "1985233821130760480",
+        "created_at": "2025-11-03T13:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985337307688243281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894716105958342657",
+              "start": 0,
+              "username": "0_0_00_00_000_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985337307688243281",
+        "in_reply_to_user_id": "1894716105958342657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985327249567142163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0_0_00_00_000_0 不如钟离假死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894716105958342657",
+        "conversation_id": "1985233821130760480",
+        "created_at": "2025-11-03T12:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985327249567142163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985327249567142163",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985233821130760480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 梣遇刺，封锁全场\n史称wwwsgry假死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 923,
+          "like_count": 13188,
+          "listed_count": 4,
+          "media_count": 441,
+          "tweet_count": 4765
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T11:48:37.000Z",
+        "description": "你好，朋友 对不起让你点进来 是我的问题  很抱歉 对不起 mb sry 间歇式愤怒 有事私信 单纯爱挖坟 只会夸夸夸 \nfav： @Clem_sc2 @naoymt @nakiriayame\n@rurudo_\n手刃降服重创最强 活到150",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "Clem_sc2"
+              },
+              {
+                "end": 83,
+                "start": 76,
+                "username": "naoymt"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "nakiriayame"
+              },
+              {
+                "end": 105,
+                "start": 97,
+                "username": "rurudo_"
+              }
+            ]
+          }
+        },
+        "id": "1894716105958342657",
+        "name": "回响",
+        "pinned_tweet_id": "1967528777472438286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985297210440097792/FtxQtEvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 433,
+          "like_count": 19626,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 2922
+        },
+        "username": "0_0_00_00_000_0",
+        "verified": false
+      }
+    ]
+  }
+}

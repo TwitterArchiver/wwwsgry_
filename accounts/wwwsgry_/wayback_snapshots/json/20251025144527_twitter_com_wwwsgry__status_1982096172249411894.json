@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1982096106260516864"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "1982096172249411894",
+    "created_at": "2025-10-25T14:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T15:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982096172249411894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6NOsPAgZXc",
+          "end": 37,
+          "expanded_url": "https://x.com/wwwsgry_/status/1982096172249411894/video/1",
+          "media_key": "13_1982096106260516864",
+          "start": 14,
+          "url": "https://t.co/6NOsPAgZXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982096172249411894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看这个太有意思了你知道么😋 https://t.co/6NOsPAgZXc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18241,
+        "height": 1280,
+        "media_key": "13_1982096106260516864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982096106260516864/img/S5pFG3C2goB-2lkV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982096106260516864/vid/avc1/320x568/iqW44mgdxDx-0Iia.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982096106260516864/vid/avc1/480x852/93cQ2PSuFzHA_J84.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982096106260516864/vid/avc1/720x1280/RdZP9NWvCANmhz-V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982096106260516864/pl/eZR6kfzA-6iiesEJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982096106260516864"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "1982096172249411894",
+        "created_at": "2025-10-25T14:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T15:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982096172249411894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NOsPAgZXc",
+              "end": 37,
+              "expanded_url": "https://x.com/wwwsgry_/status/1982096172249411894/video/1",
+              "media_key": "13_1982096106260516864",
+              "start": 14,
+              "url": "https://t.co/6NOsPAgZXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982096172249411894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看这个太有意思了你知道么😋 https://t.co/6NOsPAgZXc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "梦到什么说什么（小号：@zZzz_68982",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "zZzz_68982"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "location": "Toronto, Canada",
+        "name": "梣🍂",
+        "pinned_tweet_id": "1956255106267271481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942765092002750464/NNvK3mIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 914,
+          "like_count": 12794,
+          "listed_count": 5,
+          "media_count": 430,
+          "tweet_count": 4561
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

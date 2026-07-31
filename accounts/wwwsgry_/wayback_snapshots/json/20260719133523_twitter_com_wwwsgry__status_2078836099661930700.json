@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      }
+    ],
+    "conversation_id": "2078836099661930700",
+    "created_at": "2026-07-19T13:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078836099661930700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/goodsmile_en/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/goodsmile_en/status/2078699436583293150",
+          "start": 14,
+          "url": "https://t.co/a7601vT1Ij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078836099661930700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078699436583293150",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个花嫁初音真的好美啊😭😭 https://t.co/a7601vT1Ij"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2078836099661930700",
+        "created_at": "2026-07-19T13:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078836099661930700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/goodsmile_en/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/goodsmile_en/status/2078699436583293150",
+              "start": 14,
+              "url": "https://t.co/a7601vT1Ij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078836099661930700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078699436583293150",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个花嫁初音真的好美啊😭😭 https://t.co/a7601vT1Ij"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750060684300414976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2078699436583293150",
+        "created_at": "2026-07-19T04:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078699436583293150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078699436583293150",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 314709,
+          "like_count": 666,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "In celebration of the 15th anniversary of Racing Miku, GSC presents a gorgeous new scale figure! Preorder now and get 10% off with code smilefest2026!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1004,
+          "like_count": 17256,
+          "listed_count": 4,
+          "media_count": 606,
+          "tweet_count": 6850
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T07:40:56.000Z",
+        "description": "The official English X page of Good Smile Company!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goodsmile.com/en",
+                "end": 23,
+                "expanded_url": "https://goodsmile.com/en",
+                "start": 0,
+                "url": "https://t.co/IMtVINQaoj"
+              }
+            ]
+          }
+        },
+        "id": "1750060684300414976",
+        "location": "Akihabara, Japan",
+        "name": "Good Smile Company",
+        "pinned_tweet_id": "2068846529100546412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764573995628892160/N8N-Cf___normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49855,
+          "following_count": 15,
+          "like_count": 8,
+          "listed_count": 69,
+          "media_count": 5213,
+          "tweet_count": 5364
+        },
+        "url": "https://t.co/IMtVINQaoj",
+        "username": "goodsmile_en",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2051338797078733146",
+    "created_at": "2026-05-04T17:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051353809331396708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "Phisback_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051353809331396708",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051338797078733146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phisback_X 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2051338797078733146",
+        "created_at": "2026-05-04T17:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051353809331396708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "Phisback_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051353809331396708",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051338797078733146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phisback_X 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049103771796660224",
+        "conversation_id": "2051338797078733146",
+        "created_at": "2026-05-04T16:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051338797078733146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051338797078733146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👈此人终于不被防沉迷限制了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "这个人很神秘，什么都没有写",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042336239442149376/QaB-tkSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 972,
+          "like_count": 16008,
+          "listed_count": 4,
+          "media_count": 565,
+          "tweet_count": 6309
+        },
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "Quote the Raven, Nevermore\n08 | loser joker gooner | ⚰️",
+        "id": "2049103771796660224",
+        "location": "Santa Ana, CA",
+        "name": "Phi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049104561508659200/jI45nPCY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 40,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 76
+        },
+        "username": "Phisback_X",
+        "verified": false
+      }
+    ]
+  }
+}
