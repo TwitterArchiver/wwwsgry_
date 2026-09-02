@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2083773893622501579",
+    "created_at": "2026-08-02T04:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083776482384695800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083776482384695800",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083773893622501579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 有种海鲜过敏的美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_2083773876333690882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsNTNsbwAIGSD2.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2083773893622501579",
+        "created_at": "2026-08-02T04:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083776482384695800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083776482384695800",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083773893622501579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 有种海鲜过敏的美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083773876333690882"
+          ]
+        },
+        "author_id": "1765825463103139840",
+        "conversation_id": "2083773893622501579",
+        "created_at": "2026-08-02T04:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083773893622501579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2sp7E17LY",
+              "end": 67,
+              "expanded_url": "https://x.com/Chloris923/status/2083773893622501579/photo/1",
+              "media_key": "3_2083773876333690882",
+              "start": 44,
+              "url": "https://t.co/f2sp7E17LY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083773893622501579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "極度挑食者。\n粉色是沒問題的，藍色（？）是有點抵觸但可以吃的，剩下基本是這輩子不會吃的 https://t.co/f2sp7E17LY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 1012,
+          "like_count": 17587,
+          "listed_count": 4,
+          "media_count": 613,
+          "tweet_count": 6941
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "木头/08/高二/极北雪原上的隐居巫師/@chloris2026",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "chloris2026"
+              }
+            ]
+          }
+        },
+        "id": "1765825463103139840",
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2083346394912526795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080993589988147200/twbmvpmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 360,
+          "like_count": 42858,
+          "listed_count": 6,
+          "media_count": 785,
+          "tweet_count": 24329
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false
+      }
+    ]
+  }
+}

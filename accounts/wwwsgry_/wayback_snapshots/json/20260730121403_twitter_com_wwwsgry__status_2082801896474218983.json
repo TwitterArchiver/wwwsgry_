@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2082734366460145822",
+    "created_at": "2026-07-30T12:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082801896474218983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909626688675475456",
+          "start": 0,
+          "username": "Afteranone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082801896474218983",
+    "in_reply_to_user_id": "1909626688675475456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082795718411178290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Afteranone 真的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2082734366460145822",
+        "created_at": "2026-07-30T12:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082801896474218983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1909626688675475456",
+              "start": 0,
+              "username": "Afteranone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082801896474218983",
+        "in_reply_to_user_id": "1909626688675475456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082795718411178290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Afteranone 真的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909626688675475456",
+        "conversation_id": "2082734366460145822",
+        "created_at": "2026-07-30T11:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082795718411178290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082795718411178290",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082734366460145822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 真的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "我會在 @zZxy6987 看著你👁️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1009,
+          "like_count": 17525,
+          "listed_count": 4,
+          "media_count": 612,
+          "tweet_count": 6927
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T15:18:28.000Z",
+        "description": "///offline///\n无从述说的话无从述说。",
+        "id": "1909626688675475456",
+        "name": "Satline",
+        "pinned_tweet_id": "2001216761035940230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061700549687541760/wg16RuXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 139,
+          "like_count": 3378,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1871
+        },
+        "url": "",
+        "username": "Afteranone",
+        "verified": false
+      }
+    ]
+  }
+}

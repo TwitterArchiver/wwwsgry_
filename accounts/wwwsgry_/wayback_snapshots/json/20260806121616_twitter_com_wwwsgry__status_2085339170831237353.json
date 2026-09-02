@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2078487003822461261",
+    "created_at": "2026-08-06T12:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085339170831237353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1991197837187772421",
+          "start": 0,
+          "username": "SatZyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085339170831237353",
+    "in_reply_to_user_id": "1991197837187772421",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085338276546916372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SatZyh 好涩情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2078487003822461261",
+        "created_at": "2026-08-06T12:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085339170831237353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1991197837187772421",
+              "start": 0,
+              "username": "SatZyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085339170831237353",
+        "in_reply_to_user_id": "1991197837187772421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085338276546916372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SatZyh 好涩情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991197837187772421",
+        "conversation_id": "2078487003822461261",
+        "created_at": "2026-08-06T12:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085338276546916372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085338276546916372",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078487003822461261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 骗你的，其实是语音转文字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1014,
+          "like_count": 17401,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 6971
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T17:32:31.000Z",
+        "description": "just up 睡醒了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "silver-z.netlify.app",
+                "end": 23,
+                "expanded_url": "https://silver-z.netlify.app/",
+                "start": 0,
+                "url": "https://t.co/mWHiJRkcVQ"
+              }
+            ]
+          }
+        },
+        "id": "1991197837187772421",
+        "name": "Silver.Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991304934483271680/GAavLdhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 13,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/mWHiJRkcVQ",
+        "username": "SatZyh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2082444141427073146",
+    "created_at": "2026-07-29T12:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082444141427073146"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 90,
+          "tag": "超かぐや姫"
+        },
+        {
+          "end": 119,
+          "start": 98,
+          "tag": "CosmicPrincessKaguya"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1242597267372032002",
+          "start": 3,
+          "username": "llanshuishui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/zUGe05",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/zUGe05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082444141427073146",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082073263161876701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llanshuishui: hug your friend when you are happy\n🫂👍\nhug your friend when you are sad\n\n#超かぐや姫 \n#CosmicPrincessKaguya https://t.co/zUGe05…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082073241078939648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUClNrbQAAj1R_.jpg",
+        "width": 1784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2082444141427073146",
+        "created_at": "2026-07-29T12:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082444141427073146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 90,
+              "tag": "超かぐや姫"
+            },
+            {
+              "end": 119,
+              "start": 98,
+              "tag": "CosmicPrincessKaguya"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1242597267372032002",
+              "start": 3,
+              "username": "llanshuishui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/zUGe05",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/zUGe05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082444141427073146",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082073263161876701",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llanshuishui: hug your friend when you are happy\n🫂👍\nhug your friend when you are sad\n\n#超かぐや姫 \n#CosmicPrincessKaguya https://t.co/zUGe05…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082073241078939648"
+          ]
+        },
+        "author_id": "1242597267372032002",
+        "conversation_id": "2082073263161876701",
+        "created_at": "2026-07-28T11:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082073263161876701"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 72,
+              "tag": "超かぐや姫"
+            },
+            {
+              "end": 101,
+              "start": 80,
+              "tag": "CosmicPrincessKaguya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUGe05aHtn",
+              "end": 125,
+              "expanded_url": "https://x.com/llanshuishui/status/2082073263161876701/photo/1",
+              "media_key": "3_2082073241078939648",
+              "start": 102,
+              "url": "https://t.co/zUGe05aHtn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082073263161876701",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 652,
+          "impression_count": 56364,
+          "like_count": 4466,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "hug your friend when you are happy\n🫂👍\nhug your friend when you are sad\n\n#超かぐや姫 \n#CosmicPrincessKaguya https://t.co/zUGe05aHtn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "何帳號？@zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1007,
+          "like_count": 17495,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 6916
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-24T23:41:04.000Z",
+        "description": "春眠、夏バテ、秋疲れ、冬眠り。四季は夢のよう\n春困夏盹秋乏冬眠，四季如梦。",
+        "id": "1242597267372032002",
+        "name": "Dan yui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079050842871906304/Lh3tZAnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 18,
+          "like_count": 228,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "llanshuishui",
+        "verified": false
+      }
+    ]
+  }
+}

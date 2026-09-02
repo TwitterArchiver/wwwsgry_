@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2088553579422621743",
+    "created_at": "2026-08-15T09:11:48.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088554238393930224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765825463103139840",
+          "start": 0,
+          "username": "Chloris923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088554238393930224",
+    "in_reply_to_user_id": "1765825463103139840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088553579422621743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris923 😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2088553579422621743",
+        "created_at": "2026-08-15T09:11:48.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088554238393930224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765825463103139840",
+              "start": 0,
+              "username": "Chloris923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088554238393930224",
+        "in_reply_to_user_id": "1765825463103139840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088553579422621743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris923 😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765825463103139840",
+        "conversation_id": "2088553579422621743",
+        "created_at": "2026-08-15T09:09:11.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088553579422621743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088553579422621743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "satline老師的號被封了望周知"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088554238393930224",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1014,
+          "like_count": 17653,
+          "listed_count": 4,
+          "media_count": 628,
+          "tweet_count": 7070
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "木/08/宁古塔的见习魔女🪄",
+        "id": "1765825463103139840",
+        "is_identity_verified": false,
+        "location": "ᠨᡳᠩᡤᡠᡨᠠ/寧古塔",
+        "most_recent_tweet_id": "2088554240847532253",
+        "name": "Bедьма✨️",
+        "pinned_tweet_id": "2086618282854158574",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765825463103139840/1784982287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080993589988147200/twbmvpmb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 371,
+          "like_count": 44920,
+          "listed_count": 6,
+          "media_count": 797,
+          "tweet_count": 25394
+        },
+        "url": "",
+        "username": "Chloris923",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

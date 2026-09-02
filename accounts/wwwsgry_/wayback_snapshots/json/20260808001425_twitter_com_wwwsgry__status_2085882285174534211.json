@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085882279931625472"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2085882285174534211",
+    "created_at": "2026-08-08T00:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T01:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085882285174534211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qglTIc82bQ",
+          "end": 42,
+          "expanded_url": "https://x.com/wwwsgry_/status/2085882285174534211/photo/1",
+          "media_key": "3_2085882279931625472",
+          "start": 19,
+          "url": "https://t.co/qglTIc82bQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085882285174534211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说新项链不赖👍\n白陶瓷那个也好看🤤 https://t.co/qglTIc82bQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2085882279931625472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPKK4dKbQAAMLdW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085882279931625472"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2085882285174534211",
+        "created_at": "2026-08-08T00:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T01:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085882285174534211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qglTIc82bQ",
+              "end": 42,
+              "expanded_url": "https://x.com/wwwsgry_/status/2085882285174534211/photo/1",
+              "media_key": "3_2085882279931625472",
+              "start": 19,
+              "url": "https://t.co/qglTIc82bQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085882285174534211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说新项链不赖👍\n白陶瓷那个也好看🤤 https://t.co/qglTIc82bQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 1014,
+          "like_count": 17431,
+          "listed_count": 4,
+          "media_count": 617,
+          "tweet_count": 6978
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

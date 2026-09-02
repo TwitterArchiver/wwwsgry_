@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085248361825984512",
+        "3_2085248361846960128"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085248366850765282",
+    "created_at": "2026-08-06T06:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085248366850765282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KbWR59txJ6",
+          "end": 34,
+          "expanded_url": "https://x.com/wwwsgry_/status/2085248366850765282/photo/1",
+          "media_key": "3_2085248361825984512",
+          "start": 11,
+          "url": "https://t.co/KbWR59txJ6"
+        },
+        {
+          "display_url": "pic.x.com/KbWR59txJ6",
+          "end": 34,
+          "expanded_url": "https://x.com/wwwsgry_/status/2085248366850765282/photo/1",
+          "media_key": "3_2085248361846960128",
+          "start": 11,
+          "url": "https://t.co/KbWR59txJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085248366850765282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我早就是日本人了 https://t.co/KbWR59txJ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2085248361825984512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBKVkMaYAAuOlG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085248361846960128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBKVkRacAAP3CH.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085248361825984512",
+            "3_2085248361846960128"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085248366850765282",
+        "created_at": "2026-08-06T06:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085248366850765282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbWR59txJ6",
+              "end": 34,
+              "expanded_url": "https://x.com/wwwsgry_/status/2085248366850765282/photo/1",
+              "media_key": "3_2085248361825984512",
+              "start": 11,
+              "url": "https://t.co/KbWR59txJ6"
+            },
+            {
+              "display_url": "pic.x.com/KbWR59txJ6",
+              "end": 34,
+              "expanded_url": "https://x.com/wwwsgry_/status/2085248366850765282/photo/1",
+              "media_key": "3_2085248361846960128",
+              "start": 11,
+              "url": "https://t.co/KbWR59txJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085248366850765282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我早就是日本人了 https://t.co/KbWR59txJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1014,
+          "like_count": 17390,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 6967
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088481204370857984",
+        "3_2088481202236018688"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2088481213694812550",
+    "created_at": "2026-08-15T04:21:38.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088481213694812550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u0CbiFn3ge",
+          "end": 35,
+          "expanded_url": "https://x.com/wwwsgry_/status/2088481213694812550/photo/1",
+          "media_key": "3_2088481204370857984",
+          "start": 12,
+          "url": "https://t.co/u0CbiFn3ge"
+        },
+        {
+          "display_url": "pic.x.com/u0CbiFn3ge",
+          "end": 35,
+          "expanded_url": "https://x.com/wwwsgry_/status/2088481213694812550/photo/1",
+          "media_key": "3_2088481202236018688",
+          "start": 12,
+          "url": "https://t.co/u0CbiFn3ge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088481213694812550",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088481204370857984"
+      },
+      {
+        "media_key": "3_2088481202236018688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊一发入魂 https://t.co/u0CbiFn3ge"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2088481204370857984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvGlxKa4AA97Rs.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088481202236018688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvGlpNb0AA5b_B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088481204370857984",
+            "3_2088481202236018688"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2088481213694812550",
+        "created_at": "2026-08-15T04:21:38.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088481213694812550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0CbiFn3ge",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/2088481213694812550/photo/1",
+              "media_key": "3_2088481204370857984",
+              "start": 12,
+              "url": "https://t.co/u0CbiFn3ge"
+            },
+            {
+              "display_url": "pic.x.com/u0CbiFn3ge",
+              "end": 35,
+              "expanded_url": "https://x.com/wwwsgry_/status/2088481213694812550/photo/1",
+              "media_key": "3_2088481202236018688",
+              "start": 12,
+              "url": "https://t.co/u0CbiFn3ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088481213694812550",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088481204370857984"
+          },
+          {
+            "media_key": "3_2088481202236018688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊一发入魂 https://t.co/u0CbiFn3ge"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088481213694812550",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1015,
+          "like_count": 17642,
+          "listed_count": 4,
+          "media_count": 627,
+          "tweet_count": 7065
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

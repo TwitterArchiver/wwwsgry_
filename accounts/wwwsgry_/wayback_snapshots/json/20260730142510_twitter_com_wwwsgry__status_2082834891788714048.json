@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2082795163160854936",
+    "created_at": "2026-07-30T14:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082834891788714048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "theIrisWithin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082834891788714048",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082820817935794244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theIrisWithin 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2082795163160854936",
+        "created_at": "2026-07-30T14:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082834891788714048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "theIrisWithin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082834891788714048",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082820817935794244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theIrisWithin 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049103771796660224",
+        "conversation_id": "2082795163160854936",
+        "created_at": "2026-07-30T13:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082820817935794244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082820817935794244",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082795163160854936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 🫳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "我會在 @zZxy6987 看著你👁️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1009,
+          "like_count": 17530,
+          "listed_count": 4,
+          "media_count": 612,
+          "tweet_count": 6930
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "我进入哲学状态",
+        "id": "2049103771796660224",
+        "location": "dream",
+        "name": "P",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080958504391823360/e9In8V90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 142,
+          "like_count": 4963,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1002
+        },
+        "url": "",
+        "username": "theIrisWithin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2087491600473899390",
+    "created_at": "2026-08-13T00:50:27.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T01:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087703294043172892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087703294043172892",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087491600473899390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 你们这个是什么群啊😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2087490837106327552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPhB2zmbAAACMhw.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2087491600473899390",
+        "created_at": "2026-08-13T00:50:27.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087703294043172892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087703294043172892",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087491600473899390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 你们这个是什么群啊😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087490837106327552"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2087491600473899390",
+        "created_at": "2026-08-12T10:49:15.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087491600473899390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPkNRR5WKw",
+              "end": 150,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2087491600473899390/photo/1",
+              "media_key": "3_2087490837106327552",
+              "start": 127,
+              "url": "https://t.co/HPkNRR5WKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087491600473899390",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087490837106327552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "看完之后直接无法呼吸了：\n\n*某 MC 群聊中，一名家长：*\n\n群主给我出来！我儿子今年初二！以前班里前十五名！自从加了你们这个群！天天抱着手机不撒手！吃饭叫三遍都不动！作业写到凌晨都写不完！上次月考数学 38 分！英语 41 分！两科加起来不到 80 分！你们知道我看到成绩单什么心情吗！你们谁家孩子考这样你们不急吗！ \n\n游戏就是害人的！就是毒瘤！就是毁孩子的！多少学生因为打游戏成绩垮掉的！多少孩子因为打游戏眼睛近视的！多少孩子因为打游戏跟父母反目的！你们上网搜搜！一搜一大把！你们自己还没当父母你们不懂！等你们有了孩子你们就知道了！游戏这个东西就是精神鸦片！我这话今天就放在这里了！\n\n我反对打游戏！坚决反对！彻底反对！没有任何商量的余地！什么适度游戏益脑全是骗人的！游戏就是设计出来让人上瘾的！你们自己想想！你们打游戏是不是一打就是几个小时！是不是输了还想打！是不是赢了还想打！成年人自己都控制不住！你让我儿子一个十四岁的孩子怎么控制！你们谁能站出来保证他每天只玩半小时！你们谁能！你们谁都保证不了！\n \n我已经记住你们的群号了，你最好保证我孩子下次考试考及格，不然我立马到 12315 举报你们传播不良信息\n\n群主呢？出来说话！ \n\n我已经做了三件事！手机没收了！家里网络停掉了！你们这个群的群号和聊天记录我全部截图存证了！我今天来不是跟你们商量的！是来通知你们的！从今天开始！你们群里任何人！不许再私聊我儿子！不许再拉他打游戏！不许再发任何游戏链接给他！你们谁再联系他！我就直接找你本人算账！我说到做到！不信你们就试试看！ \n\n我串什么串！你才串！你们全家都串！我儿子成绩都这样了我还有心情跟你们串！你们脑子是不是有问题！\n\n行！我的问题！我最大的问题就是太相信我儿子了！他说加个群聊学习！我信了！结果呢！聊的是学习吗！聊的是游戏！我问题太大了！我早该把手机砸了！\n\n你们现实中什么样自己心里没数吗！工作找到了吗！工资过万了吗！房子买了吗！对象谈了吗！一样都没有吧！就剩下在游戏群里找存在感了！不是废物是什么！还有脸说别人！\n \n哎哟喂！还 AI 生成！你们这群人是不是打游戏打傻了！看什么都像 AI！我在这急得火都上房了你们跟我说 AI！你们 AI 能生出儿子来啊！\n\n都怪你们！\n\n我告诉你们！废物聚在一起还是废物！不会因为你们人多就变成什么好东西！你们互相捧臭脚！互相安慰！互相说对方没问题！全是自欺欺人！出了这个群你们什么都不是！ \n\n打游戏有什么用？能变聪明吗？ \n\n一看你们群封面群内容，就知道你们群不是什么好东西\n\n学我说话。你们几岁了。三岁小孩都不干这种事。一群人在这复制粘贴。丢不丢人 \n\n我儿子自从加了一个叫什么我的世界的群，从天到晚走火入魔，天天捧着手机，还说什么啥打不开什么什么传送门的，都是你们害的！ \n\n你们群里 1999 个人全是废物。 \n\n我是说除我以外的人，你们这都听不懂[表情]\n\n一看你们就不是什么好东西，天天说什么屁话。 \n\n这辈子学过什么正经东西吗。看过一本完整的书吗。能完整说出一句不靠复制的话吗。什么都没有。就是一堆行走的垃圾堆在一起互相闻味道。还觉得自己挺香。 \n\n我孩子曾■■就是被你们害的 \n\n你们这些年轻人啊。天天打游戏。打到半夜不睡觉。打到饭都不按时吃。我天天在家说我儿子。我说你打这个东西有什么用。它能让你考上高中吗。它能让你以后有工作吗。你们肯定也不爱听。但我还是要说。打游戏真的没出息。 \n\n就是你们这些人害的，还死不承认。 \n\n*引用一名群友的游戏截图* 发什么破东西，这东西有用吗？能让你的智力提升吗？\n\n一看你们就是些无能的人。 \n\n什么串不串？我儿子就是被你们害的，你们一句道歉都没有！ \n\n我儿子都在里面充了648块钱了，你们知道648元是什么概念吗？能购买好几本书了？\n\n你们有钱，还不如去买几本书，玩个破游戏，你让你的脑子有见识是吧？\n\n你看看一本书的好处：能增长见识，你看打游戏有什么好处？全是坏处。\n \n强烈建议国家关闭游戏！看看人家美国的少年，从小家长就不让碰手机，看看中国的少年啊！整天捧着手机，一无所处！\n\n游戏就相当于毒品！ \n建议你们不要再玩游戏了！\n\n好好看书，比打游戏好。 \n\n你们知不知道日本的小学生冬天穿短裤在外面跑步。人家从小就知道吃苦。知道磨练意志。我们这边的小孩呢。窝在家里打游戏。打到半夜不睡觉。打到眼睛近视。打到成绩稀烂。你们自己比比。比得过谁。 \n\n人家美国的小孩高中就开始打工了。去超市理货。去餐厅端盘子。去帮邻居剪草坪。人家从小就知道钱是挣出来的。不是从天上掉下来的。你们呢。二十多岁了还在伸手问爸妈要钱。要完钱充皮肤。充完皮肤继续打游戏。你们好意思吗？ \n\n关闭游戏啊，拯救中国的少年啊！ \n\n你们知不知道一百年前中国人在干什么。吸大烟。躺在床上拿着烟枪。什么都不干。吸得面黄肌瘦。吸得家破人亡。吸得整个国家被人欺负。你们现在打游戏的样子。跟当年那些人有什么区别。也是坐着不动。也是什么都不管。也是打到半夜不睡觉。也是把身体搞垮。一百年过去了。换了个方式毁自己！\n\n你们这些人，老师没有教过你们吗？素质这么低！\n\n哎呀，我真是要被你们气死了！你们怎么就是不听劝啊。不玩游戏很难吗？ \n\n游戏发明的初衷就是为了害人的！整天盯着手机屏幕！把眼睛弄瞎了，也把脑子搞废了！\n\n你们不要给我哇哇叫。 \n\n废话，废话！\n\n在网上学会点骂人的东西，就开始骂人了，你们出了社会怎么办？看看美国的少年，一句脏话都不说，看看中国的少年，只要我说的不对就满口脏话。 \n\n真想揍你们一顿，不听劝！现在我家孩子已经被我打哭了，我觉得你们父母也要打你们一顿！\n\n孩子被我打哭了，我觉得还是不解气，你们这群狗日的，还有人在为他说话！\n\n你们不要哇哇叫。我说一句你们顶十句。我还没说完你们就开始演上了。哇哇哇的。吵得人头疼。 \n\n*引用一名群友「曾■■真可怜」* 可怜什么？还为他说话！白养他了。 \n\n我已经让我的孩子禁止碰电子产品，我觉得我做的很对，希望你们的父母也对你们这样，全国都要这样。 \n\n我是大人，你们这群小屁孩就应该被禁止！ \n那个破什么游戏，网易的，游戏策划是有病吗？什么都要充钱，害的我儿子充了这么多钱！\n\n这种游戏就是要倒闭，就不应该提供充值！\n\n什么串不串？他妈的，我要是串我有这闲心思，跟你们这群废物聊这么久？\n\n让你们道歉很难吗？ \n\n老子接个屁电话，无非不就是骂我吗？不想见你这个丑样。 \n\n都别哇哇叫，给我孩子道歉！ \n\n你们不道歉是吧？我明天就到 12345 举报你们这个破群。 \n\n一群废物，道歉都不道，老师没教过你吗？不管遇到什么，都要道歉。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 38069,
+          "like_count": 202,
+          "quote_count": 2,
+          "reply_count": 135,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "看完之后直接无法呼吸了：\n\n*某 MC 群聊中，一名家长：*\n\n群主给我出来！我儿子今年初二！以前班里前十五名！自从加了你们这个群！天天抱着手机不撒手！吃饭叫三遍都不动！作业写到凌晨都写不完！上次月考数学 38 分！英语 41 分！两科加起来不到 80 https://t.co/HPkNRR5WKw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087703294043172892",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 1013,
+          "like_count": 17592,
+          "listed_count": 4,
+          "media_count": 622,
+          "tweet_count": 7052
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLo50A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 65,
+                "url": "https://t.co/NMKeNLo50A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087578048682152248",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15055,
+          "following_count": 880,
+          "like_count": 33345,
+          "listed_count": 25,
+          "media_count": 2599,
+          "tweet_count": 12086
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

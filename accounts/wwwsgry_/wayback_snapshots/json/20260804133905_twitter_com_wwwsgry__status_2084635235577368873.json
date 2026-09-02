@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2084635235577368873",
+    "created_at": "2026-08-04T13:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084635235577368873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "xhslink.cn/o/3LVrYWNQ5UJ",
+          "end": 69,
+          "expanded_url": "http://xhslink.cn/o/3LVrYWNQ5UJ",
+          "start": 46,
+          "unwound_url": "https://www.xiaohongshu.com/discovery/item/6a6fdfe9000000002402cce6?app_platform=ios&app_version=9.40.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBMi59_PHBXYD56BB1vP1a-qRllTYgflhSCBQF7r6l2G4=&author_share=1&xhsshare=CopyLink&shareRedId=ODZHMTpHSk42NzUyOTgwNjY0OTc5PExA&apptime=1785850547&share_id=11b8d0b850184907a0c3206e9c7c618a",
+          "url": "https://t.co/gY14XpnOkC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084635235577368873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找到嘴替了，身边的人都认为苦难必须有原因，但没人想过它也可以没有原因\n\n不许有忧郁症的中国 https://t.co/gY14XpnOkC \n複製後開啟小紅書查看筆記"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2084635235577368873",
+        "created_at": "2026-08-04T13:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084635235577368873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xhslink.cn/o/3LVrYWNQ5UJ",
+              "end": 69,
+              "expanded_url": "http://xhslink.cn/o/3LVrYWNQ5UJ",
+              "start": 46,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/6a6fdfe9000000002402cce6?app_platform=ios&app_version=9.40.1&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBMi59_PHBXYD56BB1vP1a-qRllTYgflhSCBQF7r6l2G4=&author_share=1&xhsshare=CopyLink&shareRedId=ODZHMTpHSk42NzUyOTgwNjY0OTc5PExA&apptime=1785850547&share_id=11b8d0b850184907a0c3206e9c7c618a",
+              "url": "https://t.co/gY14XpnOkC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084635235577368873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到嘴替了，身边的人都认为苦难必须有原因，但没人想过它也可以没有原因\n\n不许有忧郁症的中国 https://t.co/gY14XpnOkC \n複製後開啟小紅書查看筆記"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1014,
+          "like_count": 17375,
+          "listed_count": 4,
+          "media_count": 614,
+          "tweet_count": 6959
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

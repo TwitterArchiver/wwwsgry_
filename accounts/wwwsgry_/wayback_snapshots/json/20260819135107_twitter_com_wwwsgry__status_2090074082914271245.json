@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2089943728429670555",
+    "created_at": "2026-08-19T13:51:07.000Z",
+    "display_text_range": [
+      14,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090074082914271245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1311361647626170368",
+          "start": 0,
+          "username": "timl20455972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090074082914271245",
+    "in_reply_to_user_id": "1311361647626170368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090009641757626656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@timl20455972 只是很奇怪（）比如说梦到自己遇到枪击案了连着跑了快十公里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2089943728429670555",
+        "created_at": "2026-08-19T13:51:07.000Z",
+        "display_text_range": [
+          14,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090074082914271245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1311361647626170368",
+              "start": 0,
+              "username": "timl20455972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090074082914271245",
+        "in_reply_to_user_id": "1311361647626170368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090009641757626656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@timl20455972 只是很奇怪（）比如说梦到自己遇到枪击案了连着跑了快十公里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311361647626170368",
+        "conversation_id": "2089943728429670555",
+        "created_at": "2026-08-19T09:35:03.000Z",
+        "display_text_range": [
+          10,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090009641757626656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090009641757626656",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089943728429670555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 像是什麼內容?\n把果醬夾進米飯裡做成三文治後踢進球門再種回土裡等結果後得到三文魚果實嗎？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090074082914271245",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 1013,
+          "like_count": 17670,
+          "listed_count": 4,
+          "media_count": 630,
+          "tweet_count": 7088
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-30T17:46:19.000Z",
+        "description": "喜歡雨天的怎麼會有壞人。\n感覺不會與人相處呀！夢想是被抱緊，喜歡種花種種種種種！雞煲雞煲雞煲　　.　　　　　　　⠀✦\n　˚　　　　*\n.⠀ 　　　　　　　　.　　　　　　　　.\n　　　　　✦⠀　 　　　,　　 　　　　　　　　.\n⠀⠀⠀⠀⠀⠀.　　　　　　　　　　⠀⠀⠀✦ ⠀ ⠀\n\n你會幸福的",
+        "id": "1311361647626170368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090062465916961179",
+        "name": "小龍的白日夢",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993029174244876289/kTpFACJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 113,
+          "like_count": 6724,
+          "listed_count": 1,
+          "media_count": 632,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "timl20455972",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083398803143766016"
+      ],
+      "media_source_tweet_id": [
+        "2083398817811161096"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2083776797049790817",
+    "created_at": "2026-08-02T04:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083776797049790817"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 25,
+          "tag": "きみが死ぬまで恋をしたい"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "きみ死ぬ"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "百合"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "yuri"
+        },
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "cos"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2005130253598171136",
+          "start": 3,
+          "username": "Ruyiko1272381"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WrqXUKQfwx",
+          "end": 84,
+          "expanded_url": "https://x.com/Ruyiko1272381/status/2083398817811161096/photo/1",
+          "media_key": "3_2083398803143766016",
+          "start": 61,
+          "url": "https://t.co/WrqXUKQfwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083776797049790817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 450
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083398817811161096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruyiko1272381: 好き……\n\n#きみが死ぬまで恋をしたい \n#きみ死ぬ\n#百合\n#yuri\n#cos https://t.co/WrqXUKQfwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2083398803143766016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOm4LFLbsAAOhho.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083398803143766016"
+          ]
+        },
+        "author_id": "2005130253598171136",
+        "conversation_id": "2083398817811161096",
+        "created_at": "2026-08-01T03:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083398817811161096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 6,
+              "tag": "きみが死ぬまで恋をしたい"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "きみ死ぬ"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "百合"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "yuri"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrqXUKQfwx",
+              "end": 65,
+              "expanded_url": "https://x.com/Ruyiko1272381/status/2083398817811161096/photo/1",
+              "media_key": "3_2083398803143766016",
+              "start": 42,
+              "url": "https://t.co/WrqXUKQfwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083398817811161096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 431,
+          "impression_count": 50304,
+          "like_count": 5401,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "好き……\n\n#きみが死ぬまで恋をしたい \n#きみ死ぬ\n#百合\n#yuri\n#cos https://t.co/WrqXUKQfwx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083398803143766016"
+          ],
+          "media_source_tweet_id": [
+            "2083398817811161096"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2083776797049790817",
+        "created_at": "2026-08-02T04:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083776797049790817"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 25,
+              "tag": "きみが死ぬまで恋をしたい"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "きみ死ぬ"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "百合"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "yuri"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "cos"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2005130253598171136",
+              "start": 3,
+              "username": "Ruyiko1272381"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrqXUKQfwx",
+              "end": 84,
+              "expanded_url": "https://x.com/Ruyiko1272381/status/2083398817811161096/photo/1",
+              "media_key": "3_2083398803143766016",
+              "start": 61,
+              "url": "https://t.co/WrqXUKQfwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083776797049790817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 450
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083398817811161096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruyiko1272381: 好き……\n\n#きみが死ぬまで恋をしたい \n#きみ死ぬ\n#百合\n#yuri\n#cos https://t.co/WrqXUKQfwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 1012,
+          "like_count": 17587,
+          "listed_count": 4,
+          "media_count": 613,
+          "tweet_count": 6942
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T04:14:51.000Z",
+        "description": "写小说和画画的……\npixiv ID= lalala_paloma0613",
+        "id": "2005130253598171136",
+        "name": "Ruyiko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065811600607793153/Ky7a5M-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 179,
+          "like_count": 911,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Ruyiko1272381",
+        "verified": false
+      }
+    ]
+  }
+}

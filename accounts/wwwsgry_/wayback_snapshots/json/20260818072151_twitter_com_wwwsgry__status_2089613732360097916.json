@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2089602544914034919",
+    "created_at": "2026-08-18T07:21:51.000Z",
+    "display_text_range": [
+      15,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T08:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089613732360097916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "theIrisWithin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089613732360097916",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089610001543553133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theIrisWithin 难绷 这已经是我吃的第三种安眠药了 再没用我就急了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2089602544914034919",
+        "created_at": "2026-08-18T07:21:51.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089613732360097916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "theIrisWithin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089613732360097916",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089610001543553133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theIrisWithin 难绷 这已经是我吃的第三种安眠药了 再没用我就急了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049103771796660224",
+        "conversation_id": "2089602544914034919",
+        "created_at": "2026-08-18T07:07:02.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089610001543553133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089610001543553133",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089602544914034919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 我觉得第一个没啥用（\n半夜还会醒好几次"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089613732360097916",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1016,
+          "like_count": 17671,
+          "listed_count": 4,
+          "media_count": 630,
+          "tweet_count": 7081
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "我进入哲学状态",
+        "id": "2049103771796660224",
+        "is_identity_verified": false,
+        "location": "dream",
+        "most_recent_tweet_id": "2089610179985973322",
+        "name": "P",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049103771796660224/1784883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080958504391823360/e9In8V90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 143,
+          "like_count": 5458,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1108
+        },
+        "url": "",
+        "username": "theIrisWithin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

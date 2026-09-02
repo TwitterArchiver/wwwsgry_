@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2082766581101473928",
+    "created_at": "2026-07-30T10:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082779362550821326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942570771941056515",
+          "start": 0,
+          "username": "Unexist_Sakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082779362550821326",
+    "in_reply_to_user_id": "1942570771941056515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082766581101473928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unexist_Sakura 给我一口🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082766536985718784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5IWMasAAGx21.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082766544652939264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5IywbMAAJ89F.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082766557114253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5JhLbwAArgYw.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082766569948717056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd5KQ_aIAANIlk.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2082766581101473928",
+        "created_at": "2026-07-30T10:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082779362550821326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942570771941056515",
+              "start": 0,
+              "username": "Unexist_Sakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082779362550821326",
+        "in_reply_to_user_id": "1942570771941056515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082766581101473928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unexist_Sakura 给我一口🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082766536985718784",
+            "3_2082766544652939264",
+            "3_2082766557114253312",
+            "3_2082766569948717056"
+          ]
+        },
+        "author_id": "1942570771941056515",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082766581101473928",
+        "created_at": "2026-07-30T09:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082766581101473928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZvOl5daa0t",
+              "end": 37,
+              "expanded_url": "https://x.com/Unexist_Sakura/status/2082766581101473928/photo/1",
+              "media_key": "3_2082766536985718784",
+              "start": 14,
+              "url": "https://t.co/ZvOl5daa0t"
+            },
+            {
+              "display_url": "pic.x.com/ZvOl5daa0t",
+              "end": 37,
+              "expanded_url": "https://x.com/Unexist_Sakura/status/2082766581101473928/photo/1",
+              "media_key": "3_2082766544652939264",
+              "start": 14,
+              "url": "https://t.co/ZvOl5daa0t"
+            },
+            {
+              "display_url": "pic.x.com/ZvOl5daa0t",
+              "end": 37,
+              "expanded_url": "https://x.com/Unexist_Sakura/status/2082766581101473928/photo/1",
+              "media_key": "3_2082766557114253312",
+              "start": 14,
+              "url": "https://t.co/ZvOl5daa0t"
+            },
+            {
+              "display_url": "pic.x.com/ZvOl5daa0t",
+              "end": 37,
+              "expanded_url": "https://x.com/Unexist_Sakura/status/2082766581101473928/photo/1",
+              "media_key": "3_2082766569948717056",
+              "start": 14,
+              "url": "https://t.co/ZvOl5daa0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082766581101473928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃的 氛围和味道还不错喵 https://t.co/ZvOl5daa0t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "我會在 @zZxy6987 看著你👁️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 1009,
+          "like_count": 17517,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 6923
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T13:05:47.000Z",
+        "description": "17 y.o. | 可以叫我非存 | 交友大欢迎 | PM Friendly | 分享日常 | Assistant of English Teaching",
+        "id": "1942570771941056515",
+        "name": "桜 非存",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942743060560883712/K4btceYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 172,
+          "like_count": 676,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "Unexist_Sakura",
+        "verified": true
+      }
+    ]
+  }
+}

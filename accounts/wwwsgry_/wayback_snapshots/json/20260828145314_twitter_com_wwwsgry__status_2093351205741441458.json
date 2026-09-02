@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093351200771231744"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2093296646503407726",
+    "created_at": "2026-08-28T14:53:14.000Z",
+    "display_text_range": [
+      17,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T15:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093351205741441458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938823083835396096",
+          "start": 0,
+          "username": "VaguelyHuman233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sbxR92Rv3O",
+          "end": 55,
+          "expanded_url": "https://x.com/wwwsgry_/status/2093351205741441458/photo/1",
+          "media_key": "3_2093351200771231744",
+          "start": 32,
+          "url": "https://t.co/sbxR92Rv3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093351205741441458",
+    "in_reply_to_user_id": "1938823083835396096",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093351200771231744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093315328302633409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VaguelyHuman233 smoke bomb有感觉吗 https://t.co/sbxR92Rv3O"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093315328302633409].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093315328302633409",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093315328302633409"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 593,
+        "media_key": "3_2093351200771231744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0T03gbUAAZHfv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093351200771231744"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2093296646503407726",
+        "created_at": "2026-08-28T14:53:14.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093351205741441458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938823083835396096",
+              "start": 0,
+              "username": "VaguelyHuman233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbxR92Rv3O",
+              "end": 55,
+              "expanded_url": "https://x.com/wwwsgry_/status/2093351205741441458/photo/1",
+              "media_key": "3_2093351200771231744",
+              "start": 32,
+              "url": "https://t.co/sbxR92Rv3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093351205741441458",
+        "in_reply_to_user_id": "1938823083835396096",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093351200771231744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093315328302633409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VaguelyHuman233 smoke bomb有感觉吗 https://t.co/sbxR92Rv3O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093351205741441458",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090392284869337088/WejDxSg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 1005,
+          "like_count": 17820,
+          "listed_count": 4,
+          "media_count": 639,
+          "tweet_count": 7133
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-28T04:53:53.000Z",
+        "description": "Desperado 邊緣人 虛無主義\n🇭🇰｜loser joker gooner｜這只是一個小號",
+        "id": "1938823083835396096",
+        "is_identity_verified": false,
+        "location": "hell",
+        "most_recent_tweet_id": "2006050594226622842",
+        "name": "Ni Dios estudia al",
+        "pinned_tweet_id": "2091185934800965886",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938823083835396096/1782495430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004574208509272065/3QP1x93__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 171,
+          "like_count": 11990,
+          "listed_count": 0,
+          "media_count": 474,
+          "tweet_count": 4800
+        },
+        "url": "",
+        "username": "VaguelyHuman233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

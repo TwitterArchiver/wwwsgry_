@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086830670723330048"
+      ],
+      "media_source_tweet_id": [
+        "2086830680206635161"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2087352758752211257",
+    "created_at": "2026-08-12T01:37:33.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T02:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087352758752211257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "938596197803028481",
+          "start": 3,
+          "username": "bback_it_up"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/quyfU3Cxgi",
+          "end": 52,
+          "expanded_url": "https://x.com/bback_it_up/status/2086830680206635161/video/1",
+          "media_key": "13_2086830670723330048",
+          "start": 29,
+          "url": "https://t.co/quyfU3Cxgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087352758752211257",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2086830670723330048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086830680206635161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @bback_it_up: 지구가 회전하는 이유 https://t.co/quyfU3Cxgi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5074,
+        "height": 720,
+        "media_key": "13_2086830670723330048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086830670723330048/img/yFRfI9jZ0goTZLfA.jpg",
+        "public_metrics": {
+          "view_count": 814279
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086830670723330048/vid/avc1/306x270/J6fzzSbtMBC44Ce6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086830670723330048/vid/avc1/410x360/85alQ4DEs49Hn9TW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086830670723330048/vid/avc1/820x720/g4XfLm2LvrMUP3VV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086830670723330048/pl/p4FdGNsU1klLAyF-.m3u8"
+          }
+        ],
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086830670723330048"
+          ]
+        },
+        "author_id": "938596197803028481",
+        "conversation_id": "2086830680206635161",
+        "created_at": "2026-08-10T15:03:00.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086830680206635161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/quyfU3Cxgi",
+              "end": 35,
+              "expanded_url": "https://x.com/bback_it_up/status/2086830680206635161/video/1",
+              "media_key": "13_2086830670723330048",
+              "start": 12,
+              "url": "https://t.co/quyfU3Cxgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086830680206635161",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2086830670723330048"
+          }
+        ],
+        "note_request_suggestions": [
+          {
+            "suggestion": "This is true",
+            "suggestion_id": "2087300466153853236"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5804,
+          "impression_count": 2808333,
+          "like_count": 105557,
+          "quote_count": 1140,
+          "reply_count": 0,
+          "retweet_count": 24254
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "지구가 회전하는 이유 https://t.co/quyfU3Cxgi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086830670723330048"
+          ],
+          "media_source_tweet_id": [
+            "2086830680206635161"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2087352758752211257",
+        "created_at": "2026-08-12T01:37:33.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087352758752211257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "938596197803028481",
+              "start": 3,
+              "username": "bback_it_up"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/quyfU3Cxgi",
+              "end": 52,
+              "expanded_url": "https://x.com/bback_it_up/status/2086830680206635161/video/1",
+              "media_key": "13_2086830670723330048",
+              "start": 29,
+              "url": "https://t.co/quyfU3Cxgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087352758752211257",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2086830670723330048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086830680206635161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @bback_it_up: 지구가 회전하는 이유 https://t.co/quyfU3Cxgi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087352758752211257",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1013,
+          "like_count": 17562,
+          "listed_count": 4,
+          "media_count": 621,
+          "tweet_count": 7034
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-07T02:29:06.000Z",
+        "description": "수익창출xx 광고xx",
+        "id": "938596197803028481",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087167745800728953",
+        "name": "짤백업용",
+        "pinned_tweet_id": "1140596831518220290",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152445,
+          "following_count": 0,
+          "like_count": 13,
+          "listed_count": 224,
+          "media_count": 5893,
+          "tweet_count": 5959
+        },
+        "url": "",
+        "username": "bback_it_up",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

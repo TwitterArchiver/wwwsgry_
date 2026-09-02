@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2083930553968148744",
+    "created_at": "2026-08-02T14:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083930553968148744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wwwsgry_/statu…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/wwwsgry_/status/2083925982155813146",
+          "start": 35,
+          "url": "https://t.co/kLtCGaKULn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083930553968148744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083925982155813146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱妈神了 过了的那次也被拿下了 我看咱妈下一步就是把精神病人全围剿了 https://t.co/kLtCGaKULn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2083930553968148744",
+        "created_at": "2026-08-02T14:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083930553968148744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wwwsgry_/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/wwwsgry_/status/2083925982155813146",
+              "start": 35,
+              "url": "https://t.co/kLtCGaKULn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083930553968148744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083925982155813146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱妈神了 过了的那次也被拿下了 我看咱妈下一步就是把精神病人全围剿了 https://t.co/kLtCGaKULn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2083925982155813146",
+        "created_at": "2026-08-02T14:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083925982155813146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083925982155813146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "666我没绷住，咱妈看不得精神病这块🤣\n想在某书小号上发个牢骚，结果他吗帖子被拿下了五六次，每次都违规🤣\n把文案换成乐观版秒过🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1013,
+          "like_count": 17608,
+          "listed_count": 4,
+          "media_count": 613,
+          "tweet_count": 6951
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091877790916517888"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "conversation_id": "2091877803209994710",
+    "created_at": "2026-08-24T13:18:28.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091877803209994710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8s3bklt4mV",
+          "end": 23,
+          "expanded_url": "https://x.com/wwwsgry_/status/2091877803209994710/photo/1",
+          "media_key": "3_2091877790916517888",
+          "start": 0,
+          "url": "https://t.co/8s3bklt4mV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091877803209994710",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2091877790916517888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/8s3bklt4mV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091877790916517888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfXxIEboAAB9h_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091877790916517888"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "conversation_id": "2091877803209994710",
+        "created_at": "2026-08-24T13:18:28.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091877803209994710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8s3bklt4mV",
+              "end": 23,
+              "expanded_url": "https://x.com/wwwsgry_/status/2091877803209994710/photo/1",
+              "media_key": "3_2091877790916517888",
+              "start": 0,
+              "url": "https://t.co/8s3bklt4mV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091877803209994710",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091877790916517888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8s3bklt4mV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091877803209994710",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090392284869337088/WejDxSg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 1014,
+          "like_count": 17751,
+          "listed_count": 4,
+          "media_count": 636,
+          "tweet_count": 7112
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

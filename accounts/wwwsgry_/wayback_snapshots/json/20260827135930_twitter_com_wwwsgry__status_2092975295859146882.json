@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092975275923656704",
+        "3_2092975275944665088",
+        "3_2092975275936276480"
+      ]
+    },
+    "author_id": "1687116360814637056",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092975295859146882",
+    "created_at": "2026-08-27T13:59:30.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T14:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092975295859146882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ccy7vKgngF",
+          "end": 28,
+          "expanded_url": "https://x.com/wwwsgry_/status/2092975295859146882/photo/1",
+          "media_key": "3_2092975275923656704",
+          "start": 5,
+          "url": "https://t.co/Ccy7vKgngF"
+        },
+        {
+          "display_url": "pic.x.com/Ccy7vKgngF",
+          "end": 28,
+          "expanded_url": "https://x.com/wwwsgry_/status/2092975295859146882/photo/1",
+          "media_key": "3_2092975275944665088",
+          "start": 5,
+          "url": "https://t.co/Ccy7vKgngF"
+        },
+        {
+          "display_url": "pic.x.com/Ccy7vKgngF",
+          "end": 28,
+          "expanded_url": "https://x.com/wwwsgry_/status/2092975295859146882/photo/1",
+          "media_key": "3_2092975275936276480",
+          "start": 5,
+          "url": "https://t.co/Ccy7vKgngF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092975295859146882",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092975275923656704"
+      },
+      {
+        "media_key": "3_2092975275944665088"
+      },
+      {
+        "media_key": "3_2092975275936276480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃吃吃🤤 https://t.co/Ccy7vKgngF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092975275923656704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQu97KUa0AAyglG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092975275944665088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQu97KZbYAA-PyY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092975275936276480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQu97KXbYAAwmlY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092975275923656704",
+            "3_2092975275944665088",
+            "3_2092975275936276480"
+          ]
+        },
+        "author_id": "1687116360814637056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092975295859146882",
+        "created_at": "2026-08-27T13:59:30.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T14:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092975295859146882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ccy7vKgngF",
+              "end": 28,
+              "expanded_url": "https://x.com/wwwsgry_/status/2092975295859146882/photo/1",
+              "media_key": "3_2092975275923656704",
+              "start": 5,
+              "url": "https://t.co/Ccy7vKgngF"
+            },
+            {
+              "display_url": "pic.x.com/Ccy7vKgngF",
+              "end": 28,
+              "expanded_url": "https://x.com/wwwsgry_/status/2092975295859146882/photo/1",
+              "media_key": "3_2092975275944665088",
+              "start": 5,
+              "url": "https://t.co/Ccy7vKgngF"
+            },
+            {
+              "display_url": "pic.x.com/Ccy7vKgngF",
+              "end": 28,
+              "expanded_url": "https://x.com/wwwsgry_/status/2092975295859146882/photo/1",
+              "media_key": "3_2092975275936276480",
+              "start": 5,
+              "url": "https://t.co/Ccy7vKgngF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092975295859146882",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092975275923656704"
+          },
+          {
+            "media_key": "3_2092975275944665088"
+          },
+          {
+            "media_key": "3_2092975275936276480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃吃吃🤤 https://t.co/Ccy7vKgngF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092975295859146882",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090392284869337088/WejDxSg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 1008,
+          "like_count": 17808,
+          "listed_count": 4,
+          "media_count": 638,
+          "tweet_count": 7130
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

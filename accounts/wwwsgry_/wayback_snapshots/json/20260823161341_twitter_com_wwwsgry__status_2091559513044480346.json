@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2091420327884816453",
+    "created_at": "2026-08-23T16:13:41.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091559513044480346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687753797169467392",
+          "start": 0,
+          "username": "chloris2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091559513044480346",
+    "in_reply_to_user_id": "1687753797169467392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091549878279409992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chloris2026 妈妈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091549878279409992].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091549878279409992",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091549878279409992"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2091420327884816453",
+        "created_at": "2026-08-23T16:13:41.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091559513044480346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687753797169467392",
+              "start": 0,
+              "username": "chloris2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091559513044480346",
+        "in_reply_to_user_id": "1687753797169467392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091549878279409992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chloris2026 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091559513044480346",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090392284869337088/WejDxSg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1013,
+          "like_count": 17736,
+          "listed_count": 4,
+          "media_count": 634,
+          "tweet_count": 7108
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-05T09:14:06.000Z",
+        "description": "白樺，鳶尾，向日葵。对呀我是木头@chloris923。非主帳互關關注直接拉黑。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "chloris923"
+              }
+            ]
+          }
+        },
+        "id": "1687753797169467392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2015676126958620953",
+        "name": "🌻",
+        "pinned_tweet_id": "2041689346638790953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687753797169467392/1752255550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039562814369775616/m9RUgiqz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 245,
+          "like_count": 17969,
+          "listed_count": 2,
+          "media_count": 534,
+          "tweet_count": 13239
+        },
+        "url": "",
+        "username": "chloris2026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

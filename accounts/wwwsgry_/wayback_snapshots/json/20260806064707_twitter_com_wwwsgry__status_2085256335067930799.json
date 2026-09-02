@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2085248658887549225",
+    "created_at": "2026-08-06T06:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085256335067930799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1864352448875515905",
+          "start": 0,
+          "username": "gdgdgg13838541"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085256335067930799",
+    "in_reply_to_user_id": "1864352448875515905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085248658887549225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdgdgg13838541 哇哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085248645910380544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBKmGfaQAALcC8.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2085248658887549225",
+        "created_at": "2026-08-06T06:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085256335067930799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1864352448875515905",
+              "start": 0,
+              "username": "gdgdgg13838541"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085256335067930799",
+        "in_reply_to_user_id": "1864352448875515905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085248658887549225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdgdgg13838541 哇哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085248645910380544"
+          ]
+        },
+        "author_id": "1864352448875515905",
+        "conversation_id": "2085248658887549225",
+        "created_at": "2026-08-06T06:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085248658887549225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Qu3ve9eTE",
+              "end": 43,
+              "expanded_url": "https://x.com/gdgdgg13838541/status/2085248658887549225/photo/1",
+              "media_key": "3_2085248645910380544",
+              "start": 20,
+              "url": "https://t.co/7Qu3ve9eTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085248658887549225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反正都被我妈看到了不如发出来给推友看看 https://t.co/7Qu3ve9eTE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 1014,
+          "like_count": 17396,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 6968
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T16:54:16.000Z",
+        "description": "我喜欢你😘\n流萤/银狼/黍/娜维娅/茜特拉莉/阮·梅/飞鸟马时 推\n冷脸萌爱好者\n爱磕点姛，但是杂食党，除了bl基本都能吃\n玩原神/崩铁/明日方舟/BA/OW/APEX（FPS新手😇）/有时候打打单机\n欢迎交友聊天☺️",
+        "id": "1864352448875515905",
+        "name": "KIMMITt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083990347953364992/tsPEmp-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 251,
+          "like_count": 6502,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "gdgdgg13838541",
+        "verified": false
+      }
+    ]
+  }
+}

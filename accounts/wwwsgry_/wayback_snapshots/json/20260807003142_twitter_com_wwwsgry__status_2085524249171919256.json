@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2085249252155117845",
+    "created_at": "2026-08-07T00:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T01:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085524249171919256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761204299475148800",
+          "start": 0,
+          "username": "ChiwaiL3887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085524249171919256",
+    "in_reply_to_user_id": "1761204299475148800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085396997113299009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiwaiL3887 原来是这样😮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2085249252155117845",
+        "created_at": "2026-08-07T00:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085524249171919256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761204299475148800",
+              "start": 0,
+              "username": "ChiwaiL3887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085524249171919256",
+        "in_reply_to_user_id": "1761204299475148800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085396997113299009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiwaiL3887 原来是这样😮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761204299475148800",
+        "conversation_id": "2085249252155117845",
+        "created_at": "2026-08-06T16:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085396997113299009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085396997113299009",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085249252155117845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ 其实这是阪急电车的车厢，阪急和堺筋线是互通的阪急的车可以开到堺筋线的轨道上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084273613725904896/S1DMyTCQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1014,
+          "like_count": 17405,
+          "listed_count": 4,
+          "media_count": 615,
+          "tweet_count": 6973
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T01:40:14.000Z",
+        "description": "06生/179 67/来自中國無錫/是LGBT🏳️‍🌈（btm）/喜歡旅行和攝影📷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tabibito0667",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tabibito0667",
+                "start": 0,
+                "url": "https://t.co/PJOLf3c992"
+              }
+            ]
+          }
+        },
+        "id": "1761204299475148800",
+        "location": "Chiba",
+        "name": "Tabiちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029509858450640896/CqsGIcVe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4071,
+          "following_count": 519,
+          "like_count": 10780,
+          "listed_count": 6,
+          "media_count": 184,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/PJOLf3c992",
+        "username": "ChiwaiL3887",
+        "verified": false
+      }
+    ]
+  }
+}
