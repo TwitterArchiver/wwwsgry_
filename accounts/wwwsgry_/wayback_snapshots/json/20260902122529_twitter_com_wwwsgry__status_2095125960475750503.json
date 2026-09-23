@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2093358876880199822",
+    "created_at": "2026-09-02T12:25:29.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T13:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095125960475750503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863998472762114048",
+          "start": 0,
+          "username": "humming_hanming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095125960475750503",
+    "in_reply_to_user_id": "1863998472762114048",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095115125628039628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@humming_hanming 😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2093358876880199822",
+        "created_at": "2026-09-02T12:25:29.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T13:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095125960475750503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863998472762114048",
+              "start": 0,
+              "username": "humming_hanming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095125960475750503",
+        "in_reply_to_user_id": "1863998472762114048",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095115125628039628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@humming_hanming 😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863998472762114048",
+        "conversation_id": "2093358876880199822",
+        "created_at": "2026-09-02T11:42:25.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095115125628039628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095115125628039628",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093358876880199822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ poly也发，不过感觉没有ust有特色😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095125960475750503",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093353800346251264/u_nXETdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 1007,
+          "like_count": 17861,
+          "listed_count": 4,
+          "media_count": 642,
+          "tweet_count": 7147
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-03T17:27:39.000Z",
+        "description": "BTW, I once used Arch. 私も死ぬ系？\n喜欢的人是@FoxRed695449\nNerdy Girl Overwork！\n科研女孩過量工作！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "FoxRed695449"
+              }
+            ]
+          }
+        },
+        "id": "1863998472762114048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095115125628039628",
+        "name": "Humming",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863998472762114048/1785072077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081369216276393984/GBPHNwiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 313,
+          "like_count": 8545,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 937
+        },
+        "url": "",
+        "username": "humming_hanming",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
