@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2103007571481342267",
+    "created_at": "2026-09-24T06:34:20.000Z",
+    "display_text_range": [
+      15,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T07:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103010125032411436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049103771796660224",
+          "start": 0,
+          "username": "theIrisWithin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103010125032411436",
+    "in_reply_to_user_id": "2049103771796660224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103007571481342267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theIrisWithin 怎么还有这个系的事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103007565898776576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9iPS1bAAAYJbr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2103007571481342267",
+        "created_at": "2026-09-24T06:34:20.000Z",
+        "display_text_range": [
+          15,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103010125032411436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049103771796660224",
+              "start": 0,
+              "username": "theIrisWithin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103010125032411436",
+        "in_reply_to_user_id": "2049103771796660224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103007571481342267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theIrisWithin 怎么还有这个系的事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103007565898776576"
+          ]
+        },
+        "author_id": "2049103771796660224",
+        "conversation_id": "2103007571481342267",
+        "created_at": "2026-09-24T06:24:11.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103007571481342267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJ8JYTPilj",
+              "end": 39,
+              "expanded_url": "https://x.com/theIrisWithin/status/2103007571481342267/photo/1",
+              "media_key": "3_2103007565898776576",
+              "start": 16,
+              "url": "https://t.co/tJ8JYTPilj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103007571481342267",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103007565898776576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不說你們永遠不知道我學的什麼 https://t.co/tJ8JYTPilj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103010125032411436",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093353800346251264/u_nXETdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 1010,
+          "like_count": 17966,
+          "listed_count": 4,
+          "media_count": 659,
+          "tweet_count": 7209
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T12:31:01.000Z",
+        "description": "我进入哲学状态",
+        "id": "2049103771796660224",
+        "is_identity_verified": false,
+        "location": "dream",
+        "most_recent_tweet_id": "2103007571481342267",
+        "name": "P",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049103771796660224/1784883290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080958504391823360/e9In8V90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 156,
+          "like_count": 6271,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 1247
+        },
+        "url": "",
+        "username": "theIrisWithin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

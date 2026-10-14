@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1687116360814637056",
+    "conversation_id": "2104447007897313633",
+    "created_at": "2026-09-28T06:47:50.000Z",
+    "display_text_range": [
+      9,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T07:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104463073092481480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "387648337",
+          "start": 0,
+          "username": "yume065"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104463073092481480",
+    "in_reply_to_user_id": "387648337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104454775169499285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yume065 夏天的云一直都很美🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687116360814637056",
+        "conversation_id": "2104447007897313633",
+        "created_at": "2026-09-28T06:47:50.000Z",
+        "display_text_range": [
+          9,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104463073092481480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "387648337",
+              "start": 0,
+              "username": "yume065"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104463073092481480",
+        "in_reply_to_user_id": "387648337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104454775169499285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yume065 夏天的云一直都很美🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "387648337",
+        "conversation_id": "2104447007897313633",
+        "created_at": "2026-09-28T06:14:51.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T07:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104454775169499285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1687116360814637056",
+              "start": 0,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104454775169499285",
+        "in_reply_to_user_id": "1687116360814637056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104447007897313633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwwsgry_ とても綺麗な空ですね。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "逃生舱 @zZxy6987",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "zZxy6987"
+              }
+            ]
+          }
+        },
+        "id": "1687116360814637056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104463073092481480",
+        "name": "梣🍂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687116360814637056/1785764623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093353800346251264/u_nXETdR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1009,
+          "like_count": 17686,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 7214
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-10-09T12:39:36.000Z",
+        "description": "気軽にfollw me　フォロバいたします　 like　嵐(櫻井翔)、LiSA、黒執事、進撃の巨人。　Your smile is the happiest.",
+        "id": "387648337",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104455449336832138",
+        "name": "＊こ～たん＊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/387648337/1430719263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/638921350816493569/fsEgF7hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 1292,
+          "like_count": 6770,
+          "listed_count": 7,
+          "media_count": 99,
+          "tweet_count": 58210
+        },
+        "url": "",
+        "username": "yume065",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
